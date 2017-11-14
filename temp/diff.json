@@ -1,0 +1,304 @@
+{
+  "matches": [
+    {
+      "src": 4,
+      "dest": 4
+    },
+    {
+      "src": 9,
+      "dest": 9
+    },
+    {
+      "src": 17,
+      "dest": 29
+    },
+    {
+      "src": 15,
+      "dest": 27
+    },
+    {
+      "src": 11,
+      "dest": 11
+    },
+    {
+      "src": 18,
+      "dest": 30
+    },
+    {
+      "src": 7,
+      "dest": 7
+    },
+    {
+      "src": 12,
+      "dest": 24
+    },
+    {
+      "src": 26,
+      "dest": 45
+    },
+    {
+      "src": 1,
+      "dest": 1
+    },
+    {
+      "src": 23,
+      "dest": 42
+    },
+    {
+      "src": 6,
+      "dest": 6
+    },
+    {
+      "src": 16,
+      "dest": 28
+    },
+    {
+      "src": 22,
+      "dest": 41
+    },
+    {
+      "src": 2,
+      "dest": 2
+    },
+    {
+      "src": 19,
+      "dest": 31
+    },
+    {
+      "src": 8,
+      "dest": 8
+    },
+    {
+      "src": 25,
+      "dest": 44
+    },
+    {
+      "src": 14,
+      "dest": 26
+    },
+    {
+      "src": 0,
+      "dest": 0
+    },
+    {
+      "src": 20,
+      "dest": 32
+    },
+    {
+      "src": 24,
+      "dest": 43
+    },
+    {
+      "src": 3,
+      "dest": 3
+    },
+    {
+      "src": 13,
+      "dest": 25
+    },
+    {
+      "src": 10,
+      "dest": 10
+    },
+    {
+      "src": 5,
+      "dest": 5
+    },
+    {
+      "src": 21,
+      "dest": 40
+    }
+  ],
+  "actions": [
+    {
+      "action": "insert",
+      "tree": 23,
+      "parent": 42,
+      "at": 0,
+      "label": "VariableDeclarationStatement",
+      "pos": 89,
+      "type": 60,
+      "label string": ""
+    },
+    {
+      "action": "insert",
+      "tree": 16,
+      "parent": 23,
+      "at": 0,
+      "label": "ParameterizedType: Set<TaskResult>",
+      "pos": 89,
+      "type": 74,
+      "label string": "Set<TaskResult>"
+    },
+    {
+      "action": "insert",
+      "tree": 22,
+      "parent": 23,
+      "at": 1,
+      "label": "VariableDeclarationFragment",
+      "pos": 105,
+      "type": 59,
+      "label string": ""
+    },
+    {
+      "action": "insert",
+      "tree": 13,
+      "parent": 16,
+      "at": 0,
+      "label": "SimpleType: Set",
+      "pos": 89,
+      "type": 43,
+      "label string": "Set"
+    },
+    {
+      "action": "insert",
+      "tree": 15,
+      "parent": 16,
+      "at": 1,
+      "label": "SimpleType: TaskResult",
+      "pos": 93,
+      "type": 43,
+      "label string": "TaskResult"
+    },
+    {
+      "action": "insert",
+      "tree": 17,
+      "parent": 22,
+      "at": 0,
+      "label": "SimpleName: results",
+      "pos": 105,
+      "type": 42,
+      "label string": "results"
+    },
+    {
+      "action": "insert",
+      "tree": 21,
+      "parent": 22,
+      "at": 1,
+      "label": "ClassInstanceCreation",
+      "pos": 115,
+      "type": 14,
+      "label string": ""
+    },
+    {
+      "action": "insert",
+      "tree": 39,
+      "parent": 40,
+      "at": 1,
+      "label": "ExpressionStatement",
+      "pos": 200,
+      "type": 21,
+      "label string": ""
+    },
+    {
+      "action": "insert",
+      "tree": 12,
+      "parent": 13,
+      "at": 0,
+      "label": "SimpleName: Set",
+      "pos": 89,
+      "type": 42,
+      "label string": "Set"
+    },
+    {
+      "action": "insert",
+      "tree": 14,
+      "parent": 15,
+      "at": 0,
+      "label": "SimpleName: TaskResult",
+      "pos": 93,
+      "type": 42,
+      "label string": "TaskResult"
+    },
+    {
+      "action": "insert",
+      "tree": 20,
+      "parent": 21,
+      "at": 0,
+      "label": "ParameterizedType: HashSet<>",
+      "pos": 119,
+      "type": 74,
+      "label string": "HashSet<>"
+    },
+    {
+      "action": "insert",
+      "tree": 38,
+      "parent": 39,
+      "at": 0,
+      "label": "MethodInvocation",
+      "pos": 200,
+      "type": 32,
+      "label string": ""
+    },
+    {
+      "action": "insert",
+      "tree": 19,
+      "parent": 20,
+      "at": 0,
+      "label": "SimpleType: HashSet",
+      "pos": 119,
+      "type": 43,
+      "label string": "HashSet"
+    },
+    {
+      "action": "insert",
+      "tree": 33,
+      "parent": 38,
+      "at": 0,
+      "label": "SimpleName: results",
+      "pos": 200,
+      "type": 42,
+      "label string": "results"
+    },
+    {
+      "action": "insert",
+      "tree": 34,
+      "parent": 38,
+      "at": 1,
+      "label": "SimpleName: add",
+      "pos": 208,
+      "type": 42,
+      "label string": "add"
+    },
+    {
+      "action": "insert",
+      "tree": 37,
+      "parent": 38,
+      "at": 2,
+      "label": "MethodInvocation",
+      "pos": 212,
+      "type": 32,
+      "label string": ""
+    },
+    {
+      "action": "insert",
+      "tree": 18,
+      "parent": 19,
+      "at": 0,
+      "label": "SimpleName: HashSet",
+      "pos": 119,
+      "type": 42,
+      "label string": "HashSet"
+    },
+    {
+      "action": "insert",
+      "tree": 35,
+      "parent": 37,
+      "at": 0,
+      "label": "SimpleName: t",
+      "pos": 212,
+      "type": 42,
+      "label string": "t"
+    },
+    {
+      "action": "insert",
+      "tree": 36,
+      "parent": 37,
+      "at": 1,
+      "label": "SimpleName: getResult",
+      "pos": 214,
+      "type": 42,
+      "label string": "getResult"
+    }
+  ]
+}
