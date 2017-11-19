@@ -58,7 +58,7 @@ def _seperateContextAndTarget(changes, num_of_change_context=6):
         print("Not enough change context")
         change_contexts = []
     else:
-        change_contexts = [ changes[i-X+j-1] for j in range(X)]
+        change_contexts = [ changes[i-X+j] for j in range(X)]
 
     return (target, change_contexts)
 
