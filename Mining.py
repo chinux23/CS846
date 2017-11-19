@@ -1,6 +1,9 @@
 import subprocess
 import json
 import time
+from collections import deque
+import os
+
 
 MAXIMUM_DEPTH = 6
 # This file generates the data set for statistically analysis
@@ -29,6 +32,9 @@ def _GumTreeDiffFiles():
     # filter only insert
     changes = [ action for action in diff["actions"] if action["action"] == 'insert']
 
+    # sort the changes based on position
+    changes = sorted(changes, key= lambda change: change["pos"])
+
     return changes
 
 def _seperateContextAndTarget(changes, num_of_change_context=6):
@@ -38,24 +44,21 @@ def _seperateContextAndTarget(changes, num_of_change_context=6):
     # find the method invocation at the midpoint
     i = midpoint
     while i < size:
-        if changes[i]["type"] == 32: # method invocation
+        if changes[i]["type"] == 42 and changes[i]["parent type"] == 32 and changes[i]["at"] == 1:
             print i
             break
         i += 1
 
-    # find the 2nd SimpleName node, that's the method name
-    assert(changes[i+1]["type"] == 43)
-    assert(changes[i+2]["type"] == 42)
-    assert(changes[i+3]["type"] == 42)
-    target = changes[i+3]
+    # that's the method name
+    target = changes[i]
 
     X = num_of_change_context
     # Generate (previous) X change context 
-    if i + 3 - X < 0:
+    if i - X < 0:
         print("Not enough change context")
         change_contexts = []
     else:
-        change_contexts = [ changes[i+3-j-1] for j in range(X)]
+        change_contexts = [ changes[i-X+j-1] for j in range(X)]
 
     return (target, change_contexts)
 
@@ -77,7 +80,8 @@ def GumTreeDiff(base_blob, target_blob):
         f.write(target_blob.data_stream.read())
     
     with open("b_blob.java", "wb") as f:
-        f.write(base_blob.data_stream.read())
+        if (base_blob): # in case there is no base file.
+            f.write(base_blob.data_stream.read())
 
     # Change Context
     changes = _GumTreeDiffFiles()
@@ -85,6 +89,12 @@ def GumTreeDiff(base_blob, target_blob):
 
     # Code Context
     ast = _ParseFileIntoAST()
+    token_context = _getNearbyTokens(target)
+
+    # annoate change context with token id
+    change_context = _annoate_change_context(ast, change_context)
+
+    return [target, change_context, token_context]
 
 
 def _ParseFileIntoAST():
@@ -98,5 +108,162 @@ def _ParseFileIntoAST():
 
     return ast
 
+def _getNearbyTokens(target):
+    '''
+    Return Nearby Tokens
+
+    Have an option to annotate the change_context with token_id.
+
+    If change_context is empty list, no annotation will be done.
+    '''
+    # location of the target
+    target_loc = target["pos"]
+
+    # get AST
+    ast = _ParseFileIntoAST() # in a format of json
+
+    # Perform DFS Search
+    token_context = _pre_order_traverse(ast, target_loc)
+
+    return token_context
+
+def _annoate_change_context(jsonfile, change_context):
+    # count the tokens
+    token_count = 0
+
+    stack = [jsonfile["root"]]
+    # We are looking for simple names
+    while len(stack) != 0:
+        node = stack.pop()
+        childrens = node["children"]
+
+        # annoate change context
+        for change in change_context:
+            if change["id"] == node["id"]:
+                change["token_id"] = token_count
+
+        # Visit the node: check type
+        if node["typeLabel"] == "SimpleName":
+            token_count += 1
+
+        # check if there is any children needs to add to the stack
+        while len(childrens) != 0:
+            stack.append(childrens.pop())
+
+    return change_context
+
+def _pre_order_traverse(jsonfile, target_loc):
+    # create a FIFO queue to store result
+    token_context = deque([], MAXIMUM_DEPTH)
+
+    token_count = 0
+
+    stack = [jsonfile["root"]]
+    # We are looking for simple names
+    while len(stack) != 0:
+        node = stack.pop()
+        childrens = node["children"]
+
+        # Visit the node: check type
+        if node["typeLabel"] == "SimpleName":
+            token_count += 1
+
+            # found the method name
+            if int(node["pos"]) == int(target_loc):
+                break
+            else:
+                # Add the token
+                token_context.append({
+                    "type": node["type"],
+                    "typeLabel": node["typeLabel"],
+                    "pos": node["pos"],
+                    "label": node["label"],
+                    "length": node["length"],
+                    "token_id": token_count
+                })
+
+        # check if there is any children needs to add to the stack
+        while len(childrens) != 0:
+            stack.append(childrens.pop())
+
+    return token_context
+
+def iterateAllRepo():
+    pass
+
+def iterateAllCommits():
+    pass
+
+def diffCommits(base_commit, commit):
+    """
+    base_commit and commit must be commit object from GitPython Library.
+    """
+    diffs = commit.tree.diff(base_commit.tree)
+
+    for diff in diffs:
+        result = getContextFromDiff(diff)
+        if result is None:
+            continue
+
+        target, change_context, code_context = result
+
+        # TODO: iterate atomic change combination
+
+
+def _computeWeights(c1, c2):
+    """
+    Compute Scope and Data Dependency between C1 and C2
+    C1 and C2 are atomic change
+    """
+
+    # Calculate W_scope and Calculate W_dep
+    if c1["immediate scope"] == c2["immediate scope"]:
+        # in the same scope
+        w_scope = 1
+        if c1["dependant id"] == c1["dependant id"]:
+            # same data dependency
+            w_dep = 1
+        else:
+            # different data dependency
+            w_dep = 0.5
+    else:
+        # different scope
+        w_scope = 0.5
+        w_dep = 0.5
+
+    return (w_scope, w_dep)
+
+
+def getContextFromDiff(diff):
+    """
+    a_blob is the new commit
+
+    b_blob is the base
+
+    This function does a bounch of error checking.
+
+    if a_file is None, there is nothing to do. a_file is removed
+
+    if a_file is not None, check the extension. Only proceed if it's java.
+
+    if b_file is None, b_file is empty, a_file is a newly created. Go directly to GumTreeDiff
+    
+    if b_file is not None, check b_file extension, and only proceed if it's java.
+
+    """
+    if diff.a_path is None:
+        # this commit removed a file? we don't care.
+        return None
+    # is this file extension ends with java?
+    _, file_extension = os.path.splitext(diff.a_path)
+    if file_extension != '.java':
+        return None
+
+    if diff.b_path is not None:
+        _, file_extension = os.path.splitext(diff.b_path)
+        if file_extension != '.java':
+            return None
+    
+    return GumTreeDiff(diff.b_blob, diff.a_blob)
 
 

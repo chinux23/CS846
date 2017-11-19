@@ -31,8 +31,8 @@ class TestMining(unittest.TestCase):
  
     def test_seperateContextAndTarget(self):
         changes = Mining._GumTreeDiffFiles()
-        target, change_context = Mining._seperateContextAndTarget(changes, 20)
-        w_scope, w_dep = Mining._computeWeights(target, change_context[17])
+        target, change_context = Mining._seperateContextAndTarget(changes, 40)
+        w_scope, w_dep = Mining._computeWeights(target, change_context[12])
 
         self.assertEqual(w_scope, 0.5)
         self.assertEqual(w_dep, 0.5)
@@ -67,14 +67,14 @@ class TestMining(unittest.TestCase):
         self.assertEqual(target["action"], "insert")
         self.assertEqual(target["at"], 1)
         self.assertEqual(target["dependant id"], "SimpleName: Utils")
-        self.assertEqual(target["id"], 352)
+        self.assertEqual(target["id"], 377)
         self.assertEqual(target["immediate scope"], 404)
         self.assertEqual(target["label"], 'SimpleName: asserts')
         self.assertEqual(target["label string"], "asserts")
-        self.assertEqual(target["parent"], 357)
+        self.assertEqual(target["parent"], 382)
         self.assertEqual(target["parent type"], 32)
-        self.assertEqual(target["pos"], 4885)
-        self.assertEqual(target["tree"], 352)
+        self.assertEqual(target["pos"], 5164)
+        self.assertEqual(target["tree"], 377)
         self.assertEqual(target["type"], 42)
 
     def test_getNearbyTokens(self):
