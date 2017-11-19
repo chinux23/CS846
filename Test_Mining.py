@@ -103,6 +103,13 @@ class TestMining(unittest.TestCase):
         self.assertEqual(last_change["tree"], 376)
         self.assertEqual(last_change["type"], 42)
 
+    def test_make_sure_change_context_are_ascending(self):
+        changes = Mining._GumTreeDiffFiles()
+        target, change_context = Mining._seperateContextAndTarget(changes, 6)
+        for i in range(len(change_context)-1):
+            self.assertTrue(change_context[i]["pos"] <= change_context[i+1]["pos"]) 
+
+
 
 if __name__ == '__main__':
     unittest.main()
