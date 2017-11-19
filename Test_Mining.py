@@ -84,5 +84,25 @@ class TestMining(unittest.TestCase):
         for token in tokens:
             self.assertEqual(token["typeLabel"], "SimpleName")
 
+    def test_seperateContextAndTarget(self):
+        changes = Mining._GumTreeDiffFiles()
+        target, change_context = Mining._seperateContextAndTarget(changes, 6)
+
+        last_change = change_context[-1]
+
+        self.assertEqual(last_change["action"], "insert")
+        self.assertEqual(last_change["at"], 0)
+        self.assertEqual(last_change["dependant id"], "SimpleName: Utils")
+        self.assertEqual(last_change["id"], 376)
+        self.assertEqual(last_change["immediate scope"], 404)
+        self.assertEqual(last_change["label"], 'SimpleName: Utils')
+        self.assertEqual(last_change["label string"], "Utils")
+        self.assertEqual(last_change["parent"], 382)
+        self.assertEqual(last_change["parent type"], 32)
+        self.assertEqual(last_change["pos"], 5158)
+        self.assertEqual(last_change["tree"], 376)
+        self.assertEqual(last_change["type"], 42)
+
+
 if __name__ == '__main__':
     unittest.main()
