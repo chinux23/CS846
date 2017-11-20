@@ -6,7 +6,9 @@ import os
 
 Ci_Database = {}
 C_Ci_Database = {}
-P_list = []
+P_list = set()
+Accumulated_Weights = {}
+Accumulated_Distance = {}
 
 
 # This is the change context or code context size that is most cost effective.
@@ -106,7 +108,7 @@ def GumTreeDiff(base_blob, target_blob):
     token_context = _getNearbyTokens(target)
 
     # annoate change context with token id
-    change_context = _annoate_change_context(ast, change_context)
+    target, change_context = _annoate_change_context(ast, change_context, target)
 
     return [target, change_context, token_context]
 
@@ -141,7 +143,7 @@ def _getNearbyTokens(target):
 
     return token_context
 
-def _annoate_change_context(jsonfile, change_context):
+def _annoate_change_context(jsonfile, change_context, target):
     # count the tokens
     token_count = 0
 
@@ -156,6 +158,9 @@ def _annoate_change_context(jsonfile, change_context):
             if change["id"] == node["id"]:
                 change["token_id"] = token_count
 
+        if node["id"] == target["id"]:
+            target["token_id"] = token_count
+
         # Visit the node: check type
         if node["typeLabel"] == "SimpleName":
             token_count += 1
@@ -164,7 +169,7 @@ def _annoate_change_context(jsonfile, change_context):
         while len(childrens) != 0:
             stack.append(childrens.pop())
 
-    return change_context
+    return (target, change_context)
 
 def _pre_order_traverse(jsonfile, target_loc):
     # create a FIFO queue to store result
@@ -226,22 +231,43 @@ def diffCommits(base_commit, commit):
 def update_database(target, change_context, code_context):
     global Ci_Database
     global C_Ci_Database
+    global P_list
+    global Accumulated_Weights
+    global Accumulated_Distance
+
+    target_change = atmoic_change(target)
 
     try:
-        Ci_Database[atmoic_change(target)] += 1
+        Ci_Database[target_change] += 1
     except:
-        Ci_Database[atmoic_change(target)] = 1
+        Ci_Database[target_change] = 1
+
+    P_list.add(target_change)
 
     for change in change_context:
-        try:
-            Ci_Database[atmoic_change(change)] += 1
-        except:
-            Ci_Database[atmoic_change(change)] = 1
+        atomicChange = atmoic_change(change)
+        c_ci = target_change + atomicChange
 
         try:
-            C_Ci_Database[atmoic_change(target) + atmoic_change(change)] += 1
+            Ci_Database[atomicChange] += 1
         except:
-            C_Ci_Database[atmoic_change(target) + atmoic_change(change)] = 1
+            Ci_Database[atomicChange] = 1
+
+        try:
+            C_Ci_Database[c_ci] += 1
+        except:
+            C_Ci_Database[c_ci] = 1
+
+        w_scope, w_dep = _computeWeights(target, change)
+        try:
+            Accumulated_Weights[c_ci] += w_scope * w_dep
+        except:
+            Accumulated_Weights[c_ci] = w_scope * w_dep
+        
+        try:
+            Accumulated_Distance[c_ci] += target["token_id"] - change["token_id"]
+        except:
+            Accumulated_Distance[c_ci] = target["token_id"] - change["token_id"]
 
 def atmoic_change(json):
     atomic_change = (json["action"], json["type"], json["label"])
