@@ -4,8 +4,14 @@ import time
 from collections import deque
 import os
 
+Ci_Database = {}
+C_Ci_Database = {}
+P_list = []
 
-MAXIMUM_DEPTH = 6
+
+# This is the change context or code context size that is most cost effective.
+MAXIMUM_DEPTH = 15
+
 # This file generates the data set for statistically analysis
 
 def _loadProcess(commandline):
@@ -45,9 +51,12 @@ def _seperateContextAndTarget(changes, num_of_change_context=6):
     i = midpoint
     while i < size:
         if changes[i]["type"] == 42 and changes[i]["parent type"] == 32 and changes[i]["at"] == 1:
-            print i
             break
         i += 1
+    else:
+        # There is no method invocation.
+        if i == size:
+            return None
 
     # that's the method name
     target = changes[i]
@@ -85,7 +94,12 @@ def GumTreeDiff(base_blob, target_blob):
 
     # Change Context
     changes = _GumTreeDiffFiles()
-    target, change_context = _seperateContextAndTarget(changes, MAXIMUM_DEPTH)
+    result = _seperateContextAndTarget(changes, MAXIMUM_DEPTH)
+
+    if result is None:
+        return None
+    else:
+        target, change_context = result
 
     # Code Context
     ast = _ParseFileIntoAST()
@@ -207,8 +221,31 @@ def diffCommits(base_commit, commit):
 
         target, change_context, code_context = result
 
-        # TODO: iterate atomic change combination
+        update_database(target, change_context, code_context)
 
+def update_database(target, change_context, code_context):
+    global Ci_Database
+    global C_Ci_Database
+
+    try:
+        Ci_Database[atmoic_change(target)] += 1
+    except:
+        Ci_Database[atmoic_change(target)] = 1
+
+    for change in change_context:
+        try:
+            Ci_Database[atmoic_change(change)] += 1
+        except:
+            Ci_Database[atmoic_change(change)] = 1
+
+        try:
+            C_Ci_Database[atmoic_change(target) + atmoic_change(change)] += 1
+        except:
+            C_Ci_Database[atmoic_change(target) + atmoic_change(change)] = 1
+
+def atmoic_change(json):
+    atomic_change = (json["action"], json["type"], json["label"])
+    return atomic_change
 
 def _computeWeights(c1, c2):
     """
@@ -251,7 +288,7 @@ def getContextFromDiff(diff):
     if b_file is not None, check b_file extension, and only proceed if it's java.
 
     """
-    if diff.a_path is None:
+    if diff.a_path is None or diff.a_blob is None:
         # this commit removed a file? we don't care.
         return None
     # is this file extension ends with java?
@@ -259,7 +296,7 @@ def getContextFromDiff(diff):
     if file_extension != '.java':
         return None
 
-    if diff.b_path is not None:
+    if diff.b_path is not None or diff.b_blob is None:
         _, file_extension = os.path.splitext(diff.b_path)
         if file_extension != '.java':
             return None

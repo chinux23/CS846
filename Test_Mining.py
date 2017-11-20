@@ -79,7 +79,7 @@ class TestMining(unittest.TestCase):
 
     def test_getNearbyTokens(self):
         tokens = Mining._getNearbyTokens({"pos": 4885})
-        self.assertEqual(len(tokens), 6)
+        self.assertEqual(len(tokens), Mining.MAXIMUM_DEPTH)
 
         for token in tokens:
             self.assertEqual(token["typeLabel"], "SimpleName")
