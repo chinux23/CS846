@@ -419,3 +419,9 @@ def getContextFromDiff(diff):
     return GumTreeDiff(diff.b_blob, diff.a_blob)
 
 
+if __name__ == "__main__":
+    # Locate the repository and go through all commits
+
+    # save the database into a file.
+
+    pass
