@@ -7,8 +7,13 @@ import os
 Ci_Database = {}
 C_Ci_Database = {}
 P_list = set()
-Accumulated_Weights = {}
-Accumulated_Distance = {}
+Ci_Accumulated_Weights = {}
+Ci_Accumulated_Distance = {}
+
+C_token_Database = {}
+token_Database = {}
+token_Accumulated_Weights = {}
+token_Accumulated_Distance = {}
 
 Keywords_Statement =set([
     "AssertStatement", 
@@ -284,8 +289,13 @@ def update_database(target, change_context, code_context):
     global Ci_Database
     global C_Ci_Database
     global P_list
-    global Accumulated_Weights
-    global Accumulated_Distance
+    global Ci_Accumulated_Weights
+    global Ci_Accumulated_Distance
+
+    global C_token_Database
+    global token_Database
+    global token_Accumulated_Weights
+    global token_Accumulated_Distance
 
     target_change = atmoic_change(target)
 
@@ -312,14 +322,41 @@ def update_database(target, change_context, code_context):
 
         w_scope, w_dep = _computeWeights(target, change)
         try:
-            Accumulated_Weights[c_ci] += w_scope * w_dep
+            Ci_Accumulated_Weights[c_ci] += w_scope * w_dep
         except:
-            Accumulated_Weights[c_ci] = w_scope * w_dep
+            Ci_Accumulated_Weights[c_ci] = w_scope * w_dep
         
         try:
-            Accumulated_Distance[c_ci] += target["token_id"] - change["token_id"]
+            Ci_Accumulated_Distance[c_ci] += target["token_id"] - change["token_id"]
         except:
-            Accumulated_Distance[c_ci] = target["token_id"] - change["token_id"]
+            Ci_Accumulated_Distance[c_ci] = target["token_id"] - change["token_id"]
+
+    # update code context 
+    for context in code_context:
+        token = _get_token(context)
+        c_token = target_change + token
+
+        try:
+            token_Database[token] += 1
+        except:
+            token_Database[token] = 1
+
+        try:
+            C_token_Database[c_token] += 1
+        except:
+            C_token_Database[c_token] = 1
+
+        w_scope, w_dep = _computeWeights(target, context)
+        try:
+            token_Accumulated_Weights[c_token] += w_scope * w_dep
+        except:
+            token_Accumulated_Weights[c_token] = w_scope * w_dep
+        
+        try:
+            token_Accumulated_Distance[c_token] += target["token_id"] - context["token_id"]
+        except:
+            token_Accumulated_Distance[c_token] = target["token_id"] - context["token_id"]
+
 
 def atmoic_change(json):
     atomic_change = (json["action"], json["type"], json["label"])
