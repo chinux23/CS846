@@ -10,6 +10,22 @@ P_list = set()
 Accumulated_Weights = {}
 Accumulated_Distance = {}
 
+Keywords_Statement =set([
+    "AssertStatement", 
+    "ContinueStatement",
+    "DoStatement",
+    "EnhancedForStatement",
+    "ForStatement",
+    "IfStatement",
+    "LabeledStatement",
+    "ReturnStatement",
+    "SwitchStatement",
+    "SynchronizedStatement",
+    "ThrowStatement",
+    "TryStatement",
+    "WhileStatement"
+])
+
 
 # This is the change context or code context size that is most cost effective.
 MAXIMUM_DEPTH = 15
@@ -143,6 +159,35 @@ def _getNearbyTokens(target):
 
     return token_context
 
+def _get_token(node):
+    """
+    decide whether node is a token or not.
+    
+    The paper did not explain what defines to be a token.
+    We use the following definition to approximate according to the example given in the paper.
+
+    1. keywords
+    2. Simple names
+    3. Primitive type
+
+    return <Token, Type, Label> as a tuple
+    """
+    global Keywords_Statement
+
+    if node["typeLabel"] in Keywords_Statement:
+        return ("Token", node["type"], "")
+        
+    if node["type"] == 83:    # Modifier
+        return ("Token", node["type"], node["label"])
+
+    if node["type"] == 39:     # Primitive Type
+        return ("Token", node["type"], node["label"])
+
+    if node["type"] == 42:    # Simple Names
+        return ("Token", node["parent type"], node["label"])
+
+    return None
+
 def _annoate_change_context(jsonfile, change_context, target):
     # count the tokens
     token_count = 0
@@ -162,7 +207,8 @@ def _annoate_change_context(jsonfile, change_context, target):
             target["token_id"] = token_count
 
         # Visit the node: check type
-        if node["typeLabel"] == "SimpleName":
+        token = _get_token(node)
+        if token:
             token_count += 1
 
         # check if there is any children needs to add to the stack
@@ -184,7 +230,8 @@ def _pre_order_traverse(jsonfile, target_loc):
         childrens = node["children"]
 
         # Visit the node: check type
-        if node["typeLabel"] == "SimpleName":
+        token = _get_token(node)
+        if token:
             token_count += 1
 
             # found the method name
@@ -198,6 +245,11 @@ def _pre_order_traverse(jsonfile, target_loc):
                     "pos": node["pos"],
                     "label": node["label"],
                     "length": node["length"],
+                    "id": node["id"],
+                    "dependent id": node["dependant id"],
+                    "immediate scope": node["immediate scope"],
+                    "parent type": node["parent type"],
+                    "parent label": node["parent label"],
                     "token_id": token_count
                 })
 

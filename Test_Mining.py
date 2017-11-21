@@ -82,7 +82,7 @@ class TestMining(unittest.TestCase):
         self.assertEqual(len(tokens), Mining.MAXIMUM_DEPTH)
 
         for token in tokens:
-            self.assertEqual(token["typeLabel"], "SimpleName")
+            self.assertIn("token_id", token)
 
     def test_seperateContextAndTarget(self):
         changes = Mining._GumTreeDiffFiles()
@@ -109,7 +109,200 @@ class TestMining(unittest.TestCase):
         for i in range(len(change_context)-1):
             self.assertTrue(change_context[i]["pos"] <= change_context[i+1]["pos"]) 
 
+    def test_get_token_primitivetype(self):
+        node = {
+                    "type": 39,
+                    "label": "int",
+                    "id": 28,
+                    "immediate scope": 36,
+                    "dependant id": "PrimitiveType: int",
+                    "parent type": 32,
+                    "parent label": "",
+                    "typeLabel": "PrimitiveType",
+                    "pos": "241",
+                    "length": "3",
+                    "children": []
+                }
+        self.assertEqual(Mining._get_token(node), ('Token', 39, 'int'))
 
+    def test_get_token_simplename(self):
+        node = {
+                "type": 42,
+                "label": "a",
+                "id": 29,
+                "immediate scope": 36,
+                "dependant id": "SimpleName: a",
+                "parent type": 31,
+                "parent label": "",
+                "typeLabel": "SimpleName",
+                "pos": "245",
+                "length": "1",
+                "children": []
+            }
+        self.assertEqual(Mining._get_token(node), ('Token', 31, 'a'))
+
+    def test_get_token_modifier(self):
+        node = {
+								"type": 83,
+								"label": "static",
+								"id": 3,
+								"immediate scope": 3,
+								"dependant id": "Modifier: public",
+								"parent type": 37,
+								"parent label": "",
+								"typeLabel": "Modifier",
+								"pos": "46",
+								"length": "6",
+								"children": []
+							}
+        self.assertEqual(Mining._get_token(node), ('Token', 83, 'static'))
+
+    def test_get_token_keywords(self):
+        node = {
+                "type": 70,
+                "id": 22,
+                "immediate scope": 36,
+                "dependant id": "EnhancedForStatement",
+                "parent type": 23,
+                "parent label": "",
+                "typeLabel": "EnhancedForStatement",
+                "pos": "115",
+                "length": "73",
+                "children": [
+                    {
+                        "type": 44,
+                        "id": 15,
+                        "immediate scope": 36,
+                        "dependant id": "SingleVariableDeclaration",
+                        "parent type": 22,
+                        "parent label": "",
+                        "typeLabel": "SingleVariableDeclaration",
+                        "pos": "120",
+                        "length": "6",
+                        "children": [
+                            {
+                                "type": 43,
+                                "label": "Task",
+                                "id": 13,
+                                "immediate scope": 36,
+                                "dependant id": "SimpleType: Task",
+                                "parent type": 15,
+                                "parent label": "",
+                                "typeLabel": "SimpleType",
+                                "pos": "120",
+                                "length": "4",
+                                "children": [
+                                    {
+                                        "type": 42,
+                                        "label": "Task",
+                                        "id": 12,
+                                        "immediate scope": 36,
+                                        "dependant id": "SimpleName: Task",
+                                        "parent type": 13,
+                                        "parent label": "Task",
+                                        "typeLabel": "SimpleName",
+                                        "pos": "120",
+                                        "length": "4",
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "type": 42,
+                                "label": "t",
+                                "id": 14,
+                                "immediate scope": 36,
+                                "dependant id": "SimpleType: Task",
+                                "parent type": 15,
+                                "parent label": "",
+                                "typeLabel": "SimpleName",
+                                "pos": "125",
+                                "length": "1",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "type": 42,
+                        "label": "tasks",
+                        "id": 16,
+                        "immediate scope": 36,
+                        "dependant id": "SingleVariableDeclaration",
+                        "parent type": 22,
+                        "parent label": "",
+                        "typeLabel": "SimpleName",
+                        "pos": "129",
+                        "length": "5",
+                        "children": []
+                    },
+                    {
+                        "type": 8,
+                        "id": 21,
+                        "immediate scope": 36,
+                        "dependant id": "SingleVariableDeclaration",
+                        "parent type": 22,
+                        "parent label": "",
+                        "typeLabel": "Block",
+                        "pos": "136",
+                        "length": "52",
+                        "children": [
+                            {
+                                "type": 21,
+                                "id": 20,
+                                "immediate scope": 36,
+                                "dependant id": "ExpressionStatement",
+                                "parent type": 21,
+                                "parent label": "",
+                                "typeLabel": "ExpressionStatement",
+                                "pos": "158",
+                                "length": "12",
+                                "children": [
+                                    {
+                                        "type": 32,
+                                        "id": 19,
+                                        "immediate scope": 36,
+                                        "dependant id": "MethodInvocation",
+                                        "parent type": 20,
+                                        "parent label": "",
+                                        "typeLabel": "MethodInvocation",
+                                        "pos": "158",
+                                        "length": "11",
+                                        "children": [
+                                            {
+                                                "type": 42,
+                                                "label": "t",
+                                                "id": 17,
+                                                "immediate scope": 36,
+                                                "dependant id": "SimpleName: t",
+                                                "parent type": 19,
+                                                "parent label": "",
+                                                "typeLabel": "SimpleName",
+                                                "pos": "158",
+                                                "length": "1",
+                                                "children": []
+                                            },
+                                            {
+                                                "type": 42,
+                                                "label": "execute",
+                                                "id": 18,
+                                                "immediate scope": 36,
+                                                "dependant id": "SimpleName: t",
+                                                "parent type": 19,
+                                                "parent label": "",
+                                                "typeLabel": "SimpleName",
+                                                "pos": "160",
+                                                "length": "7",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        self.assertEqual(Mining._get_token(node), ('Token', 70, ''))
 
 if __name__ == '__main__':
     unittest.main()
