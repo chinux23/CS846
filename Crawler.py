@@ -22,10 +22,10 @@ def loadrepos():
 
 def clone(git_url, name):
     from git import Repo
-    if os.path.exists("/Users/chen/Repository/CS846/Data/"+name):
-        repo = Repo("/Users/chen/Repository/CS846/Data/"+name)
+    if os.path.exists("Data/"+name):
+        repo = Repo("Data/"+name)
     else:
-        repo = Repo.clone_from(git_url, "/Users/chen/Repository/CS846/Data/"+name)
+        repo = Repo.clone_from(git_url, "Data/"+name)
     return repo
 
 if __name__ == "__main__":
@@ -50,7 +50,7 @@ if __name__ == "__main__":
                 break
         else:
             # remove the repo
-            shutil.rmtree("/Users/chen/Repository/CS846/Data/"+item["name"])
+            shutil.rmtree("Data/"+item["name"])
 
     print("Total commits " + str(total_commits))
     
