@@ -519,7 +519,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Mining Repo for API recommendation')
     parser.add_argument('repo', type=str,
                         help='path to the repo')
-    parser.add_argument("commits", type=int, help="Number of commits", default=None)
+    parser.add_argument("--commits", type=int, help="Number of commits", default=None)
 
     args = parser.parse_args()
 
