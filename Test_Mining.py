@@ -304,5 +304,21 @@ class TestMining(unittest.TestCase):
             }
         self.assertEqual(Mining._get_token(node), ('Token', 70, ''))
 
+    def test_save(self):
+        Mining.iterateAllCommits(self.repo, 10)
+        Mining.save(self.repo.working_dir)
+
+        results = Mining.load(self.repo.working_dir)
+
+        self.assertEqual(results[0], Mining.Ci_Database)
+        self.assertEqual(results[1], Mining.C_Ci_Database)
+        self.assertEqual(results[2], Mining.P_list)
+        self.assertEqual(results[3], Mining.Ci_Accumulated_Weights)
+        self.assertEqual(results[4], Mining.Ci_Accumulated_Distance)
+        self.assertEqual(results[5], Mining.C_token_Database)
+        self.assertEqual(results[6], Mining.token_Database)
+        self.assertEqual(results[7], Mining.token_Accumulated_Weights)
+        self.assertEqual(results[8], Mining.token_Accumulated_Distance)
+
 if __name__ == '__main__':
     unittest.main()

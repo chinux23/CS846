@@ -1,8 +1,13 @@
+#!/usr/bin/python
+
 import subprocess
 import json
 import time
 from collections import deque
 import os
+import argparse
+from git import Repo
+
 
 Ci_Database = {}
 C_Ci_Database = {}
@@ -267,8 +272,21 @@ def _pre_order_traverse(jsonfile, target_loc):
 def iterateAllRepo():
     pass
 
-def iterateAllCommits():
-    pass
+def iterateAllCommits(repo, number_of_commits):
+    commits = [ commit for commit in repo.iter_commits()]
+    print("There are {} commits.".format(len(commits)))
+    i = 0
+
+    if number_of_commits is None:
+        num = len(commits)
+    else:
+        num = number_of_commits
+
+    for commit in commits[:num]:
+        i += 1
+        print("Processing item {}: {}".format(i, commit))
+        if len(commit.parents) == 1:
+            diffCommits(commit.parents[0], commit)
 
 def diffCommits(base_commit, commit):
     """
@@ -284,6 +302,83 @@ def diffCommits(base_commit, commit):
         target, change_context, code_context = result
 
         update_database(target, change_context, code_context)
+
+def save(path):
+    import pickle
+
+    global Ci_Database
+    global C_Ci_Database
+    global P_list
+    global Ci_Accumulated_Weights
+    global Ci_Accumulated_Distance
+
+    global C_token_Database
+    global token_Database
+    global token_Accumulated_Weights
+    global token_Accumulated_Distance
+
+    if not os.path.exists("{}/API___Database".format(path)):
+        os.mkdir("{}/API___Database".format(path))
+
+    with open('{}/API___Database/Ci_Database.pkl'.format(path), 'w') as fp:
+        pickle.dump(Ci_Database, fp)
+    with open('{}/API___Database/C_Ci_Database.pkl'.format(path), 'w') as fp:
+        pickle.dump(C_Ci_Database, fp)
+    with open('{}/API___Database/P_list.pkl'.format(path), 'w') as fp:
+        pickle.dump(list(P_list), fp)
+    with open('{}/API___Database/Ci_Accumulated_Weights.pkl'.format(path), 'w') as fp:
+        pickle.dump(Ci_Accumulated_Weights, fp)
+    with open('{}/API___Database/Ci_Accumulated_Distance.pkl'.format(path), 'w') as fp:
+        pickle.dump(Ci_Accumulated_Distance, fp)
+
+    with open('{}/API___Database/C_token_Database.pkl'.format(path), 'w') as fp:
+        pickle.dump(C_token_Database, fp)
+    with open('{}/API___Database/token_Database.pkl'.format(path), 'w') as fp:
+        pickle.dump(token_Database, fp)
+    with open('{}/API___Database/token_Accumulated_Weights.pkl'.format(path), 'w') as fp:
+        pickle.dump(token_Accumulated_Weights, fp)
+    with open('{}/API___Database/token_Accumulated_Distance.pkl'.format(path), 'w') as fp:
+        pickle.dump(token_Accumulated_Distance, fp)
+
+def load(path):
+    import pickle
+
+    global Ci_Database
+    global C_Ci_Database
+    global P_list
+    global Ci_Accumulated_Weights
+    global Ci_Accumulated_Distance
+
+    global C_token_Database
+    global token_Database
+    global token_Accumulated_Weights
+    global token_Accumulated_Distance
+
+    if not os.path.exists("{}/API___Database".format(path)):
+        raise IOError("{}/API___Database does not exist".format(path))
+
+    with open('{}/API___Database/Ci_Database.pkl'.format(path), 'r') as fp:
+        Ci_Database = pickle.load(fp)
+    with open('{}/API___Database/C_Ci_Database.pkl'.format(path), 'r') as fp:
+        C_Ci_Database = pickle.load(fp)
+    with open('{}/API___Database/P_list.pkl'.format(path), 'r') as fp:
+        P_list = pickle.load(fp)
+    with open('{}/API___Database/Ci_Accumulated_Weights.pkl'.format(path), 'r') as fp:
+        Ci_Accumulated_Weights = pickle.load(fp)
+    with open('{}/API___Database/Ci_Accumulated_Distance.pkl'.format(path), 'r') as fp:
+        Ci_Accumulated_Distance = pickle.load(fp)
+
+    with open('{}/API___Database/C_token_Database.pkl'.format(path), 'r') as fp:
+        C_token_Database = pickle.load(fp)
+    with open('{}/API___Database/token_Database.pkl'.format(path), 'r') as fp:
+        token_Database = pickle.load(fp)
+    with open('{}/API___Database/token_Accumulated_Weights.pkl'.format(path), 'r') as fp:
+        token_Accumulated_Weights = pickle.load(fp)
+    with open('{}/API___Database/token_Accumulated_Distance.pkl'.format(path), 'r') as fp:
+        token_Accumulated_Distance = pickle.load(fp)
+
+    return (Ci_Database, C_Ci_Database, P_list, Ci_Accumulated_Weights, Ci_Accumulated_Distance, C_token_Database,
+            token_Database, token_Accumulated_Weights, token_Accumulated_Distance)
 
 def update_database(target, change_context, code_context):
     global Ci_Database
@@ -420,8 +515,17 @@ def getContextFromDiff(diff):
 
 
 if __name__ == "__main__":
+
+    parser = argparse.ArgumentParser(description='Mining Repo for API recommendation')
+    parser.add_argument('repo', type=str,
+                        help='path to the repo')
+    parser.add_argument("commits", type=int, help="Number of commits", default=None)
+
+    args = parser.parse_args()
+
     # Locate the repository and go through all commits
+    repo = Repo(args.repo)
+    iterateAllCommits(repo, args.commits)
 
     # save the database into a file.
-
-    pass
+    save(args.repo)
