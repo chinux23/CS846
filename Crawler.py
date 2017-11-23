@@ -1,19 +1,22 @@
+#!/usr/bin/python
 """
 Python module to clone the largest 50 java projects.
 
 """
+from git import Repo
+import shutil
 
 def loadrepos():
     import json
-    with open("repos.json") as f:
-        repo1 = json.loads(f.read())
 
-    with open("repos2.json") as f:
-        repo2 = json.loads(f.read())
+    items = []
 
-    items1 = repo1["items"]
-    items2 = repo2["items"]
-    items = items1 + items2
+    for i in range(10):
+        i += 1
+    with open("DataRepoList/repo" + str(i) +".json") as f:
+        repo = json.loads(f.read())
+
+    items += repo["items"]
     return items
 
 def clone(git_url, name):
@@ -23,9 +26,24 @@ def clone(git_url, name):
 
 if __name__ == "__main__":
     items = loadrepos()
-    repos = {}
+    repos = []
+    total_commits = 0
 
-    for item in items[:50]:
+    for item in items[:]:
         print("Clone {}".format(item["name"]))
-        repos[item["name"]] = clone(item["git_url"], item["name"])
+        repo = clone(item["git_url"], item["name"])
+        length = len([commit for commit in repo.iter_commits()])
+
+        if length >= 1000:
+            repos.append(repo)
+            print("Adding " + item["name"])
+            total_commits += length
+            if len(repos) >= 50:
+                break
+        else:
+            # remove the repo
+            shutil.rmtree("/Users/chen/Repository/CS846/Data/"+item["name"])
+
+    print(repos)
+    print("Total commits " + str(total_commits))
     
