@@ -5,6 +5,7 @@ Python module to clone the largest 50 java projects.
 """
 from git import Repo
 import shutil
+import os
 
 def loadrepos():
     import json
@@ -13,15 +14,18 @@ def loadrepos():
 
     for i in range(10):
         i += 1
-    with open("DataRepoList/repo" + str(i) +".json") as f:
-        repo = json.loads(f.read())
-
-    items += repo["items"]
+        with open("DataRepoList/repo" + str(i) +".json") as f:
+            repo = json.loads(f.read())
+        items += repo["items"]
+    
     return items
 
 def clone(git_url, name):
     from git import Repo
-    repo = Repo.clone_from(git_url, "/Users/chen/Repository/CS846/Data/"+name)
+    if os.path.exists("/Users/chen/Repository/CS846/Data/"+name):
+        repo = Repo("/Users/chen/Repository/CS846/Data/"+name)
+    else:
+        repo = Repo.clone_from(git_url, "/Users/chen/Repository/CS846/Data/"+name)
     return repo
 
 if __name__ == "__main__":
@@ -37,13 +41,16 @@ if __name__ == "__main__":
         if length >= 1000:
             repos.append(repo)
             print("Adding " + item["name"])
+            print("Currently there are " + str(len(repos)) + " repos.")
             total_commits += length
             if len(repos) >= 50:
+                print("Prison Break!")
+                print("length of repos are {}".format(len(repos)))
+                print("Condition is {}".format(len(repos) >= 50))
                 break
         else:
             # remove the repo
             shutil.rmtree("/Users/chen/Repository/CS846/Data/"+item["name"])
 
-    print(repos)
     print("Total commits " + str(total_commits))
     
