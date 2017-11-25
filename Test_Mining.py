@@ -32,7 +32,7 @@ class TestMining(unittest.TestCase):
  
     def test_seperateContextAndTarget(self):
         changes = Mining._GumTreeDiffFiles()
-        target, change_context = Mining._seperateContextAndTarget(changes, 40)
+        target, change_context = Mining._seperateContextAndTarget(changes, self.diff.a_blob.data_stream.read(), 40)
         w_scope, w_dep = Mining._computeWeights(target, change_context[12])
 
         self.assertEqual(w_scope, 0.5)
@@ -40,7 +40,7 @@ class TestMining(unittest.TestCase):
 
     def test_seperateContextAndTarget2(self):
         changes = Mining._GumTreeDiffFiles()
-        target, change_context = Mining._seperateContextAndTarget(changes, 20)
+        target, change_context = Mining._seperateContextAndTarget(changes, self.diff.a_blob.data_stream.read(), 20)
         w_scope, w_dep = Mining._computeWeights(target, change_context[2])
 
         self.assertEqual(w_scope, 1)
@@ -50,7 +50,7 @@ class TestMining(unittest.TestCase):
         print(Mining.working_dir)
         changes = Mining._GumTreeDiffFiles()
         print(changes)
-        target, change_context = Mining._seperateContextAndTarget(changes, 6)
+        target, change_context = Mining._seperateContextAndTarget(changes, self.diff.a_blob.data_stream.read(), 6)
 
         self.assertEqual(len(change_context), 6)
 
@@ -89,7 +89,7 @@ class TestMining(unittest.TestCase):
 
     def test_seperateContextAndTarget(self):
         changes = Mining._GumTreeDiffFiles()
-        target, change_context = Mining._seperateContextAndTarget(changes, 6)
+        target, change_context = Mining._seperateContextAndTarget(changes, self.diff.a_blob.data_stream.read(), 6)
 
         last_change = change_context[-1]
 
@@ -108,7 +108,7 @@ class TestMining(unittest.TestCase):
 
     def test_make_sure_change_context_are_ascending(self):
         changes = Mining._GumTreeDiffFiles()
-        target, change_context = Mining._seperateContextAndTarget(changes, 6)
+        target, change_context = Mining._seperateContextAndTarget(changes, self.diff.a_blob.data_stream.read(), 6)
         for i in range(len(change_context)-1):
             self.assertTrue(change_context[i]["pos"] <= change_context[i+1]["pos"]) 
 

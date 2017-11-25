@@ -20,7 +20,7 @@ token_Database = {}
 token_Accumulated_Weights = {}
 token_Accumulated_Distance = {}
 
-target_context = None
+target_context = []
 working_dir = None
 
 
@@ -76,14 +76,30 @@ def _GumTreeDiffFiles():
 
     return changes
 
-def _seperateContextAndTarget(changes, num_of_change_context=6):
+def _isMethod(change, newfile):
+    pos = change["pos"]
+
+    if pos <= 1:
+        return False
+    else:
+        # take a position before to check if it's a "dot" or not.
+        pos = pos - 1
+
+    # Detect if there is a dot position
+    if newfile[pos] == ".":
+        return True
+    else:
+        return False
+
+
+def _seperateContextAndTarget(changes, newfile, num_of_change_context=6, ):
     size = len(changes)
     midpoint = size / 2
 
     # find the method invocation at the midpoint
     i = midpoint
     while i < size:
-        if changes[i]["type"] == 42 and changes[i]["parent type"] == 32 and changes[i]["at"] == 1:
+        if changes[i]["type"] == 42 and changes[i]["parent type"] == 32 and changes[i]["at"] == 1 and _isMethod(changes[i], newfile):
             break
         i += 1
     else:
@@ -118,8 +134,9 @@ def GumTreeDiff(base_blob, target_blob):
     '''
 
     # output diff java files.
+    newfile = target_blob.data_stream.read()
     with open("{}/a_blob.java".format(working_dir), "wb") as f:
-        f.write(target_blob.data_stream.read())
+        f.write(newfile)
     
     with open("{}/b_blob.java".format(working_dir), "wb") as f:
         if (base_blob): # in case there is no base file.
@@ -127,7 +144,7 @@ def GumTreeDiff(base_blob, target_blob):
 
     # Change Context
     changes = _GumTreeDiffFiles()
-    result = _seperateContextAndTarget(changes, MAXIMUM_DEPTH)
+    result = _seperateContextAndTarget(changes, newfile, MAXIMUM_DEPTH)
 
     if result is None:
         return None
@@ -456,6 +473,7 @@ def update_database(target, change_context, code_context):
         except:
             token_Accumulated_Distance[c_token] = target["token_id"] - context["token_id"]
 
+    target_context.append((target, change_context, code_context))
 
 def atmoic_change(json):
     atomic_change = (json["action"], json["type"], json["label"])
