@@ -7,6 +7,7 @@ class TestMining(unittest.TestCase):
  
     def setUp(self):
         self.repo = Repo("Data/android-async-http")
+        Mining.working_dir = self.repo.working_dir
         self.commits = [ commit for commit in self.repo.iter_commits()]
         self.commit = self.commits[10]
         self.diffs = self.commit.tree.diff(self.commit.parents[0].tree)
@@ -18,10 +19,10 @@ class TestMining(unittest.TestCase):
             'library/src/main/java/com/loopj/android/http/AsyncHttpResponseHandler.java')
         self.assertEqual(self.commit.hexsha, '2a9b4ef7de68196945920de480880a2b7829ba2a')
 
-        with open("a_blob.java", "wb") as f:
+        with open("{}/a_blob.java".format(Mining.working_dir), "wb") as f:
             f.write(self.diff.a_blob.data_stream.read())
     
-        with open("b_blob.java", "wb") as f:
+        with open("{}/b_blob.java".format(Mining.working_dir), "wb") as f:
             f.write(self.diff.b_blob.data_stream.read())
  
     def test_GumTreeDiffFiles(self):
@@ -46,7 +47,9 @@ class TestMining(unittest.TestCase):
         self.assertEqual(w_dep, 1)
 
     def test_change_context(self):
+        print(Mining.working_dir)
         changes = Mining._GumTreeDiffFiles()
+        print(changes)
         target, change_context = Mining._seperateContextAndTarget(changes, 6)
 
         self.assertEqual(len(change_context), 6)
@@ -312,8 +315,6 @@ class TestMining(unittest.TestCase):
 
         self.assertEqual(results[0], Mining.Ci_Database)
         self.assertEqual(results[1], Mining.C_Ci_Database)
-        print(results[2])
-        print(Mining.P_list)
         self.assertEqual(results[2], Mining.P_list)
 
         self.assertEqual(results[3], Mining.Ci_Accumulated_Weights)

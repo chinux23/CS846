@@ -62,7 +62,8 @@ def wait_for_proc_complete(proc, timeout=600):
 
 def _GumTreeDiffFiles():
     # launch GumTree and output the information as json
-    diff_string = subprocess.check_output(["./GumTree/gumtree", "jsondiff", "b_blob.java", "a_blob.java"])
+    diff_string = subprocess.check_output(["./GumTree/gumtree", 
+        "jsondiff", "{}/b_blob.java".format(working_dir), "{}/a_blob.java".format(working_dir)])
 
     # load the json
     diff = json.loads(diff_string)
@@ -117,10 +118,10 @@ def GumTreeDiff(base_blob, target_blob):
     '''
 
     # output diff java files.
-    with open("a_blob.java", "wb") as f:
+    with open("{}/a_blob.java".format(working_dir), "wb") as f:
         f.write(target_blob.data_stream.read())
     
-    with open("b_blob.java", "wb") as f:
+    with open("{}/b_blob.java".format(working_dir), "wb") as f:
         if (base_blob): # in case there is no base file.
             f.write(base_blob.data_stream.read())
 
@@ -149,7 +150,7 @@ def _ParseFileIntoAST():
     '''
 
     # launch GumTree and output the information as json
-    output = subprocess.check_output(["./GumTree/gumtree", "parse", "a_blob.java"])
+    output = subprocess.check_output(["./GumTree/gumtree", "parse", "{}/a_blob.java".format(working_dir)])
     ast = json.loads(output)
 
     return ast
