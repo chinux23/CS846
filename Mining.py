@@ -20,6 +20,10 @@ token_Database = {}
 token_Accumulated_Weights = {}
 token_Accumulated_Distance = {}
 
+target_context = None
+working_dir = None
+
+
 Keywords_Statement =set([
     "AssertStatement", 
     "ContinueStatement",
@@ -317,6 +321,8 @@ def save(path):
     global token_Accumulated_Weights
     global token_Accumulated_Distance
 
+    global target_context
+
     if not os.path.exists("{}/API___Database".format(path)):
         os.mkdir("{}/API___Database".format(path))
 
@@ -340,19 +346,11 @@ def save(path):
     with open('{}/API___Database/token_Accumulated_Distance.pkl'.format(path), 'w') as fp:
         pickle.dump(token_Accumulated_Distance, fp)
 
+    with open("{}/API___Database/target_context.pkl".format(path), 'w') as fp:
+        pickle.dump(target_context, fp)
+
 def load(path):
     import pickle
-
-    global Ci_Database
-    global C_Ci_Database
-    global P_list
-    global Ci_Accumulated_Weights
-    global Ci_Accumulated_Distance
-
-    global C_token_Database
-    global token_Database
-    global token_Accumulated_Weights
-    global token_Accumulated_Distance
 
     if not os.path.exists("{}/API___Database".format(path)):
         raise IOError("{}/API___Database does not exist".format(path))
@@ -377,8 +375,11 @@ def load(path):
     with open('{}/API___Database/token_Accumulated_Distance.pkl'.format(path), 'r') as fp:
         token_Accumulated_Distance = pickle.load(fp)
 
-    return (Ci_Database, C_Ci_Database, P_list, Ci_Accumulated_Weights, Ci_Accumulated_Distance, C_token_Database,
-            token_Database, token_Accumulated_Weights, token_Accumulated_Distance)
+    with open('{}/API___Database/target_context.pkl'.format(path), 'r') as fp:
+        target_context = pickle.load(fp)
+
+    return (Ci_Database, C_Ci_Database, set(P_list), Ci_Accumulated_Weights, Ci_Accumulated_Distance, C_token_Database,
+            token_Database, token_Accumulated_Weights, token_Accumulated_Distance, target_context)
 
 def update_database(target, change_context, code_context):
     global Ci_Database
@@ -425,6 +426,8 @@ def update_database(target, change_context, code_context):
             Ci_Accumulated_Distance[c_ci] += target["token_id"] - change["token_id"]
         except:
             Ci_Accumulated_Distance[c_ci] = target["token_id"] - change["token_id"]
+
+        
 
     # update code context 
     for context in code_context:
@@ -525,6 +528,9 @@ if __name__ == "__main__":
 
     # Locate the repository and go through all commits
     repo = Repo(args.repo)
+    working_dir = repo.working_dir
+    print("Working directory: {}".format(repo.working_dir))
+
     iterateAllCommits(repo, args.commits)
 
     # save the database into a file.
