@@ -1,0 +1,6519 @@
+(dp0
+(Vinsert
+p1
+I40
+VQualifiedName: PorterDuff.Mode.CLEAR
+p2
+tp3
+I1
+s(Vinsert
+p4
+I42
+VSimpleName: isFiltered
+p5
+tp6
+I2
+s(Vinsert
+p7
+I42
+VSimpleName: mTouchDelegate
+p8
+tp9
+I1
+s(Vinsert
+p10
+I43
+VSimpleType: Attributes
+p11
+tp12
+I2
+s(Vinsert
+p13
+I42
+VSimpleName: HandlerThread
+p14
+tp15
+I1
+s(Vinsert
+p16
+I40
+VQualifiedName: mRenderingState.inWaitingState
+p17
+tp18
+I2
+s(Vinsert
+p19
+I40
+VQualifiedName: IDrawTask.PLAY_STATE_PLAYING
+p20
+tp21
+I1
+s(Vinsert
+p22
+I43
+VSimpleType: Canvas
+p23
+tp24
+I7
+s(Vinsert
+p25
+I42
+VSimpleName: hasDrawingCache
+p26
+tp27
+I2
+s(Vinsert
+p28
+I42
+VSimpleName: hideDanmakus
+p29
+tp30
+I2
+s(Vinsert
+p31
+I42
+VSimpleName: MotionEvent
+p32
+tp33
+I2
+s(Vinsert
+p34
+I22
+VFieldAccess
+p35
+tp36
+I9
+s(Vinsert
+p37
+I42
+VSimpleName: getLastFrameRenderingTime
+p38
+tp39
+I1
+s(Vinsert
+p40
+I27
+VInfixExpression: ||
+p41
+tp42
+I15
+s(Vinsert
+p43
+I42
+VSimpleName: lockCanvas
+p44
+tp45
+I2
+s(Vinsert
+p46
+I42
+VSimpleName: ANTI_ALIAS_DISABLE_SIZE
+p47
+tp48
+I1
+s(Vinsert
+p49
+I42
+VSimpleName: getFirst
+p50
+tp51
+I2
+s(Vinsert
+p52
+I42
+VSimpleName: reference
+p53
+tp54
+I2
+s(Vinsert
+p55
+I42
+VSimpleName: quit
+p56
+tp57
+I6
+s(Vinsert
+p58
+I40
+VQualifiedName: DanmakuConfigTag.MAXIMUN_LINES
+p59
+tp60
+I1
+s(Vinsert
+p61
+I42
+VSimpleName: getConfig
+p62
+tp63
+I4
+s(Vinsert
+p64
+I42
+VSimpleName: runningDanmakus
+p65
+tp66
+I2
+s(Vinsert
+p67
+I42
+VSimpleName: r
+p68
+tp69
+I2
+s(Vinsert
+p70
+I42
+VSimpleName: ACTION_CONTINUE
+p71
+tp72
+I2
+s(Vinsert
+p73
+I40
+VQualifiedName: msg.obj
+p74
+tp75
+I5
+s(Vinsert
+p76
+I42
+VSimpleName: toTime
+p77
+tp78
+I1
+s(Vinsert
+p79
+I42
+VSimpleName: DanmakusRetainer
+p80
+tp81
+I1
+s(Vinsert
+p82
+I42
+VSimpleName: DanmakuFactory
+p83
+tp84
+I4
+s(Vinsert
+p85
+I42
+VSimpleName: tagName
+p86
+tp87
+I2
+s(Vinsert
+p88
+I42
+VSimpleName: contains
+p89
+tp90
+I1
+s(Vinsert
+p91
+I42
+VSimpleName: reset
+p92
+tp93
+I5
+s(Vinsert
+p94
+I42
+VSimpleName: QUIT
+p95
+tp96
+I3
+s(Vinsert
+p97
+I42
+VSimpleName: schedule
+p98
+tp99
+I1
+s(Vinsert
+p100
+I34
+VNumberLiteral: 5
+p101
+tp102
+I3
+s(Vinsert
+p103
+I42
+VSimpleName: height
+p104
+tp105
+I5
+s(Vinsert
+p106
+I42
+VSimpleName: DanmakuTimer
+p107
+tp108
+I3
+s(Vinsert
+p109
+I42
+VSimpleName: taskListener
+p110
+tp111
+I1
+s(Vinsert
+p112
+I42
+VSimpleName: hasReferences
+p113
+tp114
+I1
+s(Vinsert
+p115
+I42
+VSimpleName: release
+p116
+tp117
+I7
+s(Vinsert
+p118
+I42
+VSimpleName: onFramesFinished
+p119
+tp120
+I1
+s(Vinsert
+p121
+I42
+VSimpleName: currScreenIndex
+p122
+tp123
+I1
+s(Vinsert
+p124
+I42
+VSimpleName: currMillisecond
+p125
+tp126
+I1
+s(Vinsert
+p127
+I27
+VInfixExpression: +
+p128
+tp129
+I10
+s(Vinsert
+p130
+I42
+VSimpleName: mSurfaceHolder
+p131
+tp132
+I1
+s(Vinsert
+p133
+I42
+VSimpleName: lastTotalDanmakuCount
+p134
+tp135
+I1
+s(Vinsert
+p136
+I42
+VSimpleName: capity
+p137
+tp138
+I2
+s(Vinsert
+p139
+I42
+VSimpleName: displayer
+p140
+tp141
+I7
+s(Vinsert
+p142
+I43
+VSimpleType: NullPointerException
+p143
+tp144
+I1
+s(Vinsert
+p145
+I42
+VSimpleName: sleep
+p146
+tp147
+I3
+s(Vinsert
+p148
+I42
+VSimpleName: getBeginPoint
+p149
+tp150
+I1
+s(Vinsert
+p151
+I42
+VSimpleName: getYOff
+p152
+tp153
+I1
+s(Vinsert
+p154
+I42
+VSimpleName: isEmpty
+p155
+tp156
+I6
+s(Vinsert
+p157
+I42
+VSimpleName: out
+p158
+tp159
+I3
+s(Vinsert
+p160
+I42
+VSimpleName: View
+p161
+tp162
+I2
+s(Vinsert
+p163
+I42
+VSimpleName: LinkedList
+p164
+tp165
+I1
+s(Vinsert
+p166
+I42
+VSimpleName: mEndFlag
+p167
+tp168
+I3
+s(Vinsert
+p169
+I40
+VQualifiedName: android.os.SystemClock
+p170
+tp171
+I1
+s(Vinsert
+p172
+I42
+VSimpleName: mRenderingState
+p173
+tp174
+I1
+s(Vinsert
+p175
+I43
+VSimpleType: Spannable
+p176
+tp177
+I1
+s(Vinsert
+p178
+I42
+VSimpleName: DanmakuGlobalConfig
+p179
+tp180
+I1
+s(Vinsert
+p181
+I42
+VSimpleName: mBtnHideDanmaku
+p182
+tp183
+I1
+s(Vinsert
+p184
+I42
+VSimpleName: String
+p185
+tp186
+I15
+s(Vinsert
+p187
+I40
+VQualifiedName: DanmakuConfigTag.SCALE_TEXTSIZE
+p188
+tp189
+I1
+s(Vinsert
+p190
+I42
+VSimpleName: mParser
+p191
+tp192
+I1
+s(Vinsert
+p193
+I40
+VQualifiedName: refDanmaku.paintHeight
+p194
+tp195
+I1
+s(Vinsert
+p196
+I42
+VSimpleName: fromTime
+p197
+tp198
+I1
+s(Vinsert
+p199
+I43
+VSimpleType: Integer
+p200
+tp201
+I2
+s(Vinsert
+p202
+I42
+VSimpleName: currMills
+p203
+tp204
+I1
+s(Vinsert
+p205
+I42
+VSimpleName: mTaskListener
+p206
+tp207
+I8
+s(Vinsert
+p208
+I42
+VSimpleName: Uri
+p209
+tp210
+I3
+s(Vinsert
+p211
+I42
+VSimpleName: obj1
+p212
+tp213
+I4
+s(Vinsert
+p214
+I42
+VSimpleName: Canvas
+p215
+tp216
+I7
+s(Vinsert
+p217
+I42
+VSimpleName: mOnClickListener
+p218
+tp219
+I3
+s(Vinsert
+p220
+I42
+VSimpleName: capacity
+p221
+tp222
+I1
+s(Vinsert
+p223
+I42
+VSimpleName: bitmap
+p224
+tp225
+I5
+s(Vinsert
+p226
+I42
+VSimpleName: pause
+p227
+tp228
+I2
+s(Vinsert
+p229
+I42
+VSimpleName: position
+p230
+tp231
+I1
+s(Vinsert
+p232
+I42
+VSimpleName: RectCache
+p233
+tp234
+I1
+s(Vinsert
+p235
+I42
+VSimpleName: config
+p236
+tp237
+I3
+s(Vinsert
+p238
+I40
+VQualifiedName: DrawHandler.STOP
+p239
+tp240
+I1
+s(Vinsert
+p241
+I83
+VModifier: protected
+p242
+tp243
+I6
+s(Vinsert
+p244
+I42
+VSimpleName: sendEmptyMessage
+p245
+tp246
+I4
+s(Vinsert
+p247
+I42
+VSimpleName: averageTime
+p248
+tp249
+I3
+s(Vinsert
+p250
+I42
+VSimpleName: remeasure
+p251
+tp252
+I3
+s(Vinsert
+p253
+I42
+VSimpleName: c
+p254
+tp255
+I3
+s(Vinsert
+p256
+I42
+VSimpleName: enableMultiThread
+p257
+tp258
+I1
+s(Vinsert
+p259
+I40
+VQualifiedName: BiliDanmakuFactory.REAL_DANMAKU_DURATION
+p260
+tp261
+I1
+s(Vinsert
+p262
+I43
+VSimpleType: AndroidCounter
+p263
+tp264
+I3
+s(Vinsert
+p265
+I42
+VSimpleName: equalsIgnoreCase
+p266
+tp267
+I3
+s(Vinsert
+p268
+I42
+VSimpleName: mBtnShowDanmaku
+p269
+tp270
+I1
+s(Vinsert
+p271
+I42
+VSimpleName: mRectsCachePool
+p272
+tp273
+I1
+s(Vinsert
+p274
+I42
+VSimpleName: lines
+p275
+tp276
+I1
+s(Vinsert
+p277
+I42
+VSimpleName: isProblemBoxDevice
+p278
+tp279
+I1
+s(Vinsert
+p280
+I23
+VFieldDeclaration
+p281
+tp282
+I3
+s(Vinsert
+p283
+I34
+VNumberLiteral: 1
+p284
+tp285
+I8
+s(Vinsert
+p286
+I42
+VSimpleName: e
+p287
+tp288
+I23
+s(Vinsert
+p289
+I42
+VSimpleName: jsonArray
+p290
+tp291
+I1
+s(Vinsert
+p292
+I42
+VSimpleName: mYOff
+p293
+tp294
+I1
+s(Vinsert
+p295
+I42
+VSimpleName: t1
+p296
+tp297
+I1
+s(Vinsert
+p298
+I42
+VSimpleName: mIsObtaining
+p299
+tp300
+I1
+s(Vinsert
+p301
+I25
+VIfStatement
+p302
+tp303
+I138
+s(Vinsert
+p304
+I42
+VSimpleName: evictAll
+p305
+tp306
+I1
+s(Vinsert
+p307
+I42
+VSimpleName: attributes
+p308
+tp309
+I2
+s(Vinsert
+p310
+I42
+VSimpleName: requestClear
+p311
+tp312
+I3
+s(Vinsert
+p313
+I42
+VSimpleName: mDisp
+p314
+tp315
+I2
+s(Vinsert
+p316
+I42
+VSimpleName: viewType
+p317
+tp318
+I1
+s(Vinsert
+p319
+I42
+VSimpleName: onPlayStateChanged
+p320
+tp321
+I2
+s(Vinsert
+p322
+I27
+VInfixExpression: >=
+p323
+tp324
+I2
+s(Vinsert
+p325
+I42
+VSimpleName: ascent
+p326
+tp327
+I1
+s(Vinsert
+p328
+I42
+VSimpleName: addDanmaku
+p329
+tp330
+I3
+s(Vinsert
+p331
+I42
+VSimpleName: isMaxLinesLimited
+p332
+tp333
+I2
+s(Vinsert
+p334
+I45
+VStringLiteral: "CacheManaging"
+p335
+tp336
+I1
+s(Vinsert
+p337
+I42
+VSimpleName: mDrawTimes
+p338
+tp339
+I3
+s(Vinsert
+p340
+I42
+VSimpleName: BIND_CACHE
+p341
+tp342
+I1
+s(Vinsert
+p343
+I27
+VInfixExpression: ==
+p344
+tp345
+I32
+s(Vinsert
+p346
+I40
+VQualifiedName: disp.density
+p347
+tp348
+I1
+s(Vinsert
+p349
+I42
+VSimpleName: clearRetainerFlag
+p350
+tp351
+I2
+s(Vinsert
+p352
+I9
+VBooleanLiteral: true
+p353
+tp354
+I10
+s(Vinsert
+p355
+I62
+VInstanceofExpression
+p356
+tp357
+I1
+s(Vinsert
+p358
+I42
+VSimpleName: seekMills
+p359
+tp360
+I2
+s(Vinsert
+p361
+I42
+VSimpleName: callback
+p362
+tp363
+I1
+s(Vinsert
+p364
+I42
+VSimpleName: createItem
+p365
+tp366
+I1
+s(Vinsert
+p367
+I58
+VVariableDeclarationExpression
+p368
+tp369
+I3
+s(Vinsert
+p370
+I43
+VSimpleType: Menu
+p371
+tp372
+I2
+s(Vinsert
+p373
+I42
+VSimpleName: count
+p374
+tp375
+I4
+s(Vinsert
+p376
+I40
+VQualifiedName: DanmakuFactory.MAX_DANMAKU_DURATION
+p377
+tp378
+I4
+s(Vinsert
+p379
+I34
+VNumberLiteral: 2
+p380
+tp381
+I2
+s(Vinsert
+p382
+I42
+VSimpleName: DEBUG_OPTION
+p383
+tp384
+I2
+s(Vinsert
+p385
+I42
+VSimpleName: fillStreamFromUri
+p386
+tp387
+I1
+s(Vinsert
+p388
+I42
+VSimpleName: decrementAndGet
+p389
+tp390
+I1
+s(Vinsert
+p391
+I42
+VSimpleName: onClick
+p392
+tp393
+I3
+s(Vinsert
+p394
+I74
+VParameterizedType: SoftReference<StaticLayout>
+p395
+tp396
+I1
+s(Vinsert
+p397
+I42
+VSimpleName: itr
+p398
+tp399
+I5
+s(Vinsert
+p400
+I42
+VSimpleName: DanmakuContext
+p401
+tp402
+I3
+s(Vinsert
+p403
+I42
+VSimpleName: set
+p404
+tp405
+I5
+s(Vinsert
+p406
+I42
+VSimpleName: ready
+p407
+tp408
+I2
+s(Vinsert
+p409
+I42
+VSimpleName: VideoView
+p410
+tp411
+I3
+s(Vinsert
+p412
+I43
+VSimpleType: Build
+p413
+tp414
+I1
+s(Vinsert
+p415
+I38
+VPrefixExpression: !
+p416
+tp417
+I21
+s(Vinsert
+p418
+I42
+VSimpleName: removeCallbacks
+p419
+tp420
+I1
+s(Vinsert
+p421
+I42
+VSimpleName: mCacheTimer
+p422
+tp423
+I2
+s(Vinsert
+p424
+I42
+VSimpleName: message
+p425
+tp426
+I1
+s(Vinsert
+p427
+I42
+VSimpleName: AtomicInteger
+p428
+tp429
+I1
+s(Vinsert
+p430
+I42
+VSimpleName: DanmakuView
+p431
+tp432
+I1
+s(Vinsert
+p433
+I40
+VQualifiedName: mTimer.currMillisecond
+p434
+tp435
+I6
+s(Vinsert
+p436
+I42
+VSimpleName: in
+p437
+tp438
+I2
+s(Vinsert
+p439
+I43
+VSimpleType: Boolean
+p440
+tp441
+I3
+s(Vinsert
+p442
+I40
+VQualifiedName: danmaku.isLive
+p443
+tp444
+I1
+s(Vinsert
+p445
+I42
+VSimpleName: isSurfaceCreated
+p446
+tp447
+I1
+s(Vinsert
+p448
+I42
+VSimpleName: data
+p449
+tp450
+I1
+s(Vinsert
+p451
+I42
+VSimpleName: HIDE_DANMAKUS
+p452
+tp453
+I2
+s(Vinsert
+p454
+I31
+VMethodDeclaration
+p455
+tp456
+I45
+s(Vinsert
+p457
+I42
+VSimpleName: mRoot
+p458
+tp459
+I3
+s(Vinsert
+p460
+I42
+VSimpleName: CacheManager
+p461
+tp462
+I1
+s(Vinsert
+p463
+I43
+VSimpleType: MediaPlayer.OnPreparedListener
+p464
+tp465
+I1
+s(Vinsert
+p466
+I27
+VInfixExpression: *
+p467
+tp468
+I6
+s(Vinsert
+p469
+I42
+VSimpleName: subDanmakus
+p470
+tp471
+I3
+s(Vinsert
+p472
+I42
+VSimpleName: willHit
+p473
+tp474
+I1
+s(Vinsert
+p475
+I42
+VSimpleName: lastTime
+p476
+tp477
+I3
+s(Vinsert
+p478
+I42
+VSimpleName: onTouchEvent
+p479
+tp480
+I4
+s(Vinsert
+p481
+I39
+VPrimitiveType: void
+p482
+tp483
+I45
+s(Vinsert
+p484
+I42
+VSimpleName: InterruptedException
+p485
+tp486
+I9
+s(Vinsert
+p487
+I74
+VParameterizedType: ArrayList<>
+p488
+tp489
+I1
+s(Vinsert
+p490
+I40
+VQualifiedName: mHolder.bitmap
+p491
+tp492
+I1
+s(Vinsert
+p493
+I74
+VParameterizedType: AbsDisplayer<?>
+p494
+tp495
+I1
+s(Vinsert
+p496
+I42
+VSimpleName: getRefreshArea
+p497
+tp498
+I1
+s(Vinsert
+p499
+I42
+VSimpleName: setVisibility
+p500
+tp501
+I3
+s(Vinsert
+p502
+I42
+VSimpleName: h
+p503
+tp504
+I4
+s(Vinsert
+p505
+I40
+VQualifiedName: android.widget.VideoView
+p506
+tp507
+I1
+s(Vinsert
+p508
+I42
+VSimpleName: postDelayed
+p509
+tp510
+I1
+s(Vinsert
+p511
+I42
+VSimpleName: staticLayout
+p512
+tp513
+I2
+s(Vinsert
+p514
+I42
+VSimpleName: mCordonTime2
+p515
+tp516
+I2
+s(Vinsert
+p517
+I34
+VNumberLiteral: 200
+p518
+tp519
+I1
+s(Vinsert
+p520
+I42
+VSimpleName: isDuplicate
+p521
+tp522
+I2
+s(Vinsert
+p523
+I42
+VSimpleName: updateMaxDanmakuDuration
+p524
+tp525
+I1
+s(Vinsert
+p526
+I42
+VSimpleName: dtime
+p527
+tp528
+I1
+s(Vinsert
+p529
+I34
+VNumberLiteral: 10
+p530
+tp531
+I2
+s(Vinsert
+p532
+I42
+VSimpleName: recycle
+p533
+tp534
+I3
+s(Vinsert
+p535
+I42
+VSimpleName: obj2
+p536
+tp537
+I3
+s(Vinsert
+p538
+I42
+VSimpleName: notifyDispSizeChanged
+p539
+tp540
+I2
+s(Vinsert
+p541
+I42
+VSimpleName: mRealSize
+p542
+tp543
+I3
+s(Vinsert
+p544
+I42
+VSimpleName: getCurrentTime
+p545
+tp546
+I2
+s(Vinsert
+p547
+I42
+VSimpleName: isRecycled
+p548
+tp549
+I3
+s(Vinsert
+p550
+I43
+VSimpleType: IDanmakuIterator
+p551
+tp552
+I2
+s(Vinsert
+p553
+I42
+VSimpleName: clearFlag
+p554
+tp555
+I2
+s(Vinsert
+p556
+I42
+VSimpleName: notifyAll
+p557
+tp558
+I1
+s(Vinsert
+p559
+I27
+VInfixExpression: !=
+p560
+tp561
+I77
+s(Vinsert
+p562
+I42
+VSimpleName: IDanmakuIterator
+p563
+tp564
+I2
+s(Vinsert
+p565
+I42
+VSimpleName: waitTime
+p566
+tp567
+I1
+s(Vinsert
+p568
+I40
+VQualifiedName: item.time
+p569
+tp570
+I1
+s(Vinsert
+p571
+I42
+VSimpleName: removeAllDanmakus
+p572
+tp573
+I3
+s(Vinsert
+p574
+I42
+VSimpleName: end
+p575
+tp576
+I6
+s(Vinsert
+p577
+I42
+VSimpleName: alignBottom
+p578
+tp579
+I1
+s(Vinsert
+p580
+I42
+VSimpleName: drawTime
+p581
+tp582
+I1
+s(Vinsert
+p583
+I42
+VSimpleName: width
+p584
+tp585
+I2
+s(Vinsert
+p586
+I42
+VSimpleName: isOutside
+p587
+tp588
+I2
+s(Vinsert
+p589
+I42
+VSimpleName: quitFlag
+p590
+tp591
+I4
+s(Vinsert
+p592
+I42
+VSimpleName: loadLibs
+p593
+tp594
+I1
+s(Vinsert
+p595
+I42
+VSimpleName: isViewReady
+p596
+tp597
+I1
+s(Vinsert
+p598
+I42
+VSimpleName: getUptimeMillis
+p599
+tp600
+I1
+s(Vinsert
+p601
+I42
+VSimpleName: mCounter
+p602
+tp603
+I3
+s(Vinsert
+p604
+I42
+VSimpleName: uptimeMillis
+p605
+tp606
+I2
+s(Vinsert
+p607
+I39
+VPrimitiveType: boolean
+p608
+tp609
+I15
+s(Vinsert
+p610
+I42
+VSimpleName: parse
+p611
+tp612
+I3
+s(Vinsert
+p613
+I42
+VSimpleName: hashCode
+p614
+tp615
+I1
+s(Vinsert
+p616
+I42
+VSimpleName: Integer
+p617
+tp618
+I2
+s(Vinsert
+p619
+I43
+VSimpleType: IDrawTask.TaskListener
+p620
+tp621
+I1
+s(Vinsert
+p622
+I42
+VSimpleName: firstCache
+p623
+tp624
+I3
+s(Vinsert
+p625
+I45
+VStringLiteral: "4.4"
+p626
+tp627
+I1
+s(Vinsert
+p628
+I74
+VParameterizedType: Iterator<BaseDanmaku>
+p629
+tp630
+I3
+s(Vinsert
+p631
+I42
+VSimpleName: mCapity
+p632
+tp633
+I1
+s(Vinsert
+p634
+I43
+VSimpleType: DanmakuContext
+p635
+tp636
+I3
+s(Vinsert
+p637
+I42
+VSimpleName: measureText
+p638
+tp639
+I2
+s(Vinsert
+p640
+I42
+VSimpleName: AndroidCounter
+p641
+tp642
+I3
+s(Vinsert
+p643
+I42
+VSimpleName: stream
+p644
+tp645
+I3
+s(Vinsert
+p646
+I42
+VSimpleName: showFPS
+p647
+tp648
+I1
+s(Vinsert
+p649
+I42
+VSimpleName: getOnDanmakuClickListener
+p650
+tp651
+I4
+s(Vinsert
+p652
+I11
+VCastExpression
+p653
+tp654
+I27
+s(Vinsert
+p655
+I42
+VSimpleName: getSystemService
+p656
+tp657
+I2
+s(Vinsert
+p658
+I42
+VSimpleName: x
+p659
+tp660
+I2
+s(Vinsert
+p661
+I42
+VSimpleName: onDanmakuClick
+p662
+tp663
+I1
+s(Vinsert
+p664
+I42
+VSimpleName: mMaxCacheSize
+p665
+tp666
+I2
+s(Vinsert
+p667
+I40
+VQualifiedName: mRenderingState.consumingTime
+p668
+tp669
+I3
+s(Vinsert
+p670
+I42
+VSimpleName: mDispDensity
+p671
+tp672
+I1
+s(Vinsert
+p673
+I42
+VSimpleName: getInstance
+p674
+tp675
+I2
+s(Vinsert
+p676
+I42
+VSimpleName: isPaused
+p677
+tp678
+I1
+s(Vinsert
+p679
+I42
+VSimpleName: result
+p680
+tp681
+I2
+s(Vinsert
+p682
+I42
+VSimpleName: Bitmap
+p683
+tp684
+I2
+s(Vinsert
+p685
+I9
+VBooleanLiteral: false
+p686
+tp687
+I6
+s(Vinsert
+p688
+I42
+VSimpleName: interrupt
+p689
+tp690
+I1
+s(Vinsert
+p691
+I42
+VSimpleName: mPause
+p692
+tp693
+I1
+s(Vinsert
+p694
+I40
+VQualifiedName: mCacheTimer.currMillisecond
+p695
+tp696
+I3
+s(Vinsert
+p697
+I42
+VSimpleName: mLockObject
+p698
+tp699
+I1
+s(Vinsert
+p700
+I42
+VSimpleName: mBaseTime
+p701
+tp702
+I1
+s(Vinsert
+p703
+I40
+VQualifiedName: mContext.mGlobalFlagValues
+p704
+tp705
+I3
+s(Vinsert
+p706
+I42
+VSimpleName: getLeft
+p707
+tp708
+I1
+s(Vinsert
+p709
+I42
+VSimpleName: forEach
+p710
+tp711
+I1
+s(Vinsert
+p712
+I42
+VSimpleName: setHardwareAccelerated
+p713
+tp714
+I1
+s(Vinsert
+p715
+I59
+VVariableDeclarationFragment
+p716
+tp717
+I87
+s(Vinsert
+p718
+I42
+VSimpleName: danmakuList
+p719
+tp720
+I15
+s(Vinsert
+p721
+I42
+VSimpleName: parser
+p722
+tp723
+I4
+s(Vinsert
+p724
+I42
+VSimpleName: setDuplicateMergingEnabled
+p725
+tp726
+I2
+s(Vinsert
+p727
+I24
+VForStatement
+p728
+tp729
+I3
+s(Vinsert
+p730
+I43
+VSimpleType: List
+p731
+tp732
+I1
+s(Vinsert
+p733
+I42
+VSimpleName: fixedTop
+p734
+tp735
+I1
+s(Vinsert
+p736
+I42
+VSimpleName: getActualTime
+p737
+tp738
+I1
+s(Vinsert
+p739
+I42
+VSimpleName: removeAllReferences
+p740
+tp741
+I1
+s(Vinsert
+p742
+I42
+VSimpleName: localName
+p743
+tp744
+I2
+s(Vinsert
+p745
+I40
+VQualifiedName: firstCache.time
+p746
+tp747
+I1
+s(Vinsert
+p748
+I42
+VSimpleName: drawColor
+p749
+tp750
+I3
+s(Vinsert
+p751
+I43
+VSimpleType: MediaPlayer
+p752
+tp753
+I1
+s(Vinsert
+p754
+I42
+VSimpleName: mOnFrameAvailableListener
+p755
+tp756
+I1
+s(Vinsert
+p757
+I42
+VSimpleName: tempStr
+p758
+tp759
+I3
+s(Vinsert
+p760
+I18
+VContinueStatement
+p761
+tp762
+I3
+s(Vinsert
+p763
+I42
+VSimpleName: mThresholdTime
+p764
+tp765
+I3
+s(Vinsert
+p766
+I42
+VSimpleName: dTime
+p767
+tp768
+I1
+s(Vinsert
+p769
+I65
+VTagElement
+p770
+tp771
+I1
+s(Vinsert
+p772
+I42
+VSimpleName: findViewById
+p773
+tp774
+I4
+s(Vinsert
+p775
+I42
+VSimpleName: getScaledDensity
+p776
+tp777
+I1
+s(Vinsert
+p778
+I42
+VSimpleName: getFirstCacheTime
+p779
+tp780
+I1
+s(Vinsert
+p781
+I42
+VSimpleName: mCacheManager
+p782
+tp783
+I10
+s(Vinsert
+p784
+I61
+VWhileStatement
+p785
+tp786
+I8
+s(Vinsert
+p787
+I42
+VSimpleName: paintWidth
+p788
+tp789
+I4
+s(Vinsert
+p790
+I42
+VSimpleName: compare
+p791
+tp792
+I3
+s(Vinsert
+p793
+I42
+VSimpleName: GlobalFlagValues
+p794
+tp795
+I2
+s(Vinsert
+p796
+I42
+VSimpleName: ACTION_BREAK
+p797
+tp798
+I3
+s(Vinsert
+p799
+I42
+VSimpleName: buildDanmakuDrawingCache
+p800
+tp801
+I1
+s(Vinsert
+p802
+I43
+VSimpleType: SoftReference
+p803
+tp804
+I3
+s(Vinsert
+p805
+I42
+VSimpleName: skip
+p806
+tp807
+I2
+s(Vinsert
+p808
+I42
+VSimpleName: mSortType
+p809
+tp810
+I3
+s(Vinsert
+p811
+I42
+VSimpleName: loadAcDanmakus
+p812
+tp813
+I1
+s(Vinsert
+p814
+I40
+VQualifiedName: disp.height
+p815
+tp816
+I2
+s(Vinsert
+p817
+I43
+VSimpleType: Context
+p818
+tp819
+I2
+s(Vinsert
+p820
+I42
+VSimpleName: getNextPoolable
+p821
+tp822
+I1
+s(Vinsert
+p823
+I43
+VSimpleType: Bitmap
+p824
+tp825
+I1
+s(Vinsert
+p826
+I74
+VParameterizedType: SortedSet<BaseDanmaku>
+p827
+tp828
+I3
+s(Vinsert
+p829
+I42
+VSimpleName: MAX_CACHE_SCREEN_SIZE
+p830
+tp831
+I1
+s(Vinsert
+p832
+I43
+VSimpleType: AtomicInteger
+p833
+tp834
+I1
+s(Vinsert
+p835
+I42
+VSimpleName: cache
+p836
+tp837
+I7
+s(Vinsert
+p838
+I42
+VSimpleName: mCache
+p839
+tp840
+I2
+s(Vinsert
+p841
+I42
+VSimpleName: DanmakuLoaderFactory
+p842
+tp843
+I2
+s(Vinsert
+p844
+I40
+VQualifiedName: subItems.items
+p845
+tp846
+I1
+s(Vinsert
+p847
+I42
+VSimpleName: linePaths
+p848
+tp849
+I3
+s(Vinsert
+p850
+I66
+VTextElement: Created by ch on 15-12-9.
+p851
+tp852
+I1
+s(Vinsert
+p853
+I42
+VSimpleName: startMills
+p854
+tp855
+I2
+s(Vinsert
+p856
+I42
+VSimpleName: setTextSize
+p857
+tp858
+I1
+s(Vinsert
+p859
+I40
+VQualifiedName: danmaku.obj
+p860
+tp861
+I3
+s(Vinsert
+p862
+I42
+VSimpleName: what
+p863
+tp864
+I3
+s(Vinsert
+p865
+I42
+VSimpleName: mCaches
+p866
+tp867
+I3
+s(Vinsert
+p868
+I51
+VSynchronizedStatement
+p869
+tp870
+I8
+s(Vinsert
+p871
+I42
+VSimpleName: Timer
+p872
+tp873
+I1
+s(Vinsert
+p874
+I42
+VSimpleName: isOffset
+p875
+tp876
+I1
+s(Vinsert
+p877
+I42
+VSimpleName: i
+p878
+tp879
+I15
+s(Vinsert
+p880
+I42
+VSimpleName: BiliDanmakuLoader
+p881
+tp882
+I1
+s(Vinsert
+p883
+I42
+VSimpleName: drawingFinished
+p884
+tp885
+I1
+s(Vinsert
+p886
+I42
+VSimpleName: ILoader
+p887
+tp888
+I2
+s(Vinsert
+p889
+I42
+VSimpleName: top
+p890
+tp891
+I5
+s(Vinsert
+p892
+I42
+VSimpleName: isRealX86Arch
+p893
+tp894
+I1
+s(Vinsert
+p895
+I42
+VSimpleName: LinePath
+p896
+tp897
+I1
+s(Vinsert
+p898
+I42
+VSimpleName: mThread
+p899
+tp900
+I4
+s(Vinsert
+p901
+I42
+VSimpleName: performClickWithlatest
+p902
+tp903
+I1
+s(Vinsert
+p904
+I45
+VStringLiteral: "skip:"
+p905
+tp906
+I1
+s(Vinsert
+p907
+I42
+VSimpleName: FORCE_RENDER
+p908
+tp909
+I2
+s(Vinsert
+p910
+I42
+VSimpleName: Pools
+p911
+tp912
+I1
+s(Vinsert
+p913
+I42
+VSimpleName: event
+p914
+tp915
+I2
+s(Vinsert
+p916
+I42
+VSimpleName: seekPos
+p917
+tp918
+I1
+s(Vinsert
+p919
+I42
+VSimpleName: averageRenderingTime
+p920
+tp921
+I1
+s(Vinsert
+p922
+I42
+VSimpleName: json
+p923
+tp924
+I2
+s(Vinsert
+p925
+I54
+VTryStatement
+p926
+tp927
+I12
+s(Vinsert
+p928
+I42
+VSimpleName: cacheSize
+p929
+tp930
+I1
+s(Vinsert
+p931
+I42
+VSimpleName: endTime
+p932
+tp933
+I2
+s(Vinsert
+p934
+I34
+VNumberLiteral: 60
+p935
+tp936
+I1
+s(Vinsert
+p937
+I43
+VSimpleType: ArrayList
+p938
+tp939
+I2
+s(Vinsert
+p940
+I43
+VSimpleType: IOException
+p941
+tp942
+I1
+s(Vinsert
+p943
+I42
+VSimpleName: mDanmakusRetainer
+p944
+tp945
+I3
+s(Vinsert
+p946
+I42
+VSimpleName: prepare
+p947
+tp948
+I3
+s(Vinsert
+p949
+I42
+VSimpleName: currentTimeMillis
+p950
+tp951
+I17
+s(Vinsert
+p952
+I42
+VSimpleName: IDisplayer
+p953
+tp954
+I2
+s(Vinsert
+p955
+I42
+VSimpleName: NullPointerException
+p956
+tp957
+I1
+s(Vinsert
+p958
+I42
+VSimpleName: counter
+p959
+tp960
+I3
+s(Vinsert
+p961
+I42
+VSimpleName: requestClearTimeout
+p962
+tp963
+I1
+s(Vinsert
+p964
+I42
+VSimpleName: onCreateViewHolder
+p965
+tp966
+I1
+s(Vinsert
+p967
+I42
+VSimpleName: lrdrInstance
+p968
+tp969
+I3
+s(Vinsert
+p970
+I42
+VSimpleName: DanmakuFilters
+p971
+tp972
+I1
+s(Vinsert
+p973
+I42
+VSimpleName: addLast
+p974
+tp975
+I1
+s(Vinsert
+p976
+I42
+VSimpleName: clear
+p977
+tp978
+I22
+s(Vinsert
+p979
+I42
+VSimpleName: checkSizeEquals
+p980
+tp981
+I1
+s(Vinsert
+p982
+I42
+VSimpleName: Object
+p983
+tp984
+I2
+s(Vinsert
+p985
+I42
+VSimpleName: fromWorkerThread
+p986
+tp987
+I1
+s(Vinsert
+p988
+I42
+VSimpleName: filters
+p989
+tp990
+I1
+s(Vinsert
+p991
+I42
+VSimpleName: getRowBytes
+p992
+tp993
+I1
+s(Vinsert
+p994
+I42
+VSimpleName: use
+p995
+tp996
+I2
+s(Vinsert
+p997
+I42
+VSimpleName: lock
+p998
+tp999
+I1
+s(Vinsert
+p1000
+I43
+VSimpleType: Uri
+p1001
+tp1002
+I2
+s(Vinsert
+p1003
+I39
+VPrimitiveType: long
+p1004
+tp1005
+I24
+s(Vinsert
+p1006
+I42
+VSimpleName: mDanmakusVisible
+p1007
+tp1008
+I5
+s(Vinsert
+p1009
+I42
+VSimpleName: endMills
+p1010
+tp1011
+I1
+s(Vinsert
+p1012
+I34
+VNumberLiteral: 8
+p1013
+tp1014
+I1
+s(Vinsert
+p1015
+I42
+VSimpleName: time
+p1016
+tp1017
+I3
+s(Vinsert
+p1018
+I43
+VSimpleType: DanmakusRetainer
+p1019
+tp1020
+I1
+s(Vinsert
+p1021
+I42
+VSimpleName: uri
+p1022
+tp1023
+I5
+s(Vinsert
+p1024
+I42
+VSimpleName: append
+p1025
+tp1026
+I1
+s(Vinsert
+p1027
+I42
+VSimpleName: startTime
+p1028
+tp1029
+I7
+s(Vinsert
+p1030
+I43
+VSimpleType: AbsDisplayer
+p1031
+tp1032
+I3
+s(Vinsert
+p1033
+I43
+VSimpleType: BaseDanmaku
+p1034
+tp1035
+I36
+s(Vinsert
+p1036
+I42
+VSimpleName: seek
+p1037
+tp1038
+I3
+s(Vinsert
+p1039
+I42
+VSimpleName: T
+p1040
+tp1041
+I1
+s(Vinsert
+p1042
+I43
+VSimpleType: LinkedList
+p1043
+tp1044
+I1
+s(Vinsert
+p1045
+I40
+VQualifiedName: mContext.cachingPolicy.maxTimesOfReusableFinds
+p1046
+tp1047
+I1
+s(Vinsert
+p1048
+I40
+VQualifiedName: AbsDanmakuSync.SYNC_STATE_PLAYING
+p1049
+tp1050
+I1
+s(Vinsert
+p1051
+I42
+VSimpleName: loadDanmakus
+p1052
+tp1053
+I1
+s(Vinsert
+p1054
+I40
+VQualifiedName: danmaku.lines.length
+p1055
+tp1056
+I1
+s(Vinsert
+p1057
+I42
+VSimpleName: DrawHelper
+p1058
+tp1059
+I3
+s(Vinsert
+p1060
+I43
+VSimpleType: Duration
+p1061
+tp1062
+I1
+s(Vinsert
+p1063
+I42
+VSimpleName: GestureDetector
+p1064
+tp1065
+I1
+s(Vinsert
+p1066
+I42
+VSimpleName: left
+p1067
+tp1068
+I2
+s(Vinsert
+p1069
+I34
+VNumberLiteral: 8192
+p1070
+tp1071
+I1
+s(Vinsert
+p1072
+I42
+VSimpleName: visibleDanmakus
+p1073
+tp1074
+I1
+s(Vinsert
+p1075
+I34
+VNumberLiteral: 0
+p1076
+tp1077
+I29
+s(Vinsert
+p1078
+I36
+VParenthesizedExpression
+p1079
+tp1080
+I21
+s(Vinsert
+p1081
+I57
+VTypeLiteral
+p1082
+tp1083
+I1
+s(Vinsert
+p1084
+I42
+VSimpleName: Log
+p1085
+tp1086
+I8
+s(Vinsert
+p1087
+I42
+VSimpleName: surfaceHolder
+p1088
+tp1089
+I1
+s(Vinsert
+p1090
+I42
+VSimpleName: Attributes
+p1091
+tp1092
+I2
+s(Vinsert
+p1093
+I42
+VSimpleName: onPrepareDrawing
+p1094
+tp1095
+I1
+s(Vinsert
+p1096
+I42
+VSimpleName: last
+p1097
+tp1098
+I8
+s(Vinsert
+p1099
+I42
+VSimpleName: mRenderer
+p1100
+tp1101
+I4
+s(Vinsert
+p1102
+I42
+VSimpleName: SystemClock
+p1103
+tp1104
+I1
+s(Vinsert
+p1105
+I52
+VThisExpression
+p1106
+tp1107
+I16
+s(Vinsert
+p1108
+I45
+VStringLiteral: "end"
+p1109
+tp1110
+I1
+s(Vinsert
+p1111
+I40
+VQualifiedName: danmaku.lines
+p1112
+tp1113
+I1
+s(Vinsert
+p1114
+I42
+VSimpleName: dataSource
+p1115
+tp1116
+I1
+s(Vinsert
+p1117
+I42
+VSimpleName: orderInScreen
+p1118
+tp1119
+I2
+s(Vinsert
+p1120
+I70
+VEnhancedForStatement
+p1121
+tp1122
+I1
+s(Vinsert
+p1123
+I42
+VSimpleName: consumer
+p1124
+tp1125
+I4
+s(Vinsert
+p1126
+I42
+VSimpleName: onDanmakuClickListener
+p1127
+tp1128
+I1
+s(Vinsert
+p1129
+I14
+VClassInstanceCreation
+p1130
+tp1131
+I18
+s(Vinsert
+p1132
+I42
+VSimpleName: hasPassedFilter
+p1133
+tp1134
+I1
+s(Vinsert
+p1135
+I42
+VSimpleName: setVideoPath
+p1136
+tp1137
+I2
+s(Vinsert
+p1138
+I74
+VParameterizedType: LinkedList<BaseDanmaku>
+p1139
+tp1140
+I1
+s(Vinsert
+p1141
+I42
+VSimpleName: ACTION_REMOVE
+p1142
+tp1143
+I1
+s(Vinsert
+p1144
+I42
+VSimpleName: setTransparency
+p1145
+tp1146
+I1
+s(Vinsert
+p1147
+I42
+VSimpleName: mLock
+p1148
+tp1149
+I2
+s(Vinsert
+p1150
+I43
+VSimpleType: ILoader
+p1151
+tp1152
+I2
+s(Vinsert
+p1153
+I40
+VQualifiedName: android.os.Build.VERSION.RELEASE
+p1154
+tp1155
+I4
+s(Vinsert
+p1156
+I42
+VSimpleName: resetDurationsData
+p1157
+tp1158
+I1
+s(Vinsert
+p1159
+I42
+VSimpleName: JSONObject
+p1160
+tp1161
+I2
+s(Vinsert
+p1162
+I43
+VSimpleType: IDisplayer
+p1163
+tp1164
+I2
+s(Vinsert
+p1165
+I42
+VSimpleName: add
+p1166
+tp1167
+I12
+s(Vinsert
+p1168
+I42
+VSimpleName: getDrawingCache
+p1169
+tp1170
+I1
+s(Vinsert
+p1171
+I42
+VSimpleName: fix
+p1172
+tp1173
+I1
+s(Vinsert
+p1174
+I42
+VSimpleName: fbdrInstance
+p1175
+tp1176
+I2
+s(Vinsert
+p1177
+I42
+VSimpleName: action
+p1178
+tp1179
+I2
+s(Vinsert
+p1180
+I39
+VPrimitiveType: float
+p1181
+tp1182
+I5
+s(Vinsert
+p1183
+I42
+VSimpleName: JSONException
+p1184
+tp1185
+I1
+s(Vinsert
+p1186
+I42
+VSimpleName: requestRender
+p1187
+tp1188
+I1
+s(Vinsert
+p1189
+I50
+VSwitchStatement
+p1190
+tp1191
+I1
+s(Vinsert
+p1192
+I42
+VSimpleName: getScheme
+p1193
+tp1194
+I2
+s(Vinsert
+p1195
+I42
+VSimpleName: drawText
+p1196
+tp1197
+I3
+s(Vinsert
+p1198
+I42
+VSimpleName: currMillis
+p1199
+tp1200
+I1
+s(Vinsert
+p1201
+I42
+VSimpleName: pausedPostion
+p1202
+tp1203
+I4
+s(Vinsert
+p1204
+I83
+VModifier: private
+p1205
+tp1206
+I9
+s(Vinsert
+p1207
+I42
+VSimpleName: requestBuild
+p1208
+tp1209
+I1
+s(Vinsert
+p1210
+I42
+VSimpleName: danmakuShown
+p1211
+tp1212
+I1
+s(Vinsert
+p1213
+I42
+VSimpleName: unregisterConfigChangedCallback
+p1214
+tp1215
+I1
+s(Vinsert
+p1216
+I42
+VSimpleName: DanmakuUtils
+p1217
+tp1218
+I2
+s(Vinsert
+p1219
+I42
+VSimpleName: getAverageRenderingTime
+p1220
+tp1221
+I2
+s(Vinsert
+p1222
+I43
+VSimpleType: Iterator
+p1223
+tp1224
+I5
+s(Vinsert
+p1225
+I43
+VSimpleType: MotionEvent
+p1226
+tp1227
+I2
+s(Vinsert
+p1228
+I42
+VSimpleName: inflate
+p1229
+tp1230
+I2
+s(Vinsert
+p1231
+I42
+VSimpleName: mBtnResumeDanmaku
+p1232
+tp1233
+I1
+s(Vinsert
+p1234
+I43
+VSimpleType: ActivityManager
+p1235
+tp1236
+I2
+s(Vinsert
+p1237
+I42
+VSimpleName: hasNext
+p1238
+tp1239
+I4
+s(Vinsert
+p1240
+I42
+VSimpleName: indexOf
+p1241
+tp1242
+I1
+s(Vinsert
+p1243
+I42
+VSimpleName: length
+p1244
+tp1245
+I4
+s(Vinsert
+p1246
+I42
+VSimpleName: List
+p1247
+tp1248
+I1
+s(Vinsert
+p1249
+I42
+VSimpleName: mDuplicateMergingEnable
+p1250
+tp1251
+I3
+s(Vinsert
+p1252
+I42
+VSimpleName: iterator
+p1253
+tp1254
+I10
+s(Vinsert
+p1255
+I42
+VSimpleName: getVisibleDanmakusOnTime
+p1256
+tp1257
+I1
+s(Vinsert
+p1258
+I42
+VSimpleName: scheme
+p1259
+tp1260
+I2
+s(Vinsert
+p1261
+I42
+VSimpleName: setCallback
+p1262
+tp1263
+I1
+s(Vinsert
+p1264
+I42
+VSimpleName: mTimer
+p1265
+tp1266
+I6
+s(Vinsert
+p1267
+I42
+VSimpleName: getDesiredWidth
+p1268
+tp1269
+I1
+s(Vinsert
+p1270
+I42
+VSimpleName: Context
+p1271
+tp1272
+I2
+s(Vinsert
+p1273
+I42
+VSimpleName: UPDATE
+p1274
+tp1275
+I3
+s(Vinsert
+p1276
+I42
+VSimpleName: draw
+p1277
+tp1278
+I3
+s(Vinsert
+p1279
+I42
+VSimpleName: canvas
+p1280
+tp1281
+I22
+s(Vinsert
+p1282
+I42
+VSimpleName: ms
+p1283
+tp1284
+I1
+s(Vinsert
+p1285
+I43
+VSimpleType: DrawingCacheHolder
+p1286
+tp1287
+I2
+s(Vinsert
+p1288
+I40
+VQualifiedName: endSubItem.time
+p1289
+tp1290
+I1
+s(Vinsert
+p1291
+I43
+VSimpleType: Field
+p1292
+tp1293
+I1
+s(Vinsert
+p1294
+I45
+VStringLiteral: "bili"
+p1295
+tp1296
+I2
+s(Vinsert
+p1297
+I42
+VSimpleName: pushed
+p1298
+tp1299
+I4
+s(Vinsert
+p1300
+I42
+VSimpleName: isStop
+p1301
+tp1302
+I3
+s(Vinsert
+p1303
+I42
+VSimpleName: setTimer
+p1304
+tp1305
+I5
+s(Vinsert
+p1306
+I39
+VPrimitiveType: int
+p1307
+tp1308
+I28
+s(Vinsert
+p1309
+I42
+VSimpleName: getMenuInflater
+p1310
+tp1311
+I2
+s(Vinsert
+p1312
+I83
+VModifier: final
+p1313
+tp1314
+I8
+s(Vinsert
+p1315
+I27
+VInfixExpression: &&
+p1316
+tp1317
+I27
+s(Vinsert
+p1318
+I42
+VSimpleName: finitePool
+p1319
+tp1320
+I1
+s(Vinsert
+p1321
+I42
+VSimpleName: view
+p1322
+tp1323
+I1
+s(Vinsert
+p1324
+I42
+VSimpleName: datas
+p1325
+tp1326
+I1
+s(Vinsert
+p1327
+I42
+VSimpleName: setLastFrameRenderingTime
+p1328
+tp1329
+I1
+s(Vinsert
+p1330
+I42
+VSimpleName: getLooper
+p1331
+tp1332
+I3
+s(Vinsert
+p1333
+I42
+VSimpleName: loadBiliDanmakus
+p1334
+tp1335
+I2
+s(Vinsert
+p1336
+I42
+VSimpleName: recordRenderingTime
+p1337
+tp1338
+I1
+s(Vinsert
+p1339
+I42
+VSimpleName: nativeBitmapField
+p1340
+tp1341
+I2
+s(Vinsert
+p1342
+I42
+VSimpleName: mLoader
+p1343
+tp1344
+I1
+s(Vinsert
+p1345
+I42
+VSimpleName: IDanmakus
+p1346
+tp1347
+I1
+s(Vinsert
+p1348
+I83
+VModifier: static
+p1349
+tp1350
+I5
+s(Vinsert
+p1351
+I42
+VSimpleName: toString
+p1352
+tp1353
+I1
+s(Vinsert
+p1354
+I42
+VSimpleName: Boolean
+p1355
+tp1356
+I3
+s(Vinsert
+p1357
+I42
+VSimpleName: geCurrenttTime
+p1358
+tp1359
+I1
+s(Vinsert
+p1360
+I42
+VSimpleName: toggleDrawing
+p1361
+tp1362
+I1
+s(Vinsert
+p1363
+I42
+VSimpleName: subnew
+p1364
+tp1365
+I2
+s(Vinsert
+p1366
+I40
+VQualifiedName: R.id.rotate
+p1367
+tp1368
+I1
+s(Vinsert
+p1369
+I34
+VNumberLiteral: 9
+p1370
+tp1371
+I1
+s(Vinsert
+p1372
+I42
+VSimpleName: join
+p1373
+tp1374
+I5
+s(Vinsert
+p1375
+I42
+VSimpleName: v
+p1376
+tp1377
+I1
+s(Vinsert
+p1378
+I43
+VSimpleType: IDrawingCache
+p1379
+tp1380
+I1
+s(Vinsert
+p1381
+I42
+VSimpleName: begin
+p1382
+tp1383
+I4
+s(Vinsert
+p1384
+I42
+VSimpleName: close
+p1385
+tp1386
+I1
+s(Vinsert
+p1387
+I43
+VSimpleType: JSONException
+p1388
+tp1389
+I1
+s(Vinsert
+p1390
+I42
+VSimpleName: drawTask
+p1391
+tp1392
+I24
+s(Vinsert
+p1393
+I42
+VSimpleName: mDisplayer
+p1394
+tp1395
+I2
+s(Vinsert
+p1396
+I42
+VSimpleName: strokeLeft
+p1397
+tp1398
+I1
+s(Vinsert
+p1399
+I42
+VSimpleName: onDanmakuRemoved
+p1400
+tp1401
+I1
+s(Vinsert
+p1402
+I42
+VSimpleName: maxCacheDuration
+p1403
+tp1404
+I1
+s(Vinsert
+p1405
+I42
+VSimpleName: mReady
+p1406
+tp1407
+I1
+s(Vinsert
+p1408
+I42
+VSimpleName: getContext
+p1409
+tp1410
+I1
+s(Vinsert
+p1411
+I29
+VJavadoc
+p1412
+tp1413
+I1
+s(Vinsert
+p1414
+I37
+VPostfixExpression: ++
+p1415
+tp1416
+I7
+s(Vinsert
+p1417
+I42
+VSimpleName: paint
+p1418
+tp1419
+I6
+s(Vinsert
+p1420
+I42
+VSimpleName: mPool
+p1421
+tp1422
+I1
+s(Vinsert
+p1423
+I42
+VSimpleName: next
+p1424
+tp1425
+I7
+s(Vinsert
+p1426
+I42
+VSimpleName: clearDanmakusOnScreen
+p1427
+tp1428
+I6
+s(Vinsert
+p1429
+I42
+VSimpleName: mDispWidth
+p1430
+tp1431
+I1
+s(Vinsert
+p1432
+I43
+VSimpleType: IllegalDataException
+p1433
+tp1434
+I1
+s(Vinsert
+p1435
+I42
+VSimpleName: min
+p1436
+tp1437
+I3
+s(Vinsert
+p1438
+I27
+VInfixExpression: <=
+p1439
+tp1440
+I4
+s(Vinsert
+p1441
+I42
+VSimpleName: put
+p1442
+tp1443
+I1
+s(Vinsert
+p1444
+I42
+VSimpleName: getSyncState
+p1445
+tp1446
+I1
+s(Vinsert
+p1447
+I42
+VSimpleName: first
+p1448
+tp1449
+I2
+s(Vinsert
+p1450
+I42
+VSimpleName: destroy
+p1451
+tp1452
+I2
+s(Vinsert
+p1453
+I42
+VSimpleName: requestClearAll
+p1454
+tp1455
+I1
+s(Vinsert
+p1456
+I43
+VSimpleType: Thread
+p1457
+tp1458
+I1
+s(Vinsert
+p1459
+I42
+VSimpleName: createDanmaku
+p1460
+tp1461
+I1
+s(Vinsert
+p1462
+I42
+VSimpleName: loader
+p1463
+tp1464
+I1
+s(Vinsert
+p1465
+I27
+VInfixExpression: /
+p1466
+tp1467
+I4
+s(Vinsert
+p1468
+I40
+VQualifiedName: startItem.time
+p1469
+tp1470
+I1
+s(Vinsert
+p1471
+I42
+VSimpleName: Spannable
+p1472
+tp1473
+I1
+s(Vinsert
+p1474
+I42
+VSimpleName: setPoints
+p1475
+tp1476
+I1
+s(Vinsert
+p1477
+I40
+VQualifiedName: mContext.mDanmakuFactory.MAX_DANMAKU_DURATION
+p1478
+tp1479
+I1
+s(Vinsert
+p1480
+I42
+VSimpleName: SoftReference
+p1481
+tp1482
+I3
+s(Vinsert
+p1483
+I42
+VSimpleName: removeCallbacksAndMessages
+p1484
+tp1485
+I4
+s(Vinsert
+p1486
+I42
+VSimpleName: INDEFINITE_TIME
+p1487
+tp1488
+I1
+s(Vinsert
+p1489
+I45
+VStringLiteral: "4.4.1"
+p1490
+tp1491
+I1
+s(Vinsert
+p1492
+I42
+VSimpleName: getJSONObject
+p1493
+tp1494
+I2
+s(Vinsert
+p1495
+I42
+VSimpleName: log
+p1496
+tp1497
+I1
+s(Vinsert
+p1498
+I42
+VSimpleName: setText
+p1499
+tp1500
+I1
+s(Vinsert
+p1501
+I42
+VSimpleName: mContext
+p1502
+tp1503
+I5
+s(Vinsert
+p1504
+I34
+VNumberLiteral: 30
+p1505
+tp1506
+I1
+s(Vinsert
+p1507
+I42
+VSimpleName: notifyRendering
+p1508
+tp1509
+I2
+s(Vinsert
+p1510
+I43
+VSimpleType: SortedSet
+p1511
+tp1512
+I3
+s(Vinsert
+p1513
+I40
+VQualifiedName: MediaPlayer.OnPreparedListener
+p1514
+tp1515
+I1
+s(Vinsert
+p1516
+I42
+VSimpleName: t2
+p1517
+tp1518
+I1
+s(Vinsert
+p1519
+I42
+VSimpleName: onDanmakuConfigChanged
+p1520
+tp1521
+I2
+s(Vinsert
+p1522
+I43
+VSimpleType: DanmakuFactory
+p1523
+tp1524
+I1
+s(Vinsert
+p1525
+I43
+VSimpleType: CacheManager
+p1526
+tp1527
+I1
+s(Vinsert
+p1528
+I42
+VSimpleName: start
+p1529
+tp1530
+I6
+s(Vinsert
+p1531
+I42
+VSimpleName: getResources
+p1532
+tp1533
+I5
+s(Vinsert
+p1534
+I43
+VSimpleType: IDanmakus
+p1535
+tp1536
+I1
+s(Vinsert
+p1537
+I42
+VSimpleName: update
+p1538
+tp1539
+I18
+s(Vinsert
+p1540
+I45
+VStringLiteral: "\u005cn\u005cn"
+p1541
+tp1542
+I2
+s(Vinsert
+p1543
+I34
+VNumberLiteral: 3
+p1544
+tp1545
+I1
+s(Vinsert
+p1546
+I42
+VSimpleName: mScreenSize
+p1547
+tp1548
+I1
+s(Vinsert
+p1549
+I42
+VSimpleName: ftdrInstance
+p1550
+tp1551
+I2
+s(Vinsert
+p1552
+I42
+VSimpleName: Paint
+p1553
+tp1554
+I2
+s(Vinsert
+p1555
+I42
+VSimpleName: UPDATE_WHEN_PAUSED
+p1556
+tp1557
+I1
+s(Vinsert
+p1558
+I40
+VQualifiedName: IDrawTask.TaskListener
+p1559
+tp1560
+I1
+s(Vinsert
+p1561
+I42
+VSimpleName: isAlive
+p1562
+tp1563
+I1
+s(Vinsert
+p1564
+I43
+VSimpleType: InterruptedException
+p1565
+tp1566
+I9
+s(Vinsert
+p1567
+I42
+VSimpleName: refreshRect
+p1568
+tp1569
+I1
+s(Vinsert
+p1570
+I42
+VSimpleName: getWidth
+p1571
+tp1572
+I14
+s(Vinsert
+p1573
+I42
+VSimpleName: eraseColor
+p1574
+tp1575
+I1
+s(Vinsert
+p1576
+I42
+VSimpleName: drawDuration
+p1577
+tp1578
+I2
+s(Vinsert
+p1579
+I33
+VNullLiteral
+p1580
+tp1581
+I103
+s(Vinsert
+p1582
+I42
+VSimpleName: clearTimeOutAndFilteredCaches
+p1583
+tp1584
+I1
+s(Vinsert
+p1585
+I42
+VSimpleName: PAINT_FPS
+p1586
+tp1587
+I1
+s(Vinsert
+p1588
+I42
+VSimpleName: timer
+p1589
+tp1590
+I20
+s(Vinsert
+p1591
+I7
+VAssignment: =
+p1592
+tp1593
+I92
+s(Vinsert
+p1594
+I42
+VSimpleName: NOTIFY_RENDERING
+p1595
+tp1596
+I1
+s(Vinsert
+p1597
+I42
+VSimpleName: onCreateOptionsMenu
+p1598
+tp1599
+I2
+s(Vinsert
+p1600
+I34
+VNumberLiteral: 13
+p1601
+tp1602
+I1
+s(Vinsert
+p1603
+I43
+VSimpleType: SpannableStringBuilder
+p1604
+tp1605
+I1
+s(Vinsert
+p1606
+I42
+VSimpleName: useClearMode
+p1607
+tp1608
+I2
+s(Vinsert
+p1609
+I42
+VSimpleName: handled
+p1610
+tp1611
+I1
+s(Vinsert
+p1612
+I42
+VSimpleName: isPrepared
+p1613
+tp1614
+I3
+s(Vinsert
+p1615
+I42
+VSimpleName: subItems
+p1616
+tp1617
+I4
+s(Vinsert
+p1618
+I42
+VSimpleName: Float
+p1619
+tp1620
+I1
+s(Vinsert
+p1621
+I42
+VSimpleName: setProperty
+p1622
+tp1623
+I1
+s(Vinsert
+p1624
+I42
+VSimpleName: getCurrentPosition
+p1625
+tp1626
+I1
+s(Vinsert
+p1627
+I42
+VSimpleName: ActivityManager
+p1628
+tp1629
+I2
+s(Vinsert
+p1630
+I42
+VSimpleName: setConfig
+p1631
+tp1632
+I2
+s(Vinsert
+p1633
+I42
+VSimpleName: setCacheManager
+p1634
+tp1635
+I1
+s(Vinsert
+p1636
+I42
+VSimpleName: onDanmakuShown
+p1637
+tp1638
+I3
+s(Vinsert
+p1639
+I40
+VQualifiedName: item.index
+p1640
+tp1641
+I1
+s(Vinsert
+p1642
+I42
+VSimpleName: updateVisibleFlag
+p1643
+tp1644
+I2
+s(Vinsert
+p1645
+I42
+VSimpleName: mScrapList
+p1646
+tp1647
+I1
+s(Vinsert
+p1648
+I40
+VQualifiedName: AndroidDisplayer.PAINT
+p1649
+tp1650
+I2
+s(Vinsert
+p1651
+I42
+VSimpleName: onDanmakusDrawingFinished
+p1652
+tp1653
+I1
+s(Vinsert
+p1654
+I42
+VSimpleName: danmaku
+p1655
+tp1656
+I21
+s(Vinsert
+p1657
+I42
+VSimpleName: sb
+p1658
+tp1659
+I2
+s(Vinsert
+p1660
+I27
+VInfixExpression: >
+p1661
+tp1662
+I18
+s(Vinsert
+p1663
+I43
+VSimpleType: OutputStream
+p1664
+tp1665
+I1
+s(Vinsert
+p1666
+I40
+VQualifiedName: BaseDanmaku.TYPE_SCROLL_LR
+p1667
+tp1668
+I1
+s(Vinsert
+p1669
+I42
+VSimpleName: JSONObjectSource
+p1670
+tp1671
+I1
+s(Vinsert
+p1672
+I74
+VParameterizedType: List<BaseDanmaku>
+p1673
+tp1674
+I1
+s(Vinsert
+p1675
+I42
+VSimpleName: incrementAndGet
+p1676
+tp1677
+I1
+s(Vinsert
+p1678
+I42
+VSimpleName: mTimeBase
+p1679
+tp1680
+I2
+s(Vinsert
+p1681
+I42
+VSimpleName: wait
+p1682
+tp1683
+I4
+s(Vinsert
+p1684
+I42
+VSimpleName: IDanmakuFilter
+p1685
+tp1686
+I1
+s(Vinsert
+p1687
+I42
+VSimpleName: mLastBeginMills
+p1688
+tp1689
+I1
+s(Vinsert
+p1690
+I43
+VSimpleType: T
+p1691
+tp1692
+I1
+s(Vinsert
+p1693
+I42
+VSimpleName: isShown
+p1694
+tp1695
+I3
+s(Vinsert
+p1696
+I42
+VSimpleName: mDrawingNotify
+p1697
+tp1698
+I6
+s(Vinsert
+p1699
+I42
+VSimpleName: useDrawColorToClearCanvas
+p1700
+tp1701
+I1
+s(Vinsert
+p1702
+I42
+VSimpleName: RESUME
+p1703
+tp1704
+I1
+s(Vinsert
+p1705
+I42
+VSimpleName: updateTimer
+p1706
+tp1707
+I2
+s(Vinsert
+p1708
+I42
+VSimpleName: w
+p1709
+tp1710
+I3
+s(Vinsert
+p1711
+I42
+VSimpleName: fillText
+p1712
+tp1713
+I1
+s(Vinsert
+p1714
+I42
+VSimpleName: SHOW_DANMAKUS
+p1715
+tp1716
+I1
+s(Vinsert
+p1717
+I42
+VSimpleName: holder
+p1718
+tp1719
+I4
+s(Vinsert
+p1720
+I42
+VSimpleName: create
+p1721
+tp1722
+I4
+s(Vinsert
+p1723
+I43
+VSimpleType: Button
+p1724
+tp1725
+I1
+s(Vinsert
+p1726
+I42
+VSimpleName: prepared
+p1727
+tp1728
+I1
+s(Vinsert
+p1729
+I42
+VSimpleName: mPopupWindow
+p1730
+tp1731
+I4
+s(Vinsert
+p1732
+I42
+VSimpleName: mResumeTryCount
+p1733
+tp1734
+I2
+s(Vinsert
+p1735
+I40
+VQualifiedName: danmaku.priority
+p1736
+tp1737
+I1
+s(Vinsert
+p1738
+I42
+VSimpleName: Field
+p1739
+tp1740
+I1
+s(Vinsert
+p1741
+I42
+VSimpleName: points
+p1742
+tp1743
+I1
+s(Vinsert
+p1744
+I42
+VSimpleName: get_CPU_ABI2
+p1745
+tp1746
+I1
+s(Vinsert
+p1747
+I38
+VPrefixExpression: -
+p1748
+tp1749
+I7
+s(Vinsert
+p1750
+I40
+VQualifiedName: R.id.sv_danmaku
+p1751
+tp1752
+I1
+s(Vinsert
+p1753
+I40
+VQualifiedName: danmaku.textColor
+p1754
+tp1755
+I2
+s(Vinsert
+p1756
+I42
+VSimpleName: getDeclaredField
+p1757
+tp1758
+I1
+s(Vinsert
+p1759
+I43
+VSimpleType: StaticLayout
+p1760
+tp1761
+I3
+s(Vinsert
+p1762
+I42
+VSimpleName: addItem
+p1763
+tp1764
+I3
+s(Vinsert
+p1765
+I42
+VSimpleName: Menu
+p1766
+tp1767
+I2
+s(Vinsert
+p1768
+I42
+VSimpleName: getExtraData
+p1769
+tp1770
+I1
+s(Vinsert
+p1771
+I42
+VSimpleName: drawItem
+p1772
+tp1773
+I3
+s(Vinsert
+p1774
+I43
+VSimpleType: VideoView
+p1775
+tp1776
+I3
+s(Vinsert
+p1777
+I42
+VSimpleName: getDisplayer
+p1778
+tp1779
+I5
+s(Vinsert
+p1780
+I42
+VSimpleName: mCordonTime
+p1781
+tp1782
+I1
+s(Vinsert
+p1783
+I42
+VSimpleName: field
+p1784
+tp1785
+I1
+s(Vinsert
+p1786
+I74
+VParameterizedType: Iterator<DanmakuBase>
+p1787
+tp1788
+I1
+s(Vinsert
+p1789
+I42
+VSimpleName: read
+p1790
+tp1791
+I1
+s(Vinsert
+p1792
+I42
+VSimpleName: AbsDisplayer
+p1793
+tp1794
+I3
+s(Vinsert
+p1795
+I43
+VSimpleType: Danmakus
+p1796
+tp1797
+I4
+s(Vinsert
+p1798
+I42
+VSimpleName: temp
+p1799
+tp1800
+I2
+s(Vinsert
+p1801
+I45
+VStringLiteral: "draw thread"
+p1802
+tp1803
+I1
+s(Vinsert
+p1804
+I42
+VSimpleName: mVideoView
+p1805
+tp1806
+I5
+s(Vinsert
+p1807
+I42
+VSimpleName: accept
+p1808
+tp1809
+I3
+s(Vinsert
+p1810
+I42
+VSimpleName: supportX86
+p1811
+tp1812
+I1
+s(Vinsert
+p1813
+I42
+VSimpleName: lineCount
+p1814
+tp1815
+I1
+s(Vinsert
+p1816
+I85
+VDimension
+p1817
+tp1818
+I2
+s(Vinsert
+p1819
+I42
+VSimpleName: onResume
+p1820
+tp1821
+I2
+s(Vinsert
+p1822
+I42
+VSimpleName: printStackTrace
+p1823
+tp1824
+I10
+s(Vinsert
+p1825
+I42
+VSimpleName: USE_DRAWCOLOR_MODE_CLEAR
+p1826
+tp1827
+I2
+s(Vinsert
+p1828
+I40
+VQualifiedName: drawItems.items
+p1829
+tp1830
+I1
+s(Vinsert
+p1831
+I42
+VSimpleName: onDanmakuAdd
+p1832
+tp1833
+I2
+s(Vinsert
+p1834
+I43
+VSimpleType: JSONObjectSource
+p1835
+tp1836
+I1
+s(Vinsert
+p1837
+I42
+VSimpleName: getInt
+p1838
+tp1839
+I1
+s(Vinsert
+p1840
+I42
+VSimpleName: MediaPlayer
+p1841
+tp1842
+I1
+s(Vinsert
+p1843
+I42
+VSimpleName: l
+p1844
+tp1845
+I2
+s(Vinsert
+p1846
+I42
+VSimpleName: mXOff
+p1847
+tp1848
+I1
+s(Vinsert
+p1849
+I42
+VSimpleName: density
+p1850
+tp1851
+I1
+s(Vinsert
+p1852
+I42
+VSimpleName: mDataSource
+p1853
+tp1854
+I2
+s(Vinsert
+p1855
+I42
+VSimpleName: requestRemeasure
+p1856
+tp1857
+I1
+s(Vinsert
+p1858
+I40
+VQualifiedName: Spannable.Factory
+p1859
+tp1860
+I1
+s(Vinsert
+p1861
+I2
+VArrayAccess
+p1862
+tp1863
+I4
+s(Vinsert
+p1864
+I42
+VSimpleName: rectSrc
+p1865
+tp1866
+I1
+s(Vinsert
+p1867
+I42
+VSimpleName: totalDanmakuCount
+p1868
+tp1869
+I1
+s(Vinsert
+p1870
+I8
+VBlock
+p1871
+tp1872
+I284
+s(Vinsert
+p1873
+I42
+VSimpleName: mBtnRotate
+p1874
+tp1875
+I3
+s(Vinsert
+p1876
+I42
+VSimpleName: mCallback
+p1877
+tp1878
+I8
+s(Vinsert
+p1879
+I43
+VSimpleType: Paint
+p1880
+tp1881
+I2
+s(Vinsert
+p1882
+I74
+VParameterizedType: SoftReference<?>
+p1883
+tp1884
+I2
+s(Vinsert
+p1885
+I42
+VSimpleName: IDrawingCache
+p1886
+tp1887
+I1
+s(Vinsert
+p1888
+I43
+VSimpleType: Long
+p1889
+tp1890
+I3
+s(Vinsert
+p1891
+I49
+VSwitchCase
+p1892
+tp1893
+I7
+s(Vinsert
+p1894
+I34
+VNumberLiteral: 1000
+p1895
+tp1896
+I3
+s(Vinsert
+p1897
+I76
+VWildcardType: ?
+p1898
+tp1899
+I5
+s(Vinsert
+p1900
+I42
+VSimpleName: BUILD_CACHES
+p1901
+tp1902
+I4
+s(Vinsert
+p1903
+I43
+VSimpleType: BiliDanmakuLoader
+p1904
+tp1905
+I1
+s(Vinsert
+p1906
+I34
+VNumberLiteral: 20
+p1907
+tp1908
+I2
+s(Vinsert
+p1909
+I42
+VSimpleName: getRuntime
+p1910
+tp1911
+I1
+s(Vinsert
+p1912
+I42
+VSimpleName: retItems
+p1913
+tp1914
+I1
+s(Vinsert
+p1915
+I46
+VSuperConstructorInvocation
+p1916
+tp1917
+I1
+s(Vinsert
+p1918
+I42
+VSimpleName: d
+p1919
+tp1920
+I17
+s(Vinsert
+p1921
+I42
+VSimpleName: hideAndPauseDrawTask
+p1922
+tp1923
+I1
+s(Vinsert
+p1924
+I43
+VSimpleType: DanmakuBase
+p1925
+tp1926
+I1
+s(Vinsert
+p1927
+I42
+VSimpleName: mResult
+p1928
+tp1929
+I1
+s(Vinsert
+p1930
+I42
+VSimpleName: Math
+p1931
+tp1932
+I8
+s(Vinsert
+p1933
+I40
+VQualifiedName: DanmakuGlobalConfig.DEFAULT
+p1934
+tp1935
+I2
+s(Vinsert
+p1936
+I42
+VSimpleName: createCache
+p1937
+tp1938
+I1
+s(Vinsert
+p1939
+I42
+VSimpleName: Thread
+p1940
+tp1941
+I3
+s(Vinsert
+p1942
+I45
+VStringLiteral: "mCaches size"
+p1943
+tp1944
+I1
+s(Vinsert
+p1945
+I42
+VSimpleName: items
+p1946
+tp1947
+I10
+s(Vinsert
+p1948
+I40
+VQualifiedName: holder.canvas
+p1949
+tp1950
+I2
+s(Vinsert
+p1951
+I34
+VNumberLiteral: 14
+p1952
+tp1953
+I1
+s(Vinsert
+p1954
+I40
+VQualifiedName: R.id.video
+p1955
+tp1956
+I1
+s(Vinsert
+p1957
+I42
+VSimpleName: startDraw
+p1958
+tp1959
+I1
+s(Vinsert
+p1960
+I40
+VQualifiedName: mContext.cachingPolicy.bitsPerPixelOfCache
+p1961
+tp1962
+I1
+s(Vinsert
+p1963
+I42
+VSimpleName: updateFirstShownFlag
+p1964
+tp1965
+I1
+s(Vinsert
+p1966
+I74
+VParameterizedType: Iterator<IDanmakuFilter>
+p1967
+tp1968
+I1
+s(Vinsert
+p1969
+I42
+VSimpleName: max
+p1970
+tp1971
+I1
+s(Vinsert
+p1972
+I45
+VStringLiteral: "before removeCallbacksAndMessages"
+p1973
+tp1974
+I1
+s(Vinsert
+p1975
+I42
+VSimpleName: element
+p1976
+tp1977
+I3
+s(Vinsert
+p1978
+I40
+VQualifiedName: danmaku.textSize
+p1979
+tp1980
+I1
+s(Vinsert
+p1981
+I40
+VQualifiedName: holder.extra
+p1982
+tp1983
+I1
+s(Vinsert
+p1984
+I42
+VSimpleName: createBitmap
+p1985
+tp1986
+I1
+s(Vinsert
+p1987
+I42
+VSimpleName: SpecialDanmaku
+p1988
+tp1989
+I1
+s(Vinsert
+p1990
+I40
+VQualifiedName: Color.TRANSPARENT
+p1991
+tp1992
+I1
+s(Vinsert
+p1993
+I42
+VSimpleName: mDanmakus
+p1994
+tp1995
+I3
+s(Vinsert
+p1996
+I40
+VQualifiedName: mRenderingState.nothingRendered
+p1997
+tp1998
+I1
+s(Vinsert
+p1999
+I42
+VSimpleName: reuse
+p2000
+tp2001
+I1
+s(Vinsert
+p2002
+I42
+VSimpleName: context
+p2003
+tp2004
+I6
+s(Vinsert
+p2005
+I42
+VSimpleName: getType
+p2006
+tp2007
+I4
+s(Vinsert
+p2008
+I42
+VSimpleName: IOException
+p2009
+tp2010
+I1
+s(Vinsert
+p2011
+I42
+VSimpleName: stime
+p2012
+tp2013
+I1
+s(Vinsert
+p2014
+I42
+VSimpleName: newestDanmaku
+p2015
+tp2016
+I1
+s(Vinsert
+p2017
+I78
+VMarkerAnnotation
+p2018
+tp2019
+I16
+s(Vinsert
+p2020
+I42
+VSimpleName: added
+p2021
+tp2022
+I2
+s(Vinsert
+p2023
+I42
+VSimpleName: viewHolders
+p2024
+tp2025
+I3
+s(Vinsert
+p2026
+I42
+VSimpleName: SpannableStringBuilder
+p2027
+tp2028
+I1
+s(Vinsert
+p2029
+I40
+VQualifiedName: result.totalDanmakuCount
+p2030
+tp2031
+I1
+s(Vinsert
+p2032
+I43
+VSimpleType: Timer
+p2033
+tp2034
+I1
+s(Vinsert
+p2035
+I42
+VSimpleName: getCurrentVisibleDanmakus
+p2036
+tp2037
+I1
+s(Vinsert
+p2038
+I42
+VSimpleName: mCachePool
+p2039
+tp2040
+I3
+s(Vinsert
+p2041
+I42
+VSimpleName: mStartTimer
+p2042
+tp2043
+I1
+s(Vinsert
+p2044
+I42
+VSimpleName: Build
+p2045
+tp2046
+I1
+s(Vinsert
+p2047
+I42
+VSimpleName: slopPixel
+p2048
+tp2049
+I1
+s(Vinsert
+p2050
+I83
+VModifier: public
+p2051
+tp2052
+I42
+s(Vinsert
+p2053
+I42
+VSimpleName: setBitmap
+p2054
+tp2055
+I2
+s(Vinsert
+p2056
+I42
+VSimpleName: mediaPlayer
+p2057
+tp2058
+I2
+s(Vinsert
+p2059
+I42
+VSimpleName: onBackPressed
+p2060
+tp2061
+I2
+s(Vinsert
+p2062
+I42
+VSimpleName: dismiss
+p2063
+tp2064
+I2
+s(Vinsert
+p2065
+I42
+VSimpleName: Danmakus
+p2066
+tp2067
+I4
+s(Vinsert
+p2068
+I42
+VSimpleName: Duration
+p2069
+tp2070
+I1
+s(Vinsert
+p2071
+I42
+VSimpleName: abs
+p2072
+tp2073
+I5
+s(Vinsert
+p2074
+I42
+VSimpleName: len
+p2075
+tp2076
+I2
+s(Vinsert
+p2077
+I40
+VQualifiedName: danmaku.paintWidth
+p2078
+tp2079
+I2
+s(Vinsert
+p2080
+I42
+VSimpleName: t
+p2081
+tp2082
+I2
+s(Vinsert
+p2083
+I42
+VSimpleName: mBtnSendDanmaku
+p2084
+tp2085
+I2
+s(Vinsert
+p2086
+I42
+VSimpleName: getXOff
+p2087
+tp2088
+I1
+s(Vinsert
+p2089
+I42
+VSimpleName: curr
+p2090
+tp2091
+I3
+s(Vinsert
+p2092
+I43
+VSimpleType: InputStream
+p2093
+tp2094
+I2
+s(Vinsert
+p2095
+I42
+VSimpleName: video
+p2096
+tp2097
+I2
+s(Vinsert
+p2098
+I74
+VParameterizedType: IDrawingCache<?>
+p2099
+tp2100
+I1
+s(Vinsert
+p2101
+I42
+VSimpleName: islive
+p2102
+tp2103
+I1
+s(Vinsert
+p2104
+I5
+VArrayType: int[]
+p2105
+tp2106
+I1
+s(Vinsert
+p2107
+I42
+VSimpleName: syncTimerIfNeeded
+p2108
+tp2109
+I2
+s(Vinsert
+p2110
+I40
+VQualifiedName: duration.value
+p2111
+tp2112
+I1
+s(Vinsert
+p2113
+I42
+VSimpleName: DanmakuConfigTag
+p2114
+tp2115
+I2
+s(Vinsert
+p2116
+I43
+VSimpleType: GestureDetector
+p2117
+tp2118
+I1
+s(Vinsert
+p2119
+I42
+VSimpleName: getMemoryClass
+p2120
+tp2121
+I2
+s(Vinsert
+p2122
+I43
+VSimpleType: RLDanmakusRetainer
+p2123
+tp2124
+I1
+s(Vinsert
+p2125
+I42
+VSimpleName: requestSync
+p2126
+tp2127
+I1
+s(Vinsert
+p2128
+I42
+VSimpleName: quitDrawTask
+p2129
+tp2130
+I2
+s(Vinsert
+p2131
+I42
+VSimpleName: mEndTimeMills
+p2132
+tp2133
+I1
+s(Vinsert
+p2134
+I42
+VSimpleName: nativeBitmap
+p2135
+tp2136
+I1
+s(Vinsert
+p2137
+I7
+VAssignment: +=
+p2138
+tp2139
+I1
+s(Vinsert
+p2140
+I42
+VSimpleName: mHolder
+p2141
+tp2142
+I2
+s(Vinsert
+p2143
+I42
+VSimpleName: getLast
+p2144
+tp2145
+I1
+s(Vinsert
+p2146
+I42
+VSimpleName: evictAllNotInScreen
+p2147
+tp2148
+I1
+s(Vinsert
+p2149
+I43
+VSimpleType: DanmakuSurfaceView
+p2150
+tp2151
+I1
+s(Vinsert
+p2152
+I42
+VSimpleName: dispW
+p2153
+tp2154
+I3
+s(Vinsert
+p2155
+I42
+VSimpleName: updatePrepareFlag
+p2156
+tp2157
+I1
+s(Vinsert
+p2158
+I39
+VPrimitiveType: byte
+p2159
+tp2160
+I1
+s(Vinsert
+p2161
+I40
+VQualifiedName: mLastRenderingState.totalDanmakuCount
+p2162
+tp2163
+I1
+s(Vinsert
+p2164
+I42
+VSimpleName: setItems
+p2165
+tp2166
+I2
+s(Vinsert
+p2167
+I42
+VSimpleName: handler
+p2168
+tp2169
+I29
+s(Vinsert
+p2170
+I1
+VAnonymousClassDeclaration
+p2171
+tp2172
+I4
+s(Vinsert
+p2173
+I27
+VInfixExpression: -
+p2174
+tp2175
+I19
+s(Vinsert
+p2176
+I40
+VQualifiedName: danmaku.text
+p2177
+tp2178
+I3
+s(Vinsert
+p2179
+I42
+VSimpleName: get
+p2180
+tp2181
+I4
+s(Vinsert
+p2182
+I7
+VAssignment: -=
+p2183
+tp2184
+I2
+s(Vinsert
+p2185
+I42
+VSimpleName: values
+p2186
+tp2187
+I4
+s(Vinsert
+p2188
+I42
+VSimpleName: endItem
+p2189
+tp2190
+I1
+s(Vinsert
+p2191
+I44
+VSingleVariableDeclaration
+p2192
+tp2193
+I70
+s(Vinsert
+p2194
+I40
+VQualifiedName: danmaku.index
+p2195
+tp2196
+I1
+s(Vinsert
+p2197
+I40
+VQualifiedName: danmaku.time
+p2198
+tp2199
+I2
+s(Vinsert
+p2200
+I42
+VSimpleName: endPos
+p2201
+tp2202
+I1
+s(Vinsert
+p2203
+I34
+VNumberLiteral: 90
+p2204
+tp2205
+I1
+s(Vinsert
+p2206
+I42
+VSimpleName: lastInterval
+p2207
+tp2208
+I5
+s(Vinsert
+p2209
+I42
+VSimpleName: requestClearRetainer
+p2210
+tp2211
+I2
+s(Vinsert
+p2212
+I43
+VSimpleType: View
+p2213
+tp2214
+I2
+s(Vinsert
+p2215
+I42
+VSimpleName: currentThread
+p2216
+tp2217
+I1
+s(Vinsert
+p2218
+I42
+VSimpleName: syncTimer
+p2219
+tp2220
+I1
+s(Vinsert
+p2221
+I43
+VSimpleType: SpecialDanmaku
+p2222
+tp2223
+I1
+s(Vinsert
+p2224
+I42
+VSimpleName: mDanmakuView
+p2225
+tp2226
+I25
+s(Vinsert
+p2227
+I42
+VSimpleName: mHandler
+p2228
+tp2229
+I6
+s(Vinsert
+p2230
+I42
+VSimpleName: setDensity
+p2231
+tp2232
+I2
+s(Vinsert
+p2233
+I42
+VSimpleName: CLEAR_DANMAKUS_ON_SCREEN
+p2234
+tp2235
+I2
+s(Vinsert
+p2236
+I42
+VSimpleName: sizeOf
+p2237
+tp2238
+I1
+s(Vinsert
+p2239
+I42
+VSimpleName: bufferBitmap
+p2240
+tp2241
+I3
+s(Vinsert
+p2242
+I42
+VSimpleName: danmakuView
+p2243
+tp2244
+I6
+s(Vinsert
+p2245
+I42
+VSimpleName: clearRetainer
+p2246
+tp2247
+I1
+s(Vinsert
+p2248
+I43
+VSimpleType: String
+p2249
+tp2250
+I13
+s(Vinsert
+p2251
+I42
+VSimpleName: bmp
+p2252
+tp2253
+I5
+s(Vinsert
+p2254
+I42
+VSimpleName: setScrollSpeedFactor
+p2255
+tp2256
+I1
+s(Vinsert
+p2257
+I42
+VSimpleName: clearCanvas
+p2258
+tp2259
+I5
+s(Vinsert
+p2260
+I42
+VSimpleName: mCurrentHeight
+p2261
+tp2262
+I1
+s(Vinsert
+p2263
+I42
+VSimpleName: sSlopPixelCache
+p2264
+tp2265
+I1
+s(Vinsert
+p2266
+I42
+VSimpleName: it
+p2267
+tp2268
+I10
+s(Vinsert
+p2269
+I42
+VSimpleName: mTimerThread
+p2270
+tp2271
+I4
+s(Vinsert
+p2272
+I42
+VSimpleName: mDensity
+p2273
+tp2274
+I2
+s(Vinsert
+p2275
+I40
+VQualifiedName: R.string.cancel_sending_danmakus
+p2276
+tp2277
+I1
+s(Vinsert
+p2278
+I40
+VQualifiedName: item.isLive
+p2279
+tp2280
+I1
+s(Vinsert
+p2281
+I42
+VSimpleName: danmakus
+p2282
+tp2283
+I14
+s(Vinsert
+p2284
+I42
+VSimpleName: duration
+p2285
+tp2286
+I3
+s(Vinsert
+p2287
+I43
+VSimpleType: Object
+p2288
+tp2289
+I2
+s(Vinsert
+p2290
+I42
+VSimpleName: getString
+p2291
+tp2292
+I3
+s(Vinsert
+p2293
+I42
+VSimpleName: drawSomeThing
+p2294
+tp2295
+I1
+s(Vinsert
+p2296
+I42
+VSimpleName: onFailed
+p2297
+tp2298
+I1
+s(Vinsert
+p2299
+I42
+VSimpleName: isMeasured
+p2300
+tp2301
+I1
+s(Vinsert
+p2302
+I34
+VNumberLiteral: 15
+p2303
+tp2304
+I1
+s(Vinsert
+p2305
+I40
+VQualifiedName: danmaku.paintHeight
+p2306
+tp2307
+I2
+s(Vinsert
+p2308
+I42
+VSimpleName: updateMeasureFlag
+p2309
+tp2310
+I1
+s(Vinsert
+p2311
+I42
+VSimpleName: isLate
+p2312
+tp2313
+I1
+s(Vinsert
+p2314
+I42
+VSimpleName: setOnClickListener
+p2315
+tp2316
+I6
+s(Vinsert
+p2317
+I42
+VSimpleName: offsetMills
+p2318
+tp2319
+I1
+s(Vinsert
+p2320
+I42
+VSimpleName: ArrayList
+p2321
+tp2322
+I2
+s(Vinsert
+p2323
+I42
+VSimpleName: menu
+p2324
+tp2325
+I2
+s(Vinsert
+p2326
+I37
+VPostfixExpression: --
+p2327
+tp2328
+I1
+s(Vinsert
+p2329
+I42
+VSimpleName: mBtnSendDanmakus
+p2330
+tp2331
+I1
+s(Vinsert
+p2332
+I40
+VQualifiedName: renderingState.isRunningDanmakus
+p2333
+tp2334
+I1
+s(Vinsert
+p2335
+I41
+VReturnStatement
+p2336
+tp2337
+I51
+s(Vinsert
+p2338
+I43
+VSimpleType: DanmakuConfigTag
+p2339
+tp2340
+I2
+s(Vinsert
+p2341
+I42
+VSimpleName: ceil
+p2342
+tp2343
+I2
+s(Vinsert
+p2344
+I42
+VSimpleName: System
+p2345
+tp2346
+I14
+s(Vinsert
+p2347
+I34
+VNumberLiteral: 4000
+p2348
+tp2349
+I1
+s(Vinsert
+p2350
+I42
+VSimpleName: task
+p2351
+tp2352
+I1
+s(Vinsert
+p2353
+I42
+VSimpleName: valueOf
+p2354
+tp2355
+I1
+s(Vinsert
+p2356
+I42
+VSimpleName: Long
+p2357
+tp2358
+I5
+s(Vinsert
+p2359
+I42
+VSimpleName: ST_BY_LIST
+p2360
+tp2361
+I3
+s(Vinsert
+p2362
+I42
+VSimpleName: frameCount
+p2363
+tp2364
+I1
+s(Vinsert
+p2365
+I42
+VSimpleName: resume
+p2366
+tp2367
+I2
+s(Vinsert
+p2368
+I27
+VInfixExpression: <
+p2369
+tp2370
+I14
+s(Vinsert
+p2371
+I42
+VSimpleName: mDanmakuFactory
+p2372
+tp2373
+I1
+s(Vinsert
+p2374
+I42
+VSimpleName: forceRender
+p2375
+tp2376
+I1
+s(Vinsert
+p2377
+I32
+VMethodInvocation
+p2378
+tp2379
+I411
+s(Vinsert
+p2380
+I42
+VSimpleName: removeAllLiveDanmakus
+p2381
+tp2382
+I4
+s(Vinsert
+p2383
+I42
+VSimpleName: updateFlag
+p2384
+tp2385
+I3
+s(Vinsert
+p2386
+I42
+VSimpleName: run
+p2387
+tp2388
+I1
+s(Vinsert
+p2389
+I45
+VStringLiteral: "input stream cannot be null!"
+p2390
+tp2391
+I1
+s(Vinsert
+p2392
+I42
+VSimpleName: mills
+p2393
+tp2394
+I1
+s(Vinsert
+p2395
+I42
+VSimpleName: isPreventOverlappingEnabled
+p2396
+tp2397
+I1
+s(Vinsert
+p2398
+I16
+VConditionalExpression
+p2399
+tp2400
+I5
+s(Vinsert
+p2401
+I42
+VSimpleName: SAXException
+p2402
+tp2403
+I2
+s(Vinsert
+p2404
+I42
+VSimpleName: disp
+p2405
+tp2406
+I10
+s(Vinsert
+p2407
+I42
+VSimpleName: acquire
+p2408
+tp2409
+I2
+s(Vinsert
+p2410
+I45
+VStringLiteral: "4.4.0"
+p2411
+tp2412
+I1
+s(Vinsert
+p2413
+I43
+VSimpleType: LinePath
+p2414
+tp2415
+I1
+s(Vinsert
+p2416
+I42
+VSimpleName: gapTime
+p2417
+tp2418
+I3
+s(Vinsert
+p2419
+I42
+VSimpleName: Override
+p2420
+tp2421
+I17
+s(Vinsert
+p2422
+I40
+VQualifiedName: item.duration
+p2423
+tp2424
+I1
+s(Vinsert
+p2425
+I42
+VSimpleName: isTimeOut
+p2426
+tp2427
+I5
+s(Vinsert
+p2428
+I42
+VSimpleName: danmakuSync
+p2429
+tp2430
+I2
+s(Vinsert
+p2431
+I42
+VSimpleName: mLastDanmaku
+p2432
+tp2433
+I2
+s(Vinsert
+p2434
+I42
+VSimpleName: IllegalDataException
+p2435
+tp2436
+I1
+s(Vinsert
+p2437
+I42
+VSimpleName: sdanmaku
+p2438
+tp2439
+I1
+s(Vinsert
+p2440
+I42
+VSimpleName: postion
+p2441
+tp2442
+I2
+s(Vinsert
+p2443
+I42
+VSimpleName: USE_DRAWCOLOR_TO_CLEAR_CANVAS
+p2444
+tp2445
+I2
+s(Vinsert
+p2446
+I42
+VSimpleName: fromTimeMills
+p2447
+tp2448
+I1
+s(Vinsert
+p2449
+I43
+VSimpleType: SAXException
+p2450
+tp2451
+I2
+s(Vinsert
+p2452
+I42
+VSimpleName: mViewWidth
+p2453
+tp2454
+I2
+s(Vinsert
+p2455
+I42
+VSimpleName: setDatas
+p2456
+tp2457
+I1
+s(Vinsert
+p2458
+I42
+VSimpleName: tag
+p2459
+tp2460
+I7
+s(Vinsert
+p2461
+I42
+VSimpleName: mBufferBitmap
+p2462
+tp2463
+I1
+s(Vinsert
+p2464
+I42
+VSimpleName: maxSize
+p2465
+tp2466
+I1
+s(Vinsert
+p2467
+I42
+VSimpleName: deltaMs
+p2468
+tp2469
+I1
+s(Vinsert
+p2470
+I42
+VSimpleName: setParser
+p2471
+tp2472
+I1
+s(Vinsert
+p2473
+I42
+VSimpleName: enable
+p2474
+tp2475
+I3
+s(Vinsert
+p2476
+I42
+VSimpleName: getDefault
+p2477
+tp2478
+I6
+s(Vinsert
+p2479
+I42
+VSimpleName: remove
+p2480
+tp2481
+I1
+s(Vinsert
+p2482
+I34
+VNumberLiteral: 4
+p2483
+tp2484
+I1
+s(Vinsert
+p2485
+I42
+VSimpleName: text
+p2486
+tp2487
+I5
+s(Vinsert
+p2488
+I42
+VSimpleName: obtainMessage
+p2489
+tp2490
+I1
+s(Vinsert
+p2491
+I42
+VSimpleName: getBaseComparator
+p2492
+tp2493
+I1
+s(Vinsert
+p2494
+I42
+VSimpleName: mInput
+p2495
+tp2496
+I1
+s(Vinsert
+p2497
+I42
+VSimpleName: dispH
+p2498
+tp2499
+I3
+s(Vinsert
+p2500
+I42
+VSimpleName: getCacheHeight
+p2501
+tp2502
+I1
+s(Vinsert
+p2503
+I10
+VBreakStatement
+p2504
+tp2505
+I2
+s(Vinsert
+p2506
+I42
+VSimpleName: closeQuietly
+p2507
+tp2508
+I1
+s(Vinsert
+p2509
+I40
+VQualifiedName: DanmakuConfigTag.OVERLAPPING_ENABLE
+p2510
+tp2511
+I1
+s(Vinsert
+p2512
+I34
+VNumberLiteral: 50
+p2513
+tp2514
+I2
+s(Vinsert
+p2515
+I42
+VSimpleName: RLDanmakusRetainer
+p2516
+tp2517
+I1
+s(Vinsert
+p2518
+I42
+VSimpleName: TAG_BILI
+p2519
+tp2520
+I2
+s(Vinsert
+p2521
+I42
+VSimpleName: equals
+p2522
+tp2523
+I12
+s(Vinsert
+p2524
+I42
+VSimpleName: elapsedTime
+p2525
+tp2526
+I3
+s(Vinsert
+p2527
+I12
+VCatchClause
+p2528
+tp2529
+I9
+s(Vinsert
+p2530
+I40
+VQualifiedName: DanmakuConfigTag.DUPLICATE_MERGING_ENABLED
+p2531
+tp2532
+I1
+s(Vinsert
+p2533
+I42
+VSimpleName: DrawingCacheHolder
+p2534
+tp2535
+I2
+s(Vinsert
+p2536
+I42
+VSimpleName: IOUtils
+p2537
+tp2538
+I2
+s(Vinsert
+p2539
+I40
+VQualifiedName: handler.drawTask
+p2540
+tp2541
+I2
+s(Vinsert
+p2542
+I42
+VSimpleName: mMaxSize
+p2543
+tp2544
+I1
+s(Vinsert
+p2545
+I34
+VNumberLiteral: 0.5f
+p2546
+tp2547
+I1
+s(Vinsert
+p2548
+I74
+VParameterizedType: ArrayList<BaseDanmaku>
+p2549
+tp2550
+I1
+s(Vinsert
+p2551
+I40
+VQualifiedName: disp.width
+p2552
+tp2553
+I3
+s(Vinsert
+p2554
+I42
+VSimpleName: isFilteredBy
+p2555
+tp2556
+I1
+s(Vinsert
+p2557
+I42
+VSimpleName: DanmakuSurfaceView
+p2558
+tp2559
+I1
+s(Vinsert
+p2560
+I42
+VSimpleName: j
+p2561
+tp2562
+I4
+s(Vinsert
+p2563
+I42
+VSimpleName: Button
+p2564
+tp2565
+I2
+s(Vinsert
+p2566
+I40
+VQualifiedName: endItem.time
+p2567
+tp2568
+I1
+s(Vinsert
+p2569
+I45
+VStringLiteral: ","
+p2570
+tp2571
+I2
+s(Vinsert
+p2572
+I48
+VSuperMethodInvocation
+p2573
+tp2574
+I8
+s(Vinsert
+p2575
+I34
+VNumberLiteral: 0.3f
+p2576
+tp2577
+I1
+s(Vinsert
+p2578
+I42
+VSimpleName: strokeTop
+p2579
+tp2580
+I1
+s(Vinsert
+p2581
+I42
+VSimpleName: prepareCaches
+p2582
+tp2583
+I1
+s(Vinsert
+p2584
+I42
+VSimpleName: drawDanmakus
+p2585
+tp2586
+I5
+s(Vinsert
+p2587
+I42
+VSimpleName: quitDrawThread
+p2588
+tp2589
+I2
+s(Vinsert
+p2590
+I42
+VSimpleName: getHeight
+p2591
+tp2592
+I5
+s(Vinsert
+p2593
+I42
+VSimpleName: BaseDanmakuParser
+p2594
+tp2595
+I4
+s(Vinsert
+p2596
+I42
+VSimpleName: isPause
+p2597
+tp2598
+I1
+s(Vinsert
+p2599
+I42
+VSimpleName: RECT
+p2600
+tp2601
+I1
+s(Vinsert
+p2602
+I42
+VSimpleName: drawItems
+p2603
+tp2604
+I3
+s(Vinsert
+p2605
+I42
+VSimpleName: setAntiAlias
+p2606
+tp2607
+I3
+s(Vinsert
+p2608
+I42
+VSimpleName: BaseDanmaku
+p2609
+tp2610
+I35
+s(Vinsert
+p2611
+I42
+VSimpleName: textHeight
+p2612
+tp2613
+I1
+s(Vinsert
+p2614
+I42
+VSimpleName: mSize
+p2615
+tp2616
+I5
+s(Vinsert
+p2617
+I42
+VSimpleName: currTime
+p2618
+tp2619
+I2
+s(Vinsert
+p2620
+I43
+VSimpleType: HandlerThread
+p2621
+tp2622
+I1
+s(Vinsert
+p2623
+I40
+VQualifiedName: refDanmaku.paintWidth
+p2624
+tp2625
+I1
+s(Vinsert
+p2626
+I42
+VSimpleName: onPrepared
+p2627
+tp2628
+I1
+s(Vinsert
+p2629
+I53
+VThrowStatement
+p2630
+tp2631
+I1
+s(Vinsert
+p2632
+I42
+VSimpleName: OutputStream
+p2633
+tp2634
+I1
+s(Vinsert
+p2635
+I42
+VSimpleName: StaticLayout
+p2636
+tp2637
+I4
+s(Vinsert
+p2638
+I42
+VSimpleName: level
+p2639
+tp2640
+I2
+s(Vinsert
+p2641
+I43
+VSimpleType: IDanmakuFilter
+p2642
+tp2643
+I1
+s(Vinsert
+p2644
+I42
+VSimpleName: layout
+p2645
+tp2646
+I1
+s(Vinsert
+p2647
+I42
+VSimpleName: mDrawFinished
+p2648
+tp2649
+I1
+s(Vinsert
+p2650
+I42
+VSimpleName: mCurrentWidth
+p2651
+tp2652
+I2
+s(Vinsert
+p2653
+I42
+VSimpleName: DrawTask
+p2654
+tp2655
+I1
+s(Vinsert
+p2656
+I42
+VSimpleName: mLastEndMills
+p2657
+tp2658
+I1
+s(Vinsert
+p2659
+I42
+VSimpleName: booleanValue
+p2660
+tp2661
+I1
+s(Vinsert
+p2662
+I42
+VSimpleName: mNonBlockModeEnable
+p2663
+tp2664
+I4
+s(Vinsert
+p2665
+I42
+VSimpleName: SortedSet
+p2666
+tp2667
+I3
+s(Vinsert
+p2668
+I42
+VSimpleName: init
+p2669
+tp2670
+I3
+s(Vinsert
+p2671
+I42
+VSimpleName: updateHeapValue
+p2672
+tp2673
+I1
+s(Vinsert
+p2674
+I42
+VSimpleName: Iterator
+p2675
+tp2676
+I5
+s(Vinsert
+p2677
+I42
+VSimpleName: fit
+p2678
+tp2679
+I2
+s(Vinsert
+p2680
+I43
+VSimpleType: DanmakuTimer
+p2681
+tp2682
+I3
+s(Vinsert
+p2683
+I42
+VSimpleName: isPlaying
+p2684
+tp2685
+I2
+s(Vinsert
+p2686
+I42
+VSimpleName: longValue
+p2687
+tp2688
+I1
+s(Vinsert
+p2689
+I42
+VSimpleName: toTimeMills
+p2690
+tp2691
+I1
+s(Vinsert
+p2692
+I42
+VSimpleName: InputStream
+p2693
+tp2694
+I2
+s(Vinsert
+p2695
+I42
+VSimpleName: subSet
+p2696
+tp2697
+I2
+s(Vinsert
+p2698
+I42
+VSimpleName: erase
+p2699
+tp2700
+I1
+s(Vinsert
+p2701
+I45
+VStringLiteral: " before/"
+p2702
+tp2703
+I1
+s(Vinsert
+p2704
+I42
+VSimpleName: obj
+p2705
+tp2706
+I2
+s(Vinsert
+p2707
+I43
+VSimpleType: BaseDanmakuParser
+p2708
+tp2709
+I2
+s(Vinsert
+p2710
+I45
+VStringLiteral: "===== before create 50 DalvikBitmap"
+p2711
+tp2712
+I1
+s(Vinsert
+p2713
+I60
+VVariableDeclarationStatement
+p2714
+tp2715
+I61
+s(Vinsert
+p2716
+I42
+VSimpleName: size
+p2717
+tp2718
+I13
+s(Vinsert
+p2719
+I42
+VSimpleName: invalidateDanmaku
+p2720
+tp2721
+I3
+s(Vinsert
+p2722
+I42
+VSimpleName: sendToTarget
+p2723
+tp2724
+I2
+s(Vinsert
+p2725
+I40
+VQualifiedName: mContext.mDanmakuFactory
+p2726
+tp2727
+I1
+s(Vinsert
+p2728
+I42
+VSimpleName: onDestroy
+p2729
+tp2730
+I1
+s(Vinsert
+p2731
+I42
+VSimpleName: mLastRenderingState
+p2732
+tp2733
+I1
+s(Vinsert
+p2734
+I42
+VSimpleName: mTouchHelper
+p2735
+tp2736
+I4
+s(Vinsert
+p2737
+I42
+VSimpleName: DanmakuBase
+p2738
+tp2739
+I1
+s(Vinsert
+p2740
+I40
+VQualifiedName: timer.currMillisecond
+p2741
+tp2742
+I3
+s(Vinsert
+p2743
+I43
+VSimpleType: Set
+p2744
+tp2745
+I1
+s(Vinsert
+p2746
+I21
+VExpressionStatement
+p2747
+tp2748
+I280
+s(Vinsert
+p2749
+I42
+VSimpleName: performClick
+p2750
+tp2751
+I1
+s(Vinsert
+p2752
+I42
+VSimpleName: mDrawThread
+p2753
+tp2754
+I6
+s(Vinsert
+p2755
+I34
+VNumberLiteral: 100
+p2756
+tp2757
+I1
+s(Vinsert
+p2758
+I42
+VSimpleName: delta
+p2759
+tp2760
+I1
+s(Vinsert
+p2761
+I40
+VQualifiedName: R.id.videoview
+p2762
+tp2763
+I1
+s(Vinsert
+p2764
+I42
+VSimpleName: releaseDataSource
+p2765
+tp2766
+I2
+s(Vinsert
+p2767
+I42
+VSimpleName: getDuration
+p2768
+tp2769
+I1
+s(Vinsert
+p2770
+I42
+VSimpleName: removeMessages
+p2771
+tp2772
+I5
+s(Vinsert
+p2773
+I42
+VSimpleName: item
+p2774
+tp2775
+I13
+s(Vinsert
+p2776
+I43
+VSimpleType: JSONObject
+p2777
+tp2778
+I2
+s(Vinsert
+p2779
+I42
+VSimpleName: onPause
+p2780
+tp2781
+I1
+s(Vinsert
+p2782
+I42
+VSimpleName: onFrameAvailable
+p2783
+tp2784
+I1
+s(Vinsert
+p2785
+I42
+VSimpleName: getPaint
+p2786
+tp2787
+I2
+s(Vinsert
+p2788
+I42
+VSimpleName: Set
+p2789
+tp2790
+I1
+s(Vinsert
+p2791
+I42
+VSimpleName: elapsedRealtime
+p2792
+tp2793
+I1
+s.

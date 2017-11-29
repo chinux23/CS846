@@ -1,0 +1,2200 @@
+(dp0
+(Vinsert
+p1
+I43
+VSimpleType: InvalidConfigurationException
+p2
+tp3
+I1
+s(Vinsert
+p4
+I42
+VSimpleName: UserController
+p5
+tp6
+I2
+s(Vinsert
+p7
+I45
+VStringLiteral: "this.offset = offset;"
+p8
+tp9
+I1
+s(Vinsert
+p10
+I43
+VSimpleType: List
+p11
+tp12
+I1
+s(Vinsert
+p13
+I43
+VSimpleType: SimpleDateFormat
+p14
+tp15
+I1
+s(Vinsert
+p16
+I42
+VSimpleName: name
+p17
+tp18
+I2
+s(Vinsert
+p19
+I42
+VSimpleName: Exception
+p20
+tp21
+I1
+s(Vinsert
+p22
+I42
+VSimpleName: mvc
+p23
+tp24
+I1
+s(Vinsert
+p25
+I43
+VSimpleType: DataSource
+p26
+tp27
+I1
+s(Vinsert
+p28
+I42
+VSimpleName: andPidEqualTo
+p29
+tp30
+I1
+s(Vinsert
+p31
+I42
+VSimpleName: encode
+p32
+tp33
+I1
+s(Vinsert
+p34
+I42
+VSimpleName: getParameter
+p35
+tp36
+I3
+s(Vinsert
+p37
+I42
+VSimpleName: introspectedTable
+p38
+tp39
+I1
+s(Vinsert
+p40
+I45
+VStringLiteral: ", ctime="
+p41
+tp42
+I1
+s(Vinsert
+p43
+I42
+VSimpleName: ResponseBody
+p44
+tp45
+I1
+s(Vinsert
+p46
+I42
+VSimpleName: getSession
+p47
+tp48
+I1
+s(Vinsert
+p49
+I45
+VStringLiteral: "]"
+p50
+tp51
+I1
+s(Vinsert
+p52
+I43
+VSimpleType: Exception
+p53
+tp54
+I1
+s(Vinsert
+p55
+I42
+VSimpleName: error
+p56
+tp57
+I2
+s(Vinsert
+p58
+I5
+VArrayType: byte[]
+p59
+tp60
+I1
+s(Vinsert
+p61
+I42
+VSimpleName: criteria
+p62
+tp63
+I2
+s(Vinsert
+p64
+I42
+VSimpleName: transferTo
+p65
+tp66
+I1
+s(Vinsert
+p67
+I34
+VNumberLiteral: 1
+p68
+tp69
+I2
+s(Vinsert
+p70
+I42
+VSimpleName: cmsArticleService
+p71
+tp72
+I2
+s(Vinsert
+p73
+I42
+VSimpleName: put
+p74
+tp75
+I7
+s(Vinsert
+p76
+I42
+VSimpleName: getAbsoluteFile
+p77
+tp78
+I1
+s(Vinsert
+p79
+I42
+VSimpleName: RESULT
+p80
+tp81
+I1
+s(Vinsert
+p82
+I42
+VSimpleName: basePath
+p83
+tp84
+I3
+s(Vinsert
+p85
+I42
+VSimpleName: setCtime
+p86
+tp87
+I7
+s(Vinsert
+p88
+I42
+VSimpleName: createCriteria
+p89
+tp90
+I1
+s(Vinsert
+p91
+I45
+VStringLiteral: "/user"
+p92
+tp93
+I2
+s(Vinsert
+p94
+I42
+VSimpleName: setUserId
+p95
+tp96
+I3
+s(Vinsert
+p97
+I45
+VStringLiteral: ", keywords="
+p98
+tp99
+I1
+s(Vinsert
+p100
+I42
+VSimpleName: addAttribute
+p101
+tp102
+I2
+s(Vinsert
+p103
+I42
+VSimpleName: cipher
+p104
+tp105
+I1
+s(Vinsert
+p106
+I42
+VSimpleName: HttpSession
+p107
+tp108
+I1
+s(Vinsert
+p109
+I42
+VSimpleName: Logger
+p110
+tp111
+I2
+s(Vinsert
+p112
+I42
+VSimpleName: IntrospectedTable
+p113
+tp114
+I1
+s(Vinsert
+p115
+I42
+VSimpleName: other
+p116
+tp117
+I27
+s(Vinsert
+p118
+I42
+VSimpleName: pid
+p119
+tp120
+I2
+s(Vinsert
+p121
+I27
+VInfixExpression: -
+p122
+tp123
+I1
+s(Vinsert
+p124
+I42
+VSimpleName: DATA
+p125
+tp126
+I1
+s(Vinsert
+p127
+I42
+VSimpleName: get
+p128
+tp129
+I1
+s(Vinsert
+p130
+I45
+VStringLiteral: "\u6d88\u606f"
+p131
+tp132
+I1
+s(Vinsert
+p133
+I43
+VSimpleType: Method
+p134
+tp135
+I2
+s(Vinsert
+p136
+I44
+VSingleVariableDeclaration
+p137
+tp138
+I21
+s(Vinsert
+p139
+I43
+VSimpleType: Docket
+p140
+tp141
+I2
+s(Vinsert
+p142
+I27
+VInfixExpression: +
+p143
+tp144
+I4
+s(Vinsert
+p145
+I42
+VSimpleName: andRealnameLike
+p146
+tp147
+I1
+s(Vinsert
+p148
+I42
+VSimpleName: _log
+p149
+tp150
+I5
+s(Vinsert
+p151
+I42
+VSimpleName: getClass
+p152
+tp153
+I50
+s(Vinsert
+p154
+I42
+VSimpleName: prefix
+p155
+tp156
+I1
+s(Vinsert
+p157
+I42
+VSimpleName: DataSource
+p158
+tp159
+I1
+s(Vinsert
+p160
+I42
+VSimpleName: addParameter
+p161
+tp162
+I1
+s(Vinsert
+p163
+I42
+VSimpleName: initMapper
+p164
+tp165
+I4
+s(Vinsert
+p166
+I43
+VSimpleType: Session
+p167
+tp168
+I1
+s(Vinsert
+p169
+I42
+VSimpleName: debug
+p170
+tp171
+I1
+s(Vinsert
+p172
+I42
+VSimpleName: UpmsUserPermissionExample
+p173
+tp174
+I1
+s(Vinsert
+p175
+I42
+VSimpleName: update
+p176
+tp177
+I1
+s(Vinsert
+p178
+I42
+VSimpleName: image
+p179
+tp180
+I1
+s(Vinsert
+p181
+I42
+VSimpleName: Integer
+p182
+tp183
+I1
+s(Vinsert
+p184
+I42
+VSimpleName: TopLevelClass
+p185
+tp186
+I1
+s(Vinsert
+p187
+I42
+VSimpleName: getByte
+p188
+tp189
+I1
+s(Vinsert
+p190
+I8
+VBlock
+p191
+tp192
+I62
+s(Vinsert
+p193
+I42
+VSimpleName: session
+p194
+tp195
+I7
+s(Vinsert
+p196
+I45
+VStringLiteral: "/article/add"
+p197
+tp198
+I1
+s(Vinsert
+p199
+I5
+VArrayType: String[]
+p200
+tp201
+I14
+s(Vinsert
+p202
+I42
+VSimpleName: setArticleId
+p203
+tp204
+I3
+s(Vinsert
+p205
+I42
+VSimpleName: setUp
+p206
+tp207
+I1
+s(Vinsert
+p208
+I42
+VSimpleName: CmsArticle
+p209
+tp210
+I1
+s(Vinsert
+p211
+I42
+VSimpleName: search
+p212
+tp213
+I2
+s(Vinsert
+p214
+I42
+VSimpleName: cmsMenu
+p215
+tp216
+I1
+s(Vinsert
+p217
+I42
+VSimpleName: getId
+p218
+tp219
+I2
+s(Vinsert
+p220
+I42
+VSimpleName: String
+p221
+tp222
+I22
+s(Vinsert
+p223
+I42
+VSimpleName: i
+p224
+tp225
+I1
+s(Vinsert
+p226
+I43
+VSimpleType: String
+p227
+tp228
+I22
+s(Vinsert
+p229
+I42
+VSimpleName: upmsRolePermission
+p230
+tp231
+I3
+s(Vinsert
+p232
+I42
+VSimpleName: integerWrapper
+p233
+tp234
+I1
+s(Vinsert
+p235
+I42
+VSimpleName: bytes
+p236
+tp237
+I1
+s(Vinsert
+p238
+I42
+VSimpleName: Before
+p239
+tp240
+I1
+s(Vinsert
+p241
+I42
+VSimpleName: upmsUserPermissionExample
+p242
+tp243
+I1
+s(Vinsert
+p244
+I45
+VStringLiteral: ", pid="
+p245
+tp246
+I2
+s(Vinsert
+p247
+I22
+VFieldAccess
+p248
+tp249
+I1
+s(Vinsert
+p250
+I42
+VSimpleName: topLevelClass
+p251
+tp252
+I3
+s(Vinsert
+p253
+I42
+VSimpleName: println
+p254
+tp255
+I19
+s(Vinsert
+p256
+I42
+VSimpleName: UpmsRole
+p257
+tp258
+I1
+s(Vinsert
+p259
+I42
+VSimpleName: jdbcTemplate
+p260
+tp261
+I1
+s(Vinsert
+p262
+I80
+VMemberValuePair
+p263
+tp264
+I4
+s(Vinsert
+p265
+I42
+VSimpleName: getDefaultMessage
+p266
+tp267
+I2
+s(Vinsert
+p268
+I45
+VStringLiteral: ", categoryId="
+p269
+tp270
+I1
+s(Vinsert
+p271
+I33
+VNullLiteral
+p272
+tp273
+I52
+s(Vinsert
+p274
+I74
+VParameterizedType: List<CmsArticle>
+p275
+tp276
+I1
+s(Vinsert
+p277
+I42
+VSimpleName: e
+p278
+tp279
+I4
+s(Vinsert
+p280
+I42
+VSimpleName: args
+p281
+tp282
+I14
+s(Vinsert
+p283
+I7
+VAssignment: =
+p284
+tp285
+I1
+s(Vinsert
+p286
+I45
+VStringLiteral: "initMapper"
+p287
+tp288
+I2
+s(Vinsert
+p289
+I43
+VSimpleType: CmsResult
+p290
+tp291
+I3
+s(Vinsert
+p292
+I45
+VStringLiteral: "/comment/add"
+p293
+tp294
+I1
+s(Vinsert
+p295
+I45
+VStringLiteral: "spring.datasource.secondary"
+p296
+tp297
+I1
+s(Vinsert
+p298
+I42
+VSimpleName: SpringApplication
+p299
+tp300
+I1
+s(Vinsert
+p301
+I42
+VSimpleName: that
+p302
+tp303
+I44
+s(Vinsert
+p304
+I42
+VSimpleName: Method
+p305
+tp306
+I2
+s(Vinsert
+p307
+I42
+VSimpleName: json
+p308
+tp309
+I2
+s(Vinsert
+p310
+I42
+VSimpleName: ctime
+p311
+tp312
+I1
+s(Vinsert
+p313
+I42
+VSimpleName: BaseController
+p314
+tp315
+I1
+s(Vinsert
+p316
+I45
+VStringLiteral: "password"
+p317
+tp318
+I1
+s(Vinsert
+p319
+I42
+VSimpleName: sb
+p320
+tp321
+I26
+s(Vinsert
+p322
+I42
+VSimpleName: MockMvcBuilders
+p323
+tp324
+I1
+s(Vinsert
+p325
+I42
+VSimpleName: ModelMap
+p326
+tp327
+I1
+s(Vinsert
+p328
+I42
+VSimpleName: ShiroSessionListener
+p329
+tp330
+I1
+s(Vinsert
+p331
+I42
+VSimpleName: HttpServletResponse
+p332
+tp333
+I2
+s(Vinsert
+p334
+I43
+VSimpleType: HttpSession
+p335
+tp336
+I1
+s(Vinsert
+p337
+I23
+VFieldDeclaration
+p338
+tp339
+I2
+s(Vinsert
+p340
+I42
+VSimpleName: currentTimeMillis
+p341
+tp342
+I11
+s(Vinsert
+p343
+I42
+VSimpleName: StringUtils
+p344
+tp345
+I3
+s(Vinsert
+p346
+I45
+VStringLiteral: ", result="
+p347
+tp348
+I1
+s(Vinsert
+p349
+I41
+VReturnStatement
+p350
+tp351
+I54
+s(Vinsert
+p352
+I42
+VSimpleName: folders
+p353
+tp354
+I1
+s(Vinsert
+p355
+I25
+VIfStatement
+p356
+tp357
+I50
+s(Vinsert
+p358
+I42
+VSimpleName: ConfigurationProperties
+p359
+tp360
+I1
+s(Vinsert
+p361
+I42
+VSimpleName: System
+p362
+tp363
+I11
+s(Vinsert
+p364
+I45
+VStringLiteral: ", tagId="
+p365
+tp366
+I1
+s(Vinsert
+p367
+I27
+VInfixExpression: >
+p368
+tp369
+I1
+s(Vinsert
+p370
+I42
+VSimpleName: getUserId
+p371
+tp372
+I4
+s(Vinsert
+p373
+I42
+VSimpleName: setRoleId
+p374
+tp375
+I1
+s(Vinsert
+p376
+I42
+VSimpleName: getArticleId
+p377
+tp378
+I6
+s(Vinsert
+p379
+I45
+VStringLiteral: "yyyy-MM-dd HH:mm:ss"
+p380
+tp381
+I1
+s(Vinsert
+p382
+I42
+VSimpleName: secondaryDataSource
+p383
+tp384
+I1
+s(Vinsert
+p385
+I45
+VStringLiteral: ", id="
+p386
+tp387
+I1
+s(Vinsert
+p388
+I42
+VSimpleName: cron
+p389
+tp390
+I3
+s(Vinsert
+p391
+I42
+VSimpleName: cmsCommentService
+p392
+tp393
+I1
+s(Vinsert
+p394
+I42
+VSimpleName: invoke
+p395
+tp396
+I2
+s(Vinsert
+p397
+I45
+VStringLiteral: "\u53d1\u9001\u6d88\u606f\u6d88\u8017\u65f6\u95f4"
+p398
+tp399
+I1
+s(Vinsert
+p400
+I32
+VMethodInvocation
+p401
+tp402
+I291
+s(Vinsert
+p403
+I42
+VSimpleName: getCategoryId
+p404
+tp405
+I4
+s(Vinsert
+p406
+I45
+VStringLiteral: "search"
+p407
+tp408
+I1
+s(Vinsert
+p409
+I42
+VSimpleName: getName
+p410
+tp411
+I7
+s(Vinsert
+p412
+I42
+VSimpleName: getPassword
+p413
+tp414
+I2
+s(Vinsert
+p415
+I42
+VSimpleName: time
+p416
+tp417
+I10
+s(Vinsert
+p418
+I42
+VSimpleName: addMethod
+p419
+tp420
+I1
+s(Vinsert
+p421
+I27
+VInfixExpression: ==
+p422
+tp423
+I48
+s(Vinsert
+p424
+I42
+VSimpleName: run
+p425
+tp426
+I1
+s(Vinsert
+p427
+I9
+VBooleanLiteral: true
+p428
+tp429
+I22
+s(Vinsert
+p430
+I42
+VSimpleName: base64encoder
+p431
+tp432
+I1
+s(Vinsert
+p433
+I42
+VSimpleName: id
+p434
+tp435
+I2
+s(Vinsert
+p436
+I45
+VStringLiteral: "http://shuzheng.tunnel.qydev.com/aliyun/oss/callback"
+p437
+tp438
+I1
+s(Vinsert
+p439
+I42
+VSimpleName: CmsResult
+p440
+tp441
+I3
+s(Vinsert
+p442
+I16
+VConditionalExpression
+p443
+tp444
+I14
+s(Vinsert
+p445
+I42
+VSimpleName: callback
+p446
+tp447
+I3
+s(Vinsert
+p448
+I40
+VQualifiedName: System.out
+p449
+tp450
+I19
+s(Vinsert
+p451
+I42
+VSimpleName: addImportedType
+p452
+tp453
+I1
+s(Vinsert
+p454
+I42
+VSimpleName: isNotBlank
+p455
+tp456
+I2
+s(Vinsert
+p457
+I42
+VSimpleName: create
+p458
+tp459
+I2
+s(Vinsert
+p460
+I45
+VStringLiteral: ", image="
+p461
+tp462
+I1
+s(Vinsert
+p463
+I42
+VSimpleName: Override
+p464
+tp465
+I3
+s(Vinsert
+p466
+I42
+VSimpleName: upmsUserExample
+p467
+tp468
+I1
+s(Vinsert
+p469
+I42
+VSimpleName: age
+p470
+tp471
+I1
+s(Vinsert
+p472
+I12
+VCatchClause
+p473
+tp474
+I1
+s(Vinsert
+p475
+I42
+VSimpleName: count
+p476
+tp477
+I2
+s(Vinsert
+p478
+I77
+VNormalAnnotation
+p479
+tp480
+I4
+s(Vinsert
+p481
+I42
+VSimpleName: andPidIsNull
+p482
+tp483
+I1
+s(Vinsert
+p484
+I43
+VSimpleType: Parameter
+p485
+tp486
+I1
+s(Vinsert
+p487
+I42
+VSimpleName: getPermissionId
+p488
+tp489
+I1
+s(Vinsert
+p490
+I42
+VSimpleName: getSystemId
+p491
+tp492
+I7
+s(Vinsert
+p493
+I42
+VSimpleName: getMapper
+p494
+tp495
+I4
+s(Vinsert
+p496
+I42
+VSimpleName: getIntValue
+p497
+tp498
+I1
+s(Vinsert
+p499
+I42
+VSimpleName: newArticles
+p500
+tp501
+I1
+s(Vinsert
+p502
+I45
+VStringLiteral: " ["
+p503
+tp504
+I4
+s(Vinsert
+p505
+I43
+VSimpleType: Date
+p506
+tp507
+I1
+s(Vinsert
+p508
+I34
+VNumberLiteral: 0
+p509
+tp510
+I1
+s(Vinsert
+p511
+I36
+VParenthesizedExpression
+p512
+tp513
+I16
+s(Vinsert
+p514
+I42
+VSimpleName: getSimpleName
+p515
+tp516
+I4
+s(Vinsert
+p517
+I40
+VQualifiedName: CmsResultConstant.INVALID_LENGTH
+p518
+tp519
+I3
+s(Vinsert
+p520
+I43
+VSimpleType: HttpServletResponse
+p521
+tp522
+I2
+s(Vinsert
+p523
+I40
+VQualifiedName: DocumentationType.SWAGGER_2
+p524
+tp525
+I1
+s(Vinsert
+p526
+I39
+VPrimitiveType: long
+p527
+tp528
+I3
+s(Vinsert
+p529
+I42
+VSimpleName: Session
+p530
+tp531
+I1
+s(Vinsert
+p532
+I42
+VSimpleName: getTitle
+p533
+tp534
+I7
+s(Vinsert
+p535
+I42
+VSimpleName: append
+p536
+tp537
+I40
+s(Vinsert
+p538
+I42
+VSimpleName: getLogger
+p539
+tp540
+I2
+s(Vinsert
+p541
+I43
+VSimpleType: Logger
+p542
+tp543
+I2
+s(Vinsert
+p544
+I43
+VSimpleType: ModelMap
+p545
+tp546
+I1
+s(Vinsert
+p547
+I42
+VSimpleName: sessionId
+p548
+tp549
+I2
+s(Vinsert
+p550
+I42
+VSimpleName: getCtime
+p551
+tp552
+I12
+s(Vinsert
+p553
+I52
+VThisExpression
+p554
+tp555
+I39
+s(Vinsert
+p556
+I42
+VSimpleName: SUCCESS
+p557
+tp558
+I1
+s(Vinsert
+p559
+I42
+VSimpleName: getSalt
+p560
+tp561
+I2
+s(Vinsert
+p562
+I42
+VSimpleName: remove
+p563
+tp564
+I3
+s(Vinsert
+p565
+I42
+VSimpleName: getServerPort
+p566
+tp567
+I1
+s(Vinsert
+p568
+I42
+VSimpleName: cmsArticleExample
+p569
+tp570
+I1
+s(Vinsert
+p571
+I42
+VSimpleName: getUsername
+p572
+tp573
+I2
+s(Vinsert
+p574
+I42
+VSimpleName: categoryId
+p575
+tp576
+I1
+s(Vinsert
+p577
+I42
+VSimpleName: articleId
+p578
+tp579
+I3
+s(Vinsert
+p580
+I42
+VSimpleName: getUserid
+p581
+tp582
+I3
+s(Vinsert
+p583
+I83
+VModifier: private
+p584
+tp585
+I2
+s(Vinsert
+p586
+I42
+VSimpleName: setOrders
+p587
+tp588
+I1
+s(Vinsert
+p589
+I42
+VSimpleName: addGWTInterface
+p590
+tp591
+I1
+s(Vinsert
+p592
+I85
+VDimension
+p593
+tp594
+I15
+s(Vinsert
+p595
+I42
+VSimpleName: andPermissionIdEqualTo
+p596
+tp597
+I1
+s(Vinsert
+p598
+I42
+VSimpleName: printStackTrace
+p599
+tp600
+I2
+s(Vinsert
+p601
+I42
+VSimpleName: ZHENG_UPMS_SERVER_SESSION_IDS
+p602
+tp603
+I1
+s(Vinsert
+p604
+I42
+VSimpleName: RedisUtil
+p605
+tp606
+I3
+s(Vinsert
+p607
+I42
+VSimpleName: setPermissionId
+p608
+tp609
+I1
+s(Vinsert
+p610
+I42
+VSimpleName: equals
+p611
+tp612
+I17
+s(Vinsert
+p613
+I31
+VMethodDeclaration
+p614
+tp615
+I20
+s(Vinsert
+p616
+I42
+VSimpleName: test
+p617
+tp618
+I3
+s(Vinsert
+p619
+I42
+VSimpleName: cmsArticle
+p620
+tp621
+I1
+s(Vinsert
+p622
+I42
+VSimpleName: JSONArray
+p623
+tp624
+I1
+s(Vinsert
+p625
+I45
+VStringLiteral: "offset"
+p626
+tp627
+I1
+s(Vinsert
+p628
+I42
+VSimpleName: lrem
+p629
+tp630
+I1
+s(Vinsert
+p631
+I42
+VSimpleName: JSONObject
+p632
+tp633
+I3
+s(Vinsert
+p634
+I42
+VSimpleName: service
+p635
+tp636
+I2
+s(Vinsert
+p637
+I42
+VSimpleName: getContent
+p638
+tp639
+I2
+s(Vinsert
+p640
+I39
+VPrimitiveType: void
+p641
+tp642
+I20
+s(Vinsert
+p643
+I42
+VSimpleName: main
+p644
+tp645
+I14
+s(Vinsert
+p646
+I42
+VSimpleName: add
+p647
+tp648
+I1
+s(Vinsert
+p649
+I42
+VSimpleName: LoggerFactory
+p650
+tp651
+I2
+s(Vinsert
+p652
+I42
+VSimpleName: Scheduled
+p653
+tp654
+I3
+s(Vinsert
+p655
+I42
+VSimpleName: keywords
+p656
+tp657
+I1
+s(Vinsert
+p658
+I43
+VSimpleType: Integer
+p659
+tp660
+I1
+s(Vinsert
+p661
+I42
+VSimpleName: upmsRole
+p662
+tp663
+I2
+s(Vinsert
+p664
+I42
+VSimpleName: TestTaskImpl
+p665
+tp666
+I1
+s(Vinsert
+p667
+I42
+VSimpleName: system
+p668
+tp669
+I1
+s(Vinsert
+p670
+I42
+VSimpleName: getOrders
+p671
+tp672
+I6
+s(Vinsert
+p673
+I40
+VQualifiedName: Cipher.ENCRYPT_MODE
+p674
+tp675
+I1
+s(Vinsert
+p676
+I42
+VSimpleName: DataSourceBuilder
+p677
+tp678
+I1
+s(Vinsert
+p679
+I42
+VSimpleName: cmsCategory
+p680
+tp681
+I1
+s(Vinsert
+p682
+I42
+VSimpleName: doFinal
+p683
+tp684
+I2
+s(Vinsert
+p685
+I42
+VSimpleName: tagId
+p686
+tp687
+I1
+s(Vinsert
+p688
+I43
+VSimpleType: UpmsRolePermission
+p689
+tp690
+I2
+s(Vinsert
+p691
+I42
+VSimpleName: RequestMapping
+p692
+tp693
+I4
+s(Vinsert
+p694
+I42
+VSimpleName: Primary
+p695
+tp696
+I1
+s(Vinsert
+p697
+I45
+VStringLiteral: "id"
+p698
+tp699
+I2
+s(Vinsert
+p700
+I42
+VSimpleName: upmsOrganizationService
+p701
+tp702
+I1
+s(Vinsert
+p703
+I42
+VSimpleName: addBodyLine
+p704
+tp705
+I1
+s(Vinsert
+p706
+I42
+VSimpleName: password
+p707
+tp708
+I1
+s(Vinsert
+p709
+I42
+VSimpleName: Parameter
+p710
+tp711
+I1
+s(Vinsert
+p712
+I45
+VStringLiteral: "_token"
+p713
+tp714
+I2
+s(Vinsert
+p715
+I42
+VSimpleName: upmsPermission2
+p716
+tp717
+I2
+s(Vinsert
+p718
+I42
+VSimpleName: getDeclaredMethod
+p719
+tp720
+I2
+s(Vinsert
+p721
+I42
+VSimpleName: servletResponse
+p722
+tp723
+I1
+s(Vinsert
+p724
+I42
+VSimpleName: key
+p725
+tp726
+I1
+s(Vinsert
+p727
+I45
+VStringLiteral: "://"
+p728
+tp729
+I1
+s(Vinsert
+p730
+I42
+VSimpleName: index
+p731
+tp732
+I2
+s(Vinsert
+p733
+I42
+VSimpleName: List
+p734
+tp735
+I1
+s(Vinsert
+p736
+I14
+VClassInstanceCreation
+p737
+tp738
+I9
+s(Vinsert
+p739
+I42
+VSimpleName: andTypeEqualTo
+p740
+tp741
+I1
+s(Vinsert
+p742
+I45
+VStringLiteral: "0 0/10 * * * ?"
+p743
+tp744
+I1
+s(Vinsert
+p745
+I42
+VSimpleName: scheme
+p746
+tp747
+I1
+s(Vinsert
+p748
+I45
+VStringLiteral: "username"
+p749
+tp750
+I1
+s(Vinsert
+p751
+I42
+VSimpleName: upmsRoles
+p752
+tp753
+I1
+s(Vinsert
+p754
+I39
+VPrimitiveType: byte
+p755
+tp756
+I1
+s(Vinsert
+p757
+I27
+VInfixExpression: !=
+p758
+tp759
+I22
+s(Vinsert
+p760
+I43
+VSimpleType: CmsArticle
+p761
+tp762
+I1
+s(Vinsert
+p763
+I45
+VStringLiteral: "name"
+p764
+tp765
+I1
+s(Vinsert
+p766
+I42
+VSimpleName: request
+p767
+tp768
+I4
+s(Vinsert
+p769
+I42
+VSimpleName: roles
+p770
+tp771
+I1
+s(Vinsert
+p772
+I42
+VSimpleName: insertSelective
+p773
+tp774
+I2
+s(Vinsert
+p775
+I42
+VSimpleName: getDescription
+p776
+tp777
+I3
+s(Vinsert
+p778
+I42
+VSimpleName: or
+p779
+tp780
+I1
+s(Vinsert
+p781
+I42
+VSimpleName: Controller
+p782
+tp783
+I2
+s(Vinsert
+p784
+I43
+VSimpleType: IntrospectedTable
+p785
+tp786
+I1
+s(Vinsert
+p787
+I42
+VSimpleName: upmsOrganization
+p788
+tp789
+I1
+s(Vinsert
+p790
+I42
+VSimpleName: SimpleDateFormat
+p791
+tp792
+I1
+s(Vinsert
+p793
+I42
+VSimpleName: apiInfo
+p794
+tp795
+I1
+s(Vinsert
+p796
+I39
+VPrimitiveType: int
+p797
+tp798
+I2
+s(Vinsert
+p799
+I42
+VSimpleName: cmsCategoryService
+p800
+tp801
+I1
+s(Vinsert
+p802
+I42
+VSimpleName: hashCode
+p803
+tp804
+I2
+s(Vinsert
+p805
+I45
+VStringLiteral: "/index"
+p806
+tp807
+I2
+s(Vinsert
+p808
+I42
+VSimpleName: targetFile
+p809
+tp810
+I2
+s(Vinsert
+p811
+I42
+VSimpleName: getType
+p812
+tp813
+I1
+s(Vinsert
+p814
+I42
+VSimpleName: onStart
+p815
+tp816
+I1
+s(Vinsert
+p817
+I78
+VMarkerAnnotation
+p818
+tp819
+I5
+s(Vinsert
+p820
+I42
+VSimpleName: ZHENG_UPMS_SHIRO_SESSION_ID
+p821
+tp822
+I1
+s(Vinsert
+p823
+I45
+VStringLiteral: "0 0/1 * * * ?"
+p824
+tp825
+I2
+s(Vinsert
+p826
+I60
+VVariableDeclarationStatement
+p827
+tp828
+I11
+s(Vinsert
+p829
+I42
+VSimpleName: standaloneSetup
+p830
+tp831
+I1
+s(Vinsert
+p832
+I42
+VSimpleName: setOffset
+p833
+tp834
+I2
+s(Vinsert
+p835
+I42
+VSimpleName: size
+p836
+tp837
+I1
+s(Vinsert
+p838
+I42
+VSimpleName: getTagId
+p839
+tp840
+I2
+s(Vinsert
+p841
+I42
+VSimpleName: info
+p842
+tp843
+I2
+s(Vinsert
+p844
+I42
+VSimpleName: InvalidConfigurationException
+p845
+tp846
+I1
+s(Vinsert
+p847
+I42
+VSimpleName: Date
+p848
+tp849
+I1
+s(Vinsert
+p850
+I79
+VSingleMemberAnnotation
+p851
+tp852
+I4
+s(Vinsert
+p853
+I42
+VSimpleName: map
+p854
+tp855
+I4
+s(Vinsert
+p856
+I42
+VSimpleName: cmsComment
+p857
+tp858
+I10
+s(Vinsert
+p859
+I83
+VModifier: static
+p860
+tp861
+I16
+s(Vinsert
+p862
+I45
+VStringLiteral: ", commentId="
+p863
+tp864
+I1
+s(Vinsert
+p865
+I11
+VCastExpression
+p866
+tp867
+I3
+s(Vinsert
+p868
+I42
+VSimpleName: toString
+p869
+tp870
+I4
+s(Vinsert
+p871
+I45
+VStringLiteral: "callbackUrl"
+p872
+tp873
+I1
+s(Vinsert
+p874
+I42
+VSimpleName: Docket
+p875
+tp876
+I2
+s(Vinsert
+p877
+I42
+VSimpleName: getInstance
+p878
+tp879
+I1
+s(Vinsert
+p880
+I45
+VStringLiteral: "_"
+p881
+tp882
+I1
+s(Vinsert
+p883
+I21
+VExpressionStatement
+p884
+tp885
+I89
+s(Vinsert
+p886
+I83
+VModifier: public
+p887
+tp888
+I28
+s(Vinsert
+p889
+I42
+VSimpleName: result
+p890
+tp891
+I4
+s(Vinsert
+p892
+I42
+VSimpleName: commentId
+p893
+tp894
+I1
+s(Vinsert
+p895
+I9
+VBooleanLiteral: false
+p896
+tp897
+I22
+s(Vinsert
+p898
+I42
+VSimpleName: userService
+p899
+tp900
+I1
+s(Vinsert
+p901
+I42
+VSimpleName: isEmpty
+p902
+tp903
+I1
+s(Vinsert
+p904
+I42
+VSimpleName: selectByExample
+p905
+tp906
+I1
+s(Vinsert
+p907
+I42
+VSimpleName: node2
+p908
+tp909
+I2
+s(Vinsert
+p910
+I42
+VSimpleName: createRestApi
+p911
+tp912
+I1
+s(Vinsert
+p913
+I42
+VSimpleName: getPid
+p914
+tp915
+I4
+s(Vinsert
+p916
+I42
+VSimpleName: params
+p917
+tp918
+I1
+s(Vinsert
+p919
+I43
+VSimpleType: JSONObject
+p920
+tp921
+I2
+s(Vinsert
+p922
+I42
+VSimpleName: model
+p923
+tp924
+I1
+s(Vinsert
+p925
+I59
+VVariableDeclarationFragment
+p926
+tp927
+I16
+s(Vinsert
+p928
+I42
+VSimpleName: getErrors
+p929
+tp930
+I3
+s(Vinsert
+p931
+I42
+VSimpleName: format
+p932
+tp933
+I1
+s(Vinsert
+p934
+I42
+VSimpleName: getOauthId
+p935
+tp936
+I4
+s(Vinsert
+p937
+I42
+VSimpleName: response
+p938
+tp939
+I1
+s(Vinsert
+p940
+I42
+VSimpleName: UpmsRolePermission
+p941
+tp942
+I2
+s.

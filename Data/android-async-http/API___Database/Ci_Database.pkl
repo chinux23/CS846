@@ -1,0 +1,5861 @@
+(dp0
+(Vinsert
+p1
+I43
+VSimpleType: XMLReader
+p2
+tp3
+I1
+s(Vinsert
+p4
+I42
+VSimpleName: getAllHeaders
+p5
+tp6
+I2
+s(Vinsert
+p7
+I45
+VStringLiteral: "fileFour"
+p8
+tp9
+I2
+s(Vinsert
+p10
+I66
+VTextElement: Remove header from all requests this client makes (before sending).
+p11
+tp12
+I1
+s(Vinsert
+p13
+I42
+VSimpleName: responseHandler
+p14
+tp15
+I34
+s(Vinsert
+p16
+I42
+VSimpleName: readValues
+p17
+tp18
+I2
+s(Vinsert
+p19
+I22
+VFieldAccess
+p20
+tp21
+I14
+s(Vinsert
+p22
+I40
+VQualifiedName: R.id.layout_custom
+p23
+tp24
+I1
+s(Vinsert
+p25
+I27
+VInfixExpression: ||
+p26
+tp27
+I11
+s(Vinsert
+p28
+I42
+VSimpleName: files
+p29
+tp30
+I2
+s(Vinsert
+p31
+I42
+VSimpleName: getContentLength
+p32
+tp33
+I1
+s(Vinsert
+p34
+I42
+VSimpleName: r
+p35
+tp36
+I5
+s(Vinsert
+p37
+I43
+VSimpleType: ClassNotFoundException
+p38
+tp39
+I1
+s(Vinsert
+p40
+I40
+VQualifiedName: msg.obj
+p41
+tp42
+I3
+s(Vinsert
+p43
+I42
+VSimpleName: onSuccess
+p44
+tp45
+I3
+s(Vinsert
+p46
+I42
+VSimpleName: setIsRepeatable
+p47
+tp48
+I1
+s(Vinsert
+p49
+I42
+VSimpleName: UsernamePasswordCredentials
+p50
+tp51
+I2
+s(Vinsert
+p52
+I43
+VSimpleType: FileInputStream
+p53
+tp54
+I1
+s(Vinsert
+p55
+I42
+VSimpleName: MediaPlayer
+p56
+tp57
+I1
+s(Vinsert
+p58
+I42
+VSimpleName: HttpPost
+p59
+tp60
+I1
+s(Vinsert
+p61
+I42
+VSimpleName: setCorePoolSize
+p62
+tp63
+I1
+s(Vinsert
+p64
+I42
+VSimpleName: height
+p65
+tp66
+I1
+s(Vinsert
+p67
+I42
+VSimpleName: getStatusCode
+p68
+tp69
+I5
+s(Vinsert
+p70
+I42
+VSimpleName: setTimeout
+p71
+tp72
+I1
+s(Vinsert
+p73
+I42
+VSimpleName: equalSignPos
+p74
+tp75
+I1
+s(Vinsert
+p76
+I43
+VSimpleType: Message
+p77
+tp78
+I3
+s(Vinsert
+p79
+I42
+VSimpleName: msg
+p80
+tp81
+I4
+s(Vinsert
+p82
+I27
+VInfixExpression: +
+p83
+tp84
+I12
+s(Vinsert
+p85
+I43
+VSimpleType: Map
+p86
+tp87
+I1
+s(Vinsert
+p88
+I42
+VSimpleName: onFailure
+p89
+tp90
+I3
+s(Vinsert
+p91
+I42
+VSimpleName: cause
+p92
+tp93
+I5
+s(Vinsert
+p94
+I42
+VSimpleName: DEFAULT_CHARSET
+p95
+tp96
+I1
+s(Vinsert
+p97
+I42
+VSimpleName: install
+p98
+tp99
+I1
+s(Vinsert
+p100
+I42
+VSimpleName: removeHeader
+p101
+tp102
+I2
+s(Vinsert
+p103
+I42
+VSimpleName: setURI
+p104
+tp105
+I3
+s(Vinsert
+p106
+I42
+VSimpleName: isEmpty
+p107
+tp108
+I4
+s(Vinsert
+p109
+I42
+VSimpleName: setAuthenticationPreemptive
+p110
+tp111
+I1
+s(Vinsert
+p112
+I42
+VSimpleName: LinkedList
+p113
+tp114
+I1
+s(Vinsert
+p115
+I5
+VArrayType: Object[]
+p116
+tp117
+I2
+s(Vinsert
+p118
+I42
+VSimpleName: decodedURL
+p119
+tp120
+I1
+s(Vinsert
+p121
+I42
+VSimpleName: httpDelete
+p122
+tp123
+I2
+s(Vinsert
+p124
+I42
+VSimpleName: String
+p125
+tp126
+I52
+s(Vinsert
+p127
+I45
+VStringLiteral: "Provided credentials are null, not setting"
+p128
+tp129
+I1
+s(Vinsert
+p130
+I45
+VStringLiteral: "fileThree"
+p131
+tp132
+I1
+s(Vinsert
+p133
+I42
+VSimpleName: getParentFile
+p134
+tp135
+I2
+s(Vinsert
+p136
+I43
+VSimpleType: JSON_TYPE
+p137
+tp138
+I1
+s(Vinsert
+p139
+I40
+VQualifiedName: org.apache.http.conn.ConnectTimeoutException
+p140
+tp141
+I1
+s(Vinsert
+p142
+I42
+VSimpleName: states
+p143
+tp144
+I3
+s(Vinsert
+p145
+I40
+VQualifiedName: contentTypeHeaders.length
+p146
+tp147
+I1
+s(Vinsert
+p148
+I66
+VTextElement: If you set manually RedirectHandler on underlying HttpClient, effects of this method will be canceled.
+p149
+tp150
+I1
+s(Vinsert
+p151
+I42
+VSimpleName: source
+p152
+tp153
+I1
+s(Vinsert
+p154
+I42
+VSimpleName: HttpResponse
+p155
+tp156
+I1
+s(Vinsert
+p157
+I42
+VSimpleName: entrySet
+p158
+tp159
+I2
+s(Vinsert
+p160
+I42
+VSimpleName: FileInputStream
+p161
+tp162
+I1
+s(Vinsert
+p163
+I43
+VSimpleType: UnsupportedEncodingException
+p164
+tp165
+I2
+s(Vinsert
+p166
+I42
+VSimpleName: logLevel
+p167
+tp168
+I2
+s(Vinsert
+p169
+I45
+VStringLiteral: "IOException in encodeCookie"
+p170
+tp171
+I1
+s(Vinsert
+p172
+I42
+VSimpleName: ProtocolException
+p173
+tp174
+I1
+s(Vinsert
+p175
+I42
+VSimpleName: header
+p176
+tp177
+I10
+s(Vinsert
+p178
+I42
+VSimpleName: multipartEntity
+p179
+tp180
+I1
+s(Vinsert
+p181
+I42
+VSimpleName: CharArrayBuffer
+p182
+tp183
+I2
+s(Vinsert
+p184
+I42
+VSimpleName: setAccessible
+p185
+tp186
+I1
+s(Vinsert
+p187
+I42
+VSimpleName: AuthState
+p188
+tp189
+I1
+s(Vinsert
+p190
+I40
+VQualifiedName: java.util.Collections
+p191
+tp192
+I1
+s(Vinsert
+p193
+I42
+VSimpleName: lines
+p194
+tp195
+I1
+s(Vinsert
+p196
+I42
+VSimpleName: delete
+p197
+tp198
+I3
+s(Vinsert
+p199
+I42
+VSimpleName: HttpResponseException
+p200
+tp201
+I1
+s(Vinsert
+p202
+I42
+VSimpleName: ad
+p203
+tp204
+I1
+s(Vinsert
+p205
+I23
+VFieldDeclaration
+p206
+tp207
+I3
+s(Vinsert
+p208
+I74
+VParameterizedType: LinkedList<BasicNameValuePair>
+p209
+tp210
+I2
+s(Vinsert
+p211
+I5
+VArrayType: String[]
+p212
+tp213
+I2
+s(Vinsert
+p214
+I43
+VSimpleType: MediaPlayer
+p215
+tp216
+I1
+s(Vinsert
+p217
+I42
+VSimpleName: makeText
+p218
+tp219
+I2
+s(Vinsert
+p220
+I25
+VIfStatement
+p221
+tp222
+I76
+s(Vinsert
+p223
+I42
+VSimpleName: addClassToBlacklist
+p224
+tp225
+I1
+s(Vinsert
+p226
+I42
+VSimpleName: setEnableRedirects
+p227
+tp228
+I2
+s(Vinsert
+p229
+I42
+VSimpleName: getAsyncHttpClient
+p230
+tp231
+I2
+s(Vinsert
+p232
+I49
+VSwitchCase
+p233
+tp234
+I2
+s(Vinsert
+p235
+I43
+VSimpleType: AtomicBoolean
+p236
+tp237
+I1
+s(Vinsert
+p238
+I42
+VSimpleName: deleteCookie
+p239
+tp240
+I1
+s(Vinsert
+p241
+I42
+VSimpleName: firstEvent
+p242
+tp243
+I1
+s(Vinsert
+p244
+I45
+VStringLiteral: "_handled"
+p245
+tp246
+I1
+s(Vinsert
+p247
+I42
+VSimpleName: cbRename
+p248
+tp249
+I2
+s(Vinsert
+p250
+I42
+VSimpleName: LinearLayout
+p251
+tp252
+I4
+s(Vinsert
+p253
+I42
+VSimpleName: LOG_TAG
+p254
+tp255
+I16
+s(Vinsert
+p256
+I43
+VSimpleType: ObjectMapper
+p257
+tp258
+I2
+s(Vinsert
+p259
+I27
+VInfixExpression: ==
+p260
+tp261
+I11
+s(Vinsert
+p262
+I42
+VSimpleName: parseResponse
+p263
+tp264
+I2
+s(Vinsert
+p265
+I66
+VTextElement:  this AsyncHttpRequest to allow fluid syntax
+p266
+tp267
+I1
+s(Vinsert
+p268
+I9
+VBooleanLiteral: true
+p269
+tp270
+I7
+s(Vinsert
+p271
+I62
+VInstanceofExpression
+p272
+tp273
+I1
+s(Vinsert
+p274
+I42
+VSimpleName: responseTimeout
+p275
+tp276
+I1
+s(Vinsert
+p277
+I42
+VSimpleName: retries
+p278
+tp279
+I2
+s(Vinsert
+p280
+I42
+VSimpleName: Header
+p281
+tp282
+I13
+s(Vinsert
+p283
+I43
+VSimpleType: Menu
+p284
+tp285
+I1
+s(Vinsert
+p286
+I42
+VSimpleName: keys
+p287
+tp288
+I3
+s(Vinsert
+p289
+I42
+VSimpleName: user
+p290
+tp291
+I1
+s(Vinsert
+p292
+I42
+VSimpleName: count
+p293
+tp294
+I3
+s(Vinsert
+p295
+I42
+VSimpleName: ATTR_PRE_PROCESSED
+p296
+tp297
+I1
+s(Vinsert
+p298
+I34
+VNumberLiteral: 2
+p299
+tp300
+I9
+s(Vinsert
+p301
+I42
+VSimpleName: s
+p302
+tp303
+I1
+s(Vinsert
+p304
+I43
+VSimpleType: BufferedHttpEntity
+p305
+tp306
+I1
+s(Vinsert
+p307
+I42
+VSimpleName: AsyncHttpResponseHandler
+p308
+tp309
+I7
+s(Vinsert
+p310
+I43
+VSimpleType: AsyncHttpRequest
+p311
+tp312
+I5
+s(Vinsert
+p313
+I42
+VSimpleName: itr
+p314
+tp315
+I1
+s(Vinsert
+p316
+I42
+VSimpleName: retryNo
+p317
+tp318
+I1
+s(Vinsert
+p319
+I66
+VTextElement: "Android Asynchronous Http Client/VERSION (http://loopj.com/android-async-http/)" is used.
+p320
+tp321
+I1
+s(Vinsert
+p322
+I42
+VSimpleName: startsWith
+p323
+tp324
+I4
+s(Vinsert
+p325
+I43
+VSimpleType: HttpPost
+p326
+tp327
+I1
+s(Vinsert
+p328
+I38
+VPrefixExpression: !
+p329
+tp330
+I17
+s(Vinsert
+p331
+I66
+VTextElement:  array of content-types or Pattern string templates (eg. '.*' to match every response)
+p332
+tp333
+I1
+s(Vinsert
+p334
+I42
+VSimpleName: setForceSynchronous
+p335
+tp336
+I1
+s(Vinsert
+p337
+I43
+VSimpleType: LinearLayout
+p338
+tp339
+I3
+s(Vinsert
+p340
+I42
+VSimpleName: thrown
+p341
+tp342
+I1
+s(Vinsert
+p343
+I45
+VStringLiteral: "Return Headers:"
+p344
+tp345
+I1
+s(Vinsert
+p346
+I66
+VTextElement:  RequestParams to be appended on the end of URL
+p347
+tp348
+I1
+s(Vinsert
+p349
+I43
+VSimpleType: ResponseHandlerInterface
+p350
+tp351
+I4
+s(Vinsert
+p352
+I42
+VSimpleName: urlParamsWithObjects
+p353
+tp354
+I1
+s(Vinsert
+p355
+I45
+VStringLiteral: "cancelRequestsByTAG, passed TAG is null, cannot proceed"
+p356
+tp357
+I1
+s(Vinsert
+p358
+I42
+VSimpleName: Color
+p359
+tp360
+I1
+s(Vinsert
+p361
+I76
+VWildcardType: ?
+p362
+tp363
+I3
+s(Vinsert
+p364
+I43
+VSimpleType: Boolean
+p365
+tp366
+I5
+s(Vinsert
+p367
+I42
+VSimpleName: data
+p368
+tp369
+I1
+s(Vinsert
+p370
+I66
+VTextElement: your needs
+p371
+tp372
+I1
+s(Vinsert
+p373
+I45
+VStringLiteral: "null"
+p374
+tp375
+I1
+s(Vinsert
+p376
+I42
+VSimpleName: getColoredView
+p377
+tp378
+I3
+s(Vinsert
+p379
+I31
+VMethodDeclaration
+p380
+tp381
+I24
+s(Vinsert
+p382
+I43
+VSimpleType: Future
+p383
+tp384
+I2
+s(Vinsert
+p385
+I42
+VSimpleName: myLooper
+p386
+tp387
+I2
+s(Vinsert
+p388
+I42
+VSimpleName: ClassNotFoundException
+p389
+tp390
+I1
+s(Vinsert
+p391
+I27
+VInfixExpression: *
+p392
+tp393
+I1
+s(Vinsert
+p394
+I42
+VSimpleName: FileNotFoundException
+p395
+tp396
+I1
+s(Vinsert
+p397
+I42
+VSimpleName: ClientProtocolException
+p398
+tp399
+I2
+s(Vinsert
+p400
+I39
+VPrimitiveType: void
+p401
+tp402
+I37
+s(Vinsert
+p403
+I42
+VSimpleName: indexOf
+p404
+tp405
+I1
+s(Vinsert
+p406
+I42
+VSimpleName: url
+p407
+tp408
+I14
+s(Vinsert
+p409
+I42
+VSimpleName: setVisibility
+p410
+tp411
+I1
+s(Vinsert
+p412
+I43
+VSimpleType: HttpResponseException
+p413
+tp414
+I1
+s(Vinsert
+p415
+I45
+VStringLiteral: "&"
+p416
+tp417
+I1
+s(Vinsert
+p418
+I42
+VSimpleName: h
+p419
+tp420
+I1
+s(Vinsert
+p421
+I42
+VSimpleName: inputStreamReader
+p422
+tp423
+I1
+s(Vinsert
+p424
+I42
+VSimpleName: split
+p425
+tp426
+I2
+s(Vinsert
+p427
+I42
+VSimpleName: handleRetryMessage
+p428
+tp429
+I1
+s(Vinsert
+p430
+I42
+VSimpleName: setHeaders
+p431
+tp432
+I4
+s(Vinsert
+p433
+I42
+VSimpleName: sslSocketFactory
+p434
+tp435
+I2
+s(Vinsert
+p436
+I42
+VSimpleName: synchronizedMap
+p437
+tp438
+I1
+s(Vinsert
+p439
+I42
+VSimpleName: setMaxRetries
+p440
+tp441
+I1
+s(Vinsert
+p442
+I45
+VStringLiteral: "Content-Disposition: form-data; name=\u005c""
+p443
+tp444
+I1
+s(Vinsert
+p445
+I42
+VSimpleName: RETRY_MESSAGE
+p446
+tp447
+I1
+s(Vinsert
+p448
+I43
+VSimpleType: Cookie
+p449
+tp450
+I1
+s(Vinsert
+p451
+I42
+VSimpleName: onProgress
+p452
+tp453
+I1
+s(Vinsert
+p454
+I42
+VSimpleName: headersRaw
+p455
+tp456
+I1
+s(Vinsert
+p457
+I42
+VSimpleName: mVideoWidth
+p458
+tp459
+I1
+s(Vinsert
+p460
+I45
+VStringLiteral: "AsyncHttpClient"
+p461
+tp462
+I1
+s(Vinsert
+p463
+I42
+VSimpleName: value
+p464
+tp465
+I14
+s(Vinsert
+p466
+I27
+VInfixExpression: !=
+p467
+tp468
+I48
+s(Vinsert
+p469
+I42
+VSimpleName: useRFC5179CompatibilityMode
+p470
+tp471
+I2
+s(Vinsert
+p472
+I43
+VSimpleType: BasicHttpParams
+p473
+tp474
+I1
+s(Vinsert
+p475
+I42
+VSimpleName: updateRequestHeaders
+p476
+tp477
+I2
+s(Vinsert
+p478
+I42
+VSimpleName: encoding
+p479
+tp480
+I3
+s(Vinsert
+p481
+I42
+VSimpleName: end
+p482
+tp483
+I2
+s(Vinsert
+p484
+I42
+VSimpleName: getHeadersText
+p485
+tp486
+I1
+s(Vinsert
+p487
+I16
+VConditionalExpression
+p488
+tp489
+I5
+s(Vinsert
+p490
+I42
+VSimpleName: CredentialsProvider
+p491
+tp492
+I2
+s(Vinsert
+p493
+I40
+VQualifiedName: org.apache.http.client.ClientProtocolException
+p494
+tp495
+I1
+s(Vinsert
+p496
+I43
+VSimpleType: Class
+p497
+tp498
+I3
+s(Vinsert
+p499
+I43
+VSimpleType: AlertDialog.Builder
+p500
+tp501
+I1
+s(Vinsert
+p502
+I42
+VSimpleName: wrappedEntity
+p503
+tp504
+I1
+s(Vinsert
+p505
+I39
+VPrimitiveType: boolean
+p506
+tp507
+I19
+s(Vinsert
+p508
+I42
+VSimpleName: parse
+p509
+tp510
+I1
+s(Vinsert
+p511
+I66
+VTextElement: Will, before sending, remove all headers currently present in AsyncHttpClient instance,
+p512
+tp513
+I1
+s(Vinsert
+p514
+I40
+VQualifiedName: ExampleIntentService.INTENT_THROWABLE
+p515
+tp516
+I1
+s(Vinsert
+p517
+I43
+VSimpleType: Iterator
+p518
+tp519
+I1
+s(Vinsert
+p520
+I40
+VQualifiedName: java.util.regex.PatternSyntaxException
+p521
+tp522
+I1
+s(Vinsert
+p523
+I34
+VNumberLiteral: 1.35f
+p524
+tp525
+I1
+s(Vinsert
+p526
+I42
+VSimpleName: getCacheDir
+p527
+tp528
+I1
+s(Vinsert
+p529
+I42
+VSimpleName: HEADER_GZIP_ENCODING
+p530
+tp531
+I1
+s(Vinsert
+p532
+I42
+VSimpleName: getDomain
+p533
+tp534
+I2
+s(Vinsert
+p535
+I42
+VSimpleName: UnsupportedEncodingException
+p536
+tp537
+I1
+s(Vinsert
+p538
+I43
+VSimpleType: URL
+p539
+tp540
+I1
+s(Vinsert
+p541
+I79
+VSingleMemberAnnotation
+p542
+tp543
+I3
+s(Vinsert
+p544
+I42
+VSimpleName: destFile
+p545
+tp546
+I1
+s(Vinsert
+p547
+I42
+VSimpleName: setOrientation
+p548
+tp549
+I1
+s(Vinsert
+p550
+I66
+VTextElement:     String with URL, should be valid URL without params
+p551
+tp552
+I1
+s(Vinsert
+p553
+I11
+VCastExpression
+p554
+tp555
+I33
+s(Vinsert
+p556
+I42
+VSimpleName: URI
+p557
+tp558
+I10
+s(Vinsert
+p559
+I42
+VSimpleName: HttpEntity
+p560
+tp561
+I9
+s(Vinsert
+p562
+I42
+VSimpleName: paramArray
+p563
+tp564
+I1
+s(Vinsert
+p565
+I42
+VSimpleName: bytesWritten
+p566
+tp567
+I2
+s(Vinsert
+p568
+I42
+VSimpleName: result
+p569
+tp570
+I3
+s(Vinsert
+p571
+I42
+VSimpleName: StringBuilder
+p572
+tp573
+I2
+s(Vinsert
+p574
+I9
+VBooleanLiteral: false
+p575
+tp576
+I3
+s(Vinsert
+p577
+I84
+VUnionType: Exception|Error
+p578
+tp579
+I1
+s(Vinsert
+p580
+I42
+VSimpleName: setCredentials
+p581
+tp582
+I2
+s(Vinsert
+p583
+I42
+VSimpleName: copyLength
+p584
+tp585
+I2
+s(Vinsert
+p586
+I42
+VSimpleName: contentType
+p587
+tp588
+I5
+s(Vinsert
+p589
+I59
+VVariableDeclarationFragment
+p590
+tp591
+I74
+s(Vinsert
+p592
+I42
+VSimpleName: parser
+p593
+tp594
+I6
+s(Vinsert
+p595
+I66
+VTextElement:  boolean
+p596
+tp597
+I1
+s(Vinsert
+p598
+I65
+VTagElement: @see
+p599
+tp600
+I1
+s(Vinsert
+p601
+I43
+VSimpleType: List
+p602
+tp603
+I4
+s(Vinsert
+p604
+I42
+VSimpleName: Utils
+p605
+tp606
+I3
+s(Vinsert
+p607
+I42
+VSimpleName: pair
+p608
+tp609
+I4
+s(Vinsert
+p610
+I42
+VSimpleName: onRetry
+p611
+tp612
+I1
+s(Vinsert
+p613
+I74
+VParameterizedType: Iterator<RequestHandle>
+p614
+tp615
+I1
+s(Vinsert
+p616
+I42
+VSimpleName: usePoolThread
+p617
+tp618
+I1
+s(Vinsert
+p619
+I40
+VQualifiedName: ViewGroup.LayoutParams.MATCH_PARENT
+p620
+tp621
+I2
+s(Vinsert
+p622
+I42
+VSimpleName: error
+p623
+tp624
+I2
+s(Vinsert
+p625
+I83
+VModifier: volatile
+p626
+tp627
+I1
+s(Vinsert
+p628
+I65
+VTagElement
+p629
+tp630
+I4
+s(Vinsert
+p631
+I42
+VSimpleName: addHeader
+p632
+tp633
+I3
+s(Vinsert
+p634
+I42
+VSimpleName: findViewById
+p635
+tp636
+I1
+s(Vinsert
+p637
+I43
+VSimpleType: FileNotFoundException
+p638
+tp639
+I1
+s(Vinsert
+p640
+I42
+VSimpleName: autoClose
+p641
+tp642
+I1
+s(Vinsert
+p643
+I42
+VSimpleName: getXMLReader
+p644
+tp645
+I1
+s(Vinsert
+p646
+I42
+VSimpleName: isImageResponseHandler
+p647
+tp648
+I1
+s(Vinsert
+p649
+I42
+VSimpleName: getFixedSocketFactory
+p650
+tp651
+I1
+s(Vinsert
+p652
+I61
+VWhileStatement
+p653
+tp654
+I4
+s(Vinsert
+p655
+I42
+VSimpleName: upload
+p656
+tp657
+I2
+s(Vinsert
+p658
+I42
+VSimpleName: color
+p659
+tp660
+I1
+s(Vinsert
+p661
+I66
+VTextElement: Sets the User-Agent header to be sent with each request. By default,
+p662
+tp663
+I1
+s(Vinsert
+p664
+I38
+VPrefixExpression: ++
+p665
+tp666
+I1
+s(Vinsert
+p667
+I42
+VSimpleName: getText
+p668
+tp669
+I1
+s(Vinsert
+p670
+I34
+VNumberLiteral: 32
+p671
+tp672
+I1
+s(Vinsert
+p673
+I45
+VStringLiteral: "BinaryHttpResponseHandler"
+p674
+tp675
+I1
+s(Vinsert
+p676
+I42
+VSimpleName: pass
+p677
+tp678
+I1
+s(Vinsert
+p679
+I43
+VSimpleType: org.json.JSONObject
+p680
+tp681
+I1
+s(Vinsert
+p682
+I42
+VSimpleName: customFieldsLayout
+p683
+tp684
+I2
+s(Vinsert
+p685
+I42
+VSimpleName: urlEditText
+p686
+tp687
+I1
+s(Vinsert
+p688
+I42
+VSimpleName: encoder
+p689
+tp690
+I1
+s(Vinsert
+p691
+I42
+VSimpleName: getClass
+p692
+tp693
+I2
+s(Vinsert
+p694
+I42
+VSimpleName: ArrayIndexOutOfBoundsException
+p695
+tp696
+I2
+s(Vinsert
+p697
+I42
+VSimpleName: cache
+p698
+tp699
+I1
+s(Vinsert
+p700
+I39
+VPrimitiveType: int
+p701
+tp702
+I26
+s(Vinsert
+p703
+I45
+VStringLiteral: "Request was interrupted while executing"
+p704
+tp705
+I1
+s(Vinsert
+p706
+I43
+VSimpleType: AuthenticationException
+p707
+tp708
+I1
+s(Vinsert
+p709
+I42
+VSimpleName: Runnable
+p710
+tp711
+I10
+s(Vinsert
+p712
+I42
+VSimpleName: currentThread
+p713
+tp714
+I4
+s(Vinsert
+p715
+I42
+VSimpleName: getIntExtra
+p716
+tp717
+I1
+s(Vinsert
+p718
+I42
+VSimpleName: enc
+p719
+tp720
+I2
+s(Vinsert
+p721
+I40
+VQualifiedName: AlertDialog.Builder
+p722
+tp723
+I1
+s(Vinsert
+p724
+I42
+VSimpleName: setLoggingLevel
+p725
+tp726
+I2
+s(Vinsert
+p727
+I43
+VSimpleType: AlertDialog
+p728
+tp729
+I1
+s(Vinsert
+p730
+I43
+VSimpleType: Throwable
+p731
+tp732
+I5
+s(Vinsert
+p733
+I42
+VSimpleName: i
+p734
+tp735
+I8
+s(Vinsert
+p736
+I42
+VSimpleName: content_wrapper
+p737
+tp738
+I1
+s(Vinsert
+p739
+I42
+VSimpleName: pairs
+p740
+tp741
+I1
+s(Vinsert
+p742
+I34
+VNumberLiteral: 40
+p743
+tp744
+I1
+s(Vinsert
+p745
+I40
+VQualifiedName: android.widget.Toast
+p746
+tp747
+I1
+s(Vinsert
+p748
+I42
+VSimpleName: totalSize
+p749
+tp750
+I2
+s(Vinsert
+p751
+I43
+VSimpleType: ConnectTimeoutException
+p752
+tp753
+I2
+s(Vinsert
+p754
+I42
+VSimpleName: file
+p755
+tp756
+I14
+s(Vinsert
+p757
+I45
+VStringLiteral: ": "
+p758
+tp759
+I1
+s(Vinsert
+p760
+I42
+VSimpleName: requestHandles
+p761
+tp762
+I3
+s(Vinsert
+p763
+I43
+VSimpleType: Integer
+p764
+tp765
+I6
+s(Vinsert
+p766
+I42
+VSimpleName: type
+p767
+tp768
+I3
+s(Vinsert
+p769
+I42
+VSimpleName: rParams
+p770
+tp771
+I2
+s(Vinsert
+p772
+I43
+VSimpleType: JSONTokener
+p773
+tp774
+I1
+s(Vinsert
+p775
+I40
+VQualifiedName: Map.Entry
+p776
+tp777
+I1
+s(Vinsert
+p778
+I42
+VSimpleName: flags
+p779
+tp780
+I1
+s(Vinsert
+p781
+I42
+VSimpleName: setTitle
+p782
+tp783
+I1
+s(Vinsert
+p784
+I42
+VSimpleName: BasicNameValuePair
+p785
+tp786
+I3
+s(Vinsert
+p787
+I42
+VSimpleName: allowRetryExceptionClass
+p788
+tp789
+I2
+s(Vinsert
+p790
+I54
+VTryStatement
+p791
+tp792
+I12
+s(Vinsert
+p793
+I42
+VSimpleName: JSONTokener
+p794
+tp795
+I1
+s(Vinsert
+p796
+I42
+VSimpleName: trim
+p797
+tp798
+I2
+s(Vinsert
+p799
+I40
+VQualifiedName: com.loopj.android.http.MyRedirectHandler
+p800
+tp801
+I1
+s(Vinsert
+p802
+I42
+VSimpleName: createContentDisposition
+p803
+tp804
+I1
+s(Vinsert
+p805
+I43
+VSimpleType: CheckBox
+p806
+tp807
+I1
+s(Vinsert
+p808
+I43
+VSimpleType: HttpParams
+p809
+tp810
+I4
+s(Vinsert
+p811
+I42
+VSimpleName: os
+p812
+tp813
+I4
+s(Vinsert
+p814
+I43
+VSimpleType: IOException
+p815
+tp816
+I6
+s(Vinsert
+p817
+I42
+VSimpleName: prepare
+p818
+tp819
+I1
+s(Vinsert
+p820
+I42
+VSimpleName: setRequestTag
+p821
+tp822
+I2
+s(Vinsert
+p823
+I42
+VSimpleName: counter
+p824
+tp825
+I1
+s(Vinsert
+p826
+I42
+VSimpleName: getVideoWidth
+p827
+tp828
+I1
+s(Vinsert
+p829
+I42
+VSimpleName: clear
+p830
+tp831
+I1
+s(Vinsert
+p832
+I42
+VSimpleName: Object
+p833
+tp834
+I14
+s(Vinsert
+p835
+I42
+VSimpleName: blockRetryExceptionClass
+p836
+tp837
+I1
+s(Vinsert
+p838
+I74
+VParameterizedType: Map.Entry<String,String>
+p839
+tp840
+I1
+s(Vinsert
+p841
+I42
+VSimpleName: getCredentialsProvider
+p842
+tp843
+I3
+s(Vinsert
+p844
+I42
+VSimpleName: intent
+p845
+tp846
+I2
+s(Vinsert
+p847
+I42
+VSimpleName: ObjectMapper
+p848
+tp849
+I2
+s(Vinsert
+p850
+I42
+VSimpleName: parseColor
+p851
+tp852
+I1
+s(Vinsert
+p853
+I42
+VSimpleName: sendNextRangeRequest
+p854
+tp855
+I1
+s(Vinsert
+p856
+I40
+VQualifiedName: Build.VERSION_CODES.HONEYCOMB
+p857
+tp858
+I3
+s(Vinsert
+p859
+I39
+VPrimitiveType: long
+p860
+tp861
+I3
+s(Vinsert
+p862
+I42
+VSimpleName: message
+p863
+tp864
+I1
+s(Vinsert
+p865
+I42
+VSimpleName: process
+p866
+tp867
+I1
+s(Vinsert
+p868
+I42
+VSimpleName: kv
+p869
+tp870
+I1
+s(Vinsert
+p871
+I42
+VSimpleName: urlParamsWithArray
+p872
+tp873
+I1
+s(Vinsert
+p874
+I42
+VSimpleName: getProtocol
+p875
+tp876
+I1
+s(Vinsert
+p877
+I42
+VSimpleName: File
+p878
+tp879
+I5
+s(Vinsert
+p880
+I20
+VEmptyStatement
+p881
+tp882
+I1
+s(Vinsert
+p883
+I42
+VSimpleName: output_len
+p884
+tp885
+I1
+s(Vinsert
+p886
+I42
+VSimpleName: password
+p887
+tp888
+I1
+s(Vinsert
+p889
+I45
+VStringLiteral: "Content-Type: "
+p890
+tp891
+I2
+s(Vinsert
+p892
+I42
+VSimpleName: entry
+p893
+tp894
+I3
+s(Vinsert
+p895
+I43
+VSimpleType: LinkedList
+p896
+tp897
+I1
+s(Vinsert
+p898
+I43
+VSimpleType: ConcurrentHashMap.Entry
+p899
+tp900
+I1
+s(Vinsert
+p901
+I42
+VSimpleName: DEFAULT_SOCKET_TIMEOUT
+p902
+tp903
+I1
+s(Vinsert
+p904
+I66
+VTextElement:  whether the authorization is processed in preemtive way
+p905
+tp906
+I1
+s(Vinsert
+p907
+I42
+VSimpleName: keySet
+p908
+tp909
+I1
+s(Vinsert
+p910
+I74
+VParameterizedType: ConcurrentHashMap.Entry<String,Object>
+p911
+tp912
+I1
+s(Vinsert
+p913
+I42
+VSimpleName: putExtra
+p914
+tp915
+I1
+s(Vinsert
+p916
+I42
+VSimpleName: getUrlWithQueryString
+p917
+tp918
+I2
+s(Vinsert
+p919
+I66
+VTextElement:  SchemeRegistry to be used
+p920
+tp921
+I1
+s(Vinsert
+p922
+I42
+VSimpleName: temp
+p923
+tp924
+I4
+s(Vinsert
+p925
+I42
+VSimpleName: LeakCanary
+p926
+tp927
+I1
+s(Vinsert
+p928
+I34
+VNumberLiteral: 0
+p929
+tp930
+I19
+s(Vinsert
+p931
+I42
+VSimpleName: KeyStoreException
+p932
+tp933
+I1
+s(Vinsert
+p934
+I42
+VSimpleName: setStrictMode
+p935
+tp936
+I2
+s(Vinsert
+p937
+I36
+VParenthesizedExpression
+p938
+tp939
+I15
+s(Vinsert
+p940
+I42
+VSimpleName: inputStream
+p941
+tp942
+I2
+s(Vinsert
+p943
+I42
+VSimpleName: status
+p944
+tp945
+I6
+s(Vinsert
+p946
+I42
+VSimpleName: debugStatusCode
+p947
+tp948
+I2
+s(Vinsert
+p949
+I57
+VTypeLiteral
+p950
+tp951
+I2
+s(Vinsert
+p952
+I42
+VSimpleName: Log
+p953
+tp954
+I37
+s(Vinsert
+p955
+I42
+VSimpleName: append
+p956
+tp957
+I6
+s(Vinsert
+p958
+I42
+VSimpleName: onCreate
+p959
+tp960
+I1
+s(Vinsert
+p961
+I43
+VSimpleType: MenuItem
+p962
+tp963
+I1
+s(Vinsert
+p964
+I52
+VThisExpression
+p965
+tp966
+I25
+s(Vinsert
+p967
+I34
+VNumberLiteral: 16384
+p968
+tp969
+I1
+s(Vinsert
+p970
+I42
+VSimpleName: missingLooper
+p971
+tp972
+I3
+s(Vinsert
+p973
+I34
+VNumberLiteral: 4
+p974
+tp975
+I1
+s(Vinsert
+p976
+I66
+VTextElement: Creates a new SyncHttpClient.
+p977
+tp978
+I1
+s(Vinsert
+p979
+I42
+VSimpleName: gc
+p980
+tp981
+I1
+s(Vinsert
+p982
+I70
+VEnhancedForStatement
+p983
+tp984
+I9
+s(Vinsert
+p985
+I42
+VSimpleName: TAG
+p986
+tp987
+I6
+s(Vinsert
+p988
+I43
+VSimpleType: ArrayIndexOutOfBoundsException
+p989
+tp990
+I2
+s(Vinsert
+p991
+I42
+VSimpleName: titles
+p992
+tp993
+I1
+s(Vinsert
+p994
+I42
+VSimpleName: CertificateException
+p995
+tp996
+I1
+s(Vinsert
+p997
+I14
+VClassInstanceCreation
+p998
+tp999
+I49
+s(Vinsert
+p1000
+I42
+VSimpleName: getUsePoolThread
+p1001
+tp1002
+I2
+s(Vinsert
+p1003
+I42
+VSimpleName: intValue
+p1004
+tp1005
+I5
+s(Vinsert
+p1006
+I42
+VSimpleName: BUFFER_SIZE
+p1007
+tp1008
+I1
+s(Vinsert
+p1009
+I42
+VSimpleName: headerMap
+p1010
+tp1011
+I1
+s(Vinsert
+p1012
+I66
+VTextElement:  if one of the streams cannot be read
+p1013
+tp1014
+I1
+s(Vinsert
+p1015
+I42
+VSimpleName: handleResponseMessage
+p1016
+tp1017
+I1
+s(Vinsert
+p1018
+I43
+VSimpleType: Error
+p1019
+tp1020
+I1
+s(Vinsert
+p1021
+I42
+VSimpleName: buffer
+p1022
+tp1023
+I2
+s(Vinsert
+p1024
+I42
+VSimpleName: add
+p1025
+tp1026
+I6
+s(Vinsert
+p1027
+I42
+VSimpleName: action
+p1028
+tp1029
+I2
+s(Vinsert
+p1030
+I42
+VSimpleName: BUILDER
+p1031
+tp1032
+I1
+s(Vinsert
+p1033
+I42
+VSimpleName: XMLReader
+p1034
+tp1035
+I1
+s(Vinsert
+p1036
+I40
+VQualifiedName: response.length
+p1037
+tp1038
+I2
+s(Vinsert
+p1039
+I42
+VSimpleName: jsonResponse
+p1040
+tp1041
+I5
+s(Vinsert
+p1042
+I42
+VSimpleName: entity
+p1043
+tp1044
+I10
+s(Vinsert
+p1045
+I43
+VSimpleType: SampleJSON
+p1046
+tp1047
+I1
+s(Vinsert
+p1048
+I42
+VSimpleName: MySSLSocketFactory
+p1049
+tp1050
+I1
+s(Vinsert
+p1051
+I42
+VSimpleName: samples
+p1052
+tp1053
+I1
+s(Vinsert
+p1054
+I45
+VStringLiteral: "gzip"
+p1055
+tp1056
+I1
+s(Vinsert
+p1057
+I27
+VInfixExpression: >=
+p1058
+tp1059
+I2
+s(Vinsert
+p1060
+I42
+VSimpleName: HttpGet
+p1061
+tp1062
+I1
+s(Vinsert
+p1063
+I42
+VSimpleName: f
+p1064
+tp1065
+I2
+s(Vinsert
+p1066
+I43
+VSimpleType: ThreadingTimeoutSample
+p1067
+tp1068
+I1
+s(Vinsert
+p1069
+I83
+VModifier: protected
+p1070
+tp1071
+I3
+s(Vinsert
+p1072
+I42
+VSimpleName: SocketException
+p1073
+tp1074
+I1
+s(Vinsert
+p1075
+I10
+VBreakStatement
+p1076
+tp1077
+I1
+s(Vinsert
+p1078
+I42
+VSimpleName: isFailure
+p1079
+tp1080
+I2
+s(Vinsert
+p1081
+I42
+VSimpleName: cancelButton
+p1082
+tp1083
+I3
+s(Vinsert
+p1084
+I42
+VSimpleName: setUserAgent
+p1085
+tp1086
+I2
+s(Vinsert
+p1087
+I42
+VSimpleName: BasicHttpParams
+p1088
+tp1089
+I1
+s(Vinsert
+p1090
+I42
+VSimpleName: hasNext
+p1091
+tp1092
+I1
+s(Vinsert
+p1093
+I42
+VSimpleName: length
+p1094
+tp1095
+I5
+s(Vinsert
+p1096
+I42
+VSimpleName: List
+p1097
+tp1098
+I4
+s(Vinsert
+p1099
+I42
+VSimpleName: getBytes
+p1100
+tp1101
+I3
+s(Vinsert
+p1102
+I42
+VSimpleName: iterator
+p1103
+tp1104
+I3
+s(Vinsert
+p1105
+I45
+VStringLiteral: "): (bytes="
+p1106
+tp1107
+I2
+s(Vinsert
+p1108
+I42
+VSimpleName: sendMessage
+p1109
+tp1110
+I5
+s(Vinsert
+p1111
+I42
+VSimpleName: Context
+p1112
+tp1113
+I1
+s(Vinsert
+p1114
+I42
+VSimpleName: keyAt
+p1115
+tp1116
+I2
+s(Vinsert
+p1117
+I40
+VQualifiedName: android.util.Log
+p1118
+tp1119
+I2
+s(Vinsert
+p1120
+I42
+VSimpleName: contentEncoding
+p1121
+tp1122
+I1
+s(Vinsert
+p1123
+I43
+VSimpleType: Map.Entry
+p1124
+tp1125
+I1
+s(Vinsert
+p1126
+I42
+VSimpleName: ACTION_SUCCESS
+p1127
+tp1128
+I1
+s(Vinsert
+p1129
+I45
+VStringLiteral: "onStart"
+p1130
+tp1131
+I1
+s(Vinsert
+p1132
+I42
+VSimpleName: unread
+p1133
+tp1134
+I1
+s(Vinsert
+p1135
+I42
+VSimpleName: params
+p1136
+tp1137
+I8
+s(Vinsert
+p1138
+I42
+VSimpleName: c
+p1139
+tp1140
+I2
+s(Vinsert
+p1141
+I42
+VSimpleName: setLayoutParams
+p1142
+tp1143
+I1
+s(Vinsert
+p1144
+I42
+VSimpleName: RetryHandler
+p1145
+tp1146
+I1
+s(Vinsert
+p1147
+I42
+VSimpleName: httpParams
+p1148
+tp1149
+I4
+s(Vinsert
+p1150
+I42
+VSimpleName: httpsPort
+p1151
+tp1152
+I1
+s(Vinsert
+p1153
+I83
+VModifier: final
+p1154
+tp1155
+I17
+s(Vinsert
+p1156
+I27
+VInfixExpression: &&
+p1157
+tp1158
+I13
+s(Vinsert
+p1159
+I42
+VSimpleName: onStart
+p1160
+tp1161
+I1
+s(Vinsert
+p1162
+I42
+VSimpleName: replace
+p1163
+tp1164
+I1
+s(Vinsert
+p1165
+I42
+VSimpleName: isPreemtive
+p1166
+tp1167
+I3
+s(Vinsert
+p1168
+I43
+VSimpleType: Header
+p1169
+tp1170
+I11
+s(Vinsert
+p1171
+I42
+VSimpleName: cls
+p1172
+tp1173
+I4
+s(Vinsert
+p1174
+I45
+VStringLiteral: "\u005cr\u005cn\u005cr\u005cn"
+p1175
+tp1176
+I2
+s(Vinsert
+p1177
+I42
+VSimpleName: handleSuccessMessage
+p1178
+tp1179
+I1
+s(Vinsert
+p1180
+I42
+VSimpleName: cbAppend
+p1181
+tp1182
+I1
+s(Vinsert
+p1183
+I43
+VSimpleType: SAXParser
+p1184
+tp1185
+I1
+s(Vinsert
+p1186
+I42
+VSimpleName: hostname
+p1187
+tp1188
+I1
+s(Vinsert
+p1189
+I83
+VModifier: static
+p1190
+tp1191
+I4
+s(Vinsert
+p1192
+I42
+VSimpleName: toString
+p1193
+tp1194
+I4
+s(Vinsert
+p1195
+I45
+VStringLiteral: "Target file is not a directory, cannot proceed"
+p1196
+tp1197
+I1
+s(Vinsert
+p1198
+I42
+VSimpleName: Boolean
+p1199
+tp1200
+I5
+s(Vinsert
+p1201
+I42
+VSimpleName: _request
+p1202
+tp1203
+I6
+s(Vinsert
+p1204
+I45
+VStringLiteral: "Download interrupted ("
+p1205
+tp1206
+I1
+s(Vinsert
+p1207
+I42
+VSimpleName: SocketTimeoutException
+p1208
+tp1209
+I2
+s(Vinsert
+p1210
+I66
+VTextElement:  Object TAG, can be null
+p1211
+tp1212
+I1
+s(Vinsert
+p1213
+I42
+VSimpleName: AsyncHttpRequest
+p1214
+tp1215
+I5
+s(Vinsert
+p1216
+I42
+VSimpleName: v
+p1217
+tp1218
+I3
+s(Vinsert
+p1219
+I45
+VStringLiteral: "SampleParentActivity"
+p1220
+tp1221
+I1
+s(Vinsert
+p1222
+I42
+VSimpleName: close
+p1223
+tp1224
+I5
+s(Vinsert
+p1225
+I42
+VSimpleName: writeFirstBoundaryIfNeeds
+p1226
+tp1227
+I1
+s(Vinsert
+p1228
+I42
+VSimpleName: headersEditText
+p1229
+tp1230
+I3
+s(Vinsert
+p1231
+I42
+VSimpleName: ResponseHandlerInterface
+p1232
+tp1233
+I5
+s(Vinsert
+p1234
+I43
+VSimpleType: JSONException
+p1235
+tp1236
+I1
+s(Vinsert
+p1237
+I42
+VSimpleName: format
+p1238
+tp1239
+I5
+s(Vinsert
+p1240
+I42
+VSimpleName: equalsIgnoreCase
+p1241
+tp1242
+I1
+s(Vinsert
+p1243
+I42
+VSimpleName: response
+p1244
+tp1245
+I39
+s(Vinsert
+p1246
+I43
+VSimpleType: CharArrayBuffer
+p1247
+tp1248
+I2
+s(Vinsert
+p1249
+I42
+VSimpleName: JSONObject
+p1250
+tp1251
+I1
+s(Vinsert
+p1252
+I40
+VQualifiedName: View.VISIBLE
+p1253
+tp1254
+I1
+s(Vinsert
+p1255
+I42
+VSimpleName: Exception
+p1256
+tp1257
+I2
+s(Vinsert
+p1258
+I29
+VJavadoc
+p1259
+tp1260
+I3
+s(Vinsert
+p1261
+I45
+VStringLiteral: "NPE in HttpClient: "
+p1262
+tp1263
+I3
+s(Vinsert
+p1264
+I37
+VPostfixExpression: ++
+p1265
+tp1266
+I3
+s(Vinsert
+p1267
+I42
+VSimpleName: postRunnable
+p1268
+tp1269
+I6
+s(Vinsert
+p1270
+I45
+VStringLiteral: "After Request"
+p1271
+tp1272
+I1
+s(Vinsert
+p1273
+I42
+VSimpleName: setFillViewport
+p1274
+tp1275
+I1
+s(Vinsert
+p1276
+I43
+VSimpleType: ClientProtocolException
+p1277
+tp1278
+I2
+s(Vinsert
+p1279
+I42
+VSimpleName: next
+p1280
+tp1281
+I1
+s(Vinsert
+p1282
+I42
+VSimpleName: min
+p1283
+tp1284
+I2
+s(Vinsert
+p1285
+I34
+VNumberLiteral: 1
+p1286
+tp1287
+I7
+s(Vinsert
+p1288
+I42
+VSimpleName: sendRequest
+p1289
+tp1290
+I2
+s(Vinsert
+p1291
+I42
+VSimpleName: AlertDialog
+p1292
+tp1293
+I1
+s(Vinsert
+p1294
+I43
+VSimpleType: Thread
+p1295
+tp1296
+I2
+s(Vinsert
+p1297
+I43
+VSimpleType: Context
+p1298
+tp1299
+I1
+s(Vinsert
+p1300
+I74
+VParameterizedType: Class<?>
+p1301
+tp1302
+I3
+s(Vinsert
+p1303
+I43
+VSimpleType: HttpPatch
+p1304
+tp1305
+I1
+s(Vinsert
+p1306
+I42
+VSimpleName: InterruptedException
+p1307
+tp1308
+I1
+s(Vinsert
+p1309
+I42
+VSimpleName: FAILURE_JSON_MESSAGE
+p1310
+tp1311
+I1
+s(Vinsert
+p1312
+I42
+VSimpleName: customRedirectHandler
+p1313
+tp1314
+I1
+s(Vinsert
+p1315
+I42
+VSimpleName: sendCancelMessage
+p1316
+tp1317
+I1
+s(Vinsert
+p1318
+I42
+VSimpleName: requestMap
+p1319
+tp1320
+I3
+s(Vinsert
+p1321
+I42
+VSimpleName: post
+p1322
+tp1323
+I5
+s(Vinsert
+p1324
+I42
+VSimpleName: log
+p1325
+tp1326
+I2
+s(Vinsert
+p1327
+I42
+VSimpleName: setText
+p1328
+tp1329
+I3
+s(Vinsert
+p1330
+I42
+VSimpleName: CancelAllRequests
+p1331
+tp1332
+I1
+s(Vinsert
+p1333
+I42
+VSimpleName: _url
+p1334
+tp1335
+I2
+s(Vinsert
+p1336
+I42
+VSimpleName: read
+p1337
+tp1338
+I2
+s(Vinsert
+p1339
+I42
+VSimpleName: isUrlEncodingEnabled
+p1340
+tp1341
+I2
+s(Vinsert
+p1342
+I34
+VNumberLiteral: 80
+p1343
+tp1344
+I1
+s(Vinsert
+p1345
+I42
+VSimpleName: executionCount
+p1346
+tp1347
+I3
+s(Vinsert
+p1348
+I42
+VSimpleName: rssReader
+p1349
+tp1350
+I3
+s(Vinsert
+p1351
+I42
+VSimpleName: start
+p1352
+tp1353
+I9
+s(Vinsert
+p1354
+I42
+VSimpleName: sparser
+p1355
+tp1356
+I2
+s(Vinsert
+p1357
+I42
+VSimpleName: overwritten
+p1358
+tp1359
+I1
+s(Vinsert
+p1360
+I42
+VSimpleName: HttpHost
+p1361
+tp1362
+I1
+s(Vinsert
+p1363
+I42
+VSimpleName: Throwable
+p1364
+tp1365
+I6
+s(Vinsert
+p1366
+I45
+VStringLiteral: "onFailure(int, Header[], Throwable, JSONObject) was not overriden, but callback was received"
+p1367
+tp1368
+I1
+s(Vinsert
+p1369
+I42
+VSimpleName: cancel
+p1370
+tp1371
+I1
+s(Vinsert
+p1372
+I34
+VNumberLiteral: 3
+p1373
+tp1374
+I4
+s(Vinsert
+p1375
+I42
+VSimpleName: RequestHandle
+p1376
+tp1377
+I6
+s(Vinsert
+p1378
+I42
+VSimpleName: readStatus
+p1379
+tp1380
+I1
+s(Vinsert
+p1381
+I66
+VTextElement:  RedirectHandler instance
+p1382
+tp1383
+I1
+s(Vinsert
+p1384
+I42
+VSimpleName: Message
+p1385
+tp1386
+I4
+s(Vinsert
+p1387
+I43
+VSimpleType: HttpResponse
+p1388
+tp1389
+I1
+s(Vinsert
+p1390
+I42
+VSimpleName: getDefaultHeaders
+p1391
+tp1392
+I1
+s(Vinsert
+p1393
+I42
+VSimpleName: addToBlacklist
+p1394
+tp1395
+I1
+s(Vinsert
+p1396
+I42
+VSimpleName: synchronizedList
+p1397
+tp1398
+I2
+s(Vinsert
+p1399
+I42
+VSimpleName: headerValue
+p1400
+tp1401
+I1
+s(Vinsert
+p1402
+I45
+VStringLiteral: "Authentication type is invalid."
+p1403
+tp1404
+I1
+s(Vinsert
+p1405
+I42
+VSimpleName: execute
+p1406
+tp1407
+I2
+s(Vinsert
+p1408
+I42
+VSimpleName: uri
+p1409
+tp1410
+I3
+s(Vinsert
+p1411
+I40
+VQualifiedName: ConcurrentHashMap.Entry
+p1412
+tp1413
+I1
+s(Vinsert
+p1414
+I42
+VSimpleName: setUseSynchronousMode
+p1415
+tp1416
+I2
+s(Vinsert
+p1417
+I42
+VSimpleName: rawJsonData
+p1418
+tp1419
+I2
+s(Vinsert
+p1420
+I45
+VStringLiteral: "{"
+p1421
+tp1422
+I1
+s(Vinsert
+p1423
+I42
+VSimpleName: line
+p1424
+tp1425
+I3
+s(Vinsert
+p1426
+I42
+VSimpleName: AsyncHttpClient
+p1427
+tp1428
+I4
+s(Vinsert
+p1429
+I43
+VSimpleType: LinearLayout.LayoutParams
+p1430
+tp1431
+I1
+s(Vinsert
+p1432
+I33
+VNullLiteral
+p1433
+tp1434
+I62
+s(Vinsert
+p1435
+I42
+VSimpleName: isFinished
+p1436
+tp1437
+I2
+s(Vinsert
+p1438
+I7
+VAssignment: =
+p1439
+tp1440
+I40
+s(Vinsert
+p1441
+I42
+VSimpleName: broadcast
+p1442
+tp1443
+I2
+s(Vinsert
+p1444
+I42
+VSimpleName: sendFailureMessage
+p1445
+tp1446
+I9
+s(Vinsert
+p1447
+I43
+VSimpleType: UnknownHostException
+p1448
+tp1449
+I2
+s(Vinsert
+p1450
+I42
+VSimpleName: LIGHTGREEN
+p1451
+tp1452
+I2
+s(Vinsert
+p1453
+I42
+VSimpleName: isPreProcessed
+p1454
+tp1455
+I1
+s(Vinsert
+p1456
+I74
+VParameterizedType: Set<Object>
+p1457
+tp1458
+I1
+s(Vinsert
+p1459
+I42
+VSimpleName: createTempFile
+p1460
+tp1461
+I3
+s(Vinsert
+p1462
+I40
+VQualifiedName: data.length
+p1463
+tp1464
+I1
+s(Vinsert
+p1465
+I42
+VSimpleName: JSON_TYPE
+p1466
+tp1467
+I1
+s(Vinsert
+p1468
+I43
+VSimpleType: ResponderHandler
+p1469
+tp1470
+I1
+s(Vinsert
+p1471
+I42
+VSimpleName: uriRequest
+p1472
+tp1473
+I1
+s(Vinsert
+p1474
+I43
+VSimpleType: InputStreamReader
+p1475
+tp1476
+I1
+s(Vinsert
+p1477
+I42
+VSimpleName: EntityUtils
+p1478
+tp1479
+I1
+s(Vinsert
+p1480
+I42
+VSimpleName: threadPool
+p1481
+tp1482
+I2
+s(Vinsert
+p1483
+I42
+VSimpleName: sfactory
+p1484
+tp1485
+I1
+s(Vinsert
+p1486
+I42
+VSimpleName: SAXParser
+p1487
+tp1488
+I1
+s(Vinsert
+p1489
+I43
+VSimpleType: AsyncHttpResponseHandler
+p1490
+tp1491
+I3
+s(Vinsert
+p1492
+I27
+VInfixExpression: >
+p1493
+tp1494
+I6
+s(Vinsert
+p1495
+I43
+VSimpleType: OutputStream
+p1496
+tp1497
+I1
+s(Vinsert
+p1498
+I40
+VQualifiedName: java.net.SocketException
+p1499
+tp1500
+I1
+s(Vinsert
+p1501
+I40
+VQualifiedName: R.string.title_cancel_all
+p1502
+tp1503
+I1
+s(Vinsert
+p1504
+I42
+VSimpleName: SSLSocketFactory
+p1505
+tp1506
+I1
+s(Vinsert
+p1507
+I43
+VSimpleType: Runnable
+p1508
+tp1509
+I10
+s(Vinsert
+p1510
+I40
+VQualifiedName: encoder.output
+p1511
+tp1512
+I1
+s(Vinsert
+p1513
+I42
+VSimpleName: urlParams
+p1514
+tp1515
+I5
+s(Vinsert
+p1516
+I42
+VSimpleName: getHeaders
+p1517
+tp1518
+I1
+s(Vinsert
+p1519
+I42
+VSimpleName: retryRequest
+p1520
+tp1521
+I2
+s(Vinsert
+p1522
+I43
+VSimpleType: URI
+p1523
+tp1524
+I2
+s(Vinsert
+p1525
+I40
+VQualifiedName: java.net.URLEncoder
+p1526
+tp1527
+I1
+s(Vinsert
+p1528
+I42
+VSimpleName: retry
+p1529
+tp1530
+I3
+s(Vinsert
+p1531
+I43
+VSimpleType: ArrayList
+p1532
+tp1533
+I2
+s(Vinsert
+p1534
+I42
+VSimpleName: w
+p1535
+tp1536
+I3
+s(Vinsert
+p1537
+I42
+VSimpleName: HttpHead
+p1538
+tp1539
+I1
+s(Vinsert
+p1540
+I42
+VSimpleName: ex
+p1541
+tp1542
+I2
+s(Vinsert
+p1543
+I42
+VSimpleName: create
+p1544
+tp1545
+I8
+s(Vinsert
+p1546
+I42
+VSimpleName: customFileName
+p1547
+tp1548
+I1
+s(Vinsert
+p1549
+I42
+VSimpleName: throwable
+p1550
+tp1551
+I2
+s(Vinsert
+p1552
+I42
+VSimpleName: getParams
+p1553
+tp1554
+I5
+s(Vinsert
+p1555
+I42
+VSimpleName: AuthenticationException
+p1556
+tp1557
+I1
+s(Vinsert
+p1558
+I42
+VSimpleName: getSocketFactory
+p1559
+tp1560
+I1
+s(Vinsert
+p1561
+I40
+VQualifiedName: file.contentType
+p1562
+tp1563
+I1
+s(Vinsert
+p1564
+I38
+VPrefixExpression: -
+p1565
+tp1566
+I1
+s(Vinsert
+p1567
+I42
+VSimpleName: mp
+p1568
+tp1569
+I2
+s(Vinsert
+p1570
+I45
+VStringLiteral: "temp_"
+p1571
+tp1572
+I1
+s(Vinsert
+p1573
+I42
+VSimpleName: Menu
+p1574
+tp1575
+I1
+s(Vinsert
+p1576
+I42
+VSimpleName: mAllowedContentTypes
+p1577
+tp1578
+I1
+s(Vinsert
+p1579
+I42
+VSimpleName: Intent
+p1580
+tp1581
+I2
+s(Vinsert
+p1582
+I42
+VSimpleName: setTag
+p1583
+tp1584
+I1
+s(Vinsert
+p1585
+I42
+VSimpleName: clientHeaderMap
+p1586
+tp1587
+I2
+s(Vinsert
+p1588
+I42
+VSimpleName: list
+p1589
+tp1590
+I5
+s(Vinsert
+p1591
+I42
+VSimpleName: ResponderHandler
+p1592
+tp1593
+I1
+s(Vinsert
+p1594
+I42
+VSimpleName: debugMessage
+p1595
+tp1596
+I1
+s(Vinsert
+p1597
+I42
+VSimpleName: call
+p1598
+tp1599
+I1
+s(Vinsert
+p1600
+I40
+VQualifiedName: LinearLayout.LayoutParams
+p1601
+tp1602
+I1
+s(Vinsert
+p1603
+I66
+VTextElement:  if the uri is invalid.
+p1604
+tp1605
+I3
+s(Vinsert
+p1606
+I42
+VSimpleName: StatusLine
+p1607
+tp1608
+I1
+s(Vinsert
+p1609
+I42
+VSimpleName: getValue
+p1610
+tp1611
+I2
+s(Vinsert
+p1612
+I85
+VDimension
+p1613
+tp1614
+I25
+s(Vinsert
+p1615
+I42
+VSimpleName: BufferedHttpEntity
+p1616
+tp1617
+I1
+s(Vinsert
+p1618
+I42
+VSimpleName: getFirstHeader
+p1619
+tp1620
+I1
+s(Vinsert
+p1621
+I42
+VSimpleName: verify
+p1622
+tp1623
+I1
+s(Vinsert
+p1624
+I42
+VSimpleName: JSONArray
+p1625
+tp1626
+I1
+s(Vinsert
+p1627
+I42
+VSimpleName: CheckBox
+p1628
+tp1629
+I1
+s(Vinsert
+p1630
+I42
+VSimpleName: preProcessor
+p1631
+tp1632
+I1
+s(Vinsert
+p1633
+I40
+VQualifiedName: org.json.JSONArray
+p1634
+tp1635
+I1
+s(Vinsert
+p1636
+I45
+VStringLiteral: "Invalid redirect URI: "
+p1637
+tp1638
+I1
+s(Vinsert
+p1639
+I42
+VSimpleName: write
+p1640
+tp1641
+I10
+s(Vinsert
+p1642
+I2
+VArrayAccess
+p1643
+tp1644
+I17
+s(Vinsert
+p1645
+I66
+VTextElement:  the name of the header
+p1646
+tp1647
+I2
+s(Vinsert
+p1648
+I8
+VBlock
+p1649
+tp1650
+I209
+s(Vinsert
+p1651
+I42
+VSimpleName: head
+p1652
+tp1653
+I1
+s(Vinsert
+p1654
+I42
+VSimpleName: statusCode
+p1655
+tp1656
+I10
+s(Vinsert
+p1657
+I42
+VSimpleName: WeakReference
+p1658
+tp1659
+I1
+s(Vinsert
+p1660
+I27
+VInfixExpression: &
+p1661
+tp1662
+I1
+s(Vinsert
+p1663
+I74
+VParameterizedType: List<Future>
+p1664
+tp1665
+I1
+s(Vinsert
+p1666
+I42
+VSimpleName: TextUtils
+p1667
+tp1668
+I2
+s(Vinsert
+p1669
+I42
+VSimpleName: setHomeAsUpEnabled
+p1670
+tp1671
+I1
+s(Vinsert
+p1672
+I42
+VSimpleName: is
+p1673
+tp1674
+I1
+s(Vinsert
+p1675
+I34
+VNumberLiteral: 1000
+p1676
+tp1677
+I1
+s(Vinsert
+p1678
+I42
+VSimpleName: setRequestURI
+p1679
+tp1680
+I1
+s(Vinsert
+p1681
+I42
+VSimpleName: bytesRead
+p1682
+tp1683
+I1
+s(Vinsert
+p1684
+I42
+VSimpleName: onCreateOptionsMenu
+p1685
+tp1686
+I1
+s(Vinsert
+p1687
+I45
+VStringLiteral: "Unexpected type "
+p1688
+tp1689
+I1
+s(Vinsert
+p1690
+I42
+VSimpleName: addEntityToRequestBase
+p1691
+tp1692
+I4
+s(Vinsert
+p1693
+I46
+VSuperConstructorInvocation
+p1694
+tp1695
+I7
+s(Vinsert
+p1696
+I42
+VSimpleName: d
+p1697
+tp1698
+I20
+s(Vinsert
+p1699
+I42
+VSimpleName: key
+p1700
+tp1701
+I9
+s(Vinsert
+p1702
+I40
+VQualifiedName: wrapper.file
+p1703
+tp1704
+I1
+s(Vinsert
+p1705
+I42
+VSimpleName: SampleJSON
+p1706
+tp1707
+I1
+s(Vinsert
+p1708
+I42
+VSimpleName: resultLength
+p1709
+tp1710
+I2
+s(Vinsert
+p1711
+I42
+VSimpleName: Math
+p1712
+tp1713
+I2
+s(Vinsert
+p1714
+I42
+VSimpleName: submit
+p1715
+tp1716
+I1
+s(Vinsert
+p1717
+I42
+VSimpleName: removeAttribute
+p1718
+tp1719
+I1
+s(Vinsert
+p1720
+I42
+VSimpleName: width
+p1721
+tp1722
+I1
+s(Vinsert
+p1723
+I43
+VSimpleType: HttpDelete
+p1724
+tp1725
+I2
+s(Vinsert
+p1726
+I42
+VSimpleName: request
+p1727
+tp1728
+I14
+s(Vinsert
+p1729
+I42
+VSimpleName: fixNoHttpResponseException
+p1730
+tp1731
+I4
+s(Vinsert
+p1732
+I42
+VSimpleName: getAbsolutePath
+p1733
+tp1734
+I1
+s(Vinsert
+p1735
+I42
+VSimpleName: ThreadingTimeoutSample
+p1736
+tp1737
+I1
+s(Vinsert
+p1738
+I5
+VArrayType: byte[]
+p1739
+tp1740
+I6
+s(Vinsert
+p1741
+I42
+VSimpleName: jsonString
+p1742
+tp1743
+I5
+s(Vinsert
+p1744
+I42
+VSimpleName: setUsePoolThread
+p1745
+tp1746
+I1
+s(Vinsert
+p1747
+I42
+VSimpleName: looper
+p1748
+tp1749
+I4
+s(Vinsert
+p1750
+I40
+VQualifiedName: java.net.SocketTimeoutException
+p1751
+tp1752
+I1
+s(Vinsert
+p1753
+I43
+VSimpleType: BasicNameValuePair
+p1754
+tp1755
+I5
+s(Vinsert
+p1756
+I42
+VSimpleName: context
+p1757
+tp1758
+I8
+s(Vinsert
+p1759
+I42
+VSimpleName: setStatusMessage
+p1760
+tp1761
+I1
+s(Vinsert
+p1762
+I78
+VMarkerAnnotation
+p1763
+tp1764
+I15
+s(Vinsert
+p1765
+I42
+VSimpleName: requestRef
+p1766
+tp1767
+I2
+s(Vinsert
+p1768
+I43
+VSimpleType: HttpHead
+p1769
+tp1770
+I1
+s(Vinsert
+p1771
+I42
+VSimpleName: getMessage
+p1772
+tp1773
+I3
+s(Vinsert
+p1774
+I42
+VSimpleName: filename
+p1775
+tp1776
+I2
+s(Vinsert
+p1777
+I42
+VSimpleName: addRequestHandle
+p1778
+tp1779
+I1
+s(Vinsert
+p1780
+I42
+VSimpleName: port
+p1781
+tp1782
+I3
+s(Vinsert
+p1783
+I42
+VSimpleName: obtainMessage
+p1784
+tp1785
+I1
+s(Vinsert
+p1786
+I74
+VParameterizedType: WeakReference<Future>
+p1787
+tp1788
+I1
+s(Vinsert
+p1789
+I42
+VSimpleName: setConnectionTimeout
+p1790
+tp1791
+I1
+s(Vinsert
+p1792
+I83
+VModifier: public
+p1793
+tp1794
+I35
+s(Vinsert
+p1795
+I42
+VSimpleName: headersLayout
+p1796
+tp1797
+I2
+s(Vinsert
+p1798
+I43
+VSimpleType: WeakReference
+p1799
+tp1800
+I1
+s(Vinsert
+p1801
+I45
+VStringLiteral: "SUCCESS_MESSAGE didn't got enough params"
+p1802
+tp1803
+I1
+s(Vinsert
+p1804
+I42
+VSimpleName: mayInterruptIfRunning
+p1805
+tp1806
+I3
+s(Vinsert
+p1807
+I39
+VPrimitiveType: byte
+p1808
+tp1809
+I7
+s(Vinsert
+p1810
+I42
+VSimpleName: streamParams
+p1811
+tp1812
+I1
+s(Vinsert
+p1813
+I42
+VSimpleName: getRequestHandles
+p1814
+tp1815
+I3
+s(Vinsert
+p1816
+I45
+VStringLiteral: "JSON data:"
+p1817
+tp1818
+I1
+s(Vinsert
+p1819
+I42
+VSimpleName: exists
+p1820
+tp1821
+I4
+s(Vinsert
+p1822
+I42
+VSimpleName: t
+p1823
+tp1824
+I3
+s(Vinsert
+p1825
+I42
+VSimpleName: getSerializableExtra
+p1826
+tp1827
+I1
+s(Vinsert
+p1828
+I42
+VSimpleName: schemeRegistry
+p1829
+tp1830
+I2
+s(Vinsert
+p1831
+I40
+VQualifiedName: encoder.do_cr
+p1832
+tp1833
+I1
+s(Vinsert
+p1834
+I42
+VSimpleName: getAttribute
+p1835
+tp1836
+I4
+s(Vinsert
+p1837
+I66
+VTextElement:  maximum number of retries per request
+p1838
+tp1839
+I1
+s(Vinsert
+p1840
+I42
+VSimpleName: init
+p1841
+tp1842
+I1
+s(Vinsert
+p1843
+I40
+VQualifiedName: IntentServiceSample.ACTION_SUCCESS
+p1844
+tp1845
+I1
+s(Vinsert
+p1846
+I42
+VSimpleName: substring
+p1847
+tp1848
+I2
+s(Vinsert
+p1849
+I42
+VSimpleName: getUseSynchronousMode
+p1850
+tp1851
+I3
+s(Vinsert
+p1852
+I42
+VSimpleName: len
+p1853
+tp1854
+I1
+s(Vinsert
+p1855
+I42
+VSimpleName: Looper
+p1856
+tp1857
+I3
+s(Vinsert
+p1858
+I42
+VSimpleName: onPostProcessResponse
+p1859
+tp1860
+I1
+s(Vinsert
+p1861
+I43
+VSimpleType: Exception
+p1862
+tp1863
+I2
+s(Vinsert
+p1864
+I74
+VParameterizedType: Iterator<Class<?>>
+p1865
+tp1866
+I1
+s(Vinsert
+p1867
+I42
+VSimpleName: PatternSyntaxException
+p1868
+tp1869
+I1
+s(Vinsert
+p1870
+I42
+VSimpleName: getSampleTitle
+p1871
+tp1872
+I2
+s(Vinsert
+p1873
+I42
+VSimpleName: allowedContentTypes
+p1874
+tp1875
+I3
+s(Vinsert
+p1876
+I42
+VSimpleName: enableRedirects
+p1877
+tp1878
+I2
+s(Vinsert
+p1879
+I42
+VSimpleName: has
+p1880
+tp1881
+I1
+s(Vinsert
+p1882
+I42
+VSimpleName: cancelIsNotified
+p1883
+tp1884
+I2
+s(Vinsert
+p1885
+I43
+VSimpleType: CredentialsProvider
+p1886
+tp1887
+I2
+s(Vinsert
+p1888
+I7
+VAssignment: +=
+p1889
+tp1890
+I3
+s(Vinsert
+p1891
+I42
+VSimpleName: getOriginalFile
+p1892
+tp1893
+I1
+s(Vinsert
+p1894
+I66
+VTextElement:  the string to use in the User-Agent header.
+p1895
+tp1896
+I1
+s(Vinsert
+p1897
+I42
+VSimpleName: createHeader
+p1898
+tp1899
+I1
+s(Vinsert
+p1900
+I43
+VSimpleType: ProtocolException
+p1901
+tp1902
+I1
+s(Vinsert
+p1903
+I43
+VSimpleType: JSONArray
+p1904
+tp1905
+I1
+s(Vinsert
+p1906
+I42
+VSimpleName: prefetchCache
+p1907
+tp1908
+I1
+s(Vinsert
+p1909
+I42
+VSimpleName: handler
+p1910
+tp1911
+I10
+s(Vinsert
+p1912
+I1
+VAnonymousClassDeclaration
+p1913
+tp1914
+I7
+s(Vinsert
+p1915
+I27
+VInfixExpression: -
+p1916
+tp1917
+I2
+s(Vinsert
+p1918
+I42
+VSimpleName: newSAXParser
+p1919
+tp1920
+I1
+s(Vinsert
+p1921
+I42
+VSimpleName: get
+p1922
+tp1923
+I22
+s(Vinsert
+p1924
+I42
+VSimpleName: username
+p1925
+tp1926
+I1
+s(Vinsert
+p1927
+I42
+VSimpleName: values
+p1928
+tp1929
+I3
+s(Vinsert
+p1930
+I42
+VSimpleName: UnknownHostException
+p1931
+tp1932
+I2
+s(Vinsert
+p1933
+I44
+VSingleVariableDeclaration
+p1934
+tp1935
+I99
+s(Vinsert
+p1936
+I42
+VSimpleName: MenuItem
+p1937
+tp1938
+I1
+s(Vinsert
+p1939
+I43
+VSimpleType: UsernamePasswordCredentials
+p1940
+tp1941
+I2
+s(Vinsert
+p1942
+I42
+VSimpleName: HttpParams
+p1943
+tp1944
+I4
+s(Vinsert
+p1945
+I40
+VQualifiedName: java.net.UnknownHostException
+p1946
+tp1947
+I1
+s(Vinsert
+p1948
+I42
+VSimpleName: progressHandler
+p1949
+tp1950
+I1
+s(Vinsert
+p1951
+I40
+VQualifiedName: org.json.JSONObject
+p1952
+tp1953
+I1
+s(Vinsert
+p1954
+I42
+VSimpleName: Thread
+p1955
+tp1956
+I3
+s(Vinsert
+p1957
+I42
+VSimpleName: Integer
+p1958
+tp1959
+I13
+s(Vinsert
+p1960
+I42
+VSimpleName: maxConnections
+p1961
+tp1962
+I2
+s(Vinsert
+p1963
+I42
+VSimpleName: setContentHandler
+p1964
+tp1965
+I1
+s(Vinsert
+p1966
+I42
+VSimpleName: TargetApi
+p1967
+tp1968
+I3
+s(Vinsert
+p1969
+I42
+VSimpleName: AtomicBoolean
+p1970
+tp1971
+I1
+s(Vinsert
+p1972
+I42
+VSimpleName: nestedValueIndex
+p1973
+tp1974
+I4
+s(Vinsert
+p1975
+I42
+VSimpleName: isCancelButtonAllowed
+p1976
+tp1977
+I1
+s(Vinsert
+p1978
+I43
+VSimpleType: HttpPut
+p1979
+tp1980
+I1
+s(Vinsert
+p1981
+I43
+VSimpleType: String
+p1982
+tp1983
+I43
+s(Vinsert
+p1984
+I42
+VSimpleName: asserts
+p1985
+tp1986
+I5
+s(Vinsert
+p1987
+I42
+VSimpleName: forceSynchronous
+p1988
+tp1989
+I1
+s(Vinsert
+p1990
+I42
+VSimpleName: setChecked
+p1991
+tp1992
+I1
+s(Vinsert
+p1993
+I42
+VSimpleName: setSocketBufferSize
+p1994
+tp1995
+I1
+s(Vinsert
+p1996
+I42
+VSimpleName: HttpPut
+p1997
+tp1998
+I1
+s(Vinsert
+p1999
+I66
+VTextElement:  int log level, either from LogInterface interface or from 
+p2000
+tp2001
+I1
+s(Vinsert
+p2002
+I4
+VArrayInitializer
+p2003
+tp2004
+I1
+s(Vinsert
+p2005
+I13
+VCharacterLiteral: ':'
+p2006
+tp2007
+I1
+s(Vinsert
+p2008
+I42
+VSimpleName: cookie
+p2009
+tp2010
+I2
+s(Vinsert
+p2011
+I45
+VStringLiteral: "onSuccess(int, Header[], JSONArray) was not overriden, but callback was received"
+p2012
+tp2013
+I1
+s(Vinsert
+p2014
+I42
+VSimpleName: e
+p2015
+tp2016
+I40
+s(Vinsert
+p2017
+I43
+VSimpleType: Object
+p2018
+tp2019
+I12
+s(Vinsert
+p2020
+I42
+VSimpleName: printStackTrace
+p2021
+tp2022
+I1
+s(Vinsert
+p2023
+I42
+VSimpleName: ACTION_CANCEL
+p2024
+tp2025
+I1
+s(Vinsert
+p2026
+I42
+VSimpleName: endsWith
+p2027
+tp2028
+I1
+s(Vinsert
+p2029
+I43
+VSimpleType: SSLSocketFactory
+p2030
+tp2031
+I1
+s(Vinsert
+p2032
+I42
+VSimpleName: JSON_NULL
+p2033
+tp2034
+I1
+s(Vinsert
+p2035
+I42
+VSimpleName: isLast
+p2036
+tp2037
+I4
+s(Vinsert
+p2038
+I40
+VQualifiedName: R.string.title_cancel_tag
+p2039
+tp2040
+I1
+s(Vinsert
+p2041
+I42
+VSimpleName: isDirectory
+p2042
+tp2043
+I2
+s(Vinsert
+p2044
+I42
+VSimpleName: setOnClickListener
+p2045
+tp2046
+I1
+s(Vinsert
+p2047
+I42
+VSimpleName: timeout
+p2048
+tp2049
+I1
+s(Vinsert
+p2050
+I40
+VQualifiedName: wrapper.contentType
+p2051
+tp2052
+I1
+s(Vinsert
+p2053
+I42
+VSimpleName: Map
+p2054
+tp2055
+I1
+s(Vinsert
+p2056
+I42
+VSimpleName: ArrayList
+p2057
+tp2058
+I2
+s(Vinsert
+p2059
+I42
+VSimpleName: menu
+p2060
+tp2061
+I3
+s(Vinsert
+p2062
+I60
+VVariableDeclarationStatement
+p2063
+tp2064
+I57
+s(Vinsert
+p2065
+I42
+VSimpleName: name
+p2066
+tp2067
+I1
+s(Vinsert
+p2068
+I42
+VSimpleName: getDefaultSchemeRegistry
+p2069
+tp2070
+I1
+s(Vinsert
+p2071
+I43
+VSimpleType: HttpHost
+p2072
+tp2073
+I1
+s(Vinsert
+p2074
+I41
+VReturnStatement
+p2075
+tp2076
+I24
+s(Vinsert
+p2077
+I42
+VSimpleName: ConnectTimeoutException
+p2078
+tp2079
+I2
+s(Vinsert
+p2080
+I42
+VSimpleName: body
+p2081
+tp2082
+I1
+s(Vinsert
+p2083
+I42
+VSimpleName: normalize
+p2084
+tp2085
+I2
+s(Vinsert
+p2086
+I42
+VSimpleName: URL
+p2087
+tp2088
+I4
+s(Vinsert
+p2089
+I42
+VSimpleName: credsProvider
+p2090
+tp2091
+I1
+s(Vinsert
+p2092
+I42
+VSimpleName: reader
+p2093
+tp2094
+I1
+s(Vinsert
+p2095
+I42
+VSimpleName: valueOf
+p2096
+tp2097
+I6
+s(Vinsert
+p2098
+I42
+VSimpleName: requestHandle
+p2099
+tp2100
+I2
+s(Vinsert
+p2101
+I42
+VSimpleName: ACTION_RETRY
+p2102
+tp2103
+I1
+s(Vinsert
+p2104
+I42
+VSimpleName: InputStreamReader
+p2105
+tp2106
+I1
+s(Vinsert
+p2107
+I42
+VSimpleName: getStatusLine
+p2108
+tp2109
+I1
+s(Vinsert
+p2110
+I42
+VSimpleName: headerName
+p2111
+tp2112
+I1
+s(Vinsert
+p2113
+I42
+VSimpleName: containsHeader
+p2114
+tp2115
+I2
+s(Vinsert
+p2116
+I27
+VInfixExpression: <
+p2117
+tp2118
+I5
+s(Vinsert
+p2119
+I42
+VSimpleName: debugFile
+p2120
+tp2121
+I2
+s(Vinsert
+p2122
+I32
+VMethodInvocation
+p2123
+tp2124
+I380
+s(Vinsert
+p2125
+I42
+VSimpleName: Class
+p2126
+tp2127
+I3
+s(Vinsert
+p2128
+I42
+VSimpleName: nextValue
+p2129
+tp2130
+I1
+s(Vinsert
+p2131
+I42
+VSimpleName: getName
+p2132
+tp2133
+I5
+s(Vinsert
+p2134
+I66
+VTextElement: Will return TAG of this RequestHandle
+p2135
+tp2136
+I1
+s(Vinsert
+p2137
+I42
+VSimpleName: run
+p2138
+tp2139
+I11
+s(Vinsert
+p2140
+I42
+VSimpleName: defaultText
+p2141
+tp2142
+I1
+s(Vinsert
+p2143
+I42
+VSimpleName: Cookie
+p2144
+tp2145
+I1
+s(Vinsert
+p2146
+I43
+VSimpleType: org.json.JSONArray
+p2147
+tp2148
+I1
+s(Vinsert
+p2149
+I42
+VSimpleName: headers
+p2150
+tp2151
+I19
+s(Vinsert
+p2152
+I65
+VTagElement: @return
+p2153
+tp2154
+I2
+s(Vinsert
+p2155
+I42
+VSimpleName: setRedirectHandler
+p2156
+tp2157
+I3
+s(Vinsert
+p2158
+I40
+VQualifiedName: Base64.NO_CLOSE
+p2159
+tp2160
+I1
+s(Vinsert
+p2161
+I42
+VSimpleName: responseBody
+p2162
+tp2163
+I10
+s(Vinsert
+p2164
+I42
+VSimpleName: Error
+p2165
+tp2166
+I1
+s(Vinsert
+p2167
+I42
+VSimpleName: JSONException
+p2168
+tp2169
+I1
+s(Vinsert
+p2170
+I42
+VSimpleName: Override
+p2171
+tp2172
+I16
+s(Vinsert
+p2173
+I42
+VSimpleName: isRequestPreProcessed
+p2174
+tp2175
+I1
+s(Vinsert
+p2176
+I42
+VSimpleName: getContentEncoding
+p2177
+tp2178
+I1
+s(Vinsert
+p2179
+I42
+VSimpleName: getEntity
+p2180
+tp2181
+I5
+s(Vinsert
+p2182
+I42
+VSimpleName: debugResponse
+p2183
+tp2184
+I1
+s(Vinsert
+p2185
+I42
+VSimpleName: isCheckable
+p2186
+tp2187
+I1
+s(Vinsert
+p2188
+I45
+VStringLiteral: "Request succeeded ("
+p2189
+tp2190
+I1
+s(Vinsert
+p2191
+I42
+VSimpleName: current
+p2192
+tp2193
+I1
+s(Vinsert
+p2194
+I42
+VSimpleName: Future
+p2195
+tp2196
+I2
+s(Vinsert
+p2197
+I42
+VSimpleName: isRequestHeadersAllowed
+p2198
+tp2199
+I1
+s(Vinsert
+p2200
+I42
+VSimpleName: responseBytes
+p2201
+tp2202
+I1
+s(Vinsert
+p2203
+I42
+VSimpleName: HttpPatch
+p2204
+tp2205
+I2
+s(Vinsert
+p2206
+I74
+VParameterizedType: ArrayList<String>
+p2207
+tp2208
+I2
+s(Vinsert
+p2209
+I42
+VSimpleName: requestList
+p2210
+tp2211
+I5
+s(Vinsert
+p2212
+I42
+VSimpleName: RequestParams
+p2213
+tp2214
+I4
+s(Vinsert
+p2215
+I3
+VArrayCreation
+p2216
+tp2217
+I2
+s(Vinsert
+p2218
+I42
+VSimpleName: IOException
+p2219
+tp2220
+I7
+s(Vinsert
+p2221
+I42
+VSimpleName: _uri
+p2222
+tp2223
+I1
+s(Vinsert
+p2224
+I42
+VSimpleName: LIGHTRED
+p2225
+tp2226
+I1
+s(Vinsert
+p2227
+I42
+VSimpleName: Toast
+p2228
+tp2229
+I2
+s(Vinsert
+p2230
+I45
+VStringLiteral: "Started"
+p2231
+tp2232
+I1
+s(Vinsert
+p2233
+I42
+VSimpleName: remove
+p2234
+tp2235
+I1
+s(Vinsert
+p2236
+I42
+VSimpleName: ACTION_FINISH
+p2237
+tp2238
+I1
+s(Vinsert
+p2239
+I42
+VSimpleName: removeAllHeaders
+p2240
+tp2241
+I1
+s(Vinsert
+p2242
+I42
+VSimpleName: contentLength
+p2243
+tp2244
+I2
+s(Vinsert
+p2245
+I83
+VModifier: private
+p2246
+tp2247
+I5
+s(Vinsert
+p2248
+I42
+VSimpleName: setHttpEntityIsRepeatable
+p2249
+tp2250
+I2
+s(Vinsert
+p2251
+I65
+VTagElement: @link
+p2252
+tp2253
+I1
+s(Vinsert
+p2254
+I43
+VSimpleType: PatternSyntaxException
+p2255
+tp2256
+I1
+s(Vinsert
+p2257
+I5
+VArrayType: Header[]
+p2258
+tp2259
+I5
+s(Vinsert
+p2260
+I34
+VNumberLiteral: 50
+p2261
+tp2262
+I1
+s(Vinsert
+p2263
+I42
+VSimpleName: httpClient
+p2264
+tp2265
+I14
+s(Vinsert
+p2266
+I42
+VSimpleName: equals
+p2267
+tp2268
+I4
+s(Vinsert
+p2269
+I45
+VStringLiteral: "\u005cr\u005cn"
+p2270
+tp2271
+I1
+s(Vinsert
+p2272
+I42
+VSimpleName: getResponseString
+p2273
+tp2274
+I1
+s(Vinsert
+p2275
+I12
+VCatchClause
+p2276
+tp2277
+I20
+s(Vinsert
+p2278
+I43
+VSimpleType: HttpEntity
+p2279
+tp2280
+I9
+s(Vinsert
+p2281
+I42
+VSimpleName: sslContext
+p2282
+tp2283
+I1
+s(Vinsert
+p2284
+I42
+VSimpleName: obtain
+p2285
+tp2286
+I2
+s(Vinsert
+p2287
+I40
+VQualifiedName: ClientContext.TARGET_AUTH_STATE
+p2288
+tp2289
+I1
+s(Vinsert
+p2290
+I74
+VParameterizedType: Map<String,Object>
+p2291
+tp2292
+I1
+s(Vinsert
+p2293
+I42
+VSimpleName: put
+p2294
+tp2295
+I8
+s(Vinsert
+p2296
+I42
+VSimpleName: HttpDelete
+p2297
+tp2298
+I3
+s(Vinsert
+p2299
+I42
+VSimpleName: out
+p2300
+tp2301
+I4
+s(Vinsert
+p2302
+I42
+VSimpleName: instream
+p2303
+tp2304
+I2
+s(Vinsert
+p2305
+I43
+VSimpleType: RequestParams
+p2306
+tp2307
+I4
+s(Vinsert
+p2308
+I42
+VSimpleName: Collections
+p2309
+tp2310
+I1
+s(Vinsert
+p2311
+I48
+VSuperMethodInvocation
+p2312
+tp2313
+I1
+s(Vinsert
+p2314
+I42
+VSimpleName: credentials
+p2315
+tp2316
+I2
+s(Vinsert
+p2317
+I42
+VSimpleName: readLine
+p2318
+tp2319
+I1
+s(Vinsert
+p2320
+I42
+VSimpleName: location
+p2321
+tp2322
+I1
+s(Vinsert
+p2323
+I43
+VSimpleType: RequestHandle
+p2324
+tp2325
+I6
+s(Vinsert
+p2326
+I42
+VSimpleName: isRepeatable
+p2327
+tp2328
+I3
+s(Vinsert
+p2329
+I66
+VTextElement: Allows you to set custom RedirectHandler implementation, if the default provided doesn't suit
+p2330
+tp2331
+I1
+s(Vinsert
+p2332
+I66
+VTextElement: which applies on all requests this client makes
+p2333
+tp2334
+I1
+s(Vinsert
+p2335
+I42
+VSimpleName: exceptionBlacklist
+p2336
+tp2337
+I1
+s(Vinsert
+p2338
+I42
+VSimpleName: printStatusCode
+p2339
+tp2340
+I1
+s(Vinsert
+p2341
+I42
+VSimpleName: addRequestInterceptor
+p2342
+tp2343
+I1
+s(Vinsert
+p2344
+I42
+VSimpleName: finish
+p2345
+tp2346
+I1
+s(Vinsert
+p2347
+I43
+VSimpleType: File
+p2348
+tp2349
+I2
+s(Vinsert
+p2350
+I74
+VParameterizedType: List<RequestHandle>
+p2351
+tp2352
+I3
+s(Vinsert
+p2353
+I42
+VSimpleName: onOptionsItemSelected
+p2354
+tp2355
+I1
+s(Vinsert
+p2356
+I42
+VSimpleName: keysProcessed
+p2357
+tp2358
+I2
+s(Vinsert
+p2359
+I45
+VStringLiteral: ""
+p2360
+tp2361
+I1
+s(Vinsert
+p2362
+I42
+VSimpleName: timeline
+p2363
+tp2364
+I2
+s(Vinsert
+p2365
+I42
+VSimpleName: httpPort
+p2366
+tp2367
+I3
+s(Vinsert
+p2368
+I53
+VThrowStatement
+p2369
+tp2370
+I1
+s(Vinsert
+p2371
+I43
+VSimpleType: StatusLine
+p2372
+tp2373
+I1
+s(Vinsert
+p2374
+I42
+VSimpleName: OutputStream
+p2375
+tp2376
+I1
+s(Vinsert
+p2377
+I42
+VSimpleName: retryHandler
+p2378
+tp2379
+I2
+s(Vinsert
+p2380
+I42
+VSimpleName: isCancelled
+p2381
+tp2382
+I6
+s(Vinsert
+p2383
+I42
+VSimpleName: b
+p2384
+tp2385
+I1
+s(Vinsert
+p2386
+I42
+VSimpleName: authType
+p2387
+tp2388
+I1
+s(Vinsert
+p2389
+I42
+VSimpleName: addView
+p2390
+tp2391
+I4
+s(Vinsert
+p2392
+I42
+VSimpleName: setHttpRequestRetryHandler
+p2393
+tp2394
+I1
+s(Vinsert
+p2395
+I42
+VSimpleName: booleanValue
+p2396
+tp2397
+I1
+s(Vinsert
+p2398
+I42
+VSimpleName: contents_scroll
+p2399
+tp2400
+I2
+s(Vinsert
+p2401
+I42
+VSimpleName: handle
+p2402
+tp2403
+I4
+s(Vinsert
+p2404
+I45
+VStringLiteral: "nofilename"
+p2405
+tp2406
+I1
+s(Vinsert
+p2407
+I42
+VSimpleName: userAgent
+p2408
+tp2409
+I1
+s(Vinsert
+p2410
+I42
+VSimpleName: cancelAllRequests
+p2411
+tp2412
+I3
+s(Vinsert
+p2413
+I42
+VSimpleName: getTag
+p2414
+tp2415
+I2
+s(Vinsert
+p2416
+I45
+VStringLiteral: "Content-Type"
+p2417
+tp2418
+I1
+s(Vinsert
+p2419
+I42
+VSimpleName: httpContext
+p2420
+tp2421
+I4
+s(Vinsert
+p2422
+I42
+VSimpleName: client
+p2423
+tp2424
+I5
+s(Vinsert
+p2425
+I43
+VSimpleType: SocketTimeoutException
+p2426
+tp2427
+I2
+s(Vinsert
+p2428
+I42
+VSimpleName: getTargetFileByParsingURL
+p2429
+tp2430
+I1
+s(Vinsert
+p2431
+I42
+VSimpleName: addPart
+p2432
+tp2433
+I1
+s(Vinsert
+p2434
+I42
+VSimpleName: caInput
+p2435
+tp2436
+I1
+s(Vinsert
+p2437
+I42
+VSimpleName: onPreProcess
+p2438
+tp2439
+I2
+s(Vinsert
+p2440
+I42
+VSimpleName: title
+p2441
+tp2442
+I1
+s(Vinsert
+p2443
+I66
+VTextElement:   the contents of the header
+p2444
+tp2445
+I1
+s(Vinsert
+p2446
+I42
+VSimpleName: onCancelButtonPressed
+p2447
+tp2448
+I4
+s(Vinsert
+p2449
+I45
+VStringLiteral: "Response cannot be parsed as JSON data"
+p2450
+tp2451
+I1
+s(Vinsert
+p2452
+I65
+VTagElement: @param
+p2453
+tp2454
+I10
+s(Vinsert
+p2455
+I42
+VSimpleName: signature
+p2456
+tp2457
+I1
+s(Vinsert
+p2458
+I43
+VSimpleType: Intent
+p2459
+tp2460
+I2
+s(Vinsert
+p2461
+I42
+VSimpleName: size
+p2462
+tp2463
+I5
+s(Vinsert
+p2464
+I42
+VSimpleName: map
+p2465
+tp2466
+I2
+s(Vinsert
+p2467
+I43
+VSimpleType: KeyStoreException
+p2468
+tp2469
+I1
+s(Vinsert
+p2470
+I43
+VSimpleType: SocketException
+p2471
+tp2472
+I1
+s(Vinsert
+p2473
+I42
+VSimpleName: silentCloseInputStream
+p2474
+tp2475
+I1
+s(Vinsert
+p2476
+I43
+VSimpleType: StringBuilder
+p2477
+tp2478
+I2
+s(Vinsert
+p2479
+I42
+VSimpleName: l
+p2480
+tp2481
+I4
+s(Vinsert
+p2482
+I21
+VExpressionStatement
+p2483
+tp2484
+I205
+s(Vinsert
+p2485
+I42
+VSimpleName: wrapped
+p2486
+tp2487
+I1
+s(Vinsert
+p2488
+I42
+VSimpleName: endEntityViaReflection
+p2489
+tp2490
+I1
+s(Vinsert
+p2491
+I26
+VImportDeclaration
+p2492
+tp2493
+I2
+s(Vinsert
+p2494
+I43
+VSimpleType: CertificateException
+p2495
+tp2496
+I1
+s(Vinsert
+p2497
+I42
+VSimpleName: cancelled
+p2498
+tp2499
+I1
+s(Vinsert
+p2500
+I42
+VSimpleName: Iterator
+p2501
+tp2502
+I1
+s(Vinsert
+p2503
+I42
+VSimpleName: item
+p2504
+tp2505
+I2
+s(Vinsert
+p2506
+I43
+VSimpleType: JSONObject
+p2507
+tp2508
+I1
+s(Vinsert
+p2509
+I42
+VSimpleName: HttpProtocolParams
+p2510
+tp2511
+I1
+s.

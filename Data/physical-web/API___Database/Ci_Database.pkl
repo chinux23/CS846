@@ -1,0 +1,7800 @@
+(dp0
+(Vinsert
+p1
+I42
+VSimpleName: Charset
+p2
+tp3
+I1
+s(Vinsert
+p4
+I42
+VSimpleName: PhysicalWebCollectionException
+p5
+tp6
+I1
+s(Vinsert
+p7
+I42
+VSimpleName: mUrlToScanTime
+p8
+tp9
+I1
+s(Vinsert
+p10
+I42
+VSimpleName: isCheckingPermissions
+p11
+tp12
+I1
+s(Vinsert
+p13
+I42
+VSimpleName: groupMap
+p14
+tp15
+I4
+s(Vinsert
+p16
+I42
+VSimpleName: toString
+p17
+tp18
+I1
+s(Vinsert
+p19
+I42
+VSimpleName: ssdpMessage
+p20
+tp21
+I2
+s(Vinsert
+p22
+I42
+VSimpleName: mComparator
+p23
+tp24
+I1
+s(Vinsert
+p25
+I74
+VParameterizedType: HashSet<>
+p26
+tp27
+I4
+s(Vinsert
+p28
+I42
+VSimpleName: setAdvertiseMode
+p29
+tp30
+I1
+s(Vinsert
+p31
+I27
+VInfixExpression: ||
+p32
+tp33
+I3
+s(Vinsert
+p34
+I42
+VSimpleName: saveFavorites
+p35
+tp36
+I1
+s(Vinsert
+p37
+I42
+VSimpleName: PROD_ENDPOINT
+p38
+tp39
+I1
+s(Vinsert
+p40
+I40
+VQualifiedName: R.id.metadata_debug_group
+p41
+tp42
+I1
+s(Vinsert
+p43
+I42
+VSimpleName: nearest
+p44
+tp45
+I4
+s(Vinsert
+p46
+I42
+VSimpleName: updateNotifications
+p47
+tp48
+I2
+s(Vinsert
+p49
+I43
+VSimpleType: WifiP2pConfig
+p50
+tp51
+I2
+s(Vinsert
+p52
+I42
+VSimpleName: Arrays
+p53
+tp54
+I2
+s(Vinsert
+p55
+I42
+VSimpleName: groupString
+p56
+tp57
+I1
+s(Vinsert
+p58
+I42
+VSimpleName: ID_KEY
+p59
+tp60
+I1
+s(Vinsert
+p61
+I42
+VSimpleName: mPublicUrls
+p62
+tp63
+I3
+s(Vinsert
+p64
+I42
+VSimpleName: mScanningAnimationDrawable
+p65
+tp66
+I4
+s(Vinsert
+p67
+I42
+VSimpleName: setCheckingPermissions
+p68
+tp69
+I3
+s(Vinsert
+p70
+I42
+VSimpleName: siteUrl
+p71
+tp72
+I8
+s(Vinsert
+p73
+I42
+VSimpleName: startScanning
+p74
+tp75
+I4
+s(Vinsert
+p76
+I42
+VSimpleName: onPwsResultAbsent
+p77
+tp78
+I2
+s(Vinsert
+p79
+I42
+VSimpleName: ConfigUriBeacon
+p80
+tp81
+I3
+s(Vinsert
+p82
+I79
+VSingleMemberAnnotation
+p83
+tp84
+I1
+s(Vinsert
+p85
+I42
+VSimpleName: SHORT_URLS
+p86
+tp87
+I1
+s(Vinsert
+p88
+I42
+VSimpleName: getCount
+p89
+tp90
+I1
+s(Vinsert
+p91
+I40
+VQualifiedName: R.string.metadata_debug_rank_prefix
+p92
+tp93
+I1
+s(Vinsert
+p94
+I42
+VSimpleName: builder
+p95
+tp96
+I6
+s(Vinsert
+p97
+I42
+VSimpleName: onResponseReceived
+p98
+tp99
+I3
+s(Vinsert
+p100
+I42
+VSimpleName: getExtraDouble
+p101
+tp102
+I2
+s(Vinsert
+p103
+I45
+VStringLiteral: "false"
+p104
+tp105
+I1
+s(Vinsert
+p106
+I42
+VSimpleName: compareDeviceToItselfReturnsZero
+p107
+tp108
+I1
+s(Vinsert
+p109
+I42
+VSimpleName: PwsResult
+p110
+tp111
+I11
+s(Vinsert
+p112
+I42
+VSimpleName: urlB
+p113
+tp114
+I1
+s(Vinsert
+p115
+I45
+VStringLiteral: " "
+p116
+tp117
+I1
+s(Vinsert
+p118
+I27
+VInfixExpression: +
+p119
+tp120
+I18
+s(Vinsert
+p121
+I43
+VSimpleType: NotificationCompat.Builder
+p122
+tp123
+I2
+s(Vinsert
+p124
+I42
+VSimpleName: uuidArray
+p125
+tp126
+I2
+s(Vinsert
+p127
+I42
+VSimpleName: indexOf
+p128
+tp129
+I1
+s(Vinsert
+p130
+I42
+VSimpleName: RuntimeException
+p131
+tp132
+I1
+s(Vinsert
+p133
+I43
+VSimpleType: ByteArrayOutputStream
+p134
+tp135
+I2
+s(Vinsert
+p136
+I42
+VSimpleName: sleep
+p137
+tp138
+I1
+s(Vinsert
+p139
+I42
+VSimpleName: isEmpty
+p140
+tp141
+I5
+s(Vinsert
+p142
+I42
+VSimpleName: URI
+p143
+tp144
+I4
+s(Vinsert
+p145
+I42
+VSimpleName: mUngroupedPwoDevices
+p146
+tp147
+I1
+s(Vinsert
+p148
+I42
+VSimpleName: View
+p149
+tp150
+I1
+s(Vinsert
+p151
+I42
+VSimpleName: requestDemoUrlMetadata
+p152
+tp153
+I2
+s(Vinsert
+p154
+I42
+VSimpleName: getUriString
+p155
+tp156
+I3
+s(Vinsert
+p157
+I42
+VSimpleName: encode
+p158
+tp159
+I2
+s(Vinsert
+p160
+I42
+VSimpleName: sortedPwPairs
+p161
+tp162
+I1
+s(Vinsert
+p163
+I43
+VSimpleType: SsdpUrlDiscoverer
+p164
+tp165
+I2
+s(Vinsert
+p166
+I42
+VSimpleName: characteristic
+p167
+tp168
+I4
+s(Vinsert
+p169
+I42
+VSimpleName: mIsDemoMode
+p170
+tp171
+I1
+s(Vinsert
+p172
+I40
+VQualifiedName: NotificationCompat.Builder
+p173
+tp174
+I2
+s(Vinsert
+p175
+I42
+VSimpleName: String
+p176
+tp177
+I68
+s(Vinsert
+p178
+I42
+VSimpleName: mIsScanRunning
+p179
+tp180
+I3
+s(Vinsert
+p181
+I34
+VNumberLiteral: .6
+p182
+tp183
+I1
+s(Vinsert
+p184
+I42
+VSimpleName: mSsdpUrlDiscoverer
+p185
+tp186
+I6
+s(Vinsert
+p187
+I22
+VFieldAccess
+p188
+tp189
+I5
+s(Vinsert
+p190
+I42
+VSimpleName: deserializedCollection
+p191
+tp192
+I3
+s(Vinsert
+p193
+I42
+VSimpleName: println
+p194
+tp195
+I1
+s(Vinsert
+p196
+I42
+VSimpleName: getExtraString
+p197
+tp198
+I1
+s(Vinsert
+p199
+I40
+VQualifiedName: Intent.ACTION_VIEW
+p200
+tp201
+I2
+s(Vinsert
+p202
+I42
+VSimpleName: stop
+p203
+tp204
+I3
+s(Vinsert
+p205
+I45
+VStringLiteral: "#999999"
+p206
+tp207
+I1
+s(Vinsert
+p208
+I42
+VSimpleName: host
+p209
+tp210
+I2
+s(Vinsert
+p211
+I42
+VSimpleName: entrySet
+p212
+tp213
+I1
+s(Vinsert
+p214
+I42
+VSimpleName: onConnectionFinished
+p215
+tp216
+I2
+s(Vinsert
+p217
+I42
+VSimpleName: onNewIntent
+p218
+tp219
+I1
+s(Vinsert
+p220
+I42
+VSimpleName: config
+p221
+tp222
+I1
+s(Vinsert
+p223
+I42
+VSimpleName: parseFromServiceData
+p224
+tp225
+I1
+s(Vinsert
+p226
+I42
+VSimpleName: setWebViewClient
+p227
+tp228
+I1
+s(Vinsert
+p229
+I42
+VSimpleName: getServiceUuids
+p230
+tp231
+I1
+s(Vinsert
+p232
+I42
+VSimpleName: addedPwo
+p233
+tp234
+I1
+s(Vinsert
+p235
+I43
+VSimpleType: RuntimeException
+p236
+tp237
+I1
+s(Vinsert
+p238
+I42
+VSimpleName: websiteDir
+p239
+tp240
+I2
+s(Vinsert
+p241
+I42
+VSimpleName: nearbyBeaconsFragment
+p242
+tp243
+I1
+s(Vinsert
+p244
+I42
+VSimpleName: GROUPID1
+p245
+tp246
+I1
+s(Vinsert
+p247
+I42
+VSimpleName: mDescription
+p248
+tp249
+I1
+s(Vinsert
+p250
+I42
+VSimpleName: warnUserOnMissingApiKey
+p251
+tp252
+I2
+s(Vinsert
+p253
+I42
+VSimpleName: mSsdpUrlDiscovererCallback
+p254
+tp255
+I1
+s(Vinsert
+p256
+I42
+VSimpleName: URL
+p257
+tp258
+I2
+s(Vinsert
+p259
+I42
+VSimpleName: onMdnsUrlFound
+p260
+tp261
+I1
+s(Vinsert
+p262
+I42
+VSimpleName: serviceType
+p263
+tp264
+I1
+s(Vinsert
+p265
+I43
+VSimpleType: FileBroadcastService
+p266
+tp267
+I1
+s(Vinsert
+p268
+I23
+VFieldDeclaration
+p269
+tp270
+I4
+s(Vinsert
+p271
+I40
+VQualifiedName: PwsClient.UrlMetadata
+p272
+tp273
+I1
+s(Vinsert
+p274
+I34
+VNumberLiteral: 1
+p275
+tp276
+I8
+s(Vinsert
+p277
+I42
+VSimpleName: mDatagramSocket
+p278
+tp279
+I1
+s(Vinsert
+p280
+I43
+VSimpleType: SettingsFragment
+p281
+tp282
+I2
+s(Vinsert
+p283
+I42
+VSimpleName: makeText
+p284
+tp285
+I8
+s(Vinsert
+p286
+I42
+VSimpleName: target
+p287
+tp288
+I2
+s(Vinsert
+p289
+I42
+VSimpleName: MDNS_PUBLIC_DEVICE_TYPE
+p290
+tp291
+I1
+s(Vinsert
+p292
+I42
+VSimpleName: isBleUrlDevice
+p293
+tp294
+I1
+s(Vinsert
+p295
+I42
+VSimpleName: mIsInitialized
+p296
+tp297
+I1
+s(Vinsert
+p298
+I42
+VSimpleName: mMutex
+p299
+tp300
+I1
+s(Vinsert
+p301
+I42
+VSimpleName: mUrlQueue
+p302
+tp303
+I1
+s(Vinsert
+p304
+I66
+VTextElement:  True if the user has optedIn otherwise false.
+p305
+tp306
+I1
+s(Vinsert
+p307
+I40
+VQualifiedName: R.string.config_url_read_error
+p308
+tp309
+I1
+s(Vinsert
+p310
+I42
+VSimpleName: getUrlDevices
+p311
+tp312
+I2
+s(Vinsert
+p313
+I34
+VNumberLiteral: 1000
+p314
+tp315
+I1
+s(Vinsert
+p316
+I42
+VSimpleName: getUrl
+p317
+tp318
+I1
+s(Vinsert
+p319
+I42
+VSimpleName: Intent
+p320
+tp321
+I15
+s(Vinsert
+p322
+I42
+VSimpleName: HashSet
+p323
+tp324
+I5
+s(Vinsert
+p325
+I45
+VStringLiteral: "Service discovery success"
+p326
+tp327
+I1
+s(Vinsert
+p328
+I43
+VSimpleType: SsdpMessage
+p329
+tp330
+I1
+s(Vinsert
+p331
+I42
+VSimpleName: webView
+p332
+tp333
+I3
+s(Vinsert
+p334
+I42
+VSimpleName: getTopPair
+p335
+tp336
+I1
+s(Vinsert
+p337
+I42
+VSimpleName: urlTextView
+p338
+tp339
+I1
+s(Vinsert
+p340
+I27
+VInfixExpression: ==
+p341
+tp342
+I23
+s(Vinsert
+p343
+I42
+VSimpleName: ioException
+p344
+tp345
+I1
+s(Vinsert
+p346
+I42
+VSimpleName: getMetadataByBroadcastUrl
+p347
+tp348
+I2
+s(Vinsert
+p349
+I43
+VSimpleType: PwsClient
+p350
+tp351
+I2
+s(Vinsert
+p352
+I42
+VSimpleName: discoveryIntent
+p353
+tp354
+I1
+s(Vinsert
+p355
+I9
+VBooleanLiteral: true
+p356
+tp357
+I8
+s(Vinsert
+p358
+I42
+VSimpleName: uriLength
+p359
+tp360
+I1
+s(Vinsert
+p361
+I43
+VSimpleType: ObjectAnimator
+p362
+tp363
+I1
+s(Vinsert
+p364
+I43
+VSimpleType: NotificationManager
+p365
+tp366
+I2
+s(Vinsert
+p367
+I42
+VSimpleName: Pwo
+p368
+tp369
+I3
+s(Vinsert
+p370
+I42
+VSimpleName: callback
+p371
+tp372
+I1
+s(Vinsert
+p373
+I42
+VSimpleName: onNewUrl
+p374
+tp375
+I2
+s(Vinsert
+p376
+I42
+VSimpleName: isWifiDirectDevice
+p377
+tp378
+I2
+s(Vinsert
+p379
+I40
+VQualifiedName: Build.VERSION_CODES.LOLLIPOP
+p380
+tp381
+I1
+s(Vinsert
+p382
+I43
+VSimpleType: WebView
+p383
+tp384
+I1
+s(Vinsert
+p385
+I45
+VStringLiteral: "}"
+p386
+tp387
+I1
+s(Vinsert
+p388
+I43
+VSimpleType: HashSet
+p389
+tp390
+I4
+s(Vinsert
+p391
+I42
+VSimpleName: mPwCollection
+p392
+tp393
+I4
+s(Vinsert
+p394
+I66
+VTextElement:  The context for the SharedPreferences.
+p395
+tp396
+I1
+s(Vinsert
+p397
+I42
+VSimpleName: getSiteUrl
+p398
+tp399
+I4
+s(Vinsert
+p400
+I42
+VSimpleName: mUrlToScanInfo
+p401
+tp402
+I1
+s(Vinsert
+p403
+I66
+VTextElement: Saves the default settings to the SharedPreferences.
+p404
+tp405
+I1
+s(Vinsert
+p406
+I83
+VModifier: synchronized
+p407
+tp408
+I2
+s(Vinsert
+p409
+I42
+VSimpleName: shortenUrl
+p410
+tp411
+I2
+s(Vinsert
+p412
+I42
+VSimpleName: isGoogleApiKeyAvailable
+p413
+tp414
+I1
+s(Vinsert
+p415
+I42
+VSimpleName: addPair
+p416
+tp417
+I2
+s(Vinsert
+p418
+I42
+VSimpleName: TITLE_KEY
+p419
+tp420
+I2
+s(Vinsert
+p421
+I42
+VSimpleName: mPwsClient
+p422
+tp423
+I1
+s(Vinsert
+p424
+I42
+VSimpleName: r1
+p425
+tp426
+I2
+s(Vinsert
+p427
+I42
+VSimpleName: SharedPreferences
+p428
+tp429
+I2
+s(Vinsert
+p430
+I42
+VSimpleName: address
+p431
+tp432
+I2
+s(Vinsert
+p433
+I42
+VSimpleName: newDistanceComparator
+p434
+tp435
+I3
+s(Vinsert
+p436
+I40
+VQualifiedName: R.string.custom_pws
+p437
+tp438
+I1
+s(Vinsert
+p439
+I43
+VSimpleType: ListView
+p440
+tp441
+I2
+s(Vinsert
+p442
+I43
+VSimpleType: Fragment
+p443
+tp444
+I1
+s(Vinsert
+p445
+I42
+VSimpleName: PwoGroup
+p446
+tp447
+I1
+s(Vinsert
+p448
+I43
+VSimpleType: UriBeaconConfigCallback
+p449
+tp450
+I2
+s(Vinsert
+p451
+I74
+VParameterizedType: Set<String>
+p452
+tp453
+I1
+s(Vinsert
+p454
+I42
+VSimpleName: pwoResponseCallback
+p455
+tp456
+I4
+s(Vinsert
+p457
+I42
+VSimpleName: startsWith
+p458
+tp459
+I5
+s(Vinsert
+p460
+I42
+VSimpleName: getTitle
+p461
+tp462
+I2
+s(Vinsert
+p463
+I42
+VSimpleName: setPrivate
+p464
+tp465
+I1
+s(Vinsert
+p466
+I65
+VTagElement: @return
+p467
+tp468
+I8
+s(Vinsert
+p469
+I42
+VSimpleName: mUrlDevice
+p470
+tp471
+I1
+s(Vinsert
+p472
+I42
+VSimpleName: responseCode
+p473
+tp474
+I1
+s(Vinsert
+p475
+I27
+VInfixExpression: /
+p476
+tp477
+I1
+s(Vinsert
+p478
+I42
+VSimpleName: descriptionTextView
+p479
+tp480
+I2
+s(Vinsert
+p481
+I40
+VQualifiedName: java.io.UnsupportedEncodingException
+p482
+tp483
+I1
+s(Vinsert
+p484
+I42
+VSimpleName: mErr
+p485
+tp486
+I1
+s(Vinsert
+p487
+I42
+VSimpleName: remove
+p488
+tp489
+I4
+s(Vinsert
+p490
+I42
+VSimpleName: preferences_key
+p491
+tp492
+I2
+s(Vinsert
+p493
+I42
+VSimpleName: findFragmentByTag
+p494
+tp495
+I1
+s(Vinsert
+p496
+I42
+VSimpleName: addRankedDeviceAndMetadata
+p497
+tp498
+I3
+s(Vinsert
+p499
+I42
+VSimpleName: description
+p500
+tp501
+I2
+s(Vinsert
+p502
+I42
+VSimpleName: pendingIntent
+p503
+tp504
+I1
+s(Vinsert
+p505
+I40
+VQualifiedName: UriBeacon.Builder
+p506
+tp507
+I1
+s(Vinsert
+p508
+I45
+VStringLiteral: " Metadata null1"
+p509
+tp510
+I1
+s(Vinsert
+p511
+I45
+VStringLiteral: "Service discovery failed!"
+p512
+tp513
+I1
+s(Vinsert
+p514
+I42
+VSimpleName: setRequestMethod
+p515
+tp516
+I1
+s(Vinsert
+p517
+I40
+VQualifiedName: R.string.url_learn_more
+p518
+tp519
+I1
+s(Vinsert
+p520
+I45
+VStringLiteral: "null"
+p521
+tp522
+I1
+s(Vinsert
+p523
+I42
+VSimpleName: Base64
+p524
+tp525
+I2
+s(Vinsert
+p526
+I42
+VSimpleName: pwo
+p527
+tp528
+I4
+s(Vinsert
+p529
+I42
+VSimpleName: getStringExtra
+p530
+tp531
+I3
+s(Vinsert
+p532
+I31
+VMethodDeclaration
+p533
+tp534
+I50
+s(Vinsert
+p535
+I43
+VSimpleType: PwoResponseCallback
+p536
+tp537
+I2
+s(Vinsert
+p538
+I42
+VSimpleName: setSharedPreferencesDefaultValues
+p539
+tp540
+I2
+s(Vinsert
+p541
+I43
+VSimpleType: PwsResultCallback
+p542
+tp543
+I1
+s(Vinsert
+p544
+I42
+VSimpleName: alreadyFound
+p545
+tp546
+I1
+s(Vinsert
+p547
+I39
+VPrimitiveType: double
+p548
+tp549
+I2
+s(Vinsert
+p550
+I42
+VSimpleName: isDemoMode
+p551
+tp552
+I2
+s(Vinsert
+p553
+I42
+VSimpleName: mUrlToTxPower
+p554
+tp555
+I1
+s(Vinsert
+p556
+I39
+VPrimitiveType: void
+p557
+tp558
+I51
+s(Vinsert
+p559
+I42
+VSimpleName: isBlocked
+p560
+tp561
+I1
+s(Vinsert
+p562
+I74
+VParameterizedType: ArrayList<>
+p563
+tp564
+I3
+s(Vinsert
+p565
+I42
+VSimpleName: getExtraDataWorks
+p566
+tp567
+I2
+s(Vinsert
+p568
+I42
+VSimpleName: mNewExtraData
+p569
+tp570
+I2
+s(Vinsert
+p571
+I42
+VSimpleName: getVisibility
+p572
+tp573
+I1
+s(Vinsert
+p574
+I42
+VSimpleName: urlConnection
+p575
+tp576
+I4
+s(Vinsert
+p577
+I42
+VSimpleName: url
+p578
+tp579
+I42
+s(Vinsert
+p580
+I42
+VSimpleName: setVisibility
+p581
+tp582
+I2
+s(Vinsert
+p583
+I42
+VSimpleName: VolleyError
+p584
+tp585
+I1
+s(Vinsert
+p586
+I42
+VSimpleName: onErrorResponse
+p587
+tp588
+I1
+s(Vinsert
+p589
+I42
+VSimpleName: postDelayed
+p590
+tp591
+I2
+s(Vinsert
+p592
+I42
+VSimpleName: sharedPrefs
+p593
+tp594
+I1
+s(Vinsert
+p595
+I42
+VSimpleName: byteBufferArray
+p596
+tp597
+I1
+s(Vinsert
+p598
+I42
+VSimpleName: sharedPreferences
+p599
+tp600
+I1
+s(Vinsert
+p601
+I42
+VSimpleName: WifiDirectConnect
+p602
+tp603
+I2
+s(Vinsert
+p604
+I42
+VSimpleName: fromString
+p605
+tp606
+I2
+s(Vinsert
+p607
+I42
+VSimpleName: mRequestUrlToPwsResultMap
+p608
+tp609
+I1
+s(Vinsert
+p610
+I42
+VSimpleName: mSwipeRefreshWidget
+p611
+tp612
+I1
+s(Vinsert
+p613
+I42
+VSimpleName: mUriBeaconConfig
+p614
+tp615
+I1
+s(Vinsert
+p616
+I42
+VSimpleName: setWifiPort
+p617
+tp618
+I1
+s(Vinsert
+p619
+I45
+VStringLiteral: "UTF-8"
+p620
+tp621
+I1
+s(Vinsert
+p622
+I34
+VNumberLiteral: 10
+p623
+tp624
+I1
+s(Vinsert
+p625
+I42
+VSimpleName: alphaAnimation
+p626
+tp627
+I2
+s(Vinsert
+p628
+I42
+VSimpleName: NEAREST_BEACON_NOTIFICATION_ID
+p629
+tp630
+I1
+s(Vinsert
+p631
+I42
+VSimpleName: getJSONObject
+p632
+tp633
+I1
+s(Vinsert
+p634
+I42
+VSimpleName: mCanUpdateNotifications
+p635
+tp636
+I1
+s(Vinsert
+p637
+I42
+VSimpleName: beginTransaction
+p638
+tp639
+I3
+s(Vinsert
+p640
+I43
+VSimpleType: EddystoneBeacon
+p641
+tp642
+I1
+s(Vinsert
+p643
+I42
+VSimpleName: mUri
+p644
+tp645
+I1
+s(Vinsert
+p646
+I43
+VSimpleType: HttpURLConnection
+p647
+tp648
+I1
+s(Vinsert
+p649
+I40
+VQualifiedName: result.srv.port
+p650
+tp651
+I1
+s(Vinsert
+p652
+I42
+VSimpleName: getPwsResult
+p653
+tp654
+I7
+s(Vinsert
+p655
+I42
+VSimpleName: setUrl
+p656
+tp657
+I1
+s(Vinsert
+p658
+I42
+VSimpleName: commit
+p659
+tp660
+I1
+s(Vinsert
+p661
+I42
+VSimpleName: runSetEditCardUrlOnUiThread
+p662
+tp663
+I1
+s(Vinsert
+p664
+I42
+VSimpleName: findItem
+p665
+tp666
+I11
+s(Vinsert
+p667
+I27
+VInfixExpression: !=
+p668
+tp669
+I23
+s(Vinsert
+p670
+I34
+VNumberLiteral: 1f
+p671
+tp672
+I1
+s(Vinsert
+p673
+I42
+VSimpleName: setData
+p674
+tp675
+I1
+s(Vinsert
+p676
+I40
+VQualifiedName: result.srv.fqdn
+p677
+tp678
+I1
+s(Vinsert
+p679
+I42
+VSimpleName: listView
+p680
+tp681
+I1
+s(Vinsert
+p682
+I42
+VSimpleName: ByteArrayOutputStream
+p683
+tp684
+I2
+s(Vinsert
+p685
+I42
+VSimpleName: UrlDeviceDiscoveryService
+p686
+tp687
+I1
+s(Vinsert
+p688
+I40
+VQualifiedName: TimeUnit.MILLISECONDS
+p689
+tp690
+I1
+s(Vinsert
+p691
+I42
+VSimpleName: release
+p692
+tp693
+I1
+s(Vinsert
+p694
+I42
+VSimpleName: setBackgroundColor
+p695
+tp696
+I2
+s(Vinsert
+p697
+I43
+VSimpleType: PwoGroup
+p698
+tp699
+I1
+s(Vinsert
+p700
+I39
+VPrimitiveType: boolean
+p701
+tp702
+I11
+s(Vinsert
+p703
+I42
+VSimpleName: parse
+p704
+tp705
+I1
+s(Vinsert
+p706
+I42
+VSimpleName: mGroupId
+p707
+tp708
+I2
+s(Vinsert
+p709
+I42
+VSimpleName: URI_SCHEMES
+p710
+tp711
+I1
+s(Vinsert
+p712
+I40
+VQualifiedName: org.physical_web.collection.PwsClient
+p713
+tp714
+I1
+s(Vinsert
+p715
+I42
+VSimpleName: GROUP_ID2
+p716
+tp717
+I1
+s(Vinsert
+p718
+I42
+VSimpleName: getRegion
+p719
+tp720
+I2
+s(Vinsert
+p721
+I42
+VSimpleName: DESCRIPTION1
+p722
+tp723
+I2
+s(Vinsert
+p724
+I42
+VSimpleName: mDevice
+p725
+tp726
+I1
+s(Vinsert
+p727
+I42
+VSimpleName: wait
+p728
+tp729
+I1
+s(Vinsert
+p730
+I42
+VSimpleName: containsKey
+p731
+tp732
+I3
+s(Vinsert
+p733
+I42
+VSimpleName: PwsClient
+p734
+tp735
+I3
+s(Vinsert
+p736
+I40
+VQualifiedName: org.physical_web.collection.PwsResultCallback
+p737
+tp738
+I1
+s(Vinsert
+p739
+I42
+VSimpleName: stream
+p740
+tp741
+I1
+s(Vinsert
+p742
+I42
+VSimpleName: mExtraData
+p743
+tp744
+I6
+s(Vinsert
+p745
+I42
+VSimpleName: onUrlMetadataIconError
+p746
+tp747
+I2
+s(Vinsert
+p748
+I42
+VSimpleName: pwoCollection
+p749
+tp750
+I2
+s(Vinsert
+p751
+I11
+VCastExpression
+p752
+tp753
+I16
+s(Vinsert
+p754
+I42
+VSimpleName: getSystemService
+p755
+tp756
+I3
+s(Vinsert
+p757
+I42
+VSimpleName: setPwsEndpoint
+p758
+tp759
+I3
+s(Vinsert
+p760
+I42
+VSimpleName: setDefaultValues
+p761
+tp762
+I1
+s(Vinsert
+p763
+I42
+VSimpleName: setSmallIcon
+p764
+tp765
+I1
+s(Vinsert
+p766
+I42
+VSimpleName: getInstance
+p767
+tp768
+I7
+s(Vinsert
+p769
+I42
+VSimpleName: runOnUiThread
+p770
+tp771
+I2
+s(Vinsert
+p772
+I42
+VSimpleName: ListView
+p773
+tp774
+I2
+s(Vinsert
+p775
+I42
+VSimpleName: edit
+p776
+tp777
+I1
+s(Vinsert
+p778
+I42
+VSimpleName: result
+p779
+tp780
+I1
+s(Vinsert
+p781
+I42
+VSimpleName: UrlGroup
+p782
+tp783
+I2
+s(Vinsert
+p784
+I42
+VSimpleName: isStarted
+p785
+tp786
+I2
+s(Vinsert
+p787
+I42
+VSimpleName: mPendingIconUrls
+p788
+tp789
+I1
+s(Vinsert
+p790
+I9
+VBooleanLiteral: false
+p791
+tp792
+I9
+s(Vinsert
+p793
+I45
+VStringLiteral: "application/json"
+p794
+tp795
+I2
+s(Vinsert
+p796
+I42
+VSimpleName: getMdnsEnabled
+p797
+tp798
+I2
+s(Vinsert
+p799
+I42
+VSimpleName: getActionBar
+p800
+tp801
+I6
+s(Vinsert
+p802
+I45
+VStringLiteral: "title1"
+p803
+tp804
+I1
+s(Vinsert
+p805
+I42
+VSimpleName: rootView
+p806
+tp807
+I2
+s(Vinsert
+p808
+I42
+VSimpleName: progress
+p809
+tp810
+I2
+s(Vinsert
+p811
+I42
+VSimpleName: mAdapter
+p812
+tp813
+I1
+s(Vinsert
+p814
+I42
+VSimpleName: mFirstTime
+p815
+tp816
+I2
+s(Vinsert
+p817
+I42
+VSimpleName: advertisingPacket
+p818
+tp819
+I1
+s(Vinsert
+p820
+I43
+VSimpleType: UrlGroup
+p821
+tp822
+I2
+s(Vinsert
+p823
+I43
+VSimpleType: Parcelable
+p824
+tp825
+I1
+s(Vinsert
+p826
+I42
+VSimpleName: createUrlProxyGoLink
+p827
+tp828
+I1
+s(Vinsert
+p829
+I59
+VVariableDeclarationFragment
+p830
+tp831
+I137
+s(Vinsert
+p832
+I42
+VSimpleName: OPT_IN_REQUEST_CODE
+p833
+tp834
+I1
+s(Vinsert
+p835
+I42
+VSimpleName: element
+p836
+tp837
+I2
+s(Vinsert
+p838
+I42
+VSimpleName: onError
+p839
+tp840
+I4
+s(Vinsert
+p841
+I42
+VSimpleName: URLEncoder
+p842
+tp843
+I2
+s(Vinsert
+p844
+I43
+VSimpleType: List
+p845
+tp846
+I4
+s(Vinsert
+p847
+I66
+VTextElement: Add a PWO to the collection.
+p848
+tp849
+I1
+s(Vinsert
+p850
+I42
+VSimpleName: PhysicalWebCollection
+p851
+tp852
+I2
+s(Vinsert
+p853
+I42
+VSimpleName: errorCode
+p854
+tp855
+I1
+s(Vinsert
+p856
+I42
+VSimpleName: assertTrue
+p857
+tp858
+I1
+s(Vinsert
+p859
+I42
+VSimpleName: Collections
+p860
+tp861
+I1
+s(Vinsert
+p862
+I42
+VSimpleName: setDescription
+p863
+tp864
+I3
+s(Vinsert
+p865
+I42
+VSimpleName: groupView
+p866
+tp867
+I1
+s(Vinsert
+p868
+I42
+VSimpleName: isFatBeaconEnabled
+p869
+tp870
+I1
+s(Vinsert
+p871
+I34
+VNumberLiteral: 3
+p872
+tp873
+I1
+s(Vinsert
+p874
+I42
+VSimpleName: DATA_ONE
+p875
+tp876
+I2
+s(Vinsert
+p877
+I42
+VSimpleName: clearCache
+p878
+tp879
+I1
+s(Vinsert
+p880
+I42
+VSimpleName: pwsResult
+p881
+tp882
+I23
+s(Vinsert
+p883
+I42
+VSimpleName: bluetoothManager
+p884
+tp885
+I1
+s(Vinsert
+p886
+I42
+VSimpleName: pwoMetadata
+p887
+tp888
+I15
+s(Vinsert
+p889
+I42
+VSimpleName: getTxPower
+p890
+tp891
+I1
+s(Vinsert
+p892
+I18
+VContinueStatement
+p893
+tp894
+I2
+s(Vinsert
+p895
+I42
+VSimpleName: mPwoResponseCallbacks
+p896
+tp897
+I2
+s(Vinsert
+p898
+I65
+VTagElement
+p899
+tp900
+I1
+s(Vinsert
+p901
+I42
+VSimpleName: toastError
+p902
+tp903
+I1
+s(Vinsert
+p904
+I42
+VSimpleName: remoteViews
+p905
+tp906
+I1
+s(Vinsert
+p907
+I42
+VSimpleName: findViewById
+p908
+tp909
+I7
+s(Vinsert
+p910
+I42
+VSimpleName: beaconData
+p911
+tp912
+I1
+s(Vinsert
+p913
+I40
+VQualifiedName: result.txt.dict
+p914
+tp915
+I1
+s(Vinsert
+p916
+I42
+VSimpleName: gatt
+p917
+tp918
+I6
+s(Vinsert
+p919
+I42
+VSimpleName: addItem
+p920
+tp921
+I2
+s(Vinsert
+p922
+I61
+VWhileStatement
+p923
+tp924
+I2
+s(Vinsert
+p925
+I40
+VQualifiedName: Build.VERSION.SDK_INT
+p926
+tp927
+I1
+s(Vinsert
+p928
+I42
+VSimpleName: AdvertiseSettings
+p929
+tp930
+I1
+s(Vinsert
+p931
+I42
+VSimpleName: compare
+p932
+tp933
+I2
+s(Vinsert
+p934
+I42
+VSimpleName: pwPair
+p935
+tp936
+I13
+s(Vinsert
+p937
+I40
+VQualifiedName: gatt.GATT_SUCCESS
+p938
+tp939
+I2
+s(Vinsert
+p940
+I42
+VSimpleName: assertNotEquals
+p941
+tp942
+I5
+s(Vinsert
+p943
+I42
+VSimpleName: fetchedPwo
+p944
+tp945
+I1
+s(Vinsert
+p946
+I42
+VSimpleName: other
+p947
+tp948
+I7
+s(Vinsert
+p949
+I43
+VSimpleType: Demo
+p950
+tp951
+I1
+s(Vinsert
+p952
+I42
+VSimpleName: getChildCount
+p953
+tp954
+I1
+s(Vinsert
+p955
+I42
+VSimpleName: compress
+p956
+tp957
+I1
+s(Vinsert
+p958
+I43
+VSimpleType: TaskStackBuilder
+p959
+tp960
+I1
+s(Vinsert
+p961
+I42
+VSimpleName: mLengthenShortUrlTask
+p962
+tp963
+I1
+s(Vinsert
+p964
+I42
+VSimpleName: hasBleMetadata
+p965
+tp966
+I2
+s(Vinsert
+p967
+I42
+VSimpleName: mId
+p968
+tp969
+I3
+s(Vinsert
+p970
+I42
+VSimpleName: hashCode
+p971
+tp972
+I1
+s(Vinsert
+p973
+I42
+VSimpleName: getUrlForGivenDeviceAddress
+p974
+tp975
+I1
+s(Vinsert
+p976
+I42
+VSimpleName: setGroup
+p977
+tp978
+I1
+s(Vinsert
+p979
+I43
+VSimpleType: ScanFilter.Builder
+p980
+tp981
+I1
+s(Vinsert
+p982
+I42
+VSimpleName: rankView
+p983
+tp984
+I1
+s(Vinsert
+p985
+I42
+VSimpleName: mMulticastSocket
+p986
+tp987
+I2
+s(Vinsert
+p988
+I42
+VSimpleName: getUuid
+p989
+tp990
+I2
+s(Vinsert
+p991
+I42
+VSimpleName: cancel
+p992
+tp993
+I2
+s(Vinsert
+p994
+I42
+VSimpleName: Runnable
+p995
+tp996
+I3
+s(Vinsert
+p997
+I42
+VSimpleName: is
+p998
+tp999
+I1
+s(Vinsert
+p1000
+I42
+VSimpleName: currentThread
+p1001
+tp1002
+I1
+s(Vinsert
+p1003
+I45
+VStringLiteral: "/"
+p1004
+tp1005
+I1
+s(Vinsert
+p1006
+I42
+VSimpleName: setEndpoint
+p1007
+tp1008
+I2
+s(Vinsert
+p1009
+I42
+VSimpleName: getV2PwsResult
+p1010
+tp1011
+I1
+s(Vinsert
+p1012
+I42
+VSimpleName: mSwiping
+p1013
+tp1014
+I1
+s(Vinsert
+p1015
+I40
+VQualifiedName: urlMetadata.group
+p1016
+tp1017
+I1
+s(Vinsert
+p1018
+I40
+VQualifiedName: Toast.LENGTH_SHORT
+p1019
+tp1020
+I1
+s(Vinsert
+p1021
+I42
+VSimpleName: i
+p1022
+tp1023
+I8
+s(Vinsert
+p1024
+I40
+VQualifiedName: android.bluetooth.BluetoothGatt
+p1025
+tp1026
+I1
+s(Vinsert
+p1027
+I42
+VSimpleName: UriBeaconConfig
+p1028
+tp1029
+I1
+s(Vinsert
+p1030
+I40
+VQualifiedName: ListView.INVALID_POSITION
+p1031
+tp1032
+I1
+s(Vinsert
+p1033
+I42
+VSimpleName: NearbyBeaconsFragment
+p1034
+tp1035
+I1
+s(Vinsert
+p1036
+I42
+VSimpleName: pairs
+p1037
+tp1038
+I1
+s(Vinsert
+p1039
+I45
+VStringLiteral: "Tried to get Title when no title set "
+p1040
+tp1041
+I1
+s(Vinsert
+p1042
+I42
+VSimpleName: mBroadcastUrlToPwsResultMap
+p1043
+tp1044
+I2
+s(Vinsert
+p1045
+I42
+VSimpleName: pwoMetadataStr
+p1046
+tp1047
+I1
+s(Vinsert
+p1048
+I42
+VSimpleName: score
+p1049
+tp1050
+I1
+s(Vinsert
+p1051
+I42
+VSimpleName: top
+p1052
+tp1053
+I1
+s(Vinsert
+p1054
+I42
+VSimpleName: mDisplayList
+p1055
+tp1056
+I1
+s(Vinsert
+p1057
+I43
+VSimpleType: ByteArrayInputStream
+p1058
+tp1059
+I1
+s(Vinsert
+p1060
+I42
+VSimpleName: type
+p1061
+tp1062
+I3
+s(Vinsert
+p1063
+I42
+VSimpleName: mkdir
+p1064
+tp1065
+I1
+s(Vinsert
+p1066
+I42
+VSimpleName: FatBeaconBroadcastService
+p1067
+tp1068
+I1
+s(Vinsert
+p1069
+I40
+VQualifiedName: R.string.config_found_near_beacon
+p1070
+tp1071
+I1
+s(Vinsert
+p1072
+I42
+VSimpleName: setPwsEndPointToGoogle
+p1073
+tp1074
+I1
+s(Vinsert
+p1075
+I42
+VSimpleName: endpointNames
+p1076
+tp1077
+I2
+s(Vinsert
+p1078
+I42
+VSimpleName: setTitle
+p1079
+tp1080
+I7
+s(Vinsert
+p1081
+I42
+VSimpleName: getService
+p1082
+tp1083
+I3
+s(Vinsert
+p1084
+I40
+VQualifiedName: otherUrlGroup.mPwPairs
+p1085
+tp1086
+I1
+s(Vinsert
+p1087
+I54
+VTryStatement
+p1088
+tp1089
+I15
+s(Vinsert
+p1090
+I42
+VSimpleName: disconnect
+p1091
+tp1092
+I2
+s(Vinsert
+p1093
+I42
+VSimpleName: getFragmentManager
+p1094
+tp1095
+I4
+s(Vinsert
+p1096
+I42
+VSimpleName: outGroupMap
+p1097
+tp1098
+I1
+s(Vinsert
+p1099
+I42
+VSimpleName: pwsEndpoint
+p1100
+tp1101
+I2
+s(Vinsert
+p1102
+I42
+VSimpleName: single
+p1103
+tp1104
+I2
+s(Vinsert
+p1105
+I43
+VSimpleType: ArrayList
+p1106
+tp1107
+I5
+s(Vinsert
+p1108
+I43
+VSimpleType: IOException
+p1109
+tp1110
+I2
+s(Vinsert
+p1111
+I42
+VSimpleName: newUrls
+p1112
+tp1113
+I1
+s(Vinsert
+p1114
+I40
+VQualifiedName: WebSettings.RenderPriority.HIGH
+p1115
+tp1116
+I1
+s(Vinsert
+p1117
+I42
+VSimpleName: currentTimeMillis
+p1118
+tp1119
+I2
+s(Vinsert
+p1120
+I42
+VSimpleName: group
+p1121
+tp1122
+I1
+s(Vinsert
+p1123
+I42
+VSimpleName: addExtra
+p1124
+tp1125
+I3
+s(Vinsert
+p1126
+I42
+VSimpleName: keyAt
+p1127
+tp1128
+I1
+s(Vinsert
+p1129
+I42
+VSimpleName: getDebugViewEnabled
+p1130
+tp1131
+I2
+s(Vinsert
+p1132
+I42
+VSimpleName: getTopRankedPwPairByGroupId
+p1133
+tp1134
+I1
+s(Vinsert
+p1135
+I40
+VQualifiedName: urlMetadata.siteUrl
+p1136
+tp1137
+I1
+s(Vinsert
+p1138
+I42
+VSimpleName: urlGroup2
+p1139
+tp1140
+I1
+s(Vinsert
+p1141
+I42
+VSimpleName: keySet
+p1142
+tp1143
+I3
+s(Vinsert
+p1144
+I42
+VSimpleName: clear
+p1145
+tp1146
+I9
+s(Vinsert
+p1147
+I42
+VSimpleName: httpResponseCode
+p1148
+tp1149
+I2
+s(Vinsert
+p1150
+I42
+VSimpleName: mDiscoveryService
+p1151
+tp1152
+I2
+s(Vinsert
+p1153
+I40
+VQualifiedName: android.R.id.list
+p1154
+tp1155
+I1
+s(Vinsert
+p1156
+I42
+VSimpleName: mSecondScanTimeout
+p1157
+tp1158
+I1
+s(Vinsert
+p1159
+I42
+VSimpleName: intent
+p1160
+tp1161
+I23
+s(Vinsert
+p1162
+I42
+VSimpleName: toggleFavorite
+p1163
+tp1164
+I2
+s(Vinsert
+p1165
+I42
+VSimpleName: parseColor
+p1166
+tp1167
+I1
+s(Vinsert
+p1168
+I42
+VSimpleName: downloadIconCallback
+p1169
+tp1170
+I1
+s(Vinsert
+p1171
+I3
+VArrayCreation
+p1172
+tp1173
+I4
+s(Vinsert
+p1174
+I42
+VSimpleName: jsonObject1
+p1175
+tp1176
+I1
+s(Vinsert
+p1177
+I39
+VPrimitiveType: long
+p1178
+tp1179
+I5
+s(Vinsert
+p1180
+I43
+VSimpleType: FileOutputStream
+p1181
+tp1182
+I1
+s(Vinsert
+p1183
+I42
+VSimpleName: message
+p1184
+tp1185
+I1
+s(Vinsert
+p1186
+I42
+VSimpleName: mIconUrl
+p1187
+tp1188
+I2
+s(Vinsert
+p1189
+I42
+VSimpleName: urlDevice1
+p1190
+tp1191
+I3
+s(Vinsert
+p1192
+I42
+VSimpleName: SCAN_TIME_MILLIS
+p1193
+tp1194
+I2
+s(Vinsert
+p1195
+I42
+VSimpleName: setSummary
+p1196
+tp1197
+I1
+s(Vinsert
+p1198
+I42
+VSimpleName: File
+p1199
+tp1200
+I2
+s(Vinsert
+p1201
+I42
+VSimpleName: startTime
+p1202
+tp1203
+I1
+s(Vinsert
+p1204
+I42
+VSimpleName: deserializedResult
+p1205
+tp1206
+I2
+s(Vinsert
+p1207
+I42
+VSimpleName: onUrlMetadataReceived
+p1208
+tp1209
+I1
+s(Vinsert
+p1210
+I42
+VSimpleName: editor
+p1211
+tp1212
+I3
+s(Vinsert
+p1213
+I42
+VSimpleName: mPendingBroadcastUrls
+p1214
+tp1215
+I1
+s(Vinsert
+p1216
+I42
+VSimpleName: entry
+p1217
+tp1218
+I2
+s(Vinsert
+p1219
+I42
+VSimpleName: ObjectAnimator
+p1220
+tp1221
+I2
+s(Vinsert
+p1222
+I43
+VSimpleType: BlockedFragment
+p1223
+tp1224
+I2
+s(Vinsert
+p1225
+I42
+VSimpleName: WifiP2pConfig
+p1226
+tp1227
+I2
+s(Vinsert
+p1228
+I42
+VSimpleName: DecimalFormat
+p1229
+tp1230
+I1
+s(Vinsert
+p1231
+I42
+VSimpleName: isEnabled
+p1232
+tp1233
+I1
+s(Vinsert
+p1234
+I45
+VStringLiteral: " Metadata not null1"
+p1235
+tp1236
+I1
+s(Vinsert
+p1237
+I40
+VQualifiedName: R.string.google_pws
+p1238
+tp1239
+I1
+s(Vinsert
+p1240
+I42
+VSimpleName: MAX_DEVICE_NAME_LENGTH
+p1241
+tp1242
+I1
+s(Vinsert
+p1243
+I42
+VSimpleName: getActivity
+p1244
+tp1245
+I11
+s(Vinsert
+p1246
+I42
+VSimpleName: jsonDeserialize
+p1247
+tp1248
+I3
+s(Vinsert
+p1249
+I42
+VSimpleName: getRegionResolver
+p1250
+tp1251
+I1
+s(Vinsert
+p1252
+I42
+VSimpleName: encodeToString
+p1253
+tp1254
+I1
+s(Vinsert
+p1255
+I42
+VSimpleName: mIsBound
+p1256
+tp1257
+I1
+s(Vinsert
+p1258
+I40
+VQualifiedName: R.drawable.scanning_animation
+p1259
+tp1260
+I1
+s(Vinsert
+p1261
+I42
+VSimpleName: urlGroup1
+p1262
+tp1263
+I3
+s(Vinsert
+p1264
+I42
+VSimpleName: putExtra
+p1265
+tp1266
+I2
+s(Vinsert
+p1267
+I42
+VSimpleName: getAdapter
+p1268
+tp1269
+I1
+s(Vinsert
+p1270
+I66
+VTextElement: Unblock the host.
+p1271
+tp1272
+I1
+s(Vinsert
+p1273
+I45
+VStringLiteral: "Cannot find PwPair with group "
+p1274
+tp1275
+I1
+s(Vinsert
+p1276
+I43
+VSimpleType: SharedPreferences
+p1277
+tp1278
+I2
+s(Vinsert
+p1279
+I42
+VSimpleName: assertNull
+p1280
+tp1281
+I2
+s(Vinsert
+p1282
+I42
+VSimpleName: mScanningStatus
+p1283
+tp1284
+I1
+s(Vinsert
+p1285
+I34
+VNumberLiteral: 0
+p1286
+tp1287
+I11
+s(Vinsert
+p1288
+I42
+VSimpleName: BluetoothSite
+p1289
+tp1290
+I1
+s(Vinsert
+p1291
+I42
+VSimpleName: encodeUri
+p1292
+tp1293
+I1
+s(Vinsert
+p1294
+I36
+VParenthesizedExpression
+p1295
+tp1296
+I6
+s(Vinsert
+p1297
+I42
+VSimpleName: getSimpleName
+p1298
+tp1299
+I14
+s(Vinsert
+p1300
+I40
+VQualifiedName: R.string.proxy_go_link_base_url
+p1301
+tp1302
+I2
+s(Vinsert
+p1303
+I57
+VTypeLiteral
+p1304
+tp1305
+I4
+s(Vinsert
+p1306
+I42
+VSimpleName: Log
+p1307
+tp1308
+I17
+s(Vinsert
+p1309
+I42
+VSimpleName: mBluetoothAdapter
+p1310
+tp1311
+I1
+s(Vinsert
+p1312
+I42
+VSimpleName: mIconUrlToIconMap
+p1313
+tp1314
+I1
+s(Vinsert
+p1315
+I42
+VSimpleName: PwsResultCallback
+p1316
+tp1317
+I2
+s(Vinsert
+p1318
+I42
+VSimpleName: mTitle
+p1319
+tp1320
+I2
+s(Vinsert
+p1321
+I42
+VSimpleName: bleMetadata
+p1322
+tp1323
+I1
+s(Vinsert
+p1324
+I42
+VSimpleName: SsdpUrlDiscoverer
+p1325
+tp1326
+I2
+s(Vinsert
+p1327
+I42
+VSimpleName: SimplePwo
+p1328
+tp1329
+I3
+s(Vinsert
+p1330
+I42
+VSimpleName: isPublic
+p1331
+tp1332
+I1
+s(Vinsert
+p1333
+I45
+VStringLiteral: "        \u005c"iconurl\u005c": \u005c""
+p1334
+tp1335
+I2
+s(Vinsert
+p1336
+I42
+VSimpleName: urlDevices
+p1337
+tp1338
+I1
+s(Vinsert
+p1339
+I52
+VThisExpression
+p1340
+tp1341
+I12
+s(Vinsert
+p1342
+I42
+VSimpleName: getScanRecord
+p1343
+tp1344
+I1
+s(Vinsert
+p1345
+I42
+VSimpleName: mHtml
+p1346
+tp1347
+I1
+s(Vinsert
+p1348
+I42
+VSimpleName: mLongUrl
+p1349
+tp1350
+I1
+s(Vinsert
+p1351
+I43
+VSimpleType: Builder
+p1352
+tp1353
+I2
+s(Vinsert
+p1354
+I42
+VSimpleName: shortUrl
+p1355
+tp1356
+I6
+s(Vinsert
+p1357
+I40
+VQualifiedName: BluetoothAdapter.ACTION_STATE_CHANGED
+p1358
+tp1359
+I1
+s(Vinsert
+p1360
+I70
+VEnhancedForStatement
+p1361
+tp1362
+I20
+s(Vinsert
+p1363
+I42
+VSimpleName: SuppressWarnings
+p1364
+tp1365
+I1
+s(Vinsert
+p1366
+I42
+VSimpleName: TAG
+p1367
+tp1368
+I5
+s(Vinsert
+p1369
+I42
+VSimpleName: setEmptyView
+p1370
+tp1371
+I1
+s(Vinsert
+p1372
+I42
+VSimpleName: addBlocked
+p1373
+tp1374
+I2
+s(Vinsert
+p1375
+I14
+VClassInstanceCreation
+p1376
+tp1377
+I66
+s(Vinsert
+p1378
+I42
+VSimpleName: pwsResult1
+p1379
+tp1380
+I1
+s(Vinsert
+p1381
+I45
+VStringLiteral: "http://"
+p1382
+tp1383
+I2
+s(Vinsert
+p1384
+I42
+VSimpleName: endpoint
+p1385
+tp1386
+I1
+s(Vinsert
+p1387
+I42
+VSimpleName: mNearestDevice
+p1388
+tp1389
+I1
+s(Vinsert
+p1390
+I42
+VSimpleName: setOnRefreshListener
+p1391
+tp1392
+I1
+s(Vinsert
+p1393
+I42
+VSimpleName: isNetworkUrl
+p1394
+tp1395
+I2
+s(Vinsert
+p1396
+I43
+VSimpleType: BleMetadata
+p1397
+tp1398
+I1
+s(Vinsert
+p1399
+I42
+VSimpleName: gzis
+p1400
+tp1401
+I1
+s(Vinsert
+p1402
+I42
+VSimpleName: ListPreference
+p1403
+tp1404
+I2
+s(Vinsert
+p1405
+I42
+VSimpleName: JSONObject
+p1406
+tp1407
+I18
+s(Vinsert
+p1408
+I42
+VSimpleName: getAdvertiseSettings
+p1409
+tp1410
+I1
+s(Vinsert
+p1411
+I42
+VSimpleName: NotificationManager
+p1412
+tp1413
+I2
+s(Vinsert
+p1414
+I42
+VSimpleName: addressToMatch
+p1415
+tp1416
+I2
+s(Vinsert
+p1417
+I42
+VSimpleName: add
+p1418
+tp1419
+I16
+s(Vinsert
+p1420
+I42
+VSimpleName: assertEquals
+p1421
+tp1422
+I13
+s(Vinsert
+p1423
+I42
+VSimpleName: SSDP_DEVICE_TYPE
+p1424
+tp1425
+I1
+s(Vinsert
+p1426
+I42
+VSimpleName: PwoDevice
+p1427
+tp1428
+I1
+s(Vinsert
+p1429
+I42
+VSimpleName: action
+p1430
+tp1431
+I1
+s(Vinsert
+p1432
+I66
+VTextElement: This is where client code should store custom data.
+p1433
+tp1434
+I2
+s(Vinsert
+p1435
+I42
+VSimpleName: tintColor
+p1436
+tp1437
+I1
+s(Vinsert
+p1438
+I42
+VSimpleName: getGroupedPwPairsSortedByRank
+p1439
+tp1440
+I1
+s(Vinsert
+p1441
+I42
+VSimpleName: rssiView
+p1442
+tp1443
+I1
+s(Vinsert
+p1444
+I42
+VSimpleName: jsonResponse
+p1445
+tp1446
+I2
+s(Vinsert
+p1447
+I42
+VSimpleName: o2
+p1448
+tp1449
+I1
+s(Vinsert
+p1450
+I42
+VSimpleName: uriString
+p1451
+tp1452
+I3
+s(Vinsert
+p1453
+I65
+VTagElement: @param
+p1454
+tp1455
+I5
+s(Vinsert
+p1456
+I42
+VSimpleName: addPreference
+p1457
+tp1458
+I1
+s(Vinsert
+p1459
+I42
+VSimpleName: array
+p1460
+tp1461
+I1
+s(Vinsert
+p1462
+I42
+VSimpleName: setBackgroundResource
+p1463
+tp1464
+I3
+s(Vinsert
+p1465
+I42
+VSimpleName: ofFloat
+p1466
+tp1467
+I1
+s(Vinsert
+p1468
+I27
+VInfixExpression: >=
+p1469
+tp1470
+I3
+s(Vinsert
+p1471
+I42
+VSimpleName: mPwPairs
+p1472
+tp1473
+I2
+s(Vinsert
+p1474
+I42
+VSimpleName: pwPairs
+p1475
+tp1476
+I3
+s(Vinsert
+p1477
+I45
+VStringLiteral: "id"
+p1478
+tp1479
+I1
+s(Vinsert
+p1480
+I42
+VSimpleName: otherPwPair
+p1481
+tp1482
+I2
+s(Vinsert
+p1483
+I42
+VSimpleName: parseUuidFrom
+p1484
+tp1485
+I1
+s(Vinsert
+p1486
+I42
+VSimpleName: interrupt
+p1487
+tp1488
+I1
+s(Vinsert
+p1489
+I42
+VSimpleName: getIconUrl
+p1490
+tp1491
+I2
+s(Vinsert
+p1492
+I42
+VSimpleName: assertFalse
+p1493
+tp1494
+I1
+s(Vinsert
+p1495
+I42
+VSimpleName: listPref
+p1496
+tp1497
+I3
+s(Vinsert
+p1498
+I42
+VSimpleName: LOCAL_SCAN_STALE_TIME_MILLIS
+p1499
+tp1500
+I1
+s(Vinsert
+p1501
+I42
+VSimpleName: length
+p1502
+tp1503
+I4
+s(Vinsert
+p1504
+I42
+VSimpleName: index
+p1505
+tp1506
+I1
+s(Vinsert
+p1507
+I42
+VSimpleName: List
+p1508
+tp1509
+I4
+s(Vinsert
+p1510
+I42
+VSimpleName: getBytes
+p1511
+tp1512
+I1
+s(Vinsert
+p1513
+I34
+VNumberLiteral: 0x00
+p1514
+tp1515
+I1
+s(Vinsert
+p1516
+I42
+VSimpleName: resolve
+p1517
+tp1518
+I1
+s(Vinsert
+p1519
+I42
+VSimpleName: apiKey
+p1520
+tp1521
+I1
+s(Vinsert
+p1522
+I42
+VSimpleName: AnimationDrawable
+p1523
+tp1524
+I1
+s(Vinsert
+p1525
+I43
+VSimpleType: MalformedURLException
+p1526
+tp1527
+I2
+s(Vinsert
+p1528
+I42
+VSimpleName: Context
+p1529
+tp1530
+I11
+s(Vinsert
+p1531
+I42
+VSimpleName: HashMap
+p1532
+tp1533
+I1
+s(Vinsert
+p1534
+I40
+VQualifiedName: android.util.Log
+p1535
+tp1536
+I1
+s(Vinsert
+p1537
+I42
+VSimpleName: pwPair3
+p1538
+tp1539
+I1
+s(Vinsert
+p1540
+I42
+VSimpleName: compareResultToItselfReturnsZero
+p1541
+tp1542
+I1
+s(Vinsert
+p1543
+I40
+VQualifiedName: R.string.user_opted_in_flag
+p1544
+tp1545
+I1
+s(Vinsert
+p1546
+I42
+VSimpleName: getUrlMetadataFromDeviceAddress
+p1547
+tp1548
+I1
+s(Vinsert
+p1549
+I42
+VSimpleName: isWifiDirectEnabled
+p1550
+tp1551
+I2
+s(Vinsert
+p1552
+I42
+VSimpleName: getSmoothedRssi
+p1553
+tp1554
+I2
+s(Vinsert
+p1555
+I42
+VSimpleName: getFilesDir
+p1556
+tp1557
+I1
+s(Vinsert
+p1558
+I42
+VSimpleName: otherAddress
+p1559
+tp1560
+I3
+s(Vinsert
+p1561
+I39
+VPrimitiveType: int
+p1562
+tp1563
+I28
+s(Vinsert
+p1564
+I43
+VSimpleType: AnimationDrawable
+p1565
+tp1566
+I1
+s(Vinsert
+p1567
+I83
+VModifier: final
+p1568
+tp1569
+I19
+s(Vinsert
+p1570
+I40
+VQualifiedName: UriBeacon.TEST_SERVICE_UUID
+p1571
+tp1572
+I1
+s(Vinsert
+p1573
+I27
+VInfixExpression: &&
+p1574
+tp1575
+I16
+s(Vinsert
+p1576
+I42
+VSimpleName: resultIntent
+p1577
+tp1578
+I1
+s(Vinsert
+p1579
+I42
+VSimpleName: URLUtil
+p1580
+tp1581
+I2
+s(Vinsert
+p1582
+I42
+VSimpleName: setCompoundDrawablesWithIntrinsicBounds
+p1583
+tp1584
+I1
+s(Vinsert
+p1585
+I42
+VSimpleName: onStart
+p1586
+tp1587
+I1
+s(Vinsert
+p1588
+I42
+VSimpleName: otherPwsResult
+p1589
+tp1590
+I1
+s(Vinsert
+p1591
+I42
+VSimpleName: mPwPair1
+p1592
+tp1593
+I2
+s(Vinsert
+p1594
+I42
+VSimpleName: replace
+p1595
+tp1596
+I1
+s(Vinsert
+p1597
+I42
+VSimpleName: sharedPref
+p1598
+tp1599
+I1
+s(Vinsert
+p1600
+I42
+VSimpleName: urlGroup3
+p1601
+tp1602
+I1
+s(Vinsert
+p1603
+I40
+VQualifiedName: org.physical_web.collection.PwsResult
+p1604
+tp1605
+I1
+s(Vinsert
+p1606
+I42
+VSimpleName: mUrlToUrlMetadata
+p1607
+tp1608
+I5
+s(Vinsert
+p1609
+I42
+VSimpleName: addUrlDeviceJsonSerializer
+p1610
+tp1611
+I1
+s(Vinsert
+p1612
+I42
+VSimpleName: findUrlForGivenDeviceAddress
+p1613
+tp1614
+I1
+s(Vinsert
+p1615
+I42
+VSimpleName: CONFIG_SERVICE_UUID
+p1616
+tp1617
+I1
+s(Vinsert
+p1618
+I42
+VSimpleName: Fragment
+p1619
+tp1620
+I1
+s(Vinsert
+p1621
+I83
+VModifier: static
+p1622
+tp1623
+I13
+s(Vinsert
+p1624
+I40
+VQualifiedName: ProtocolV1.CONFIG_SERVICE_UUID
+p1625
+tp1626
+I2
+s(Vinsert
+p1627
+I43
+VSimpleType: BeaconDisplayItem
+p1628
+tp1629
+I1
+s(Vinsert
+p1630
+I42
+VSimpleName: compareTo
+p1631
+tp1632
+I8
+s(Vinsert
+p1633
+I42
+VSimpleName: onSsdpUrlFound
+p1634
+tp1635
+I1
+s(Vinsert
+p1636
+I43
+VSimpleType: AdvertiseSettings
+p1637
+tp1638
+I1
+s(Vinsert
+p1639
+I42
+VSimpleName: getPackageName
+p1640
+tp1641
+I1
+s(Vinsert
+p1642
+I42
+VSimpleName: mListItems
+p1643
+tp1644
+I1
+s(Vinsert
+p1645
+I40
+VQualifiedName: R.string.metadata_debug_group_prefix
+p1646
+tp1647
+I1
+s(Vinsert
+p1648
+I42
+VSimpleName: stopScanning
+p1649
+tp1650
+I4
+s(Vinsert
+p1651
+I43
+VSimpleType: UrlDeviceDiscoveryService
+p1652
+tp1653
+I1
+s(Vinsert
+p1654
+I42
+VSimpleName: iconUrl
+p1655
+tp1656
+I1
+s(Vinsert
+p1657
+I42
+VSimpleName: setIconUrl
+p1658
+tp1659
+I1
+s(Vinsert
+p1660
+I42
+VSimpleName: v
+p1661
+tp1662
+I2
+s(Vinsert
+p1663
+I42
+VSimpleName: serviceUuidLength
+p1664
+tp1665
+I1
+s(Vinsert
+p1666
+I45
+VStringLiteral: "alpha"
+p1667
+tp1668
+I1
+s(Vinsert
+p1669
+I42
+VSimpleName: close
+p1670
+tp1671
+I4
+s(Vinsert
+p1672
+I42
+VSimpleName: getMetadataByRequestUrlReturnsNullForMissingMetadata
+p1673
+tp1674
+I1
+s(Vinsert
+p1675
+I42
+VSimpleName: uuid
+p1676
+tp1677
+I1
+s(Vinsert
+p1678
+I40
+VQualifiedName: Toast.LENGTH_LONG
+p1679
+tp1680
+I1
+s(Vinsert
+p1681
+I66
+VTextElement:  If the mapping doesn't exist or is not the required type.
+p1682
+tp1683
+I2
+s(Vinsert
+p1684
+I42
+VSimpleName: checkIfUserHasOptedIn
+p1685
+tp1686
+I1
+s(Vinsert
+p1687
+I42
+VSimpleName: HttpURLConnection
+p1688
+tp1689
+I1
+s(Vinsert
+p1690
+I43
+VSimpleType: JSONException
+p1691
+tp1692
+I5
+s(Vinsert
+p1693
+I42
+VSimpleName: format
+p1694
+tp1695
+I1
+s(Vinsert
+p1696
+I42
+VSimpleName: toASCIIString
+p1697
+tp1698
+I2
+s(Vinsert
+p1699
+I42
+VSimpleName: getTime
+p1700
+tp1701
+I7
+s(Vinsert
+p1702
+I42
+VSimpleName: MalformedURLException
+p1703
+tp1704
+I2
+s(Vinsert
+p1705
+I42
+VSimpleName: BlockedFragment
+p1706
+tp1707
+I2
+s(Vinsert
+p1708
+I42
+VSimpleName: contains
+p1709
+tp1710
+I3
+s(Vinsert
+p1711
+I42
+VSimpleName: Exception
+p1712
+tp1713
+I3
+s(Vinsert
+p1714
+I29
+VJavadoc
+p1715
+tp1716
+I1
+s(Vinsert
+p1717
+I42
+VSimpleName: mScanningImageView
+p1718
+tp1719
+I2
+s(Vinsert
+p1720
+I37
+VPostfixExpression: ++
+p1721
+tp1722
+I2
+s(Vinsert
+p1723
+I42
+VSimpleName: onUpdate
+p1724
+tp1725
+I1
+s(Vinsert
+p1726
+I42
+VSimpleName: TITLE1
+p1727
+tp1728
+I3
+s(Vinsert
+p1729
+I66
+VTextElement:  The debug view setting.
+p1730
+tp1731
+I1
+s(Vinsert
+p1732
+I42
+VSimpleName: createNavigateToUrlPendingIntent
+p1733
+tp1734
+I1
+s(Vinsert
+p1735
+I40
+VQualifiedName: scanInfo.txPowerLevel
+p1736
+tp1737
+I1
+s(Vinsert
+p1738
+I42
+VSimpleName: urlToNavigateTo
+p1739
+tp1740
+I1
+s(Vinsert
+p1741
+I42
+VSimpleName: pwoMetadataList
+p1742
+tp1743
+I2
+s(Vinsert
+p1744
+I42
+VSimpleName: jsonSerialize
+p1745
+tp1746
+I3
+s(Vinsert
+p1747
+I43
+VSimpleType: TextView
+p1748
+tp1749
+I4
+s(Vinsert
+p1750
+I42
+VSimpleName: Utils
+p1751
+tp1752
+I20
+s(Vinsert
+p1753
+I42
+VSimpleName: navigateToBeaconUrlIntent
+p1754
+tp1755
+I1
+s(Vinsert
+p1756
+I40
+VQualifiedName: scanInfo.scanResult
+p1757
+tp1758
+I1
+s(Vinsert
+p1759
+I42
+VSimpleName: put
+p1760
+tp1761
+I25
+s(Vinsert
+p1762
+I42
+VSimpleName: UriBeaconAdvertiserActivity
+p1763
+tp1764
+I1
+s(Vinsert
+p1765
+I42
+VSimpleName: sortDevices
+p1766
+tp1767
+I1
+s(Vinsert
+p1768
+I42
+VSimpleName: lhs
+p1769
+tp1770
+I3
+s(Vinsert
+p1771
+I45
+VStringLiteral: "wifi direct started"
+p1772
+tp1773
+I1
+s(Vinsert
+p1774
+I42
+VSimpleName: substring
+p1775
+tp1776
+I1
+s(Vinsert
+p1777
+I43
+VSimpleType: Context
+p1778
+tp1779
+I11
+s(Vinsert
+p1780
+I42
+VSimpleName: removeCallbacks
+p1781
+tp1782
+I1
+s(Vinsert
+p1783
+I42
+VSimpleName: showListView
+p1784
+tp1785
+I2
+s(Vinsert
+p1786
+I42
+VSimpleName: stackBuilder
+p1787
+tp1788
+I1
+s(Vinsert
+p1789
+I42
+VSimpleName: physicalWebCollection1
+p1790
+tp1791
+I3
+s(Vinsert
+p1792
+I45
+VStringLiteral: "Websites"
+p1793
+tp1794
+I1
+s(Vinsert
+p1795
+I43
+VSimpleType: DialogInterface
+p1796
+tp1797
+I1
+s(Vinsert
+p1798
+I42
+VSimpleName: pwsApiVersion
+p1799
+tp1800
+I1
+s(Vinsert
+p1801
+I42
+VSimpleName: setText
+p1802
+tp1803
+I4
+s(Vinsert
+p1804
+I42
+VSimpleName: mContext
+p1805
+tp1806
+I6
+s(Vinsert
+p1807
+I34
+VNumberLiteral: 30
+p1808
+tp1809
+I1
+s(Vinsert
+p1810
+I42
+VSimpleName: mScanStartTime
+p1811
+tp1812
+I3
+s(Vinsert
+p1813
+I40
+VQualifiedName: config.deviceAddress
+p1814
+tp1815
+I1
+s(Vinsert
+p1816
+I42
+VSimpleName: read
+p1817
+tp1818
+I2
+s(Vinsert
+p1819
+I66
+VTextElement:  The UrlDevice to remove.
+p1820
+tp1821
+I1
+s(Vinsert
+p1822
+I43
+VSimpleType: ListPreference
+p1823
+tp1824
+I2
+s(Vinsert
+p1825
+I66
+VTextElement: Get the top-ranked PwPair in this group.
+p1826
+tp1827
+I1
+s(Vinsert
+p1828
+I42
+VSimpleName: getCustomPwsEndpoint
+p1829
+tp1830
+I1
+s(Vinsert
+p1831
+I40
+VQualifiedName: java.util.Arrays
+p1832
+tp1833
+I1
+s(Vinsert
+p1834
+I42
+VSimpleName: idHash
+p1835
+tp1836
+I1
+s(Vinsert
+p1837
+I42
+VSimpleName: mDisplayInfo
+p1838
+tp1839
+I1
+s(Vinsert
+p1840
+I42
+VSimpleName: setGroupId
+p1841
+tp1842
+I3
+s(Vinsert
+p1843
+I42
+VSimpleName: EDDYSTONE_URL_SERVICE_UUID
+p1844
+tp1845
+I1
+s(Vinsert
+p1846
+I42
+VSimpleName: mBlockedUrls
+p1847
+tp1848
+I1
+s(Vinsert
+p1849
+I42
+VSimpleName: physicalWebCollection
+p1850
+tp1851
+I6
+s(Vinsert
+p1852
+I42
+VSimpleName: putBoolean
+p1853
+tp1854
+I1
+s(Vinsert
+p1855
+I43
+VSimpleType: FatBeaconBroadcastService
+p1856
+tp1857
+I1
+s(Vinsert
+p1858
+I42
+VSimpleName: Parcelable
+p1859
+tp1860
+I1
+s(Vinsert
+p1861
+I42
+VSimpleName: ContextCompat
+p1862
+tp1863
+I2
+s(Vinsert
+p1864
+I40
+VQualifiedName: R.id.imageView_nearbyDevicesScanning
+p1865
+tp1866
+I1
+s(Vinsert
+p1867
+I42
+VSimpleName: hasIconUrl
+p1868
+tp1869
+I1
+s(Vinsert
+p1870
+I42
+VSimpleName: hash
+p1871
+tp1872
+I4
+s(Vinsert
+p1873
+I45
+VStringLiteral: "Dialog box canceled"
+p1874
+tp1875
+I1
+s(Vinsert
+p1876
+I42
+VSimpleName: Date
+p1877
+tp1878
+I5
+s(Vinsert
+p1879
+I42
+VSimpleName: KITKAT_NOTIFCATION_SNIPPET_COLOR
+p1880
+tp1881
+I1
+s(Vinsert
+p1882
+I39
+VPrimitiveType: float
+p1883
+tp1884
+I2
+s(Vinsert
+p1885
+I42
+VSimpleName: mUrlToDeviceMetadata
+p1886
+tp1887
+I2
+s(Vinsert
+p1888
+I42
+VSimpleName: FileBroadcastService
+p1889
+tp1890
+I1
+s(Vinsert
+p1891
+I42
+VSimpleName: bytes
+p1892
+tp1893
+I2
+s(Vinsert
+p1894
+I42
+VSimpleName: mScanFilterUuids
+p1895
+tp1896
+I2
+s(Vinsert
+p1897
+I40
+VQualifiedName: pwoMetadata.bleMetadata
+p1898
+tp1899
+I1
+s(Vinsert
+p1900
+I42
+VSimpleName: uri
+p1901
+tp1902
+I4
+s(Vinsert
+p1903
+I45
+VStringLiteral: "WifiDirect"
+p1904
+tp1905
+I1
+s(Vinsert
+p1906
+I42
+VSimpleName: mPwsResult1
+p1907
+tp1908
+I4
+s(Vinsert
+p1909
+I42
+VSimpleName: status
+p1910
+tp1911
+I5
+s(Vinsert
+p1912
+I42
+VSimpleName: line
+p1913
+tp1914
+I1
+s(Vinsert
+p1915
+I40
+VQualifiedName: BluetoothGattCharacteristic.FORMAT_SINT8
+p1916
+tp1917
+I1
+s(Vinsert
+p1918
+I33
+VNullLiteral
+p1919
+tp1920
+I38
+s(Vinsert
+p1921
+I42
+VSimpleName: JSONAssert
+p1922
+tp1923
+I1
+s(Vinsert
+p1924
+I7
+VAssignment: =
+p1925
+tp1926
+I48
+s(Vinsert
+p1927
+I42
+VSimpleName: openConnection
+p1928
+tp1929
+I1
+s(Vinsert
+p1930
+I43
+VSimpleType: SimplePwo
+p1931
+tp1932
+I2
+s(Vinsert
+p1933
+I42
+VSimpleName: previousPwoGroupid
+p1934
+tp1935
+I1
+s(Vinsert
+p1936
+I42
+VSimpleName: mFailedResolveUrls
+p1937
+tp1938
+I1
+s(Vinsert
+p1939
+I25
+VIfStatement
+p1940
+tp1941
+I85
+s(Vinsert
+p1942
+I40
+VQualifiedName: PwsResult.Builder
+p1943
+tp1944
+I3
+s(Vinsert
+p1945
+I42
+VSimpleName: createNavigateToUrlIntent
+p1946
+tp1947
+I1
+s(Vinsert
+p1948
+I42
+VSimpleName: currentPos
+p1949
+tp1950
+I1
+s(Vinsert
+p1951
+I42
+VSimpleName: mIdToPwoMap
+p1952
+tp1953
+I1
+s(Vinsert
+p1954
+I45
+VStringLiteral: "Accept"
+p1955
+tp1956
+I1
+s(Vinsert
+p1957
+I42
+VSimpleName: cancelAll
+p1958
+tp1959
+I1
+s(Vinsert
+p1960
+I42
+VSimpleName: ID2
+p1961
+tp1962
+I1
+s(Vinsert
+p1963
+I43
+VSimpleType: UrlDevice
+p1964
+tp1965
+I14
+s(Vinsert
+p1966
+I42
+VSimpleName: position
+p1967
+tp1968
+I3
+s(Vinsert
+p1969
+I42
+VSimpleName: cachedDistances
+p1970
+tp1971
+I2
+s(Vinsert
+p1972
+I42
+VSimpleName: mFile
+p1973
+tp1974
+I1
+s(Vinsert
+p1975
+I42
+VSimpleName: UriBeaconDiscoveryService
+p1976
+tp1977
+I1
+s(Vinsert
+p1978
+I42
+VSimpleName: jsonDeserializeWorks
+p1979
+tp1980
+I1
+s(Vinsert
+p1981
+I42
+VSimpleName: PwoMetadata
+p1982
+tp1983
+I11
+s(Vinsert
+p1984
+I42
+VSimpleName: messageId
+p1985
+tp1986
+I1
+s(Vinsert
+p1987
+I42
+VSimpleName: removeUrlDevice
+p1988
+tp1989
+I1
+s(Vinsert
+p1990
+I45
+VStringLiteral: "iconurl"
+p1991
+tp1992
+I1
+s(Vinsert
+p1993
+I42
+VSimpleName: urlSetter
+p1994
+tp1995
+I2
+s(Vinsert
+p1996
+I45
+VStringLiteral: "rssi"
+p1997
+tp1998
+I1
+s(Vinsert
+p1999
+I40
+VQualifiedName: Intent.ACTION_SCREEN_ON
+p2000
+tp2001
+I1
+s(Vinsert
+p2002
+I42
+VSimpleName: jsonSerializePwsResult
+p2003
+tp2004
+I1
+s(Vinsert
+p2005
+I27
+VInfixExpression: >
+p2006
+tp2007
+I6
+s(Vinsert
+p2008
+I42
+VSimpleName: pwPair4
+p2009
+tp2010
+I1
+s(Vinsert
+p2011
+I42
+VSimpleName: parseInt
+p2012
+tp2013
+I1
+s(Vinsert
+p2014
+I43
+VSimpleType: Runnable
+p2015
+tp2016
+I4
+s(Vinsert
+p2017
+I42
+VSimpleName: checkSelfPermission
+p2018
+tp2019
+I1
+s(Vinsert
+p2020
+I40
+VQualifiedName: UrlShortener.LengthenShortUrlTask
+p2021
+tp2022
+I1
+s(Vinsert
+p2023
+I40
+VQualifiedName: Context.NOTIFICATION_SERVICE
+p2024
+tp2025
+I1
+s(Vinsert
+p2026
+I42
+VSimpleName: isWifiDirect
+p2027
+tp2028
+I1
+s(Vinsert
+p2029
+I42
+VSimpleName: toNanos
+p2030
+tp2031
+I1
+s(Vinsert
+p2032
+I42
+VSimpleName: beacon
+p2033
+tp2034
+I1
+s(Vinsert
+p2035
+I42
+VSimpleName: ParcelUuid
+p2036
+tp2037
+I5
+s(Vinsert
+p2038
+I43
+VSimpleType: PhysicalWebCollection
+p2039
+tp2040
+I1
+s(Vinsert
+p2041
+I43
+VSimpleType: URI
+p2042
+tp2043
+I4
+s(Vinsert
+p2044
+I42
+VSimpleName: powerManager
+p2045
+tp2046
+I2
+s(Vinsert
+p2047
+I42
+VSimpleName: notifyDataSetChanged
+p2048
+tp2049
+I2
+s(Vinsert
+p2050
+I55
+VTypeDeclaration
+p2051
+tp2052
+I1
+s(Vinsert
+p2053
+I42
+VSimpleName: mFavoriteUrls
+p2054
+tp2055
+I1
+s(Vinsert
+p2056
+I42
+VSimpleName: value
+p2057
+tp2058
+I2
+s(Vinsert
+p2059
+I42
+VSimpleName: hasUrlMetadata
+p2060
+tp2061
+I1
+s(Vinsert
+p2062
+I42
+VSimpleName: mUrlDeviceDiscoverers
+p2063
+tp2064
+I1
+s(Vinsert
+p2065
+I40
+VQualifiedName: android.support.v4.content.ContextCompat
+p2066
+tp2067
+I1
+s(Vinsert
+p2068
+I42
+VSimpleName: mDisplayUrl
+p2069
+tp2070
+I1
+s(Vinsert
+p2071
+I42
+VSimpleName: create
+p2072
+tp2073
+I1
+s(Vinsert
+p2074
+I43
+VSimpleType: Button
+p2075
+tp2076
+I1
+s(Vinsert
+p2077
+I43
+VSimpleType: PwsClient.UrlMetadata
+p2078
+tp2079
+I1
+s(Vinsert
+p2080
+I42
+VSimpleName: byteBuffer
+p2081
+tp2082
+I1
+s(Vinsert
+p2083
+I42
+VSimpleName: deleteCache
+p2084
+tp2085
+I1
+s(Vinsert
+p2086
+I42
+VSimpleName: pwsApiKey
+p2087
+tp2088
+I1
+s(Vinsert
+p2089
+I42
+VSimpleName: hasGroupId
+p2090
+tp2091
+I1
+s(Vinsert
+p2092
+I42
+VSimpleName: scanInfo
+p2093
+tp2094
+I1
+s(Vinsert
+p2095
+I42
+VSimpleName: getExtraInt
+p2096
+tp2097
+I1
+s(Vinsert
+p2098
+I42
+VSimpleName: asList
+p2099
+tp2100
+I2
+s(Vinsert
+p2101
+I38
+VPrefixExpression: -
+p2102
+tp2103
+I1
+s(Vinsert
+p2104
+I42
+VSimpleName: Menu
+p2105
+tp2106
+I1
+s(Vinsert
+p2107
+I43
+VSimpleType: Date
+p2108
+tp2109
+I5
+s(Vinsert
+p2110
+I42
+VSimpleName: PreferenceManager
+p2111
+tp2112
+I7
+s(Vinsert
+p2113
+I42
+VSimpleName: getRank
+p2114
+tp2115
+I3
+s(Vinsert
+p2116
+I42
+VSimpleName: dest
+p2117
+tp2118
+I1
+s(Vinsert
+p2119
+I42
+VSimpleName: Handler
+p2120
+tp2121
+I3
+s(Vinsert
+p2122
+I42
+VSimpleName: addPwo
+p2123
+tp2124
+I2
+s(Vinsert
+p2125
+I42
+VSimpleName: mMainActivity
+p2126
+tp2127
+I1
+s(Vinsert
+p2128
+I42
+VSimpleName: ICONURL_KEY
+p2129
+tp2130
+I3
+s(Vinsert
+p2131
+I42
+VSimpleName: setDuration
+p2132
+tp2133
+I1
+s(Vinsert
+p2134
+I34
+VNumberLiteral: .2
+p2135
+tp2136
+I1
+s(Vinsert
+p2137
+I42
+VSimpleName: connectionType
+p2138
+tp2139
+I1
+s(Vinsert
+p2140
+I42
+VSimpleName: TX_POWER_DEFAULT
+p2141
+tp2142
+I1
+s(Vinsert
+p2143
+I42
+VSimpleName: unSorted
+p2144
+tp2145
+I1
+s(Vinsert
+p2146
+I42
+VSimpleName: unregisterReceiver
+p2147
+tp2148
+I1
+s(Vinsert
+p2149
+I45
+VStringLiteral: "onCharacteristicRead unsuccessful: "
+p2150
+tp2151
+I1
+s(Vinsert
+p2152
+I42
+VSimpleName: setApplicationName
+p2153
+tp2154
+I1
+s(Vinsert
+p2155
+I42
+VSimpleName: setRenderPriority
+p2156
+tp2157
+I1
+s(Vinsert
+p2158
+I42
+VSimpleName: JSONArray
+p2159
+tp2160
+I2
+s(Vinsert
+p2161
+I40
+VQualifiedName: ConfigUriBeacon.Builder
+p2162
+tp2163
+I1
+s(Vinsert
+p2164
+I42
+VSimpleName: constructorCreatesProperObject
+p2165
+tp2166
+I1
+s(Vinsert
+p2167
+I43
+VSimpleType: Handler
+p2168
+tp2169
+I3
+s(Vinsert
+p2170
+I42
+VSimpleName: SettingsFragment
+p2171
+tp2172
+I2
+s(Vinsert
+p2173
+I42
+VSimpleName: rhs
+p2174
+tp2175
+I3
+s(Vinsert
+p2176
+I42
+VSimpleName: resultCode
+p2177
+tp2178
+I1
+s(Vinsert
+p2179
+I42
+VSimpleName: getValue
+p2180
+tp2181
+I1
+s(Vinsert
+p2182
+I85
+VDimension
+p2183
+tp2184
+I13
+s(Vinsert
+p2185
+I42
+VSimpleName: scanResult
+p2186
+tp2187
+I2
+s(Vinsert
+p2188
+I40
+VQualifiedName: device.deviceAddress
+p2189
+tp2190
+I2
+s(Vinsert
+p2191
+I42
+VSimpleName: isUrlFrameTest
+p2192
+tp2193
+I1
+s(Vinsert
+p2194
+I45
+VStringLiteral: "\u005c","
+p2195
+tp2196
+I2
+s(Vinsert
+p2197
+I42
+VSimpleName: BleMetadata
+p2198
+tp2199
+I1
+s(Vinsert
+p2200
+I42
+VSimpleName: distanceView
+p2201
+tp2202
+I1
+s(Vinsert
+p2203
+I45
+VStringLiteral: "isResolvableDevice"
+p2204
+tp2205
+I1
+s(Vinsert
+p2206
+I42
+VSimpleName: mNearbyDeviceAdapter
+p2207
+tp2208
+I5
+s(Vinsert
+p2209
+I42
+VSimpleName: pwsResult3
+p2210
+tp2211
+I1
+s(Vinsert
+p2212
+I42
+VSimpleName: displayList
+p2213
+tp2214
+I3
+s(Vinsert
+p2215
+I42
+VSimpleName: otherUrlDevice
+p2216
+tp2217
+I2
+s(Vinsert
+p2218
+I42
+VSimpleName: service
+p2219
+tp2220
+I5
+s(Vinsert
+p2221
+I40
+VQualifiedName: bleMetadata.deviceAddress
+p2222
+tp2223
+I2
+s(Vinsert
+p2224
+I42
+VSimpleName: addMetadata
+p2225
+tp2226
+I2
+s(Vinsert
+p2227
+I42
+VSimpleName: toJsonObject
+p2228
+tp2229
+I1
+s(Vinsert
+p2230
+I34
+VNumberLiteral: 1024
+p2231
+tp2232
+I1
+s(Vinsert
+p2233
+I45
+VStringLiteral: " len: "
+p2234
+tp2235
+I1
+s(Vinsert
+p2236
+I2
+VArrayAccess
+p2237
+tp2238
+I1
+s(Vinsert
+p2239
+I42
+VSimpleName: localBinder
+p2240
+tp2241
+I2
+s(Vinsert
+p2242
+I43
+VSimpleType: PwsResult.Builder
+p2243
+tp2244
+I2
+s(Vinsert
+p2245
+I8
+VBlock
+p2246
+tp2247
+I238
+s(Vinsert
+p2248
+I42
+VSimpleName: mCallback
+p2249
+tp2250
+I7
+s(Vinsert
+p2251
+I42
+VSimpleName: startScan
+p2252
+tp2253
+I2
+s(Vinsert
+p2254
+I42
+VSimpleName: rank
+p2255
+tp2256
+I2
+s(Vinsert
+p2257
+I42
+VSimpleName: updateRegionInfo
+p2258
+tp2259
+I1
+s(Vinsert
+p2260
+I40
+VQualifiedName: Context.POWER_SERVICE
+p2261
+tp2262
+I1
+s(Vinsert
+p2263
+I42
+VSimpleName: scanRecord
+p2264
+tp2265
+I2
+s(Vinsert
+p2266
+I42
+VSimpleName: isDemoStarted
+p2267
+tp2268
+I1
+s(Vinsert
+p2269
+I42
+VSimpleName: toMillis
+p2270
+tp2271
+I1
+s(Vinsert
+p2272
+I40
+VQualifiedName: R.string.fatbeacon_description
+p2273
+tp2274
+I1
+s(Vinsert
+p2275
+I49
+VSwitchCase
+p2276
+tp2277
+I1
+s(Vinsert
+p2278
+I42
+VSimpleName: getDefaultSharedPreferences
+p2279
+tp2280
+I7
+s(Vinsert
+p2281
+I42
+VSimpleName: metadata
+p2282
+tp2283
+I1
+s(Vinsert
+p2284
+I42
+VSimpleName: TextView
+p2285
+tp2286
+I4
+s(Vinsert
+p2287
+I42
+VSimpleName: onStartDiscoveryFailed
+p2288
+tp2289
+I1
+s(Vinsert
+p2290
+I40
+VQualifiedName: R.id.action_config
+p2291
+tp2292
+I2
+s(Vinsert
+p2293
+I40
+VQualifiedName: Map.Entry
+p2294
+tp2295
+I1
+s(Vinsert
+p2296
+I66
+VTextElement:  The enable wifi direct setting.
+p2297
+tp2298
+I1
+s(Vinsert
+p2299
+I42
+VSimpleName: d
+p2300
+tp2301
+I11
+s(Vinsert
+p2302
+I42
+VSimpleName: key
+p2303
+tp2304
+I7
+s(Vinsert
+p2305
+I42
+VSimpleName: PermissionCheck
+p2306
+tp2307
+I3
+s(Vinsert
+p2308
+I40
+VQualifiedName: BluetoothGatt.GATT_SUCCESS
+p2309
+tp2310
+I1
+s(Vinsert
+p2311
+I42
+VSimpleName: requestCode
+p2312
+tp2313
+I1
+s(Vinsert
+p2314
+I40
+VQualifiedName: AdvertiseSettings.Builder
+p2315
+tp2316
+I2
+s(Vinsert
+p2317
+I42
+VSimpleName: encodeBase64
+p2318
+tp2319
+I1
+s(Vinsert
+p2320
+I42
+VSimpleName: scheme
+p2321
+tp2322
+I1
+s(Vinsert
+p2323
+I42
+VSimpleName: DemoResolveScanCallback
+p2324
+tp2325
+I2
+s(Vinsert
+p2326
+I42
+VSimpleName: getListView
+p2327
+tp2328
+I2
+s(Vinsert
+p2329
+I42
+VSimpleName: onSsdpMessageReceived
+p2330
+tp2331
+I1
+s(Vinsert
+p2332
+I42
+VSimpleName: urlDevice3
+p2333
+tp2334
+I1
+s(Vinsert
+p2335
+I42
+VSimpleName: ensureUrlHasHttpPrefix
+p2336
+tp2337
+I1
+s(Vinsert
+p2338
+I42
+VSimpleName: removeBlocked
+p2339
+tp2340
+I1
+s(Vinsert
+p2341
+I42
+VSimpleName: missed
+p2342
+tp2343
+I2
+s(Vinsert
+p2344
+I34
+VNumberLiteral: 0x02
+p2345
+tp2346
+I1
+s(Vinsert
+p2347
+I42
+VSimpleName: RESULT_OK
+p2348
+tp2349
+I1
+s(Vinsert
+p2350
+I42
+VSimpleName: w
+p2351
+tp2352
+I1
+s(Vinsert
+p2353
+I42
+VSimpleName: getDescription
+p2354
+tp2355
+I1
+s(Vinsert
+p2356
+I43
+VSimpleType: DecimalFormat
+p2357
+tp2358
+I1
+s(Vinsert
+p2359
+I42
+VSimpleName: Test
+p2360
+tp2361
+I10
+s(Vinsert
+p2362
+I42
+VSimpleName: deviceAddress
+p2363
+tp2364
+I5
+s(Vinsert
+p2365
+I5
+VArrayType: byte[]
+p2366
+tp2367
+I11
+s(Vinsert
+p2368
+I42
+VSimpleName: restartScan
+p2369
+tp2370
+I3
+s(Vinsert
+p2371
+I66
+VTextElement:  true if the device already existed in the map
+p2372
+tp2373
+I1
+s(Vinsert
+p2374
+I66
+VTextElement: Get extra data JSONObject.
+p2375
+tp2376
+I2
+s(Vinsert
+p2377
+I43
+VSimpleType: PwsResult
+p2378
+tp2379
+I10
+s(Vinsert
+p2380
+I42
+VSimpleName: parseFromBytes
+p2381
+tp2382
+I1
+s(Vinsert
+p2383
+I42
+VSimpleName: context
+p2384
+tp2385
+I18
+s(Vinsert
+p2386
+I42
+VSimpleName: getType
+p2387
+tp2388
+I1
+s(Vinsert
+p2389
+I42
+VSimpleName: getGroupId
+p2390
+tp2391
+I3
+s(Vinsert
+p2392
+I42
+VSimpleName: URIBEACON_SERVICE_UUID
+p2393
+tp2394
+I1
+s(Vinsert
+p2395
+I78
+VMarkerAnnotation
+p2396
+tp2397
+I27
+s(Vinsert
+p2398
+I42
+VSimpleName: extractBytes
+p2399
+tp2400
+I1
+s(Vinsert
+p2401
+I42
+VSimpleName: startLeScan
+p2402
+tp2403
+I1
+s(Vinsert
+p2404
+I43
+VSimpleType: ConfigUriBeacon.Builder
+p2405
+tp2406
+I1
+s(Vinsert
+p2407
+I42
+VSimpleName: comparePairToItselfReturnsZero
+p2408
+tp2409
+I1
+s(Vinsert
+p2410
+I42
+VSimpleName: txPower
+p2411
+tp2412
+I5
+s(Vinsert
+p2413
+I43
+VSimpleType: PhysicalWebCollectionException
+p2414
+tp2415
+I1
+s(Vinsert
+p2416
+I34
+VNumberLiteral: .3
+p2417
+tp2418
+I1
+s(Vinsert
+p2419
+I42
+VSimpleName: PwPair
+p2420
+tp2421
+I13
+s(Vinsert
+p2422
+I42
+VSimpleName: setDoOutput
+p2423
+tp2424
+I2
+s(Vinsert
+p2425
+I42
+VSimpleName: getWifiAddress
+p2426
+tp2427
+I3
+s(Vinsert
+p2428
+I43
+VSimpleType: Map.Entry
+p2429
+tp2430
+I1
+s(Vinsert
+p2431
+I42
+VSimpleName: onCancel
+p2432
+tp2433
+I1
+s(Vinsert
+p2434
+I42
+VSimpleName: recordResponse
+p2435
+tp2436
+I1
+s(Vinsert
+p2437
+I42
+VSimpleName: mThirdScanTimeout
+p2438
+tp2439
+I1
+s(Vinsert
+p2440
+I42
+VSimpleName: rssi
+p2441
+tp2442
+I3
+s(Vinsert
+p2443
+I42
+VSimpleName: setUrlMetadata
+p2444
+tp2445
+I1
+s(Vinsert
+p2446
+I83
+VModifier: public
+p2447
+tp2448
+I57
+s(Vinsert
+p2449
+I43
+VSimpleType: android.bluetooth.BluetoothGatt
+p2450
+tp2451
+I1
+s(Vinsert
+p2452
+I42
+VSimpleName: activity
+p2453
+tp2454
+I2
+s(Vinsert
+p2455
+I42
+VSimpleName: jsonObj
+p2456
+tp2457
+I2
+s(Vinsert
+p2458
+I66
+VTextElement:  Extra data.
+p2459
+tp2460
+I2
+s(Vinsert
+p2461
+I42
+VSimpleName: priority
+p2462
+tp2463
+I1
+s(Vinsert
+p2464
+I42
+VSimpleName: port
+p2465
+tp2466
+I3
+s(Vinsert
+p2467
+I39
+VPrimitiveType: byte
+p2468
+tp2469
+I13
+s(Vinsert
+p2470
+I42
+VSimpleName: arraycopy
+p2471
+tp2472
+I1
+s(Vinsert
+p2473
+I42
+VSimpleName: getSettings
+p2474
+tp2475
+I2
+s(Vinsert
+p2476
+I27
+VInfixExpression: -
+p2477
+tp2478
+I1
+s(Vinsert
+p2479
+I42
+VSimpleName: startService
+p2480
+tp2481
+I2
+s(Vinsert
+p2482
+I66
+VTextElement:  The top PwPair.
+p2483
+tp2484
+I1
+s(Vinsert
+p2485
+I43
+VSimpleType: UrlShortener.LengthenShortUrlTask
+p2486
+tp2487
+I1
+s(Vinsert
+p2488
+I34
+VNumberLiteral: .5
+p2489
+tp2490
+I1
+s(Vinsert
+p2491
+I42
+VSimpleName: getBoolean
+p2492
+tp2493
+I1
+s(Vinsert
+p2494
+I42
+VSimpleName: build
+p2495
+tp2496
+I8
+s(Vinsert
+p2497
+I42
+VSimpleName: isRunning
+p2498
+tp2499
+I2
+s(Vinsert
+p2500
+I43
+VSimpleType: InputStream
+p2501
+tp2502
+I1
+s(Vinsert
+p2503
+I42
+VSimpleName: setAlpha
+p2504
+tp2505
+I1
+s(Vinsert
+p2506
+I42
+VSimpleName: mPwoDiscoverers
+p2507
+tp2508
+I2
+s(Vinsert
+p2509
+I42
+VSimpleName: mDownPosition
+p2510
+tp2511
+I1
+s(Vinsert
+p2512
+I42
+VSimpleName: forName
+p2513
+tp2514
+I3
+s(Vinsert
+p2515
+I42
+VSimpleName: len
+p2516
+tp2517
+I4
+s(Vinsert
+p2518
+I42
+VSimpleName: onUrlMetadataIconReceived
+p2519
+tp2520
+I3
+s(Vinsert
+p2521
+I43
+VSimpleType: ParcelUuid
+p2522
+tp2523
+I3
+s(Vinsert
+p2524
+I42
+VSimpleName: mPwoGroups
+p2525
+tp2526
+I1
+s(Vinsert
+p2527
+I43
+VSimpleType: Exception
+p2528
+tp2529
+I3
+s(Vinsert
+p2530
+I40
+VQualifiedName: ScanSettings.SCAN_MODE_LOW_LATENCY
+p2531
+tp2532
+I1
+s(Vinsert
+p2533
+I45
+VStringLiteral: "0000FED8-0000-1000-8000-00805F9B34FB"
+p2534
+tp2535
+I1
+s(Vinsert
+p2536
+I42
+VSimpleName: ICON_URL1
+p2537
+tp2538
+I6
+s(Vinsert
+p2539
+I43
+VSimpleType: VolleyError
+p2540
+tp2541
+I1
+s(Vinsert
+p2542
+I42
+VSimpleName: startSearchingForPwos
+p2543
+tp2544
+I2
+s(Vinsert
+p2545
+I43
+VSimpleType: PwsClient.ResolveScanCallback
+p2546
+tp2547
+I2
+s(Vinsert
+p2548
+I42
+VSimpleName: has
+p2549
+tp2550
+I1
+s(Vinsert
+p2551
+I42
+VSimpleName: getCurrentPwsEndpoint
+p2552
+tp2553
+I1
+s(Vinsert
+p2554
+I40
+VQualifiedName: other.scanResult
+p2555
+tp2556
+I1
+s(Vinsert
+p2557
+I42
+VSimpleName: setTextColor
+p2558
+tp2559
+I1
+s(Vinsert
+p2560
+I42
+VSimpleName: SsdpMessage
+p2561
+tp2562
+I1
+s(Vinsert
+p2563
+I42
+VSimpleName: ensureLocationPermissionIsEnabled
+p2564
+tp2565
+I1
+s(Vinsert
+p2566
+I42
+VSimpleName: updatePwsPreference
+p2567
+tp2568
+I1
+s(Vinsert
+p2569
+I42
+VSimpleName: connect
+p2570
+tp2571
+I2
+s(Vinsert
+p2572
+I42
+VSimpleName: PowerManager
+p2573
+tp2574
+I2
+s(Vinsert
+p2575
+I42
+VSimpleName: broadcastUrls
+p2576
+tp2577
+I1
+s(Vinsert
+p2578
+I40
+VQualifiedName: PendingIntent.FLAG_UPDATE_CURRENT
+p2579
+tp2580
+I1
+s(Vinsert
+p2581
+I43
+VSimpleType: JSONArray
+p2582
+tp2583
+I2
+s(Vinsert
+p2584
+I42
+VSimpleName: InputStream
+p2585
+tp2586
+I1
+s(Vinsert
+p2587
+I1
+VAnonymousClassDeclaration
+p2588
+tp2589
+I9
+s(Vinsert
+p2590
+I42
+VSimpleName: ICON1
+p2591
+tp2592
+I1
+s(Vinsert
+p2593
+I42
+VSimpleName: Integer
+p2594
+tp2595
+I1
+s(Vinsert
+p2596
+I42
+VSimpleName: get
+p2597
+tp2598
+I19
+s(Vinsert
+p2599
+I45
+VStringLiteral: ":"
+p2600
+tp2601
+I2
+s(Vinsert
+p2602
+I42
+VSimpleName: values
+p2603
+tp2604
+I4
+s(Vinsert
+p2605
+I44
+VSingleVariableDeclaration
+p2606
+tp2607
+I92
+s(Vinsert
+p2608
+I40
+VQualifiedName: bleMetadata.txPower
+p2609
+tp2610
+I1
+s(Vinsert
+p2611
+I42
+VSimpleName: dismiss
+p2612
+tp2613
+I1
+s(Vinsert
+p2614
+I42
+VSimpleName: getTimestampNanos
+p2615
+tp2616
+I1
+s(Vinsert
+p2617
+I40
+VQualifiedName: bleMetadata.rssi
+p2618
+tp2619
+I1
+s(Vinsert
+p2620
+I42
+VSimpleName: EddystoneBeacon
+p2621
+tp2622
+I3
+s(Vinsert
+p2623
+I42
+VSimpleName: mWifiDirectConnect
+p2624
+tp2625
+I2
+s(Vinsert
+p2626
+I43
+VSimpleType: BluetoothAdapter
+p2627
+tp2628
+I2
+s(Vinsert
+p2629
+I43
+VSimpleType: View
+p2630
+tp2631
+I1
+s(Vinsert
+p2632
+I42
+VSimpleName: Thread
+p2633
+tp2634
+I1
+s(Vinsert
+p2635
+I42
+VSimpleName: addIcon
+p2636
+tp2637
+I1
+s(Vinsert
+p2638
+I42
+VSimpleName: setVisible
+p2639
+tp2640
+I2
+s(Vinsert
+p2641
+I42
+VSimpleName: serviceDataUuidBytes
+p2642
+tp2643
+I1
+s(Vinsert
+p2644
+I42
+VSimpleName: setJavaScriptEnabled
+p2645
+tp2646
+I2
+s(Vinsert
+p2647
+I42
+VSimpleName: session
+p2648
+tp2649
+I1
+s(Vinsert
+p2650
+I43
+VSimpleType: UrlDeviceDiscoveryService.LocalBinder
+p2651
+tp2652
+I2
+s(Vinsert
+p2653
+I42
+VSimpleName: BluetoothAdapter
+p2654
+tp2655
+I3
+s(Vinsert
+p2656
+I42
+VSimpleName: getId
+p2657
+tp2658
+I5
+s(Vinsert
+p2659
+I42
+VSimpleName: NanoHTTPD
+p2660
+tp2661
+I1
+s(Vinsert
+p2662
+I43
+VSimpleType: String
+p2663
+tp2664
+I64
+s(Vinsert
+p2665
+I42
+VSimpleName: fragment
+p2666
+tp2667
+I1
+s(Vinsert
+p2668
+I42
+VSimpleName: VALUE1
+p2669
+tp2670
+I1
+s(Vinsert
+p2671
+I42
+VSimpleName: stopScan
+p2672
+tp2673
+I1
+s(Vinsert
+p2674
+I42
+VSimpleName: mUrl
+p2675
+tp2676
+I1
+s(Vinsert
+p2677
+I42
+VSimpleName: getAction
+p2678
+tp2679
+I5
+s(Vinsert
+p2680
+I42
+VSimpleName: mock
+p2681
+tp2682
+I1
+s(Vinsert
+p2683
+I42
+VSimpleName: icon
+p2684
+tp2685
+I2
+s(Vinsert
+p2686
+I42
+VSimpleName: o1
+p2687
+tp2688
+I1
+s(Vinsert
+p2689
+I42
+VSimpleName: services
+p2690
+tp2691
+I3
+s(Vinsert
+p2692
+I40
+VQualifiedName: android.os.Build.VERSION.SDK_INT
+p2693
+tp2694
+I1
+s(Vinsert
+p2695
+I42
+VSimpleName: mScanStartTimestamp
+p2696
+tp2697
+I1
+s(Vinsert
+p2698
+I42
+VSimpleName: getServiceInstance
+p2699
+tp2700
+I1
+s(Vinsert
+p2701
+I34
+VNumberLiteral: 23
+p2702
+tp2703
+I1
+s(Vinsert
+p2704
+I42
+VSimpleName: dialogInterface
+p2705
+tp2706
+I2
+s(Vinsert
+p2707
+I4
+VArrayInitializer
+p2708
+tp2709
+I3
+s(Vinsert
+p2710
+I42
+VSimpleName: newFixedLengthResponse
+p2711
+tp2712
+I1
+s(Vinsert
+p2713
+I42
+VSimpleName: title
+p2714
+tp2715
+I4
+s(Vinsert
+p2716
+I40
+VQualifiedName: Context.BIND_AUTO_CREATE
+p2717
+tp2718
+I1
+s(Vinsert
+p2719
+I42
+VSimpleName: getWifiDirectPort
+p2720
+tp2721
+I1
+s(Vinsert
+p2722
+I42
+VSimpleName: FileOutputStream
+p2723
+tp2724
+I1
+s(Vinsert
+p2725
+I42
+VSimpleName: getString
+p2726
+tp2727
+I13
+s(Vinsert
+p2728
+I42
+VSimpleName: onPwoDiscovered
+p2729
+tp2730
+I1
+s(Vinsert
+p2731
+I42
+VSimpleName: pref
+p2732
+tp2733
+I1
+s(Vinsert
+p2734
+I42
+VSimpleName: mHandler
+p2735
+tp2736
+I5
+s(Vinsert
+p2737
+I42
+VSimpleName: getUngroupedPwoId
+p2738
+tp2739
+I1
+s(Vinsert
+p2740
+I42
+VSimpleName: setRequestProperty
+p2741
+tp2742
+I2
+s(Vinsert
+p2743
+I42
+VSimpleName: setReuseAddress
+p2744
+tp2745
+I1
+s(Vinsert
+p2746
+I40
+VQualifiedName: MotionEvent.ACTION_UP
+p2747
+tp2748
+I1
+s(Vinsert
+p2749
+I42
+VSimpleName: scanDelta
+p2750
+tp2751
+I3
+s(Vinsert
+p2752
+I40
+VQualifiedName: PwsClient.ResolveScanCallback
+p2753
+tp2754
+I2
+s(Vinsert
+p2755
+I42
+VSimpleName: jsonSerializeWorks
+p2756
+tp2757
+I1
+s(Vinsert
+p2758
+I42
+VSimpleName: isUrlFrame
+p2759
+tp2760
+I1
+s(Vinsert
+p2761
+I34
+VNumberLiteral: 0x10
+p2762
+tp2763
+I1
+s(Vinsert
+p2764
+I42
+VSimpleName: DialogInterface
+p2765
+tp2766
+I2
+s(Vinsert
+p2767
+I42
+VSimpleName: BEACON_EXPIRATION_DURATION
+p2768
+tp2769
+I1
+s(Vinsert
+p2770
+I42
+VSimpleName: mScanTimeout
+p2771
+tp2772
+I1
+s(Vinsert
+p2773
+I42
+VSimpleName: ungroupedPwoId
+p2774
+tp2775
+I1
+s(Vinsert
+p2776
+I66
+VTextElement:  The PWO to add.
+p2777
+tp2778
+I1
+s(Vinsert
+p2779
+I45
+VStringLiteral: "        \u005c"key\u005c": \u005c"value\u005c""
+p2780
+tp2781
+I1
+s(Vinsert
+p2782
+I42
+VSimpleName: ArrayList
+p2783
+tp2784
+I6
+s(Vinsert
+p2785
+I42
+VSimpleName: menu
+p2786
+tp2787
+I5
+s(Vinsert
+p2788
+I42
+VSimpleName: msg
+p2789
+tp2790
+I1
+s(Vinsert
+p2791
+I43
+VSimpleType: Pwo
+p2792
+tp2793
+I3
+s(Vinsert
+p2794
+I42
+VSimpleName: name
+p2795
+tp2796
+I3
+s(Vinsert
+p2797
+I42
+VSimpleName: mUrlDevice1
+p2798
+tp2799
+I4
+s(Vinsert
+p2800
+I42
+VSimpleName: jsonUrlMetadata
+p2801
+tp2802
+I4
+s(Vinsert
+p2803
+I42
+VSimpleName: popBackStack
+p2804
+tp2805
+I1
+s(Vinsert
+p2806
+I41
+VReturnStatement
+p2807
+tp2808
+I45
+s(Vinsert
+p2809
+I42
+VSimpleName: PwoResponseCallback
+p2810
+tp2811
+I2
+s(Vinsert
+p2812
+I42
+VSimpleName: offset
+p2813
+tp2814
+I1
+s(Vinsert
+p2815
+I42
+VSimpleName: assertNotNull
+p2816
+tp2817
+I2
+s(Vinsert
+p2818
+I42
+VSimpleName: getDouble
+p2819
+tp2820
+I2
+s(Vinsert
+p2821
+I42
+VSimpleName: System
+p2822
+tp2823
+I2
+s(Vinsert
+p2824
+I42
+VSimpleName: mCustomEndpointCategory
+p2825
+tp2826
+I3
+s(Vinsert
+p2827
+I42
+VSimpleName: mDeviceIdToUrlDeviceMap
+p2828
+tp2829
+I6
+s(Vinsert
+p2830
+I74
+VParameterizedType: List<PwPair>
+p2831
+tp2832
+I1
+s(Vinsert
+p2833
+I42
+VSimpleName: isScreenOn
+p2834
+tp2835
+I2
+s(Vinsert
+p2836
+I42
+VSimpleName: mDiscoveryServiceConnection
+p2837
+tp2838
+I1
+s(Vinsert
+p2839
+I42
+VSimpleName: getServiceName
+p2840
+tp2841
+I1
+s(Vinsert
+p2842
+I40
+VQualifiedName: ScanFilter.Builder
+p2843
+tp2844
+I1
+s(Vinsert
+p2845
+I43
+VSimpleType: URL
+p2846
+tp2847
+I2
+s(Vinsert
+p2848
+I27
+VInfixExpression: <
+p2849
+tp2850
+I2
+s(Vinsert
+p2851
+I42
+VSimpleName: PendingIntent
+p2852
+tp2853
+I3
+s(Vinsert
+p2854
+I42
+VSimpleName: setScanTimeMillis
+p2855
+tp2856
+I1
+s(Vinsert
+p2857
+I32
+VMethodInvocation
+p2858
+tp2859
+I565
+s(Vinsert
+p2860
+I42
+VSimpleName: jsonPageInfo
+p2861
+tp2862
+I1
+s(Vinsert
+p2863
+I42
+VSimpleName: isFolderItem
+p2864
+tp2865
+I1
+s(Vinsert
+p2866
+I42
+VSimpleName: removeAll
+p2867
+tp2868
+I1
+s(Vinsert
+p2869
+I42
+VSimpleName: fromJsonStr
+p2870
+tp2871
+I1
+s(Vinsert
+p2872
+I42
+VSimpleName: run
+p2873
+tp2874
+I7
+s(Vinsert
+p2875
+I42
+VSimpleName: ByteArrayInputStream
+p2876
+tp2877
+I1
+s(Vinsert
+p2878
+I42
+VSimpleName: getPreferenceScreen
+p2879
+tp2880
+I1
+s(Vinsert
+p2881
+I42
+VSimpleName: IHTTPSession
+p2882
+tp2883
+I1
+s(Vinsert
+p2884
+I42
+VSimpleName: id
+p2885
+tp2886
+I2
+s(Vinsert
+p2887
+I38
+VPrefixExpression: !
+p2888
+tp2889
+I13
+s(Vinsert
+p2890
+I42
+VSimpleName: URL1
+p2891
+tp2892
+I9
+s(Vinsert
+p2893
+I66
+VTextElement: Remove a UrlDevice from the collection.
+p2894
+tp2895
+I1
+s(Vinsert
+p2896
+I42
+VSimpleName: JSONException
+p2897
+tp2898
+I8
+s(Vinsert
+p2899
+I42
+VSimpleName: Override
+p2900
+tp2901
+I19
+s(Vinsert
+p2902
+I42
+VSimpleName: UriBeaconConfigCallback
+p2903
+tp2904
+I2
+s(Vinsert
+p2905
+I42
+VSimpleName: view
+p2906
+tp2907
+I5
+s(Vinsert
+p2908
+I42
+VSimpleName: URL_CODES
+p2909
+tp2910
+I2
+s(Vinsert
+p2911
+I42
+VSimpleName: BeaconDisplayItem
+p2912
+tp2913
+I1
+s(Vinsert
+p2914
+I66
+VTextElement: Add URL metadata to the collection.
+p2915
+tp2916
+I1
+s(Vinsert
+p2917
+I42
+VSimpleName: UrlDevice
+p2918
+tp2919
+I15
+s(Vinsert
+p2920
+I42
+VSimpleName: Mockito
+p2921
+tp2922
+I1
+s(Vinsert
+p2923
+I42
+VSimpleName: ID1
+p2924
+tp2925
+I5
+s(Vinsert
+p2926
+I42
+VSimpleName: uriBeacon
+p2927
+tp2928
+I3
+s(Vinsert
+p2929
+I42
+VSimpleName: Color
+p2930
+tp2931
+I1
+s(Vinsert
+p2932
+I45
+VStringLiteral: "    }"
+p2933
+tp2934
+I1
+s(Vinsert
+p2935
+I42
+VSimpleName: now
+p2936
+tp2937
+I1
+s(Vinsert
+p2938
+I42
+VSimpleName: setRefreshing
+p2939
+tp2940
+I1
+s(Vinsert
+p2941
+I42
+VSimpleName: serviceDataUuid
+p2942
+tp2943
+I1
+s(Vinsert
+p2944
+I42
+VSimpleName: Demo
+p2945
+tp2946
+I1
+s(Vinsert
+p2947
+I42
+VSimpleName: mType
+p2948
+tp2949
+I1
+s(Vinsert
+p2950
+I42
+VSimpleName: settingsFragment
+p2951
+tp2952
+I1
+s(Vinsert
+p2953
+I42
+VSimpleName: tag
+p2954
+tp2955
+I2
+s(Vinsert
+p2956
+I42
+VSimpleName: getIcon
+p2957
+tp2958
+I1
+s(Vinsert
+p2959
+I42
+VSimpleName: userOptedIn
+p2960
+tp2961
+I1
+s(Vinsert
+p2962
+I45
+VStringLiteral: "##.##"
+p2963
+tp2964
+I1
+s(Vinsert
+p2965
+I42
+VSimpleName: fis
+p2966
+tp2967
+I1
+s(Vinsert
+p2968
+I42
+VSimpleName: Builder
+p2969
+tp2970
+I2
+s(Vinsert
+p2971
+I74
+VParameterizedType: Map.Entry<String,PwoGroup>
+p2972
+tp2973
+I1
+s(Vinsert
+p2974
+I42
+VSimpleName: IOException
+p2975
+tp2976
+I2
+s(Vinsert
+p2977
+I42
+VSimpleName: error
+p2978
+tp2979
+I1
+s(Vinsert
+p2980
+I42
+VSimpleName: pwsClient
+p2981
+tp2982
+I3
+s(Vinsert
+p2983
+I42
+VSimpleName: Toast
+p2984
+tp2985
+I5
+s(Vinsert
+p2986
+I42
+VSimpleName: enable
+p2987
+tp2988
+I5
+s(Vinsert
+p2989
+I45
+VStringLiteral: "deprecation"
+p2990
+tp2991
+I1
+s(Vinsert
+p2992
+I42
+VSimpleName: setTxPower
+p2993
+tp2994
+I1
+s(Vinsert
+p2995
+I42
+VSimpleName: text
+p2996
+tp2997
+I1
+s(Vinsert
+p2998
+I42
+VSimpleName: compareValue
+p2999
+tp3000
+I3
+s(Vinsert
+p3001
+I42
+VSimpleName: setWifiAddress
+p3002
+tp3003
+I1
+s(Vinsert
+p3004
+I83
+VModifier: private
+p3005
+tp3006
+I16
+s(Vinsert
+p3007
+I10
+VBreakStatement
+p3008
+tp3009
+I1
+s(Vinsert
+p3010
+I42
+VSimpleName: BluetoothUuid
+p3011
+tp3012
+I1
+s(Vinsert
+p3013
+I43
+VSimpleType: ConfigUriBeacon
+p3014
+tp3015
+I2
+s(Vinsert
+p3016
+I42
+VSimpleName: notificationManager
+p3017
+tp3018
+I2
+s(Vinsert
+p3019
+I42
+VSimpleName: urlA
+p3020
+tp3021
+I1
+s(Vinsert
+p3022
+I45
+VStringLiteral: "description1"
+p3023
+tp3024
+I1
+s(Vinsert
+p3025
+I45
+VStringLiteral: "group"
+p3026
+tp3027
+I1
+s(Vinsert
+p3028
+I42
+VSimpleName: equals
+p3029
+tp3030
+I15
+s(Vinsert
+p3031
+I42
+VSimpleName: mRegionResolver
+p3032
+tp3033
+I3
+s(Vinsert
+p3034
+I42
+VSimpleName: ungroupedPwoDevice
+p3035
+tp3036
+I1
+s(Vinsert
+p3037
+I42
+VSimpleName: getColor
+p3038
+tp3039
+I1
+s(Vinsert
+p3040
+I12
+VCatchClause
+p3041
+tp3042
+I7
+s(Vinsert
+p3043
+I42
+VSimpleName: bluetoothAdapter
+p3044
+tp3045
+I5
+s(Vinsert
+p3046
+I42
+VSimpleName: scanTime
+p3047
+tp3048
+I1
+s(Vinsert
+p3049
+I42
+VSimpleName: setContentIntent
+p3050
+tp3051
+I1
+s(Vinsert
+p3052
+I42
+VSimpleName: timeStamp
+p3053
+tp3054
+I1
+s(Vinsert
+p3055
+I42
+VSimpleName: serviceData
+p3056
+tp3057
+I1
+s(Vinsert
+p3058
+I43
+VSimpleType: PwoMetadata
+p3059
+tp3060
+I10
+s(Vinsert
+p3061
+I42
+VSimpleName: e
+p3062
+tp3063
+I16
+s(Vinsert
+p3064
+I42
+VSimpleName: finishLoad
+p3065
+tp3066
+I1
+s(Vinsert
+p3067
+I42
+VSimpleName: Button
+p3068
+tp3069
+I1
+s(Vinsert
+p3070
+I42
+VSimpleName: urlString
+p3071
+tp3072
+I2
+s(Vinsert
+p3073
+I42
+VSimpleName: getUrlDevice
+p3074
+tp3075
+I4
+s(Vinsert
+p3076
+I42
+VSimpleName: blockedFragment
+p3077
+tp3078
+I1
+s(Vinsert
+p3079
+I42
+VSimpleName: mThread
+p3080
+tp3081
+I4
+s(Vinsert
+p3082
+I43
+VSimpleType: ImageView
+p3083
+tp3084
+I2
+s(Vinsert
+p3085
+I42
+VSimpleName: getBooleanExtra
+p3086
+tp3087
+I1
+s(Vinsert
+p3088
+I42
+VSimpleName: urlMetadataA
+p3089
+tp3090
+I1
+s(Vinsert
+p3091
+I43
+VSimpleType: UriBeacon.Builder
+p3092
+tp3093
+I1
+s(Vinsert
+p3094
+I42
+VSimpleName: endpoints
+p3095
+tp3096
+I2
+s(Vinsert
+p3097
+I42
+VSimpleName: KEY1
+p3098
+tp3099
+I1
+s(Vinsert
+p3100
+I40
+VQualifiedName: TimeUnit.SECONDS
+p3101
+tp3102
+I1
+s(Vinsert
+p3103
+I45
+VStringLiteral: "\u005c""
+p3104
+tp3105
+I1
+s(Vinsert
+p3106
+I34
+VNumberLiteral: 0x04
+p3107
+tp3108
+I1
+s(Vinsert
+p3109
+I43
+VSimpleType: File
+p3110
+tp3111
+I2
+s(Vinsert
+p3112
+I66
+VTextElement:  The PwsResult to add.
+p3113
+tp3114
+I1
+s(Vinsert
+p3115
+I42
+VSimpleName: UrlShortener
+p3116
+tp3117
+I1
+s(Vinsert
+p3118
+I42
+VSimpleName: pwsResultIconCallback
+p3119
+tp3120
+I1
+s(Vinsert
+p3121
+I45
+VStringLiteral: ""
+p3122
+tp3123
+I9
+s(Vinsert
+p3124
+I43
+VSimpleType: PendingIntent
+p3125
+tp3126
+I1
+s(Vinsert
+p3127
+I43
+VSimpleType: WifiDirectConnect
+p3128
+tp3129
+I1
+s(Vinsert
+p3130
+I43
+VSimpleType: AdvertiseSettings.Builder
+p3131
+tp3132
+I2
+s(Vinsert
+p3133
+I42
+VSimpleName: allPwPairs
+p3134
+tp3135
+I1
+s(Vinsert
+p3136
+I42
+VSimpleName: lengthenShortUrl
+p3137
+tp3138
+I1
+s(Vinsert
+p3139
+I45
+VStringLiteral: "://"
+p3140
+tp3141
+I1
+s(Vinsert
+p3142
+I42
+VSimpleName: getEntry
+p3143
+tp3144
+I1
+s(Vinsert
+p3145
+I53
+VThrowStatement
+p3146
+tp3147
+I1
+s(Vinsert
+p3148
+I42
+VSimpleName: show
+p3149
+tp3150
+I2
+s(Vinsert
+p3151
+I42
+VSimpleName: requestID
+p3152
+tp3153
+I1
+s(Vinsert
+p3154
+I42
+VSimpleName: b
+p3155
+tp3156
+I1
+s(Vinsert
+p3157
+I43
+VSimpleType: PwoDevice
+p3158
+tp3159
+I1
+s(Vinsert
+p3160
+I42
+VSimpleName: printStackTrace
+p3161
+tp3162
+I2
+s(Vinsert
+p3163
+I42
+VSimpleName: max
+p3164
+tp3165
+I1
+s(Vinsert
+p3166
+I42
+VSimpleName: oldUrl
+p3167
+tp3168
+I1
+s(Vinsert
+p3169
+I42
+VSimpleName: isFavorite
+p3170
+tp3171
+I1
+s(Vinsert
+p3172
+I42
+VSimpleName: isResolvableDevice
+p3173
+tp3174
+I3
+s(Vinsert
+p3175
+I40
+VQualifiedName: UrlDeviceDiscoveryService.LocalBinder
+p3176
+tp3177
+I2
+s(Vinsert
+p3178
+I42
+VSimpleName: mUrlToDeviceAddress
+p3179
+tp3180
+I6
+s(Vinsert
+p3181
+I42
+VSimpleName: urlJsonObject
+p3182
+tp3183
+I1
+s(Vinsert
+p3184
+I42
+VSimpleName: pwPair1
+p3185
+tp3186
+I1
+s(Vinsert
+p3187
+I42
+VSimpleName: apiVersion
+p3188
+tp3189
+I1
+s(Vinsert
+p3190
+I42
+VSimpleName: ImageView
+p3191
+tp3192
+I2
+s(Vinsert
+p3193
+I42
+VSimpleName: createUrlMetadataRequestObject
+p3194
+tp3195
+I1
+s(Vinsert
+p3196
+I45
+VStringLiteral: "Content-Type"
+p3197
+tp3198
+I1
+s(Vinsert
+p3199
+I42
+VSimpleName: urlGroup
+p3200
+tp3201
+I2
+s(Vinsert
+p3202
+I42
+VSimpleName: optString
+p3203
+tp3204
+I3
+s(Vinsert
+p3205
+I43
+VSimpleType: UriBeaconConfig
+p3206
+tp3207
+I1
+s(Vinsert
+p3208
+I42
+VSimpleName: demo
+p3209
+tp3210
+I2
+s(Vinsert
+p3211
+I42
+VSimpleName: BLE_DEVICE_TYPE
+p3212
+tp3213
+I1
+s(Vinsert
+p3214
+I40
+VQualifiedName: android.webkit.WebViewClient
+p3215
+tp3216
+I1
+s(Vinsert
+p3217
+I42
+VSimpleName: nullSafeCompare
+p3218
+tp3219
+I1
+s(Vinsert
+p3220
+I42
+VSimpleName: ID3
+p3221
+tp3222
+I2
+s(Vinsert
+p3223
+I34
+VNumberLiteral: 0x0e
+p3224
+tp3225
+I1
+s(Vinsert
+p3226
+I42
+VSimpleName: getAddress
+p3227
+tp3228
+I2
+s(Vinsert
+p3229
+I40
+VQualifiedName: ContentResolver.SCHEME_ANDROID_RESOURCE
+p3230
+tp3231
+I1
+s(Vinsert
+p3232
+I42
+VSimpleName: pwsResultCallback
+p3233
+tp3234
+I3
+s(Vinsert
+p3235
+I60
+VVariableDeclarationStatement
+p3236
+tp3237
+I100
+s(Vinsert
+p3238
+I43
+VSimpleType: Intent
+p3239
+tp3240
+I14
+s(Vinsert
+p3241
+I42
+VSimpleName: size
+p3242
+tp3243
+I8
+s(Vinsert
+p3244
+I42
+VSimpleName: getHtmlFile
+p3245
+tp3246
+I1
+s(Vinsert
+p3247
+I42
+VSimpleName: setIntent
+p3248
+tp3249
+I1
+s(Vinsert
+p3250
+I42
+VSimpleName: getItem
+p3251
+tp3252
+I3
+s(Vinsert
+p3253
+I42
+VSimpleName: GROUP_KEY
+p3254
+tp3255
+I1
+s(Vinsert
+p3256
+I42
+VSimpleName: map
+p3257
+tp3258
+I3
+s(Vinsert
+p3259
+I66
+VTextElement:  the Builder object for chaining operations.
+p3260
+tp3261
+I1
+s(Vinsert
+p3262
+I42
+VSimpleName: jsonObject
+p3263
+tp3264
+I21
+s(Vinsert
+p3265
+I42
+VSimpleName: TaskStackBuilder
+p3266
+tp3267
+I2
+s(Vinsert
+p3268
+I42
+VSimpleName: getRequestUrl
+p3269
+tp3270
+I2
+s(Vinsert
+p3271
+I34
+VNumberLiteral: 31
+p3272
+tp3273
+I1
+s(Vinsert
+p3274
+I42
+VSimpleName: durationMillis
+p3275
+tp3276
+I1
+s(Vinsert
+p3277
+I42
+VSimpleName: getIntent
+p3278
+tp3279
+I1
+s(Vinsert
+p3280
+I42
+VSimpleName: beaconDisplayItem
+p3281
+tp3282
+I2
+s(Vinsert
+p3283
+I42
+VSimpleName: getExtraData
+p3284
+tp3285
+I4
+s(Vinsert
+p3286
+I43
+VSimpleType: Set
+p3287
+tp3288
+I1
+s(Vinsert
+p3289
+I21
+VExpressionStatement
+p3290
+tp3291
+I237
+s(Vinsert
+p3292
+I34
+VNumberLiteral: .7
+p3293
+tp3294
+I1
+s(Vinsert
+p3295
+I42
+VSimpleName: performClick
+p3296
+tp3297
+I1
+s(Vinsert
+p3298
+I42
+VSimpleName: getDefaultAdapter
+p3299
+tp3300
+I1
+s(Vinsert
+p3301
+I42
+VSimpleName: URL2
+p3302
+tp3303
+I2
+s(Vinsert
+p3304
+I26
+VImportDeclaration
+p3305
+tp3306
+I6
+s(Vinsert
+p3307
+I42
+VSimpleName: urlDevice
+p3308
+tp3309
+I15
+s(Vinsert
+p3310
+I43
+VSimpleType: PwPair
+p3311
+tp3312
+I13
+s(Vinsert
+p3313
+I42
+VSimpleName: PROD_ENDPOINT_VERSION
+p3314
+tp3315
+I1
+s(Vinsert
+p3316
+I42
+VSimpleName: groupId
+p3317
+tp3318
+I2
+s(Vinsert
+p3319
+I43
+VSimpleType: JSONObject
+p3320
+tp3321
+I15
+s(Vinsert
+p3322
+I42
+VSimpleName: getSsdp
+p3323
+tp3324
+I1
+s(Vinsert
+p3325
+I42
+VSimpleName: mWebView
+p3326
+tp3327
+I2
+s(Vinsert
+p3328
+I43
+VSimpleType: PowerManager
+p3329
+tp3330
+I1
+s(Vinsert
+p3331
+I42
+VSimpleName: GROUP_ID1
+p3332
+tp3333
+I4
+s(Vinsert
+p3334
+I42
+VSimpleName: getPwoById
+p3335
+tp3336
+I1
+s(Vinsert
+p3337
+I42
+VSimpleName: Set
+p3338
+tp3339
+I1
+s(Vinsert
+p3340
+I27
+VInfixExpression: *
+p3341
+tp3342
+I1
+s.
