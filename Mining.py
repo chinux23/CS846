@@ -475,6 +475,13 @@ def update_database(target, change_context, code_context):
 
     target_context.append((target, change_context, code_context))
 
+def rank_token_distance(code_context):
+    """
+    Return a list of ranking.
+    """
+    
+    pass
+
 def atmoic_change(json):
     atomic_change = (json["action"], json["type"], json["label"])
     return atomic_change

@@ -1,0 +1,4 @@
+# ignore these
+*
+# except foo
+!*.pkl

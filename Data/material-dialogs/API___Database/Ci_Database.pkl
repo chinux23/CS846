@@ -1,0 +1,7569 @@
+(dp0
+(Vinsert
+p1
+I42
+VSimpleName: Typeface
+p2
+tp3
+I2
+s(Vinsert
+p4
+I42
+VSimpleName: WebView
+p5
+tp6
+I3
+s(Vinsert
+p7
+I42
+VSimpleName: TypedValue
+p8
+tp9
+I6
+s(Vinsert
+p10
+I43
+VSimpleType: FrameLayout
+p11
+tp12
+I1
+s(Vinsert
+p13
+I42
+VSimpleName: r
+p14
+tp15
+I1
+s(Vinsert
+p16
+I40
+VQualifiedName: R.attr.md_dark_theme
+p17
+tp18
+I1
+s(Vinsert
+p19
+I42
+VSimpleName: getActionButton
+p20
+tp21
+I1
+s(Vinsert
+p22
+I42
+VSimpleName: tv
+p23
+tp24
+I2
+s(Vinsert
+p25
+I22
+VFieldAccess
+p26
+tp27
+I27
+s(Vinsert
+p28
+I43
+VSimpleType: Animator
+p29
+tp30
+I1
+s(Vinsert
+p31
+I42
+VSimpleName: getEntryValues
+p32
+tp33
+I1
+s(Vinsert
+p34
+I27
+VInfixExpression: ||
+p35
+tp36
+I4
+s(Vinsert
+p37
+I43
+VSimpleType: SimpleListVH
+p38
+tp39
+I1
+s(Vinsert
+p40
+I42
+VSimpleName: medium
+p41
+tp42
+I1
+s(Vinsert
+p43
+I42
+VSimpleName: minLength
+p44
+tp45
+I1
+s(Vinsert
+p46
+I42
+VSimpleName: lastItemVisible
+p47
+tp48
+I1
+s(Vinsert
+p49
+I40
+VQualifiedName: dialog.checkBoxPrompt
+p50
+tp51
+I3
+s(Vinsert
+p52
+I43
+VSimpleType: WebView
+p53
+tp54
+I3
+s(Vinsert
+p55
+I42
+VSimpleName: showToast
+p56
+tp57
+I2
+s(Vinsert
+p58
+I42
+VSimpleName: findFragmentById
+p59
+tp60
+I1
+s(Vinsert
+p61
+I40
+VQualifiedName: android.R.string.ok
+p62
+tp63
+I1
+s(Vinsert
+p64
+I42
+VSimpleName: expandSpec
+p65
+tp66
+I1
+s(Vinsert
+p67
+I42
+VSimpleName: getContext
+p68
+tp69
+I9
+s(Vinsert
+p70
+I42
+VSimpleName: savedInstanceState
+p71
+tp72
+I2
+s(Vinsert
+p73
+I42
+VSimpleName: getChildAt
+p74
+tp75
+I3
+s(Vinsert
+p76
+I43
+VSimpleType: TintEditText
+p77
+tp78
+I1
+s(Vinsert
+p79
+I42
+VSimpleName: resolveDrawable
+p80
+tp81
+I3
+s(Vinsert
+p82
+I42
+VSimpleName: idsArrayRes
+p83
+tp84
+I1
+s(Vinsert
+p85
+I42
+VSimpleName: windowWidth
+p86
+tp87
+I1
+s(Vinsert
+p88
+I40
+VQualifiedName: builder.negativeColor
+p89
+tp90
+I1
+s(Vinsert
+p91
+I42
+VSimpleName: frag
+p92
+tp93
+I2
+s(Vinsert
+p94
+I42
+VSimpleName: negativeButton
+p95
+tp96
+I2
+s(Vinsert
+p97
+I42
+VSimpleName: getCount
+p98
+tp99
+I1
+s(Vinsert
+p100
+I42
+VSimpleName: builder
+p101
+tp102
+I5
+s(Vinsert
+p103
+I43
+VSimpleType: FolderChooserDialog
+p104
+tp105
+I1
+s(Vinsert
+p106
+I42
+VSimpleName: Interpolator
+p107
+tp108
+I1
+s(Vinsert
+p109
+I40
+VQualifiedName: dialog.mBuilder.inputCallback
+p110
+tp111
+I1
+s(Vinsert
+p112
+I43
+VSimpleType: FrameLayout.LayoutParams
+p113
+tp114
+I1
+s(Vinsert
+p115
+I5
+VArrayType: Integer[]
+p116
+tp117
+I1
+s(Vinsert
+p118
+I27
+VInfixExpression: +
+p119
+tp120
+I7
+s(Vinsert
+p121
+I40
+VQualifiedName: android.R.attr.state_enabled
+p122
+tp123
+I1
+s(Vinsert
+p124
+I40
+VQualifiedName: builder.items.length
+p125
+tp126
+I1
+s(Vinsert
+p127
+I42
+VSimpleName: pb
+p128
+tp129
+I2
+s(Vinsert
+p130
+I42
+VSimpleName: path
+p131
+tp132
+I5
+s(Vinsert
+p133
+I42
+VSimpleName: isHardwareAccelerated
+p134
+tp135
+I1
+s(Vinsert
+p136
+I42
+VSimpleName: checkBoxPrompt
+p137
+tp138
+I1
+s(Vinsert
+p139
+I42
+VSimpleName: onAny
+p140
+tp141
+I4
+s(Vinsert
+p142
+I42
+VSimpleName: isEmpty
+p143
+tp144
+I1
+s(Vinsert
+p145
+I42
+VSimpleName: outState
+p146
+tp147
+I3
+s(Vinsert
+p148
+I42
+VSimpleName: subIndex
+p149
+tp150
+I1
+s(Vinsert
+p151
+I42
+VSimpleName: getParent
+p152
+tp153
+I6
+s(Vinsert
+p154
+I40
+VQualifiedName: Theme.LIGHT
+p155
+tp156
+I1
+s(Vinsert
+p157
+I42
+VSimpleName: onMeasureScroll
+p158
+tp159
+I3
+s(Vinsert
+p160
+I40
+VQualifiedName: android.text.InputType
+p161
+tp162
+I1
+s(Vinsert
+p163
+I40
+VQualifiedName: R.string.md_choose_label
+p164
+tp165
+I1
+s(Vinsert
+p166
+I42
+VSimpleName: getButtonSelector
+p167
+tp168
+I1
+s(Vinsert
+p169
+I40
+VQualifiedName: VERSION_CODES.LOLLIPOP
+p170
+tp171
+I1
+s(Vinsert
+p172
+I40
+VQualifiedName: FileChooserDialog.Builder
+p173
+tp174
+I1
+s(Vinsert
+p175
+I42
+VSimpleName: showMinMax
+p176
+tp177
+I1
+s(Vinsert
+p178
+I42
+VSimpleName: String
+p179
+tp180
+I16
+s(Vinsert
+p181
+I40
+VQualifiedName: dialog.mProgress
+p182
+tp183
+I2
+s(Vinsert
+p184
+I42
+VSimpleName: inputRange
+p185
+tp186
+I1
+s(Vinsert
+p187
+I40
+VQualifiedName: R.string.color_palette
+p188
+tp189
+I2
+s(Vinsert
+p190
+I42
+VSimpleName: getParentFile
+p191
+tp192
+I2
+s(Vinsert
+p193
+I41
+VReturnStatement
+p194
+tp195
+I51
+s(Vinsert
+p196
+I42
+VSimpleName: DefaultRvAdapter
+p197
+tp198
+I1
+s(Vinsert
+p199
+I42
+VSimpleName: isDialogShowing
+p200
+tp201
+I3
+s(Vinsert
+p202
+I42
+VSimpleName: windowPadding
+p203
+tp204
+I1
+s(Vinsert
+p205
+I42
+VSimpleName: source
+p206
+tp207
+I15
+s(Vinsert
+p208
+I40
+VQualifiedName: R.dimen.circular_progress_border
+p209
+tp210
+I1
+s(Vinsert
+p211
+I45
+VStringLiteral: "#D81B60"
+p212
+tp213
+I1
+s(Vinsert
+p214
+I42
+VSimpleName: newTitleRes
+p215
+tp216
+I1
+s(Vinsert
+p217
+I42
+VSimpleName: onFileChooserDismissed
+p218
+tp219
+I1
+s(Vinsert
+p220
+I42
+VSimpleName: setDialog
+p221
+tp222
+I2
+s(Vinsert
+p223
+I42
+VSimpleName: parent
+p224
+tp225
+I3
+s(Vinsert
+p226
+I34
+VNumberLiteral: 0.793333333333f
+p227
+tp228
+I1
+s(Vinsert
+p229
+I42
+VSimpleName: config
+p230
+tp231
+I1
+s(Vinsert
+p232
+I34
+VNumberLiteral: 0.299
+p233
+tp234
+I1
+s(Vinsert
+p235
+I42
+VSimpleName: makeMeasureSpec
+p236
+tp237
+I1
+s(Vinsert
+p238
+I40
+VQualifiedName: lp.width
+p239
+tp240
+I1
+s(Vinsert
+p241
+I40
+VQualifiedName: builder.context
+p242
+tp243
+I6
+s(Vinsert
+p244
+I42
+VSimpleName: GravityEnum
+p245
+tp246
+I2
+s(Vinsert
+p247
+I34
+VNumberLiteral: 0.950016125212f
+p248
+tp249
+I1
+s(Vinsert
+p250
+I40
+VQualifiedName: R.array.custom_colors
+p251
+tp252
+I1
+s(Vinsert
+p253
+I42
+VSimpleName: min
+p254
+tp255
+I1
+s(Vinsert
+p256
+I43
+VSimpleType: PropertyValuesHolder
+p257
+tp258
+I1
+s(Vinsert
+p259
+I42
+VSimpleName: clear
+p260
+tp261
+I1
+s(Vinsert
+p262
+I43
+VSimpleType: MaterialDialogAdapter
+p263
+tp264
+I3
+s(Vinsert
+p265
+I42
+VSimpleName: array
+p266
+tp267
+I2
+s(Vinsert
+p268
+I40
+VQualifiedName: mBuilder.context
+p269
+tp270
+I3
+s(Vinsert
+p271
+I42
+VSimpleName: mBuilder
+p272
+tp273
+I5
+s(Vinsert
+p274
+I42
+VSimpleName: setAccessible
+p275
+tp276
+I4
+s(Vinsert
+p277
+I42
+VSimpleName: setPositiveButton
+p278
+tp279
+I1
+s(Vinsert
+p280
+I42
+VSimpleName: Object
+p281
+tp282
+I2
+s(Vinsert
+p283
+I42
+VSimpleName: linkColorRes
+p284
+tp285
+I1
+s(Vinsert
+p286
+I40
+VQualifiedName: mBuilder.selectedIndex
+p287
+tp288
+I2
+s(Vinsert
+p289
+I42
+VSimpleName: getIconPadding
+p290
+tp291
+I1
+s(Vinsert
+p292
+I23
+VFieldDeclaration
+p293
+tp294
+I2
+s(Vinsert
+p295
+I40
+VQualifiedName: dialog.listView
+p296
+tp297
+I1
+s(Vinsert
+p298
+I42
+VSimpleName: TextUtils
+p299
+tp300
+I2
+s(Vinsert
+p301
+I42
+VSimpleName: selectorRes
+p302
+tp303
+I2
+s(Vinsert
+p304
+I42
+VSimpleName: disabledColor
+p305
+tp306
+I3
+s(Vinsert
+p307
+I42
+VSimpleName: valueOf
+p308
+tp309
+I5
+s(Vinsert
+p310
+I42
+VSimpleName: scrubMessageField
+p311
+tp312
+I1
+s(Vinsert
+p313
+I42
+VSimpleName: IllegalArgumentException
+p314
+tp315
+I1
+s(Vinsert
+p316
+I43
+VSimpleType: ViewGroup
+p317
+tp318
+I4
+s(Vinsert
+p319
+I42
+VSimpleName: setOnCancelListener
+p320
+tp321
+I2
+s(Vinsert
+p322
+I45
+VStringLiteral: "#FF8A65"
+p323
+tp324
+I1
+s(Vinsert
+p325
+I66
+VTextElement:  Drawable
+p326
+tp327
+I2
+s(Vinsert
+p328
+I25
+VIfStatement
+p329
+tp330
+I103
+s(Vinsert
+p331
+I40
+VQualifiedName: R.attr.colorAccent
+p332
+tp333
+I2
+s(Vinsert
+p334
+I42
+VSimpleName: Float
+p335
+tp336
+I3
+s(Vinsert
+p337
+I42
+VSimpleName: iconRes
+p338
+tp339
+I1
+s(Vinsert
+p340
+I42
+VSimpleName: viewType
+p341
+tp342
+I1
+s(Vinsert
+p343
+I42
+VSimpleName: invalidateCustomViewAssociations
+p344
+tp345
+I2
+s(Vinsert
+p346
+I42
+VSimpleName: setStackedSelector
+p347
+tp348
+I1
+s(Vinsert
+p349
+I42
+VSimpleName: selectedColor
+p350
+tp351
+I2
+s(Vinsert
+p352
+I42
+VSimpleName: animatorSet
+p353
+tp354
+I2
+s(Vinsert
+p355
+I42
+VSimpleName: maxIconSize
+p356
+tp357
+I4
+s(Vinsert
+p358
+I42
+VSimpleName: invoke
+p359
+tp360
+I2
+s(Vinsert
+p361
+I45
+VStringLiteral: "You can only set the dialog's progress from the UI thread."
+p362
+tp363
+I1
+s(Vinsert
+p364
+I42
+VSimpleName: child
+p365
+tp366
+I2
+s(Vinsert
+p367
+I42
+VSimpleName: InputCallback
+p368
+tp369
+I1
+s(Vinsert
+p370
+I42
+VSimpleName: vg
+p371
+tp372
+I3
+s(Vinsert
+p373
+I42
+VSimpleName: attr
+p374
+tp375
+I6
+s(Vinsert
+p376
+I42
+VSimpleName: webView
+p377
+tp378
+I1
+s(Vinsert
+p379
+I42
+VSimpleName: getInt
+p380
+tp381
+I1
+s(Vinsert
+p382
+I27
+VInfixExpression: ==
+p383
+tp384
+I34
+s(Vinsert
+p385
+I40
+VQualifiedName: Build.VERSION_CODES.LOLLIPOP_MR1
+p386
+tp387
+I1
+s(Vinsert
+p388
+I43
+VSimpleType: Paint
+p389
+tp390
+I3
+s(Vinsert
+p391
+I9
+VBooleanLiteral: true
+p392
+tp393
+I15
+s(Vinsert
+p394
+I62
+VInstanceofExpression
+p395
+tp396
+I6
+s(Vinsert
+p397
+I42
+VSimpleName: PathInterpolatorCompat
+p398
+tp399
+I1
+s(Vinsert
+p400
+I40
+VQualifiedName: Color.BLACK
+p401
+tp402
+I1
+s(Vinsert
+p403
+I42
+VSimpleName: callback
+p404
+tp405
+I10
+s(Vinsert
+p406
+I42
+VSimpleName: onButtonClicked
+p407
+tp408
+I1
+s(Vinsert
+p409
+I40
+VQualifiedName: Build.VERSION_CODES.LOLLIPOP
+p410
+tp411
+I9
+s(Vinsert
+p412
+I42
+VSimpleName: onOptionsItemSelected
+p413
+tp414
+I1
+s(Vinsert
+p415
+I58
+VVariableDeclarationExpression
+p416
+tp417
+I4
+s(Vinsert
+p418
+I42
+VSimpleName: maxWidth
+p419
+tp420
+I1
+s(Vinsert
+p421
+I42
+VSimpleName: negativeColor
+p422
+tp423
+I1
+s(Vinsert
+p424
+I42
+VSimpleName: FileChooserDialog
+p425
+tp426
+I1
+s(Vinsert
+p427
+I42
+VSimpleName: ViewCompat
+p428
+tp429
+I1
+s(Vinsert
+p430
+I34
+VNumberLiteral: 2
+p431
+tp432
+I3
+s(Vinsert
+p433
+I40
+VQualifiedName: R.layout.md_dialog_progress_indeterminate_horizontal
+p434
+tp435
+I1
+s(Vinsert
+p436
+I42
+VSimpleName: IllegalStateException
+p437
+tp438
+I4
+s(Vinsert
+p439
+I42
+VSimpleName: s
+p440
+tp441
+I3
+s(Vinsert
+p442
+I42
+VSimpleName: fragmentActivity
+p443
+tp444
+I6
+s(Vinsert
+p445
+I42
+VSimpleName: onClick
+p446
+tp447
+I11
+s(Vinsert
+p448
+I40
+VQualifiedName: R.id.colorChooser_customColorsNoSub
+p449
+tp450
+I1
+s(Vinsert
+p451
+I42
+VSimpleName: mDismissListener
+p452
+tp453
+I2
+s(Vinsert
+p454
+I42
+VSimpleName: invalidateList
+p455
+tp456
+I1
+s(Vinsert
+p457
+I42
+VSimpleName: neutralText
+p458
+tp459
+I1
+s(Vinsert
+p460
+I40
+VQualifiedName: android.R.id.edit
+p461
+tp462
+I2
+s(Vinsert
+p463
+I42
+VSimpleName: di
+p464
+tp465
+I1
+s(Vinsert
+p466
+I42
+VSimpleName: startsWith
+p467
+tp468
+I1
+s(Vinsert
+p469
+I42
+VSimpleName: getTitle
+p470
+tp471
+I2
+s(Vinsert
+p472
+I42
+VSimpleName: itemText
+p473
+tp474
+I1
+s(Vinsert
+p475
+I42
+VSimpleName: mShowListener
+p476
+tp477
+I2
+s(Vinsert
+p478
+I42
+VSimpleName: UiThread
+p479
+tp480
+I1
+s(Vinsert
+p481
+I38
+VPrefixExpression: !
+p482
+tp483
+I12
+s(Vinsert
+p484
+I42
+VSimpleName: totalWidth
+p485
+tp486
+I1
+s(Vinsert
+p487
+I42
+VSimpleName: setTintList
+p488
+tp489
+I1
+s(Vinsert
+p490
+I42
+VSimpleName: animator
+p491
+tp492
+I2
+s(Vinsert
+p493
+I42
+VSimpleName: mUseFullPadding
+p494
+tp495
+I2
+s(Vinsert
+p496
+I42
+VSimpleName: message
+p497
+tp498
+I1
+s(Vinsert
+p499
+I42
+VSimpleName: d
+p500
+tp501
+I11
+s(Vinsert
+p502
+I42
+VSimpleName: ColorChooserTag
+p503
+tp504
+I1
+s(Vinsert
+p505
+I42
+VSimpleName: cb
+p506
+tp507
+I1
+s(Vinsert
+p508
+I42
+VSimpleName: Color
+p509
+tp510
+I11
+s(Vinsert
+p511
+I43
+VSimpleType: DialogInterface.OnClickListener
+p512
+tp513
+I1
+s(Vinsert
+p514
+I42
+VSimpleName: setForBottom
+p515
+tp516
+I1
+s(Vinsert
+p517
+I45
+VStringLiteral: "You must create a FileChooserDialog using the Builder."
+p518
+tp519
+I1
+s(Vinsert
+p520
+I40
+VQualifiedName: builder.adapter
+p521
+tp522
+I3
+s(Vinsert
+p523
+I42
+VSimpleName: entries
+p524
+tp525
+I2
+s(Vinsert
+p526
+I42
+VSimpleName: addView
+p527
+tp528
+I2
+s(Vinsert
+p529
+I42
+VSimpleName: setLinkTextColor
+p530
+tp531
+I1
+s(Vinsert
+p532
+I42
+VSimpleName: darkness
+p533
+tp534
+I1
+s(Vinsert
+p535
+I31
+VMethodDeclaration
+p536
+tp537
+I21
+s(Vinsert
+p538
+I42
+VSimpleName: dialogWidthDp
+p539
+tp540
+I1
+s(Vinsert
+p541
+I40
+VQualifiedName: R.dimen.md_dialog_frame_margin
+p542
+tp543
+I2
+s(Vinsert
+p544
+I42
+VSimpleName: positiveText
+p545
+tp546
+I10
+s(Vinsert
+p547
+I42
+VSimpleName: Callback
+p548
+tp549
+I1
+s(Vinsert
+p550
+I42
+VSimpleName: getMeasuredHeight
+p551
+tp552
+I1
+s(Vinsert
+p553
+I27
+VInfixExpression: *
+p554
+tp555
+I2
+s(Vinsert
+p556
+I39
+VPrimitiveType: double
+p557
+tp558
+I1
+s(Vinsert
+p559
+I43
+VSimpleType: DefaultRvAdapter
+p560
+tp561
+I1
+s(Vinsert
+p562
+I39
+VPrimitiveType: void
+p563
+tp564
+I33
+s(Vinsert
+p565
+I42
+VSimpleName: getItemId
+p566
+tp567
+I1
+s(Vinsert
+p568
+I42
+VSimpleName: itemRoot
+p569
+tp570
+I1
+s(Vinsert
+p571
+I74
+VParameterizedType: ArrayList<>
+p572
+tp573
+I3
+s(Vinsert
+p574
+I40
+VQualifiedName: dialog.negativeButton
+p575
+tp576
+I4
+s(Vinsert
+p577
+I42
+VSimpleName: widthMode
+p578
+tp579
+I1
+s(Vinsert
+p580
+I40
+VQualifiedName: InputType.TYPE_TEXT_VARIATION_PASSWORD
+p581
+tp582
+I2
+s(Vinsert
+p583
+I40
+VQualifiedName: mBuilder.layoutManager
+p584
+tp585
+I2
+s(Vinsert
+p586
+I42
+VSimpleName: onGetDefaultValue
+p587
+tp588
+I1
+s(Vinsert
+p589
+I42
+VSimpleName: setVisibility
+p590
+tp591
+I8
+s(Vinsert
+p592
+I42
+VSimpleName: setFocusable
+p593
+tp594
+I2
+s(Vinsert
+p595
+I42
+VSimpleName: thumbDrawable
+p596
+tp597
+I1
+s(Vinsert
+p598
+I42
+VSimpleName: run
+p599
+tp600
+I1
+s(Vinsert
+p601
+I40
+VQualifiedName: android.R.attr.colorAccent
+p602
+tp603
+I1
+s(Vinsert
+p604
+I40
+VQualifiedName: mBuilder.mProgress
+p605
+tp606
+I1
+s(Vinsert
+p607
+I43
+VSimpleType: LinearLayout
+p608
+tp609
+I1
+s(Vinsert
+p610
+I45
+VStringLiteral: "builder"
+p611
+tp612
+I1
+s(Vinsert
+p613
+I42
+VSimpleName: linkColor
+p614
+tp615
+I1
+s(Vinsert
+p616
+I42
+VSimpleName: input
+p617
+tp618
+I6
+s(Vinsert
+p619
+I40
+VQualifiedName: builder.titleGravity
+p620
+tp621
+I1
+s(Vinsert
+p622
+I42
+VSimpleName: stateSub
+p623
+tp624
+I4
+s(Vinsert
+p625
+I40
+VQualifiedName: R.attr.md_title_gravity
+p626
+tp627
+I1
+s(Vinsert
+p628
+I42
+VSimpleName: getPreferenceScreen
+p629
+tp630
+I2
+s(Vinsert
+p631
+I42
+VSimpleName: getWindowVisibleDisplayFrame
+p632
+tp633
+I1
+s(Vinsert
+p634
+I40
+VQualifiedName: adapter.dialog.mBuilder.items
+p635
+tp636
+I2
+s(Vinsert
+p637
+I42
+VSimpleName: mCustomSeekRValue
+p638
+tp639
+I1
+s(Vinsert
+p640
+I42
+VSimpleName: checkIfListInitScroll
+p641
+tp642
+I1
+s(Vinsert
+p643
+I40
+VQualifiedName: adapter.mRadioButton
+p644
+tp645
+I3
+s(Vinsert
+p646
+I42
+VSimpleName: readInt
+p647
+tp648
+I3
+s(Vinsert
+p649
+I42
+VSimpleName: setTint
+p650
+tp651
+I5
+s(Vinsert
+p652
+I42
+VSimpleName: LayoutRes
+p653
+tp654
+I1
+s(Vinsert
+p655
+I42
+VSimpleName: value
+p656
+tp657
+I3
+s(Vinsert
+p658
+I27
+VInfixExpression: !=
+p659
+tp660
+I46
+s(Vinsert
+p661
+I42
+VSimpleName: MaterialListPreference
+p662
+tp663
+I1
+s(Vinsert
+p664
+I42
+VSimpleName: PreferenceManagerCompat
+p665
+tp666
+I1
+s(Vinsert
+p667
+I42
+VSimpleName: icon
+p668
+tp669
+I15
+s(Vinsert
+p670
+I42
+VSimpleName: listView
+p671
+tp672
+I2
+s(Vinsert
+p673
+I42
+VSimpleName: items
+p674
+tp675
+I1
+s(Vinsert
+p676
+I42
+VSimpleName: mContext
+p677
+tp678
+I6
+s(Vinsert
+p679
+I43
+VSimpleType: Class
+p680
+tp681
+I1
+s(Vinsert
+p682
+I45
+VStringLiteral: "Max button width: "
+p683
+tp684
+I1
+s(Vinsert
+p685
+I42
+VSimpleName: setBackgroundColor
+p686
+tp687
+I2
+s(Vinsert
+p688
+I42
+VSimpleName: subLevel
+p689
+tp690
+I1
+s(Vinsert
+p691
+I42
+VSimpleName: measure
+p692
+tp693
+I1
+s(Vinsert
+p694
+I42
+VSimpleName: getConfiguration
+p695
+tp696
+I1
+s(Vinsert
+p697
+I39
+VPrimitiveType: boolean
+p698
+tp699
+I11
+s(Vinsert
+p700
+I42
+VSimpleName: mContent
+p701
+tp702
+I3
+s(Vinsert
+p703
+I42
+VSimpleName: Path
+p704
+tp705
+I2
+s(Vinsert
+p706
+I42
+VSimpleName: Integer
+p707
+tp708
+I3
+s(Vinsert
+p709
+I43
+VSimpleType: FolderSelectorDialog
+p710
+tp711
+I1
+s(Vinsert
+p712
+I42
+VSimpleName: DialogAction
+p713
+tp714
+I2
+s(Vinsert
+p715
+I42
+VSimpleName: findLastVisibleItemPosition
+p716
+tp717
+I2
+s(Vinsert
+p718
+I42
+VSimpleName: setEntries
+p719
+tp720
+I2
+s(Vinsert
+p721
+I40
+VQualifiedName: DialogInterface.BUTTON_POSITIVE
+p722
+tp723
+I3
+s(Vinsert
+p724
+I42
+VSimpleName: oldChecked
+p725
+tp726
+I1
+s(Vinsert
+p727
+I40
+VQualifiedName: WindowManager.LayoutParams
+p728
+tp729
+I2
+s(Vinsert
+p730
+I40
+VQualifiedName: mBuilder.selectedIndices
+p731
+tp732
+I3
+s(Vinsert
+p733
+I42
+VSimpleName: containsKey
+p734
+tp735
+I3
+s(Vinsert
+p736
+I40
+VQualifiedName: RelativeLayout.START_OF
+p737
+tp738
+I1
+s(Vinsert
+p739
+I42
+VSimpleName: wrap
+p740
+tp741
+I2
+s(Vinsert
+p742
+I42
+VSimpleName: setColor
+p743
+tp744
+I1
+s(Vinsert
+p745
+I42
+VSimpleName: dialogFrameMargin
+p746
+tp747
+I1
+s(Vinsert
+p748
+I42
+VSimpleName: inputMaxLength
+p749
+tp750
+I1
+s(Vinsert
+p751
+I42
+VSimpleName: setProgressDrawable
+p752
+tp753
+I2
+s(Vinsert
+p754
+I79
+VSingleMemberAnnotation
+p755
+tp756
+I2
+s(Vinsert
+p757
+I42
+VSimpleName: getWindowToken
+p758
+tp759
+I1
+s(Vinsert
+p760
+I11
+VCastExpression
+p761
+tp762
+I33
+s(Vinsert
+p763
+I42
+VSimpleName: getSystemService
+p764
+tp765
+I1
+s(Vinsert
+p766
+I42
+VSimpleName: ColorStateList
+p767
+tp768
+I8
+s(Vinsert
+p769
+I40
+VQualifiedName: items.length
+p770
+tp771
+I1
+s(Vinsert
+p772
+I42
+VSimpleName: resolveColor
+p773
+tp774
+I18
+s(Vinsert
+p775
+I42
+VSimpleName: putInt
+p776
+tp777
+I1
+s(Vinsert
+p778
+I40
+VQualifiedName: GravityEnum.CENTER
+p779
+tp780
+I1
+s(Vinsert
+p781
+I42
+VSimpleName: checkIfCanGoUp
+p782
+tp783
+I2
+s(Vinsert
+p784
+I42
+VSimpleName: disabled
+p785
+tp786
+I1
+s(Vinsert
+p787
+I42
+VSimpleName: ary
+p788
+tp789
+I1
+s(Vinsert
+p790
+I42
+VSimpleName: colorRes
+p791
+tp792
+I8
+s(Vinsert
+p793
+I42
+VSimpleName: setIndeterminateTintList
+p794
+tp795
+I1
+s(Vinsert
+p796
+I42
+VSimpleName: Paint
+p797
+tp798
+I3
+s(Vinsert
+p799
+I42
+VSimpleName: progress
+p800
+tp801
+I2
+s(Vinsert
+p802
+I42
+VSimpleName: ScrollView
+p803
+tp804
+I2
+s(Vinsert
+p805
+I42
+VSimpleName: primaryTextColor
+p806
+tp807
+I1
+s(Vinsert
+p808
+I59
+VVariableDeclarationFragment
+p809
+tp810
+I116
+s(Vinsert
+p811
+I40
+VQualifiedName: PreferenceManager.OnActivityDestroyListener
+p812
+tp813
+I5
+s(Vinsert
+p814
+I43
+VSimpleType: GravityEnum
+p815
+tp816
+I2
+s(Vinsert
+p817
+I40
+VQualifiedName: RelativeLayout.ALIGN_PARENT_RIGHT
+p818
+tp819
+I1
+s(Vinsert
+p820
+I42
+VSimpleName: DrawableCompat
+p821
+tp822
+I3
+s(Vinsert
+p823
+I24
+VForStatement
+p824
+tp825
+I4
+s(Vinsert
+p826
+I43
+VSimpleType: List
+p827
+tp828
+I1
+s(Vinsert
+p829
+I42
+VSimpleName: setInternalInputCallback
+p830
+tp831
+I1
+s(Vinsert
+p832
+I42
+VSimpleName: getColorForState
+p833
+tp834
+I1
+s(Vinsert
+p835
+I42
+VSimpleName: titleSub
+p836
+tp837
+I1
+s(Vinsert
+p838
+I42
+VSimpleName: setColorFilter
+p839
+tp840
+I5
+s(Vinsert
+p841
+I42
+VSimpleName: Collections
+p842
+tp843
+I3
+s(Vinsert
+p844
+I42
+VSimpleName: checkDraws
+p845
+tp846
+I2
+s(Vinsert
+p847
+I42
+VSimpleName: Method
+p848
+tp849
+I6
+s(Vinsert
+p850
+I42
+VSimpleName: MaterialDialogAdapter
+p851
+tp852
+I3
+s(Vinsert
+p853
+I42
+VSimpleName: start
+p854
+tp855
+I2
+s(Vinsert
+p856
+I42
+VSimpleName: getIntrinsicWidth
+p857
+tp858
+I2
+s(Vinsert
+p859
+I42
+VSimpleName: allowSelectionChange
+p860
+tp861
+I2
+s(Vinsert
+p862
+I18
+VContinueStatement
+p863
+tp864
+I2
+s(Vinsert
+p865
+I43
+VSimpleType: TypedValue
+p866
+tp867
+I4
+s(Vinsert
+p868
+I45
+VStringLiteral: "%d"
+p869
+tp870
+I1
+s(Vinsert
+p871
+I42
+VSimpleName: imm
+p872
+tp873
+I2
+s(Vinsert
+p874
+I42
+VSimpleName: maxWindowFrame
+p875
+tp876
+I3
+s(Vinsert
+p877
+I42
+VSimpleName: findViewById
+p878
+tp879
+I24
+s(Vinsert
+p880
+I42
+VSimpleName: getBackground
+p881
+tp882
+I2
+s(Vinsert
+p883
+I42
+VSimpleName: notifyItemChanged
+p884
+tp885
+I1
+s(Vinsert
+p886
+I42
+VSimpleName: results
+p887
+tp888
+I1
+s(Vinsert
+p889
+I42
+VSimpleName: showListener
+p890
+tp891
+I2
+s(Vinsert
+p892
+I45
+VStringLiteral: "registerOnActivityDestroyListener"
+p893
+tp894
+I3
+s(Vinsert
+p895
+I43
+VSimpleType: GridLayoutManager
+p896
+tp897
+I2
+s(Vinsert
+p898
+I42
+VSimpleName: getPath
+p899
+tp900
+I2
+s(Vinsert
+p901
+I40
+VQualifiedName: Build.VERSION.SDK_INT
+p902
+tp903
+I21
+s(Vinsert
+p904
+I42
+VSimpleName: xValues
+p905
+tp906
+I1
+s(Vinsert
+p907
+I42
+VSimpleName: resolveGravityEnum
+p908
+tp909
+I2
+s(Vinsert
+p910
+I42
+VSimpleName: getDimension
+p911
+tp912
+I7
+s(Vinsert
+p913
+I42
+VSimpleName: getText
+p914
+tp915
+I5
+s(Vinsert
+p916
+I42
+VSimpleName: itemView
+p917
+tp918
+I5
+s(Vinsert
+p919
+I40
+VQualifiedName: Manifest.permission.READ_EXTERNAL_STORAGE
+p920
+tp921
+I1
+s(Vinsert
+p922
+I42
+VSimpleName: show
+p923
+tp924
+I20
+s(Vinsert
+p925
+I42
+VSimpleName: View
+p926
+tp927
+I19
+s(Vinsert
+p928
+I42
+VSimpleName: getChildCount
+p929
+tp930
+I5
+s(Vinsert
+p931
+I42
+VSimpleName: indices
+p932
+tp933
+I4
+s(Vinsert
+p934
+I40
+VQualifiedName: R.dimen.dialog_width
+p935
+tp936
+I1
+s(Vinsert
+p937
+I42
+VSimpleName: mCustomSeekGValue
+p938
+tp939
+I1
+s(Vinsert
+p940
+I42
+VSimpleName: xPvh
+p941
+tp942
+I1
+s(Vinsert
+p943
+I42
+VSimpleName: getClass
+p944
+tp945
+I8
+s(Vinsert
+p946
+I42
+VSimpleName: gravity
+p947
+tp948
+I1
+s(Vinsert
+p949
+I42
+VSimpleName: attrs
+p950
+tp951
+I5
+s(Vinsert
+p952
+I40
+VQualifiedName: R.bool.md_is_tablet
+p953
+tp954
+I2
+s(Vinsert
+p955
+I42
+VSimpleName: showBasicIcon
+p956
+tp957
+I1
+s(Vinsert
+p958
+I40
+VQualifiedName: GravityEnum.START
+p959
+tp960
+I2
+s(Vinsert
+p961
+I40
+VQualifiedName: dialog.title
+p962
+tp963
+I1
+s(Vinsert
+p964
+I40
+VQualifiedName: TypedValue.COMPLEX_UNIT_DIP
+p965
+tp966
+I1
+s(Vinsert
+p967
+I42
+VSimpleName: setLayoutManager
+p968
+tp969
+I1
+s(Vinsert
+p970
+I42
+VSimpleName: getViewTreeObserver
+p971
+tp972
+I1
+s(Vinsert
+p973
+I42
+VSimpleName: defaultGravity
+p974
+tp975
+I1
+s(Vinsert
+p976
+I43
+VSimpleType: CircularProgressDrawable
+p977
+tp978
+I1
+s(Vinsert
+p979
+I42
+VSimpleName: selectedIndicesList
+p980
+tp981
+I7
+s(Vinsert
+p982
+I51
+VSynchronizedStatement
+p983
+tp984
+I1
+s(Vinsert
+p985
+I43
+VSimpleType: ScrollView
+p986
+tp987
+I2
+s(Vinsert
+p988
+I42
+VSimpleName: context
+p989
+tp990
+I39
+s(Vinsert
+p991
+I40
+VQualifiedName: builder.indeterminateProgress
+p992
+tp993
+I1
+s(Vinsert
+p994
+I42
+VSimpleName: setIndeterminate
+p995
+tp996
+I1
+s(Vinsert
+p997
+I42
+VSimpleName: i
+p998
+tp999
+I16
+s(Vinsert
+p1000
+I42
+VSimpleName: getBuilder
+p1001
+tp1002
+I2
+s(Vinsert
+p1003
+I40
+VQualifiedName: FrameLayout.LayoutParams
+p1004
+tp1005
+I1
+s(Vinsert
+p1006
+I42
+VSimpleName: ofInt
+p1007
+tp1008
+I1
+s(Vinsert
+p1009
+I42
+VSimpleName: tint
+p1010
+tp1011
+I2
+s(Vinsert
+p1012
+I40
+VQualifiedName: RelativeLayout.ALIGN_PARENT_START
+p1013
+tp1014
+I1
+s(Vinsert
+p1015
+I42
+VSimpleName: listener
+p1016
+tp1017
+I4
+s(Vinsert
+p1018
+I42
+VSimpleName: getInputEditText
+p1019
+tp1020
+I2
+s(Vinsert
+p1021
+I42
+VSimpleName: setAdjustViewBounds
+p1022
+tp1023
+I2
+s(Vinsert
+p1024
+I40
+VQualifiedName: dialog.content
+p1025
+tp1026
+I1
+s(Vinsert
+p1027
+I80
+VMemberValuePair
+p1028
+tp1029
+I3
+s(Vinsert
+p1030
+I27
+VInfixExpression: <=
+p1031
+tp1032
+I4
+s(Vinsert
+p1033
+I42
+VSimpleName: drawable
+p1034
+tp1035
+I2
+s(Vinsert
+p1036
+I45
+VStringLiteral: ": "
+p1037
+tp1038
+I1
+s(Vinsert
+p1039
+I42
+VSimpleName: widthMeasureSpec
+p1040
+tp1041
+I5
+s(Vinsert
+p1042
+I42
+VSimpleName: contentColorFallback
+p1043
+tp1044
+I1
+s(Vinsert
+p1045
+I43
+VSimpleType: Integer
+p1046
+tp1047
+I2
+s(Vinsert
+p1048
+I42
+VSimpleName: mThread
+p1049
+tp1050
+I2
+s(Vinsert
+p1051
+I42
+VSimpleName: showBasicLongContent
+p1052
+tp1053
+I1
+s(Vinsert
+p1054
+I43
+VSimpleType: AppCompatActivity
+p1055
+tp1056
+I1
+s(Vinsert
+p1057
+I42
+VSimpleName: onInput
+p1058
+tp1059
+I1
+s(Vinsert
+p1060
+I42
+VSimpleName: setThumb
+p1061
+tp1062
+I1
+s(Vinsert
+p1063
+I42
+VSimpleName: setGravity
+p1064
+tp1065
+I1
+s(Vinsert
+p1066
+I42
+VSimpleName: accentColorRes
+p1067
+tp1068
+I1
+s(Vinsert
+p1069
+I42
+VSimpleName: setTitle
+p1070
+tp1071
+I1
+s(Vinsert
+p1072
+I43
+VSimpleType: DialogInterface
+p1073
+tp1074
+I4
+s(Vinsert
+p1075
+I54
+VTryStatement
+p1076
+tp1077
+I8
+s(Vinsert
+p1078
+I42
+VSimpleName: setCornerRadius
+p1079
+tp1080
+I1
+s(Vinsert
+p1081
+I42
+VSimpleName: Html
+p1082
+tp1083
+I1
+s(Vinsert
+p1084
+I42
+VSimpleName: llm
+p1085
+tp1086
+I2
+s(Vinsert
+p1087
+I42
+VSimpleName: a
+p1088
+tp1089
+I13
+s(Vinsert
+p1090
+I42
+VSimpleName: setThumbTintList
+p1091
+tp1092
+I2
+s(Vinsert
+p1093
+I43
+VSimpleType: CheckBox
+p1094
+tp1095
+I1
+s(Vinsert
+p1096
+I43
+VSimpleType: ArrayList
+p1097
+tp1098
+I3
+s(Vinsert
+p1099
+I42
+VSimpleName: alwaysCallSingleChoiceCallback
+p1100
+tp1101
+I1
+s(Vinsert
+p1102
+I42
+VSimpleName: itemsGravity
+p1103
+tp1104
+I1
+s(Vinsert
+p1105
+I40
+VQualifiedName: builder.contentColorSet
+p1106
+tp1107
+I1
+s(Vinsert
+p1108
+I40
+VQualifiedName: R.dimen.dialog_frame_margin
+p1109
+tp1110
+I2
+s(Vinsert
+p1111
+I43
+VSimpleType: PreferenceManager.OnActivityDestroyListener
+p1112
+tp1113
+I5
+s(Vinsert
+p1114
+I42
+VSimpleName: AttrRes
+p1115
+tp1116
+I1
+s(Vinsert
+p1117
+I42
+VSimpleName: onCreateViewHolder
+p1118
+tp1119
+I1
+s(Vinsert
+p1120
+I42
+VSimpleName: mProgressMinMax
+p1121
+tp1122
+I2
+s(Vinsert
+p1123
+I42
+VSimpleName: NEUTRAL
+p1124
+tp1125
+I2
+s(Vinsert
+p1126
+I42
+VSimpleName: AppCompatActivity
+p1127
+tp1128
+I1
+s(Vinsert
+p1129
+I40
+VQualifiedName: builder.theme
+p1130
+tp1131
+I2
+s(Vinsert
+p1132
+I42
+VSimpleName: onBindDialogView
+p1133
+tp1134
+I1
+s(Vinsert
+p1135
+I42
+VSimpleName: accentColor
+p1136
+tp1137
+I1
+s(Vinsert
+p1138
+I43
+VSimpleType: IllegalStateException
+p1139
+tp1140
+I3
+s(Vinsert
+p1141
+I42
+VSimpleName: onScrollChanged
+p1142
+tp1143
+I1
+s(Vinsert
+p1144
+I42
+VSimpleName: showMsg
+p1145
+tp1146
+I1
+s(Vinsert
+p1147
+I40
+VQualifiedName: builder.items
+p1148
+tp1149
+I1
+s(Vinsert
+p1150
+I42
+VSimpleName: toArray
+p1151
+tp1152
+I1
+s(Vinsert
+p1153
+I42
+VSimpleName: parseColor
+p1154
+tp1155
+I10
+s(Vinsert
+p1156
+I43
+VSimpleType: Rect
+p1157
+tp1158
+I4
+s(Vinsert
+p1159
+I42
+VSimpleName: Log
+p1160
+tp1161
+I4
+s(Vinsert
+p1162
+I40
+VQualifiedName: Build.VERSION_CODES.HONEYCOMB
+p1163
+tp1164
+I1
+s(Vinsert
+p1165
+I42
+VSimpleName: windowToken
+p1166
+tp1167
+I1
+s(Vinsert
+p1168
+I42
+VSimpleName: setId
+p1169
+tp1170
+I2
+s(Vinsert
+p1171
+I40
+VQualifiedName: R.drawable.abc_btn_check_material
+p1172
+tp1173
+I1
+s(Vinsert
+p1174
+I34
+VNumberLiteral: 8
+p1175
+tp1176
+I1
+s(Vinsert
+p1177
+I42
+VSimpleName: textAllCaps
+p1178
+tp1179
+I2
+s(Vinsert
+p1180
+I42
+VSimpleName: myLooper
+p1181
+tp1182
+I1
+s(Vinsert
+p1183
+I42
+VSimpleName: PropertyValuesHolder
+p1184
+tp1185
+I2
+s(Vinsert
+p1186
+I42
+VSimpleName: il
+p1187
+tp1188
+I3
+s(Vinsert
+p1189
+I42
+VSimpleName: neutralButton
+p1190
+tp1191
+I2
+s(Vinsert
+p1192
+I42
+VSimpleName: positiveButton
+p1193
+tp1194
+I2
+s(Vinsert
+p1195
+I42
+VSimpleName: File
+p1196
+tp1197
+I2
+s(Vinsert
+p1198
+I42
+VSimpleName: mTitleBar
+p1199
+tp1200
+I1
+s(Vinsert
+p1201
+I42
+VSimpleName: ObjectAnimatorCompatLollipop
+p1202
+tp1203
+I1
+s(Vinsert
+p1204
+I45
+VStringLiteral: "/storage/emulated"
+p1205
+tp1206
+I2
+s(Vinsert
+p1207
+I42
+VSimpleName: ta
+p1208
+tp1209
+I4
+s(Vinsert
+p1210
+I42
+VSimpleName: editor
+p1211
+tp1212
+I2
+s(Vinsert
+p1213
+I42
+VSimpleName: setSelector
+p1214
+tp1215
+I1
+s(Vinsert
+p1216
+I42
+VSimpleName: ObjectAnimator
+p1217
+tp1218
+I1
+s(Vinsert
+p1219
+I43
+VSimpleType: FragmentActivity
+p1220
+tp1221
+I3
+s(Vinsert
+p1222
+I42
+VSimpleName: onShow
+p1223
+tp1224
+I3
+s(Vinsert
+p1225
+I42
+VSimpleName: negativeText
+p1226
+tp1227
+I4
+s(Vinsert
+p1228
+I42
+VSimpleName: itemTextColor
+p1229
+tp1230
+I1
+s(Vinsert
+p1231
+I42
+VSimpleName: onNeutral
+p1232
+tp1233
+I1
+s(Vinsert
+p1234
+I42
+VSimpleName: mdAccentColor
+p1235
+tp1236
+I1
+s(Vinsert
+p1237
+I42
+VSimpleName: getActivity
+p1238
+tp1239
+I4
+s(Vinsert
+p1240
+I40
+VQualifiedName: PorterDuff.Mode.MULTIPLY
+p1241
+tp1242
+I1
+s(Vinsert
+p1243
+I42
+VSimpleName: mColorsTop
+p1244
+tp1245
+I2
+s(Vinsert
+p1246
+I66
+VTextElement: hierarchy.
+p1247
+tp1248
+I1
+s(Vinsert
+p1249
+I42
+VSimpleName: positiveResult
+p1250
+tp1251
+I2
+s(Vinsert
+p1252
+I77
+VNormalAnnotation
+p1253
+tp1254
+I1
+s(Vinsert
+p1255
+I66
+VTextElement:  is showing a track. The default is true.
+p1256
+tp1257
+I1
+s(Vinsert
+p1258
+I42
+VSimpleName: getBoolean
+p1259
+tp1260
+I3
+s(Vinsert
+p1261
+I40
+VQualifiedName: R.attr.list_selector
+p1262
+tp1263
+I1
+s(Vinsert
+p1264
+I42
+VSimpleName: CharSequence
+p1265
+tp1266
+I12
+s(Vinsert
+p1267
+I43
+VSimpleType: CheckBox.OnCheckedChangeListener
+p1268
+tp1269
+I1
+s(Vinsert
+p1270
+I42
+VSimpleName: getAdapter
+p1271
+tp1272
+I1
+s(Vinsert
+p1273
+I40
+VQualifiedName: holder.itemView
+p1274
+tp1275
+I1
+s(Vinsert
+p1276
+I42
+VSimpleName: getActionTextColorStateList
+p1277
+tp1278
+I2
+s(Vinsert
+p1279
+I43
+VSimpleType: ColorChooserDialog.Builder
+p1280
+tp1281
+I1
+s(Vinsert
+p1282
+I42
+VSimpleName: whichList
+p1283
+tp1284
+I1
+s(Vinsert
+p1285
+I34
+VNumberLiteral: 0
+p1286
+tp1287
+I33
+s(Vinsert
+p1288
+I45
+VStringLiteral: "sub_index"
+p1289
+tp1290
+I1
+s(Vinsert
+p1291
+I42
+VSimpleName: mProgressMax
+p1292
+tp1293
+I1
+s(Vinsert
+p1294
+I42
+VSimpleName: before
+p1295
+tp1296
+I1
+s(Vinsert
+p1297
+I36
+VParenthesizedExpression
+p1298
+tp1299
+I17
+s(Vinsert
+p1300
+I42
+VSimpleName: progressBar
+p1301
+tp1302
+I4
+s(Vinsert
+p1303
+I57
+VTypeLiteral
+p1304
+tp1305
+I5
+s(Vinsert
+p1306
+I42
+VSimpleName: mCustomColorIndicator
+p1307
+tp1308
+I1
+s(Vinsert
+p1309
+I42
+VSimpleName: append
+p1310
+tp1311
+I2
+s(Vinsert
+p1312
+I42
+VSimpleName: onCreate
+p1313
+tp1314
+I3
+s(Vinsert
+p1315
+I40
+VQualifiedName: Build.VERSION_CODES.GINGERBREAD_MR1
+p1316
+tp1317
+I2
+s(Vinsert
+p1318
+I40
+VQualifiedName: builder.titleColor
+p1319
+tp1320
+I1
+s(Vinsert
+p1321
+I45
+VStringLiteral: "mShowMessage"
+p1322
+tp1323
+I1
+s(Vinsert
+p1324
+I40
+VQualifiedName: R.id.customViewDivider
+p1325
+tp1326
+I1
+s(Vinsert
+p1327
+I43
+VSimpleType: MenuItem
+p1328
+tp1329
+I1
+s(Vinsert
+p1330
+I52
+VThisExpression
+p1331
+tp1332
+I48
+s(Vinsert
+p1333
+I42
+VSimpleName: Handler
+p1334
+tp1335
+I2
+s(Vinsert
+p1336
+I42
+VSimpleName: newFi
+p1337
+tp1338
+I1
+s(Vinsert
+p1339
+I42
+VSimpleName: con
+p1340
+tp1341
+I3
+s(Vinsert
+p1342
+I43
+VSimpleType: Builder
+p1343
+tp1344
+I8
+s(Vinsert
+p1345
+I43
+VSimpleType: NumberFormat
+p1346
+tp1347
+I1
+s(Vinsert
+p1348
+I42
+VSimpleName: yValues
+p1349
+tp1350
+I1
+s(Vinsert
+p1351
+I70
+VEnhancedForStatement
+p1352
+tp1353
+I7
+s(Vinsert
+p1354
+I42
+VSimpleName: isInterrupted
+p1355
+tp1356
+I1
+s(Vinsert
+p1357
+I40
+VQualifiedName: android.R.attr.textColorPrimaryInverse
+p1358
+tp1359
+I1
+s(Vinsert
+p1360
+I42
+VSimpleName: Stetho
+p1361
+tp1362
+I1
+s(Vinsert
+p1363
+I14
+VClassInstanceCreation
+p1364
+tp1365
+I37
+s(Vinsert
+p1366
+I5
+VArrayType: CharSequence[]
+p1367
+tp1368
+I1
+s(Vinsert
+p1369
+I42
+VSimpleName: onMeasureLinear
+p1370
+tp1371
+I1
+s(Vinsert
+p1372
+I42
+VSimpleName: getColorArray
+p1373
+tp1374
+I1
+s(Vinsert
+p1375
+I40
+VQualifiedName: ary.length
+p1376
+tp1377
+I1
+s(Vinsert
+p1378
+I42
+VSimpleName: setInputType
+p1379
+tp1380
+I1
+s(Vinsert
+p1381
+I42
+VSimpleName: setContent
+p1382
+tp1383
+I2
+s(Vinsert
+p1384
+I42
+VSimpleName: getSupportFragmentManager
+p1385
+tp1386
+I5
+s(Vinsert
+p1387
+I42
+VSimpleName: setTypeface
+p1388
+tp1389
+I1
+s(Vinsert
+p1390
+I42
+VSimpleName: mColors
+p1391
+tp1392
+I1
+s(Vinsert
+p1393
+I42
+VSimpleName: verifyDrawable
+p1394
+tp1395
+I2
+s(Vinsert
+p1396
+I42
+VSimpleName: MaterialSimpleListAdapter
+p1397
+tp1398
+I2
+s(Vinsert
+p1399
+I42
+VSimpleName: add
+p1400
+tp1401
+I10
+s(Vinsert
+p1402
+I42
+VSimpleName: setOnCancelListenerInternal
+p1403
+tp1404
+I1
+s(Vinsert
+p1405
+I83
+VModifier: public
+p1406
+tp1407
+I41
+s(Vinsert
+p1408
+I42
+VSimpleName: MaterialEditTextPreference
+p1409
+tp1410
+I2
+s(Vinsert
+p1411
+I42
+VSimpleName: getLayoutForType
+p1412
+tp1413
+I1
+s(Vinsert
+p1414
+I42
+VSimpleName: invalidateInputMinMaxIndicator
+p1415
+tp1416
+I1
+s(Vinsert
+p1417
+I42
+VSimpleName: setBackgroundDrawable
+p1418
+tp1419
+I2
+s(Vinsert
+p1420
+I42
+VSimpleName: neutralColor
+p1421
+tp1422
+I3
+s(Vinsert
+p1423
+I65
+VTagElement: @param
+p1424
+tp1425
+I1
+s(Vinsert
+p1426
+I42
+VSimpleName: mSelectedCustomColor
+p1427
+tp1428
+I1
+s(Vinsert
+p1429
+I50
+VSwitchStatement
+p1430
+tp1431
+I5
+s(Vinsert
+p1432
+I42
+VSimpleName: SINGLE
+p1433
+tp1434
+I1
+s(Vinsert
+p1435
+I42
+VSimpleName: MDButton
+p1436
+tp1437
+I4
+s(Vinsert
+p1438
+I42
+VSimpleName: setTextAlignment
+p1439
+tp1440
+I4
+s(Vinsert
+p1441
+I42
+VSimpleName: mCustomSeekR
+p1442
+tp1443
+I2
+s(Vinsert
+p1444
+I42
+VSimpleName: positiveTextView
+p1445
+tp1446
+I1
+s(Vinsert
+p1447
+I27
+VInfixExpression: >=
+p1448
+tp1449
+I14
+s(Vinsert
+p1450
+I40
+VQualifiedName: R.id.customView_datePicker
+p1451
+tp1452
+I1
+s(Vinsert
+p1453
+I42
+VSimpleName: colors
+p1454
+tp1455
+I1
+s(Vinsert
+p1456
+I66
+VTextElement:  is showing a track.
+p1457
+tp1458
+I1
+s(Vinsert
+p1459
+I9
+VBooleanLiteral: false
+p1460
+tp1461
+I5
+s(Vinsert
+p1462
+I42
+VSimpleName: split
+p1463
+tp1464
+I1
+s(Vinsert
+p1465
+I65
+VTagElement: @return
+p1466
+tp1467
+I2
+s(Vinsert
+p1468
+I83
+VModifier: protected
+p1469
+tp1470
+I5
+s(Vinsert
+p1471
+I42
+VSimpleName: convertView
+p1472
+tp1473
+I3
+s(Vinsert
+p1474
+I43
+VSimpleType: PreferenceScreen
+p1475
+tp1476
+I2
+s(Vinsert
+p1477
+I42
+VSimpleName: getPaintFlags
+p1478
+tp1479
+I1
+s(Vinsert
+p1480
+I43
+VSimpleType: MaterialDialog
+p1481
+tp1482
+I9
+s(Vinsert
+p1483
+I42
+VSimpleName: Animator
+p1484
+tp1485
+I1
+s(Vinsert
+p1486
+I42
+VSimpleName: AttributeSet
+p1487
+tp1488
+I1
+s(Vinsert
+p1489
+I42
+VSimpleName: useStockLayout
+p1490
+tp1491
+I1
+s(Vinsert
+p1492
+I42
+VSimpleName: length
+p1493
+tp1494
+I5
+s(Vinsert
+p1495
+I42
+VSimpleName: index
+p1496
+tp1497
+I5
+s(Vinsert
+p1498
+I42
+VSimpleName: List
+p1499
+tp1500
+I1
+s(Vinsert
+p1501
+I42
+VSimpleName: resetListeners
+p1502
+tp1503
+I2
+s(Vinsert
+p1504
+I42
+VSimpleName: getSuperclass
+p1505
+tp1506
+I1
+s(Vinsert
+p1507
+I43
+VSimpleType: Method
+p1508
+tp1509
+I4
+s(Vinsert
+p1510
+I42
+VSimpleName: gravityEnumToTextAlignment
+p1511
+tp1512
+I1
+s(Vinsert
+p1513
+I42
+VSimpleName: MaterialMultiSelectListPreference
+p1514
+tp1515
+I2
+s(Vinsert
+p1516
+I42
+VSimpleName: setProgressTintList
+p1517
+tp1518
+I1
+s(Vinsert
+p1519
+I42
+VSimpleName: Context
+p1520
+tp1521
+I3
+s(Vinsert
+p1522
+I42
+VSimpleName: scaleXAnimator
+p1523
+tp1524
+I1
+s(Vinsert
+p1525
+I42
+VSimpleName: recyclerView
+p1526
+tp1527
+I1
+s(Vinsert
+p1528
+I42
+VSimpleName: params
+p1529
+tp1530
+I4
+s(Vinsert
+p1531
+I42
+VSimpleName: calculatedWidth
+p1532
+tp1533
+I1
+s(Vinsert
+p1534
+I42
+VSimpleName: mItemProcessor
+p1535
+tp1536
+I1
+s(Vinsert
+p1537
+I42
+VSimpleName: readString
+p1538
+tp1539
+I1
+s(Vinsert
+p1540
+I42
+VSimpleName: c
+p1541
+tp1542
+I1
+s(Vinsert
+p1543
+I43
+VSimpleType: IndeterminateProgressDrawable
+p1544
+tp1545
+I2
+s(Vinsert
+p1546
+I42
+VSimpleName: initializeWithDefaults
+p1547
+tp1548
+I1
+s(Vinsert
+p1549
+I39
+VPrimitiveType: int
+p1550
+tp1551
+I96
+s(Vinsert
+p1552
+I83
+VModifier: final
+p1553
+tp1554
+I24
+s(Vinsert
+p1555
+I42
+VSimpleName: lastVisible
+p1556
+tp1557
+I2
+s(Vinsert
+p1558
+I42
+VSimpleName: Bundle
+p1559
+tp1560
+I1
+s(Vinsert
+p1561
+I27
+VInfixExpression: &&
+p1562
+tp1563
+I27
+s(Vinsert
+p1564
+I42
+VSimpleName: maxIconSizeRes
+p1565
+tp1566
+I2
+s(Vinsert
+p1567
+I40
+VQualifiedName: mBuilder.progressPercentFormat
+p1568
+tp1569
+I1
+s(Vinsert
+p1570
+I42
+VSimpleName: onMeasure
+p1571
+tp1572
+I5
+s(Vinsert
+p1573
+I42
+VSimpleName: gravityToAlignment
+p1574
+tp1575
+I1
+s(Vinsert
+p1576
+I42
+VSimpleName: ArrayRes
+p1577
+tp1578
+I2
+s(Vinsert
+p1579
+I40
+VQualifiedName: InputFilter.LengthFilter
+p1580
+tp1581
+I1
+s(Vinsert
+p1582
+I40
+VQualifiedName: MaterialDialog.SingleButtonCallback
+p1583
+tp1584
+I1
+s(Vinsert
+p1585
+I42
+VSimpleName: Fragment
+p1586
+tp1587
+I2
+s(Vinsert
+p1588
+I83
+VModifier: static
+p1589
+tp1590
+I2
+s(Vinsert
+p1591
+I42
+VSimpleName: firstItemVisible
+p1592
+tp1593
+I1
+s(Vinsert
+p1594
+I42
+VSimpleName: toString
+p1595
+tp1596
+I9
+s(Vinsert
+p1597
+I40
+VQualifiedName: mBuilder.accentColor
+p1598
+tp1599
+I1
+s(Vinsert
+p1600
+I12
+VCatchClause
+p1601
+tp1602
+I2
+s(Vinsert
+p1603
+I43
+VSimpleType: Interpolator
+p1604
+tp1605
+I1
+s(Vinsert
+p1606
+I42
+VSimpleName: onActivityDestroy
+p1607
+tp1608
+I6
+s(Vinsert
+p1609
+I42
+VSimpleName: mCustomSeekG
+p1610
+tp1611
+I1
+s(Vinsert
+p1612
+I40
+VQualifiedName: R.id.buttonDefaultPositive
+p1613
+tp1614
+I1
+s(Vinsert
+p1615
+I42
+VSimpleName: DrawableRes
+p1616
+tp1617
+I3
+s(Vinsert
+p1618
+I42
+VSimpleName: fEditor
+p1619
+tp1620
+I1
+s(Vinsert
+p1621
+I42
+VSimpleName: getDisabledColor
+p1622
+tp1623
+I1
+s(Vinsert
+p1624
+I42
+VSimpleName: state
+p1625
+tp1626
+I2
+s(Vinsert
+p1627
+I42
+VSimpleName: obtainStyledAttributes
+p1628
+tp1629
+I7
+s(Vinsert
+p1630
+I40
+VQualifiedName: builder.inputMaxLength
+p1631
+tp1632
+I1
+s(Vinsert
+p1633
+I42
+VSimpleName: v
+p1634
+tp1635
+I9
+s(Vinsert
+p1636
+I42
+VSimpleName: regular
+p1637
+tp1638
+I1
+s(Vinsert
+p1639
+I42
+VSimpleName: LinearLayoutManager
+p1640
+tp1641
+I3
+s(Vinsert
+p1642
+I45
+VStringLiteral: "current_path"
+p1643
+tp1644
+I1
+s(Vinsert
+p1645
+I40
+VQualifiedName: DialogInterface.OnClickListener
+p1646
+tp1647
+I1
+s(Vinsert
+p1648
+I43
+VSimpleType: ColorStateList
+p1649
+tp1650
+I2
+s(Vinsert
+p1651
+I66
+VTextElement: Gets the root of the preference hierarchy that this fragment is showing.
+p1652
+tp1653
+I1
+s(Vinsert
+p1654
+I42
+VSimpleName: RippleDrawable
+p1655
+tp1656
+I2
+s(Vinsert
+p1657
+I42
+VSimpleName: format
+p1658
+tp1659
+I6
+s(Vinsert
+p1660
+I42
+VSimpleName: getProgress
+p1661
+tp1662
+I2
+s(Vinsert
+p1663
+I43
+VSimpleType: AboutDialog
+p1664
+tp1665
+I2
+s(Vinsert
+p1666
+I42
+VSimpleName: build
+p1667
+tp1668
+I3
+s(Vinsert
+p1669
+I40
+VQualifiedName: View.VISIBLE
+p1670
+tp1671
+I7
+s(Vinsert
+p1672
+I42
+VSimpleName: contains
+p1673
+tp1674
+I3
+s(Vinsert
+p1675
+I42
+VSimpleName: Exception
+p1676
+tp1677
+I1
+s(Vinsert
+p1678
+I42
+VSimpleName: FrameLayout
+p1679
+tp1680
+I1
+s(Vinsert
+p1681
+I42
+VSimpleName: NumberFormat
+p1682
+tp1683
+I1
+s(Vinsert
+p1684
+I37
+VPostfixExpression: ++
+p1685
+tp1686
+I3
+s(Vinsert
+p1687
+I42
+VSimpleName: Property
+p1688
+tp1689
+I1
+s(Vinsert
+p1690
+I42
+VSimpleName: paint
+p1691
+tp1692
+I6
+s(Vinsert
+p1693
+I42
+VSimpleName: position
+p1694
+tp1695
+I7
+s(Vinsert
+p1696
+I42
+VSimpleName: itemGravity
+p1697
+tp1698
+I1
+s(Vinsert
+p1699
+I42
+VSimpleName: backgroundColor
+p1700
+tp1701
+I1
+s(Vinsert
+p1702
+I42
+VSimpleName: setEnabled
+p1703
+tp1704
+I3
+s(Vinsert
+p1705
+I43
+VSimpleType: TextView
+p1706
+tp1707
+I11
+s(Vinsert
+p1708
+I42
+VSimpleName: mIconPadding
+p1709
+tp1710
+I1
+s(Vinsert
+p1711
+I34
+VNumberLiteral: 1
+p1712
+tp1713
+I13
+s(Vinsert
+p1714
+I42
+VSimpleName: NonNull
+p1715
+tp1716
+I8
+s(Vinsert
+p1717
+I42
+VSimpleName: primaryPreselect
+p1718
+tp1719
+I1
+s(Vinsert
+p1720
+I42
+VSimpleName: progressColor
+p1721
+tp1722
+I1
+s(Vinsert
+p1723
+I42
+VSimpleName: lhs
+p1724
+tp1725
+I2
+s(Vinsert
+p1726
+I42
+VSimpleName: btnSelectorNegative
+p1727
+tp1728
+I1
+s(Vinsert
+p1729
+I40
+VQualifiedName: dialog.mBuilder.items
+p1730
+tp1731
+I1
+s(Vinsert
+p1732
+I43
+VSimpleType: Context
+p1733
+tp1734
+I3
+s(Vinsert
+p1735
+I74
+VParameterizedType: Class<?>
+p1736
+tp1737
+I1
+s(Vinsert
+p1738
+I27
+VInfixExpression: /
+p1739
+tp1740
+I2
+s(Vinsert
+p1741
+I40
+VQualifiedName: Context.INPUT_METHOD_SERVICE
+p1742
+tp1743
+I1
+s(Vinsert
+p1744
+I42
+VSimpleName: defStyleAttr
+p1745
+tp1746
+I5
+s(Vinsert
+p1747
+I42
+VSimpleName: ButtonVH
+p1748
+tp1749
+I2
+s(Vinsert
+p1750
+I42
+VSimpleName: post
+p1751
+tp1752
+I2
+s(Vinsert
+p1753
+I42
+VSimpleName: colorAttr
+p1754
+tp1755
+I1
+s(Vinsert
+p1756
+I42
+VSimpleName: setText
+p1757
+tp1758
+I9
+s(Vinsert
+p1759
+I42
+VSimpleName: Arrays
+p1760
+tp1761
+I2
+s(Vinsert
+p1762
+I42
+VSimpleName: html
+p1763
+tp1764
+I2
+s(Vinsert
+p1765
+I43
+VSimpleType: Typeface
+p1766
+tp1767
+I1
+s(Vinsert
+p1768
+I42
+VSimpleName: getProgressDrawable
+p1769
+tp1770
+I1
+s(Vinsert
+p1771
+I42
+VSimpleName: lm
+p1772
+tp1773
+I2
+s(Vinsert
+p1774
+I42
+VSimpleName: DimenRes
+p1775
+tp1776
+I2
+s(Vinsert
+p1777
+I42
+VSimpleName: initiallyChecked
+p1778
+tp1779
+I1
+s(Vinsert
+p1780
+I40
+VQualifiedName: ViewGroup.LayoutParams.MATCH_PARENT
+p1781
+tp1782
+I1
+s(Vinsert
+p1783
+I40
+VQualifiedName: mBuilder.items
+p1784
+tp1785
+I1
+s(Vinsert
+p1786
+I42
+VSimpleName: hint
+p1787
+tp1788
+I1
+s(Vinsert
+p1789
+I42
+VSimpleName: oldSelected
+p1790
+tp1791
+I1
+s(Vinsert
+p1792
+I42
+VSimpleName: mProgress
+p1793
+tp1794
+I2
+s(Vinsert
+p1795
+I42
+VSimpleName: getResources
+p1796
+tp1797
+I32
+s(Vinsert
+p1798
+I42
+VSimpleName: parentFolder
+p1799
+tp1800
+I12
+s(Vinsert
+p1801
+I40
+VQualifiedName: R.id.content
+p1802
+tp1803
+I1
+s(Vinsert
+p1804
+I42
+VSimpleName: putBoolean
+p1805
+tp1806
+I2
+s(Vinsert
+p1807
+I42
+VSimpleName: NUM_POINTS
+p1808
+tp1809
+I1
+s(Vinsert
+p1810
+I43
+VSimpleType: Configuration
+p1811
+tp1812
+I1
+s(Vinsert
+p1813
+I40
+VQualifiedName: View.TEXT_ALIGNMENT_VIEW_END
+p1814
+tp1815
+I1
+s(Vinsert
+p1816
+I42
+VSimpleName: ContextCompat
+p1817
+tp1818
+I3
+s(Vinsert
+p1819
+I42
+VSimpleName: findIndexOfValue
+p1820
+tp1821
+I1
+s(Vinsert
+p1822
+I42
+VSimpleName: hideKeyboard
+p1823
+tp1824
+I1
+s(Vinsert
+p1825
+I42
+VSimpleName: content
+p1826
+tp1827
+I6
+s(Vinsert
+p1828
+I40
+VQualifiedName: R.attr.md_title_color
+p1829
+tp1830
+I1
+s(Vinsert
+p1831
+I43
+VSimpleType: RadioButton
+p1832
+tp1833
+I1
+s(Vinsert
+p1834
+I42
+VSimpleName: trim
+p1835
+tp1836
+I2
+s(Vinsert
+p1837
+I40
+VQualifiedName: mBuilder.callback
+p1838
+tp1839
+I3
+s(Vinsert
+p1840
+I42
+VSimpleName: progressPercentFormat
+p1841
+tp1842
+I1
+s(Vinsert
+p1843
+I42
+VSimpleName: obtainTypedArray
+p1844
+tp1845
+I1
+s(Vinsert
+p1846
+I40
+VQualifiedName: R.string.allow
+p1847
+tp1848
+I1
+s(Vinsert
+p1849
+I45
+VStringLiteral: "#FFAB91"
+p1850
+tp1851
+I1
+s(Vinsert
+p1852
+I42
+VSimpleName: getDrawable
+p1853
+tp1854
+I2
+s(Vinsert
+p1855
+I42
+VSimpleName: m
+p1856
+tp1857
+I1
+s(Vinsert
+p1858
+I40
+VQualifiedName: dialog.view
+p1859
+tp1860
+I2
+s(Vinsert
+p1861
+I42
+VSimpleName: getMode
+p1862
+tp1863
+I1
+s(Vinsert
+p1864
+I42
+VSimpleName: initialPath
+p1865
+tp1866
+I2
+s(Vinsert
+p1867
+I42
+VSimpleName: dialog
+p1868
+tp1869
+I39
+s(Vinsert
+p1870
+I42
+VSimpleName: getPreferenceManager
+p1871
+tp1872
+I4
+s(Vinsert
+p1873
+I42
+VSimpleName: negativeTextView
+p1874
+tp1875
+I4
+s(Vinsert
+p1876
+I42
+VSimpleName: Runnable
+p1877
+tp1878
+I1
+s(Vinsert
+p1879
+I33
+VNullLiteral
+p1880
+tp1881
+I61
+s(Vinsert
+p1882
+I42
+VSimpleName: AnimatorSet
+p1883
+tp1884
+I2
+s(Vinsert
+p1885
+I27
+VInfixExpression: |
+p1886
+tp1887
+I1
+s(Vinsert
+p1888
+I74
+VParameterizedType: List<Integer>
+p1889
+tp1890
+I1
+s(Vinsert
+p1891
+I42
+VSimpleName: foundLayout
+p1892
+tp1893
+I1
+s(Vinsert
+p1894
+I42
+VSimpleName: defStyleRes
+p1895
+tp1896
+I5
+s(Vinsert
+p1897
+I7
+VAssignment: =
+p1898
+tp1899
+I54
+s(Vinsert
+p1900
+I40
+VQualifiedName: View.TEXT_ALIGNMENT_VIEW_START
+p1901
+tp1902
+I1
+s(Vinsert
+p1903
+I42
+VSimpleName: yProperty
+p1904
+tp1905
+I2
+s(Vinsert
+p1906
+I66
+VTextElement:  The 
+p1907
+tp1908
+I1
+s(Vinsert
+p1909
+I42
+VSimpleName: getCurrentGlobalAngle
+p1910
+tp1911
+I1
+s(Vinsert
+p1912
+I42
+VSimpleName: inputMaxLengthErrorColor
+p1913
+tp1914
+I1
+s(Vinsert
+p1915
+I42
+VSimpleName: colorId
+p1916
+tp1917
+I2
+s(Vinsert
+p1918
+I42
+VSimpleName: resolveActionTextColorStateList
+p1919
+tp1920
+I1
+s(Vinsert
+p1921
+I45
+VStringLiteral: "StackingAlgorithm"
+p1922
+tp1923
+I1
+s(Vinsert
+p1924
+I40
+VQualifiedName: R.layout.preference_activity_custom
+p1925
+tp1926
+I1
+s(Vinsert
+p1927
+I42
+VSimpleName: heightMeasureSpec
+p1928
+tp1929
+I8
+s(Vinsert
+p1930
+I42
+VSimpleName: SavedState
+p1931
+tp1932
+I4
+s(Vinsert
+p1933
+I42
+VSimpleName: setIndeterminateDrawable
+p1934
+tp1935
+I1
+s(Vinsert
+p1936
+I42
+VSimpleName: contentColor
+p1937
+tp1938
+I5
+s(Vinsert
+p1939
+I42
+VSimpleName: setMargin
+p1940
+tp1941
+I2
+s(Vinsert
+p1942
+I42
+VSimpleName: currentFocus
+p1943
+tp1944
+I3
+s(Vinsert
+p1945
+I42
+VSimpleName: getAttributes
+p1946
+tp1947
+I1
+s(Vinsert
+p1948
+I42
+VSimpleName: FragmentActivity
+p1949
+tp1950
+I3
+s(Vinsert
+p1951
+I42
+VSimpleName: ofFloat
+p1952
+tp1953
+I2
+s(Vinsert
+p1954
+I43
+VSimpleType: Path
+p1955
+tp1956
+I2
+s(Vinsert
+p1957
+I42
+VSimpleName: mTopOnScrollChangedListener
+p1958
+tp1959
+I1
+s(Vinsert
+p1960
+I42
+VSimpleName: control
+p1961
+tp1962
+I5
+s(Vinsert
+p1963
+I42
+VSimpleName: bottom
+p1964
+tp1965
+I2
+s(Vinsert
+p1966
+I42
+VSimpleName: INSTANCE
+p1967
+tp1968
+I1
+s(Vinsert
+p1969
+I42
+VSimpleName: setMargins
+p1970
+tp1971
+I1
+s(Vinsert
+p1972
+I43
+VSimpleType: Drawable
+p1973
+tp1974
+I7
+s(Vinsert
+p1975
+I42
+VSimpleName: showInputDialogCheckPrompt
+p1976
+tp1977
+I1
+s(Vinsert
+p1978
+I27
+VInfixExpression: >
+p1979
+tp1980
+I12
+s(Vinsert
+p1981
+I74
+VParameterizedType: HashSet<>
+p1982
+tp1983
+I1
+s(Vinsert
+p1984
+I42
+VSimpleName: isColorDark
+p1985
+tp1986
+I1
+s(Vinsert
+p1987
+I43
+VSimpleType: Runnable
+p1988
+tp1989
+I1
+s(Vinsert
+p1990
+I42
+VSimpleName: fallback
+p1991
+tp1992
+I7
+s(Vinsert
+p1993
+I42
+VSimpleName: setBackgroundCompat
+p1994
+tp1995
+I1
+s(Vinsert
+p1996
+I42
+VSimpleName: checkedItems
+p1997
+tp1998
+I2
+s(Vinsert
+p1999
+I42
+VSimpleName: indeterminateDrawable
+p2000
+tp2001
+I1
+s(Vinsert
+p2002
+I42
+VSimpleName: backgroundColorRes
+p2003
+tp2004
+I1
+s(Vinsert
+p2005
+I42
+VSimpleName: FolderChooserDialog
+p2006
+tp2007
+I1
+s(Vinsert
+p2008
+I43
+VSimpleType: T
+p2009
+tp2010
+I2
+s(Vinsert
+p2011
+I42
+VSimpleName: Parcel
+p2012
+tp2013
+I4
+s(Vinsert
+p2014
+I42
+VSimpleName: showCustomDatePicker
+p2015
+tp2016
+I1
+s(Vinsert
+p2017
+I42
+VSimpleName: hasButtons
+p2018
+tp2019
+I2
+s(Vinsert
+p2020
+I42
+VSimpleName: notifyDataSetChanged
+p2021
+tp2022
+I1
+s(Vinsert
+p2023
+I42
+VSimpleName: customView
+p2024
+tp2025
+I2
+s(Vinsert
+p2026
+I42
+VSimpleName: applyDimension
+p2027
+tp2028
+I2
+s(Vinsert
+p2029
+I42
+VSimpleName: neutralWidth
+p2030
+tp2031
+I1
+s(Vinsert
+p2032
+I42
+VSimpleName: w
+p2033
+tp2034
+I2
+s(Vinsert
+p2035
+I42
+VSimpleName: AboutDialog
+p2036
+tp2037
+I2
+s(Vinsert
+p2038
+I42
+VSimpleName: holder
+p2039
+tp2040
+I1
+s(Vinsert
+p2041
+I42
+VSimpleName: create
+p2042
+tp2043
+I3
+s(Vinsert
+p2044
+I43
+VSimpleType: Property
+p2045
+tp2046
+I1
+s(Vinsert
+p2047
+I40
+VQualifiedName: RelativeLayout.ALIGN_PARENT_END
+p2048
+tp2049
+I1
+s(Vinsert
+p2050
+I7
+VAssignment: +=
+p2051
+tp2052
+I2
+s(Vinsert
+p2053
+I42
+VSimpleName: to
+p2054
+tp2055
+I2
+s(Vinsert
+p2056
+I42
+VSimpleName: inflateItem
+p2057
+tp2058
+I2
+s(Vinsert
+p2059
+I42
+VSimpleName: isInSub
+p2060
+tp2061
+I2
+s(Vinsert
+p2062
+I40
+VQualifiedName: Build.VERSION_CODES.JELLY_BEAN_MR1
+p2063
+tp2064
+I5
+s(Vinsert
+p2065
+I40
+VQualifiedName: DialogInterface.OnCancelListener
+p2066
+tp2067
+I1
+s(Vinsert
+p2068
+I42
+VSimpleName: inflate
+p2069
+tp2070
+I3
+s(Vinsert
+p2071
+I42
+VSimpleName: topView
+p2072
+tp2073
+I1
+s(Vinsert
+p2074
+I42
+VSimpleName: radioVector
+p2075
+tp2076
+I1
+s(Vinsert
+p2077
+I42
+VSimpleName: asList
+p2078
+tp2079
+I2
+s(Vinsert
+p2080
+I38
+VPrefixExpression: -
+p2081
+tp2082
+I10
+s(Vinsert
+p2083
+I43
+VSimpleType: MaterialSimpleListAdapter
+p2084
+tp2085
+I2
+s(Vinsert
+p2086
+I42
+VSimpleName: getDeclaredField
+p2087
+tp2088
+I1
+s(Vinsert
+p2089
+I34
+VNumberLiteral: 0.4f
+p2090
+tp2091
+I1
+s(Vinsert
+p2092
+I43
+VSimpleType: WindowManager.LayoutParams
+p2093
+tp2094
+I2
+s(Vinsert
+p2095
+I42
+VSimpleName: listType
+p2096
+tp2097
+I1
+s(Vinsert
+p2098
+I40
+VQualifiedName: R.dimen.md_button_height
+p2099
+tp2100
+I1
+s(Vinsert
+p2101
+I42
+VSimpleName: PreferenceManager
+p2102
+tp2103
+I5
+s(Vinsert
+p2104
+I42
+VSimpleName: cancelListener
+p2105
+tp2106
+I2
+s(Vinsert
+p2107
+I42
+VSimpleName: HashSet
+p2108
+tp2109
+I1
+s(Vinsert
+p2110
+I42
+VSimpleName: MaterialDialog
+p2111
+tp2112
+I12
+s(Vinsert
+p2113
+I42
+VSimpleName: CircularProgressDrawable
+p2114
+tp2115
+I1
+s(Vinsert
+p2116
+I42
+VSimpleName: playTogether
+p2117
+tp2118
+I1
+s(Vinsert
+p2119
+I42
+VSimpleName: indicesList
+p2120
+tp2121
+I1
+s(Vinsert
+p2122
+I40
+VQualifiedName: s.btnSelectorNegative
+p2123
+tp2124
+I1
+s(Vinsert
+p2125
+I42
+VSimpleName: setMax
+p2126
+tp2127
+I1
+s(Vinsert
+p2128
+I42
+VSimpleName: Resources
+p2129
+tp2130
+I1
+s(Vinsert
+p2131
+I43
+VSimpleType: TypedArray
+p2132
+tp2133
+I10
+s(Vinsert
+p2134
+I40
+VQualifiedName: builder.negativeText
+p2135
+tp2136
+I1
+s(Vinsert
+p2137
+I42
+VSimpleName: setTag
+p2138
+tp2139
+I1
+s(Vinsert
+p2140
+I42
+VSimpleName: putString
+p2141
+tp2142
+I1
+s(Vinsert
+p2143
+I42
+VSimpleName: getDialogIcon
+p2144
+tp2145
+I1
+s(Vinsert
+p2146
+I42
+VSimpleName: mainFramePadding
+p2147
+tp2148
+I1
+s(Vinsert
+p2149
+I42
+VSimpleName: oldValue
+p2150
+tp2151
+I1
+s(Vinsert
+p2152
+I40
+VQualifiedName: ColorChooserDialog.Builder
+p2153
+tp2154
+I1
+s(Vinsert
+p2155
+I42
+VSimpleName: color
+p2156
+tp2157
+I8
+s(Vinsert
+p2158
+I42
+VSimpleName: limitIconToDefaultSize
+p2159
+tp2160
+I1
+s(Vinsert
+p2161
+I42
+VSimpleName: getView
+p2162
+tp2163
+I2
+s(Vinsert
+p2164
+I34
+VNumberLiteral: 56
+p2165
+tp2166
+I1
+s(Vinsert
+p2167
+I43
+VSimpleType: Handler
+p2168
+tp2169
+I2
+s(Vinsert
+p2170
+I43
+VSimpleType: LinearLayoutManager
+p2171
+tp2172
+I3
+s(Vinsert
+p2173
+I42
+VSimpleName: rhs
+p2174
+tp2175
+I1
+s(Vinsert
+p2176
+I40
+VQualifiedName: R.layout.md_input_dialog
+p2177
+tp2178
+I1
+s(Vinsert
+p2179
+I42
+VSimpleName: getWindow
+p2180
+tp2181
+I6
+s(Vinsert
+p2182
+I85
+VDimension
+p2183
+tp2184
+I17
+s(Vinsert
+p2185
+I42
+VSimpleName: printStackTrace
+p2186
+tp2187
+I1
+s(Vinsert
+p2188
+I42
+VSimpleName: seekBar
+p2189
+tp2190
+I3
+s(Vinsert
+p2191
+I42
+VSimpleName: setOnShowListener
+p2192
+tp2193
+I2
+s(Vinsert
+p2194
+I42
+VSimpleName: LinearLayout
+p2195
+tp2196
+I1
+s(Vinsert
+p2197
+I42
+VSimpleName: maxLength
+p2198
+tp2199
+I3
+s(Vinsert
+p2200
+I42
+VSimpleName: setFocusableInTouchMode
+p2201
+tp2202
+I2
+s(Vinsert
+p2203
+I42
+VSimpleName: setBackground
+p2204
+tp2205
+I3
+s(Vinsert
+p2206
+I42
+VSimpleName: getDimensionPixelSize
+p2207
+tp2208
+I2
+s(Vinsert
+p2209
+I42
+VSimpleName: progressColorRes
+p2210
+tp2211
+I1
+s(Vinsert
+p2212
+I42
+VSimpleName: allowSelection
+p2213
+tp2214
+I2
+s(Vinsert
+p2215
+I42
+VSimpleName: shouldDisableDependents
+p2216
+tp2217
+I1
+s(Vinsert
+p2218
+I42
+VSimpleName: stateList
+p2219
+tp2220
+I3
+s(Vinsert
+p2221
+I42
+VSimpleName: setDisplayHomeAsUpEnabled
+p2222
+tp2223
+I1
+s(Vinsert
+p2224
+I40
+VQualifiedName: GravityEnum.END
+p2225
+tp2226
+I1
+s(Vinsert
+p2227
+I2
+VArrayAccess
+p2228
+tp2229
+I10
+s(Vinsert
+p2230
+I40
+VQualifiedName: dialog.positiveButton
+p2231
+tp2232
+I1
+s(Vinsert
+p2233
+I45
+VStringLiteral: "#F9A825"
+p2234
+tp2235
+I1
+s(Vinsert
+p2236
+I8
+VBlock
+p2237
+tp2238
+I235
+s(Vinsert
+p2239
+I42
+VSimpleName: SuppressLint
+p2240
+tp2241
+I1
+s(Vinsert
+p2242
+I42
+VSimpleName: mCallback
+p2243
+tp2244
+I7
+s(Vinsert
+p2245
+I42
+VSimpleName: getMeasuredWidth
+p2246
+tp2247
+I1
+s(Vinsert
+p2248
+I42
+VSimpleName: found
+p2249
+tp2250
+I2
+s(Vinsert
+p2251
+I42
+VSimpleName: mDialog
+p2252
+tp2253
+I7
+s(Vinsert
+p2254
+I27
+VInfixExpression: &
+p2255
+tp2256
+I1
+s(Vinsert
+p2257
+I42
+VSimpleName: itemsCallbackMultiChoice
+p2258
+tp2259
+I1
+s(Vinsert
+p2260
+I42
+VSimpleName: isRecyclerView
+p2261
+tp2262
+I1
+s(Vinsert
+p2263
+I43
+VSimpleType: PreferenceManager
+p2264
+tp2265
+I5
+s(Vinsert
+p2266
+I42
+VSimpleName: setInverseBackgroundForced
+p2267
+tp2268
+I2
+s(Vinsert
+p2269
+I49
+VSwitchCase
+p2270
+tp2271
+I9
+s(Vinsert
+p2272
+I42
+VSimpleName: pm
+p2273
+tp2274
+I11
+s(Vinsert
+p2275
+I42
+VSimpleName: TextView
+p2276
+tp2277
+I11
+s(Vinsert
+p2278
+I76
+VWildcardType: ?
+p2279
+tp2280
+I1
+s(Vinsert
+p2281
+I42
+VSimpleName: MeasureSpec
+p2282
+tp2283
+I2
+s(Vinsert
+p2284
+I40
+VQualifiedName: android.R.attr.textColorPrimary
+p2285
+tp2286
+I1
+s(Vinsert
+p2287
+I42
+VSimpleName: adjustAlpha
+p2288
+tp2289
+I2
+s(Vinsert
+p2290
+I40
+VQualifiedName: R.id.minMax
+p2291
+tp2292
+I1
+s(Vinsert
+p2293
+I46
+VSuperConstructorInvocation
+p2294
+tp2295
+I5
+s(Vinsert
+p2296
+I42
+VSimpleName: Nullable
+p2297
+tp2298
+I3
+s(Vinsert
+p2299
+I42
+VSimpleName: tintMode
+p2300
+tp2301
+I1
+s(Vinsert
+p2302
+I42
+VSimpleName: viewGroup
+p2303
+tp2304
+I1
+s(Vinsert
+p2305
+I42
+VSimpleName: IBinder
+p2306
+tp2307
+I1
+s(Vinsert
+p2308
+I42
+VSimpleName: Math
+p2309
+tp2310
+I1
+s(Vinsert
+p2311
+I42
+VSimpleName: setProgressBarTint
+p2312
+tp2313
+I1
+s(Vinsert
+p2314
+I42
+VSimpleName: width
+p2315
+tp2316
+I1
+s(Vinsert
+p2317
+I42
+VSimpleName: dividerColor
+p2318
+tp2319
+I1
+s(Vinsert
+p2320
+I42
+VSimpleName: selectedIndex
+p2321
+tp2322
+I2
+s(Vinsert
+p2323
+I42
+VSimpleName: availableHeight
+p2324
+tp2325
+I1
+s(Vinsert
+p2326
+I42
+VSimpleName: getEditText
+p2327
+tp2328
+I3
+s(Vinsert
+p2329
+I42
+VSimpleName: mButtons
+p2330
+tp2331
+I2
+s(Vinsert
+p2332
+I45
+VStringLiteral: "SetTextI18n"
+p2333
+tp2334
+I1
+s(Vinsert
+p2335
+I42
+VSimpleName: ViewGroup
+p2336
+tp2337
+I4
+s(Vinsert
+p2338
+I42
+VSimpleName: getAbsolutePath
+p2339
+tp2340
+I5
+s(Vinsert
+p2341
+I40
+VQualifiedName: RelativeLayout.ALIGN_PARENT_LEFT
+p2342
+tp2343
+I1
+s(Vinsert
+p2344
+I42
+VSimpleName: OnClick
+p2345
+tp2346
+I1
+s(Vinsert
+p2347
+I42
+VSimpleName: regularFont
+p2348
+tp2349
+I1
+s(Vinsert
+p2350
+I42
+VSimpleName: titleColorAttr
+p2351
+tp2352
+I1
+s(Vinsert
+p2353
+I42
+VSimpleName: values
+p2354
+tp2355
+I2
+s(Vinsert
+p2356
+I40
+VQualifiedName: mBuilder.content
+p2357
+tp2358
+I2
+s(Vinsert
+p2359
+I40
+VQualifiedName: holder.button
+p2360
+tp2361
+I1
+s(Vinsert
+p2362
+I42
+VSimpleName: setCanceledOnTouchOutside
+p2363
+tp2364
+I1
+s(Vinsert
+p2365
+I78
+VMarkerAnnotation
+p2366
+tp2367
+I45
+s(Vinsert
+p2368
+I45
+VStringLiteral: "#E91E63"
+p2369
+tp2370
+I1
+s(Vinsert
+p2371
+I40
+VQualifiedName: builder.indeterminateIsHorizontalProgress
+p2372
+tp2373
+I3
+s(Vinsert
+p2374
+I42
+VSimpleName: MenuItem
+p2375
+tp2376
+I1
+s(Vinsert
+p2377
+I42
+VSimpleName: addAll
+p2378
+tp2379
+I1
+s(Vinsert
+p2380
+I45
+VStringLiteral: "No positive button"
+p2381
+tp2382
+I1
+s(Vinsert
+p2383
+I42
+VSimpleName: onCancel
+p2384
+tp2385
+I1
+s(Vinsert
+p2386
+I42
+VSimpleName: selector
+p2387
+tp2388
+I1
+s(Vinsert
+p2389
+I42
+VSimpleName: red
+p2390
+tp2391
+I1
+s(Vinsert
+p2392
+I45
+VStringLiteral: "Cannot use setMaxProgress() on this dialog."
+p2393
+tp2394
+I1
+s(Vinsert
+p2395
+I43
+VSimpleType: ButtonVH
+p2396
+tp2397
+I2
+s(Vinsert
+p2398
+I42
+VSimpleName: mCustomSeekA
+p2399
+tp2400
+I1
+s(Vinsert
+p2401
+I42
+VSimpleName: showSoftInput
+p2402
+tp2403
+I1
+s(Vinsert
+p2404
+I43
+VSimpleType: IllegalArgumentException
+p2405
+tp2406
+I1
+s(Vinsert
+p2407
+I42
+VSimpleName: IndeterminateProgressDrawable
+p2408
+tp2409
+I1
+s(Vinsert
+p2410
+I43
+VSimpleType: MaterialDialog.SingleButtonCallback
+p2411
+tp2412
+I1
+s(Vinsert
+p2413
+I42
+VSimpleName: setImageDrawable
+p2414
+tp2415
+I1
+s(Vinsert
+p2416
+I42
+VSimpleName: currentHeight
+p2417
+tp2418
+I1
+s(Vinsert
+p2419
+I45
+VStringLiteral: "unregisterOnActivityDestroyListener"
+p2420
+tp2421
+I1
+s(Vinsert
+p2422
+I42
+VSimpleName: t
+p2423
+tp2424
+I2
+s(Vinsert
+p2425
+I40
+VQualifiedName: ValueAnimator.INFINITE
+p2426
+tp2427
+I1
+s(Vinsert
+p2428
+I45
+VStringLiteral: "Title"
+p2429
+tp2430
+I1
+s(Vinsert
+p2431
+I40
+VQualifiedName: R.id.md_promptCheckbox
+p2432
+tp2433
+I1
+s(Vinsert
+p2434
+I42
+VSimpleName: button
+p2435
+tp2436
+I6
+s(Vinsert
+p2437
+I42
+VSimpleName: checkListener
+p2438
+tp2439
+I1
+s(Vinsert
+p2440
+I42
+VSimpleName: getLayoutDirection
+p2441
+tp2442
+I1
+s(Vinsert
+p2443
+I42
+VSimpleName: cache
+p2444
+tp2445
+I2
+s(Vinsert
+p2446
+I42
+VSimpleName: li
+p2447
+tp2448
+I1
+s(Vinsert
+p2449
+I42
+VSimpleName: ColorRes
+p2450
+tp2451
+I10
+s(Vinsert
+p2452
+I40
+VQualifiedName: View.GONE
+p2453
+tp2454
+I5
+s(Vinsert
+p2455
+I40
+VQualifiedName: Build.VERSION_CODES.JELLY_BEAN_MR2
+p2456
+tp2457
+I1
+s(Vinsert
+p2458
+I42
+VSimpleName: clazz
+p2459
+tp2460
+I1
+s(Vinsert
+p2461
+I43
+VSimpleType: DialogInterface.OnCancelListener
+p2462
+tp2463
+I1
+s(Vinsert
+p2464
+I42
+VSimpleName: invalidateActions
+p2465
+tp2466
+I1
+s(Vinsert
+p2467
+I5
+VArrayType: int[]
+p2468
+tp2469
+I6
+s(Vinsert
+p2470
+I42
+VSimpleName: count
+p2471
+tp2472
+I1
+s(Vinsert
+p2473
+I42
+VSimpleName: theme
+p2474
+tp2475
+I1
+s(Vinsert
+p2476
+I45
+VStringLiteral: "Item clicked: "
+p2477
+tp2478
+I1
+s(Vinsert
+p2479
+I42
+VSimpleName: autoDismiss
+p2480
+tp2481
+I2
+s(Vinsert
+p2482
+I43
+VSimpleType: Exception
+p2483
+tp2484
+I1
+s(Vinsert
+p2485
+I42
+VSimpleName: IntRange
+p2486
+tp2487
+I1
+s(Vinsert
+p2488
+I40
+VQualifiedName: dialog.input
+p2489
+tp2490
+I1
+s(Vinsert
+p2491
+I40
+VQualifiedName: R.string.permissionSample
+p2492
+tp2493
+I1
+s(Vinsert
+p2494
+I42
+VSimpleName: dismissListener
+p2495
+tp2496
+I1
+s(Vinsert
+p2497
+I42
+VSimpleName: ignored
+p2498
+tp2499
+I1
+s(Vinsert
+p2500
+I42
+VSimpleName: ext
+p2501
+tp2502
+I1
+s(Vinsert
+p2503
+I40
+VQualifiedName: builder.contentColor
+p2504
+tp2505
+I2
+s(Vinsert
+p2506
+I40
+VQualifiedName: PorterDuff.Mode.SRC_IN
+p2507
+tp2508
+I1
+s(Vinsert
+p2509
+I42
+VSimpleName: setTextColor
+p2510
+tp2511
+I6
+s(Vinsert
+p2512
+I42
+VSimpleName: setLayoutParams
+p2513
+tp2514
+I1
+s(Vinsert
+p2515
+I42
+VSimpleName: getValue
+p2516
+tp2517
+I3
+s(Vinsert
+p2518
+I43
+VSimpleType: FileChooserDialog.Builder
+p2519
+tp2520
+I1
+s(Vinsert
+p2521
+I42
+VSimpleName: mStackedEndPadding
+p2522
+tp2523
+I1
+s(Vinsert
+p2524
+I42
+VSimpleName: from
+p2525
+tp2526
+I4
+s(Vinsert
+p2527
+I42
+VSimpleName: FolderSelectorDialog
+p2528
+tp2529
+I1
+s(Vinsert
+p2530
+I42
+VSimpleName: mShowMinMax
+p2531
+tp2532
+I1
+s(Vinsert
+p2533
+I42
+VSimpleName: ColorChooserDialog
+p2534
+tp2535
+I3
+s(Vinsert
+p2536
+I42
+VSimpleName: mediumFont
+p2537
+tp2538
+I1
+s(Vinsert
+p2539
+I42
+VSimpleName: MaterialDialogPreference
+p2540
+tp2541
+I2
+s(Vinsert
+p2542
+I42
+VSimpleName: method
+p2543
+tp2544
+I11
+s(Vinsert
+p2545
+I1
+VAnonymousClassDeclaration
+p2546
+tp2547
+I2
+s(Vinsert
+p2548
+I27
+VInfixExpression: -
+p2549
+tp2550
+I3
+s(Vinsert
+p2551
+I42
+VSimpleName: mHandler
+p2552
+tp2553
+I4
+s(Vinsert
+p2554
+I42
+VSimpleName: get
+p2555
+tp2556
+I3
+s(Vinsert
+p2557
+I42
+VSimpleName: itemsIds
+p2558
+tp2559
+I2
+s(Vinsert
+p2560
+I42
+VSimpleName: colorStateList
+p2561
+tp2562
+I1
+s(Vinsert
+p2563
+I42
+VSimpleName: editText
+p2564
+tp2565
+I4
+s(Vinsert
+p2566
+I40
+VQualifiedName: R.id.buttonDefaultNegative
+p2567
+tp2568
+I1
+s(Vinsert
+p2569
+I7
+VAssignment: -=
+p2570
+tp2571
+I1
+s(Vinsert
+p2572
+I43
+VSimpleType: CompoundButton
+p2573
+tp2574
+I2
+s(Vinsert
+p2575
+I40
+VQualifiedName: R.string.deny
+p2576
+tp2577
+I1
+s(Vinsert
+p2578
+I44
+VSingleVariableDeclaration
+p2579
+tp2580
+I105
+s(Vinsert
+p2581
+I42
+VSimpleName: materialBlue
+p2582
+tp2583
+I1
+s(Vinsert
+p2584
+I42
+VSimpleName: setSecondaryProgressTintList
+p2585
+tp2586
+I1
+s(Vinsert
+p2587
+I42
+VSimpleName: val
+p2588
+tp2589
+I2
+s(Vinsert
+p2590
+I66
+VTextElement:  the error color.
+p2591
+tp2592
+I1
+s(Vinsert
+p2593
+I42
+VSimpleName: dismiss
+p2594
+tp2595
+I1
+s(Vinsert
+p2596
+I42
+VSimpleName: resolveBoolean
+p2597
+tp2598
+I3
+s(Vinsert
+p2599
+I42
+VSimpleName: titleColorFallback
+p2600
+tp2601
+I2
+s(Vinsert
+p2602
+I42
+VSimpleName: RadioButton
+p2603
+tp2604
+I1
+s(Vinsert
+p2605
+I42
+VSimpleName: onPositive
+p2606
+tp2607
+I2
+s(Vinsert
+p2608
+I42
+VSimpleName: setForTop
+p2609
+tp2610
+I2
+s(Vinsert
+p2611
+I43
+VSimpleType: View
+p2612
+tp2613
+I15
+s(Vinsert
+p2614
+I45
+VStringLiteral: "#F57F17"
+p2615
+tp2616
+I1
+s(Vinsert
+p2617
+I42
+VSimpleName: positiveWidth
+p2618
+tp2619
+I1
+s(Vinsert
+p2620
+I42
+VSimpleName: visible
+p2621
+tp2622
+I1
+s(Vinsert
+p2623
+I42
+VSimpleName: STORAGE_PERMISSION_RC
+p2624
+tp2625
+I1
+s(Vinsert
+p2626
+I43
+VSimpleType: MDButton
+p2627
+tp2628
+I4
+s(Vinsert
+p2629
+I45
+VStringLiteral: "in_sub"
+p2630
+tp2631
+I1
+s(Vinsert
+p2632
+I43
+VSimpleType: ColorChooserDialog
+p2633
+tp2634
+I3
+s(Vinsert
+p2635
+I66
+VTextElement: Pass in 0 for the default red error color (as specified in guidelines).
+p2636
+tp2637
+I1
+s(Vinsert
+p2638
+I42
+VSimpleName: adapter
+p2639
+tp2640
+I6
+s(Vinsert
+p2641
+I42
+VSimpleName: alwaysCallMultiChoiceCallback
+p2642
+tp2643
+I2
+s(Vinsert
+p2644
+I42
+VSimpleName: getItems
+p2645
+tp2646
+I1
+s(Vinsert
+p2647
+I43
+VSimpleType: String
+p2648
+tp2649
+I13
+s(Vinsert
+p2650
+I42
+VSimpleName: GridLayoutManager
+p2651
+tp2652
+I2
+s(Vinsert
+p2653
+I42
+VSimpleName: invalidateDividersForWebView
+p2654
+tp2655
+I1
+s(Vinsert
+p2656
+I42
+VSimpleName: StringRes
+p2657
+tp2658
+I1
+s(Vinsert
+p2659
+I40
+VQualifiedName: CheckBox.OnCheckedChangeListener
+p2660
+tp2661
+I1
+s(Vinsert
+p2662
+I66
+VTextElement:  that is the root of the preference
+p2663
+tp2664
+I1
+s(Vinsert
+p2665
+I42
+VSimpleName: setChecked
+p2666
+tp2667
+I3
+s(Vinsert
+p2668
+I42
+VSimpleName: addRule
+p2669
+tp2670
+I4
+s(Vinsert
+p2671
+I42
+VSimpleName: getTheme
+p2672
+tp2673
+I7
+s(Vinsert
+p2674
+I42
+VSimpleName: getLastVisiblePosition
+p2675
+tp2676
+I1
+s(Vinsert
+p2677
+I4
+VArrayInitializer
+p2678
+tp2679
+I6
+s(Vinsert
+p2680
+I42
+VSimpleName: e
+p2681
+tp2682
+I3
+s(Vinsert
+p2683
+I40
+VQualifiedName: MaterialDialog.Builder
+p2684
+tp2685
+I11
+s(Vinsert
+p2686
+I40
+VQualifiedName: Theme.DARK
+p2687
+tp2688
+I1
+s(Vinsert
+p2689
+I43
+VSimpleType: Object
+p2690
+tp2691
+I2
+s(Vinsert
+p2692
+I5
+VArrayType: int[][]
+p2693
+tp2694
+I1
+s(Vinsert
+p2695
+I42
+VSimpleName: getString
+p2696
+tp2697
+I7
+s(Vinsert
+p2698
+I43
+VSimpleType: CharSequence
+p2699
+tp2700
+I9
+s(Vinsert
+p2701
+I40
+VQualifiedName: which.length
+p2702
+tp2703
+I2
+s(Vinsert
+p2704
+I42
+VSimpleName: darkTheme
+p2705
+tp2706
+I2
+s(Vinsert
+p2707
+I42
+VSimpleName: TypefaceHelper
+p2708
+tp2709
+I1
+s(Vinsert
+p2710
+I42
+VSimpleName: getTransparentRegion
+p2711
+tp2712
+I1
+s(Vinsert
+p2713
+I42
+VSimpleName: preference
+p2714
+tp2715
+I2
+s(Vinsert
+p2716
+I42
+VSimpleName: PreferenceScreen
+p2717
+tp2718
+I3
+s(Vinsert
+p2719
+I40
+VQualifiedName: mBuilder.buttonsGravity
+p2720
+tp2721
+I2
+s(Vinsert
+p2722
+I42
+VSimpleName: setValue
+p2723
+tp2724
+I1
+s(Vinsert
+p2725
+I42
+VSimpleName: onPreparePaint
+p2726
+tp2727
+I3
+s(Vinsert
+p2728
+I42
+VSimpleName: DialogInterface
+p2729
+tp2730
+I7
+s(Vinsert
+p2731
+I43
+VSimpleType: InputCallback
+p2732
+tp2733
+I1
+s(Vinsert
+p2734
+I42
+VSimpleName: recycle
+p2735
+tp2736
+I1
+s(Vinsert
+p2737
+I42
+VSimpleName: isDirectory
+p2738
+tp2739
+I3
+s(Vinsert
+p2740
+I42
+VSimpleName: setSelection
+p2741
+tp2742
+I1
+s(Vinsert
+p2743
+I42
+VSimpleName: toLowerCase
+p2744
+tp2745
+I1
+s(Vinsert
+p2746
+I42
+VSimpleName: ArrayList
+p2747
+tp2748
+I3
+s(Vinsert
+p2749
+I40
+VQualifiedName: adapter.mInitRadio
+p2750
+tp2751
+I1
+s(Vinsert
+p2752
+I42
+VSimpleName: name
+p2753
+tp2754
+I1
+s(Vinsert
+p2755
+I42
+VSimpleName: END
+p2756
+tp2757
+I1
+s(Vinsert
+p2758
+I42
+VSimpleName: getDecorView
+p2759
+tp2760
+I4
+s(Vinsert
+p2761
+I42
+VSimpleName: MULTI
+p2762
+tp2763
+I1
+s(Vinsert
+p2764
+I42
+VSimpleName: getAdapterPosition
+p2765
+tp2766
+I1
+s(Vinsert
+p2767
+I40
+VQualifiedName: R.attr.textAllCaps
+p2768
+tp2769
+I1
+s(Vinsert
+p2770
+I42
+VSimpleName: getShowTrack
+p2771
+tp2772
+I2
+s(Vinsert
+p2773
+I5
+VArrayType: String[]
+p2774
+tp2775
+I4
+s(Vinsert
+p2776
+I40
+VQualifiedName: R.string.app_name
+p2777
+tp2778
+I1
+s(Vinsert
+p2779
+I42
+VSimpleName: getVisibility
+p2780
+tp2781
+I6
+s(Vinsert
+p2782
+I42
+VSimpleName: CompoundButton
+p2783
+tp2784
+I2
+s(Vinsert
+p2785
+I43
+VSimpleType: Application
+p2786
+tp2787
+I1
+s(Vinsert
+p2788
+I42
+VSimpleName: defaultValue
+p2789
+tp2790
+I1
+s(Vinsert
+p2791
+I43
+VSimpleType: Parcel
+p2792
+tp2793
+I4
+s(Vinsert
+p2794
+I40
+VQualifiedName: R.dimen.md_icon_max_size
+p2795
+tp2796
+I2
+s(Vinsert
+p2797
+I27
+VInfixExpression: <
+p2798
+tp2799
+I12
+s(Vinsert
+p2800
+I42
+VSimpleName: T
+p2801
+tp2802
+I2
+s(Vinsert
+p2803
+I32
+VMethodInvocation
+p2804
+tp2805
+I625
+s(Vinsert
+p2806
+I42
+VSimpleName: Class
+p2807
+tp2808
+I1
+s(Vinsert
+p2809
+I42
+VSimpleName: setTransformationMethod
+p2810
+tp2811
+I1
+s(Vinsert
+p2812
+I42
+VSimpleName: sort
+p2813
+tp2814
+I2
+s(Vinsert
+p2815
+I42
+VSimpleName: LayoutInflater
+p2816
+tp2817
+I3
+s(Vinsert
+p2818
+I42
+VSimpleName: isStarted
+p2819
+tp2820
+I1
+s(Vinsert
+p2821
+I42
+VSimpleName: paddingDp
+p2822
+tp2823
+I1
+s(Vinsert
+p2824
+I42
+VSimpleName: errorColor
+p2825
+tp2826
+I3
+s(Vinsert
+p2827
+I42
+VSimpleName: Drawable
+p2828
+tp2829
+I7
+s(Vinsert
+p2830
+I42
+VSimpleName: id
+p2831
+tp2832
+I1
+s(Vinsert
+p2833
+I42
+VSimpleName: btnStackedGravity
+p2834
+tp2835
+I1
+s(Vinsert
+p2836
+I42
+VSimpleName: setStyle
+p2837
+tp2838
+I3
+s(Vinsert
+p2839
+I16
+VConditionalExpression
+p2840
+tp2841
+I11
+s(Vinsert
+p2842
+I40
+VQualifiedName: dialog.builder.itemColor
+p2843
+tp2844
+I2
+s(Vinsert
+p2845
+I42
+VSimpleName: onColorChooserDismissed
+p2846
+tp2847
+I1
+s(Vinsert
+p2848
+I42
+VSimpleName: TypedArray
+p2849
+tp2850
+I10
+s(Vinsert
+p2851
+I42
+VSimpleName: itemsCallbackSingleChoice
+p2852
+tp2853
+I1
+s(Vinsert
+p2854
+I42
+VSimpleName: onFolderChooserDismissed
+p2855
+tp2856
+I1
+s(Vinsert
+p2857
+I43
+VSimpleType: Fragment
+p2858
+tp2859
+I2
+s(Vinsert
+p2860
+I42
+VSimpleName: Override
+p2861
+tp2862
+I19
+s(Vinsert
+p2863
+I40
+VQualifiedName: dialog.builder.choiceWidgetColor
+p2864
+tp2865
+I2
+s(Vinsert
+p2866
+I42
+VSimpleName: view
+p2867
+tp2868
+I37
+s(Vinsert
+p2869
+I42
+VSimpleName: setProgress
+p2870
+tp2871
+I1
+s(Vinsert
+p2872
+I42
+VSimpleName: s1
+p2873
+tp2874
+I5
+s(Vinsert
+p2875
+I42
+VSimpleName: MDTintHelper
+p2876
+tp2877
+I5
+s(Vinsert
+p2878
+I66
+VTextElement:  Whether this 
+p2879
+tp2880
+I1
+s(Vinsert
+p2881
+I42
+VSimpleName: Application
+p2882
+tp2883
+I1
+s(Vinsert
+p2884
+I42
+VSimpleName: screenPos
+p2885
+tp2886
+I1
+s(Vinsert
+p2887
+I42
+VSimpleName: topAndBottom
+p2888
+tp2889
+I1
+s(Vinsert
+p2890
+I42
+VSimpleName: glm
+p2891
+tp2892
+I2
+s(Vinsert
+p2893
+I42
+VSimpleName: getAttributeCount
+p2894
+tp2895
+I1
+s(Vinsert
+p2896
+I40
+VQualifiedName: PixelFormat.TRANSLUCENT
+p2897
+tp2898
+I2
+s(Vinsert
+p2899
+I42
+VSimpleName: setPadding
+p2900
+tp2901
+I3
+s(Vinsert
+p2902
+I42
+VSimpleName: str
+p2903
+tp2904
+I1
+s(Vinsert
+p2905
+I45
+VStringLiteral: "MD_Stacking"
+p2906
+tp2907
+I1
+s(Vinsert
+p2908
+I42
+VSimpleName: tag
+p2909
+tp2910
+I2
+s(Vinsert
+p2911
+I42
+VSimpleName: windowHorizontalPadding
+p2912
+tp2913
+I1
+s(Vinsert
+p2914
+I40
+VQualifiedName: com.afollestad.materialdialogs.simplelist.MaterialSimpleListAdapter
+p2915
+tp2916
+I1
+s(Vinsert
+p2917
+I3
+VArrayCreation
+p2918
+tp2919
+I7
+s(Vinsert
+p2920
+I42
+VSimpleName: Builder
+p2921
+tp2922
+I8
+s(Vinsert
+p2923
+I42
+VSimpleName: isVisible
+p2924
+tp2925
+I1
+s(Vinsert
+p2926
+I43
+VSimpleType: DialogAction
+p2927
+tp2928
+I2
+s(Vinsert
+p2929
+I40
+VQualifiedName: builder.checkBoxPrompt
+p2930
+tp2931
+I1
+s(Vinsert
+p2932
+I42
+VSimpleName: getPaddingLeft
+p2933
+tp2934
+I5
+s(Vinsert
+p2935
+I45
+VStringLiteral: "You can only use clearSelectedIndicies() with multi choice list dialogs."
+p2936
+tp2937
+I1
+s(Vinsert
+p2938
+I42
+VSimpleName: getDefault
+p2939
+tp2940
+I1
+s(Vinsert
+p2941
+I40
+VQualifiedName: PorterDuff.Mode.SRC_ATOP
+p2942
+tp2943
+I1
+s(Vinsert
+p2944
+I42
+VSimpleName: setBackgroundTintList
+p2945
+tp2946
+I1
+s(Vinsert
+p2947
+I43
+VSimpleType: AnimatorSet
+p2948
+tp2949
+I2
+s(Vinsert
+p2950
+I42
+VSimpleName: screen
+p2951
+tp2952
+I1
+s(Vinsert
+p2953
+I42
+VSimpleName: ListType
+p2954
+tp2955
+I1
+s(Vinsert
+p2956
+I42
+VSimpleName: text
+p2957
+tp2958
+I13
+s(Vinsert
+p2959
+I83
+VModifier: private
+p2960
+tp2961
+I4
+s(Vinsert
+p2962
+I10
+VBreakStatement
+p2963
+tp2964
+I5
+s(Vinsert
+p2965
+I65
+VTagElement: @link
+p2966
+tp2967
+I1
+s(Vinsert
+p2968
+I42
+VSimpleName: setMaxHeight
+p2969
+tp2970
+I2
+s(Vinsert
+p2971
+I42
+VSimpleName: lp
+p2972
+tp2973
+I4
+s(Vinsert
+p2974
+I43
+VSimpleType: RippleDrawable
+p2975
+tp2976
+I2
+s(Vinsert
+p2977
+I42
+VSimpleName: equals
+p2978
+tp2979
+I6
+s(Vinsert
+p2980
+I42
+VSimpleName: getColor
+p2981
+tp2982
+I2
+s(Vinsert
+p2983
+I42
+VSimpleName: onDismiss
+p2984
+tp2985
+I5
+s(Vinsert
+p2986
+I40
+VQualifiedName: dialog.inputMinMax
+p2987
+tp2988
+I1
+s(Vinsert
+p2989
+I40
+VQualifiedName: android.R.attr.state_checked
+p2990
+tp2991
+I3
+s(Vinsert
+p2992
+I40
+VQualifiedName: mBuilder.adapter
+p2993
+tp2994
+I1
+s(Vinsert
+p2995
+I45
+VStringLiteral: "#FF7043"
+p2996
+tp2997
+I1
+s(Vinsert
+p2998
+I42
+VSimpleName: setItems
+p2999
+tp3000
+I1
+s(Vinsert
+p3001
+I42
+VSimpleName: getSupportActionBar
+p3002
+tp3003
+I1
+s(Vinsert
+p3004
+I48
+VSuperMethodInvocation
+p3005
+tp3006
+I18
+s(Vinsert
+p3007
+I42
+VSimpleName: mAnimators
+p3008
+tp3009
+I1
+s(Vinsert
+p3010
+I42
+VSimpleName: contentHorizontalPadding
+p3011
+tp3012
+I1
+s(Vinsert
+p3013
+I42
+VSimpleName: getIndeterminateDrawable
+p3014
+tp3015
+I1
+s(Vinsert
+p3016
+I42
+VSimpleName: object
+p3017
+tp3018
+I2
+s(Vinsert
+p3019
+I42
+VSimpleName: getLayoutManager
+p3020
+tp3021
+I1
+s(Vinsert
+p3022
+I45
+VStringLiteral: "#FFCCBC"
+p3023
+tp3024
+I1
+s(Vinsert
+p3025
+I43
+VSimpleType: Float
+p3026
+tp3027
+I2
+s(Vinsert
+p3028
+I42
+VSimpleName: getArguments
+p3029
+tp3030
+I3
+s(Vinsert
+p3031
+I42
+VSimpleName: radio
+p3032
+tp3033
+I1
+s(Vinsert
+p3034
+I42
+VSimpleName: copyFrom
+p3035
+tp3036
+I2
+s(Vinsert
+p3037
+I43
+VSimpleType: File
+p3038
+tp3039
+I2
+s(Vinsert
+p3040
+I40
+VQualifiedName: Integer.MAX_VALUE
+p3041
+tp3042
+I2
+s(Vinsert
+p3043
+I40
+VQualifiedName: Build.VERSION_CODES.JELLY_BEAN
+p3044
+tp3045
+I2
+s(Vinsert
+p3046
+I42
+VSimpleName: setContentView
+p3047
+tp3048
+I1
+s(Vinsert
+p3049
+I45
+VStringLiteral: ""
+p3050
+tp3051
+I1
+s(Vinsert
+p3052
+I42
+VSimpleName: topLevel
+p3053
+tp3054
+I1
+s(Vinsert
+p3055
+I42
+VSimpleName: getDeclaredMethod
+p3056
+tp3057
+I5
+s(Vinsert
+p3058
+I42
+VSimpleName: mNoTitlePaddingFull
+p3059
+tp3060
+I1
+s(Vinsert
+p3061
+I42
+VSimpleName: calculateXYValues
+p3062
+tp3063
+I1
+s(Vinsert
+p3064
+I42
+VSimpleName: collection
+p3065
+tp3066
+I1
+s(Vinsert
+p3067
+I53
+VThrowStatement
+p3068
+tp3069
+I2
+s(Vinsert
+p3070
+I42
+VSimpleName: setBackgroundResource
+p3071
+tp3072
+I2
+s(Vinsert
+p3073
+I42
+VSimpleName: Configuration
+p3074
+tp3075
+I1
+s(Vinsert
+p3076
+I42
+VSimpleName: Rect
+p3077
+tp3078
+I4
+s(Vinsert
+p3079
+I42
+VSimpleName: regDraw
+p3080
+tp3081
+I2
+s(Vinsert
+p3082
+I43
+VSimpleType: FileChooserDialog
+p3083
+tp3084
+I1
+s(Vinsert
+p3085
+I42
+VSimpleName: clearFocus
+p3086
+tp3087
+I1
+s(Vinsert
+p3088
+I42
+VSimpleName: layout
+p3089
+tp3090
+I5
+s(Vinsert
+p3091
+I42
+VSimpleName: TintEditText
+p3092
+tp3093
+I1
+s(Vinsert
+p3094
+I42
+VSimpleName: max
+p3095
+tp3096
+I2
+s(Vinsert
+p3097
+I42
+VSimpleName: getFirstVisiblePosition
+p3098
+tp3099
+I1
+s(Vinsert
+p3100
+I42
+VSimpleName: contentColorRes
+p3101
+tp3102
+I2
+s(Vinsert
+p3103
+I42
+VSimpleName: mTrackDrawable
+p3104
+tp3105
+I1
+s(Vinsert
+p3106
+I42
+VSimpleName: colorChooser
+p3107
+tp3108
+I1
+s(Vinsert
+p3109
+I42
+VSimpleName: mEditText
+p3110
+tp3111
+I1
+s(Vinsert
+p3112
+I42
+VSimpleName: flags
+p3113
+tp3114
+I1
+s(Vinsert
+p3115
+I40
+VQualifiedName: builder.inputType
+p3116
+tp3117
+I1
+s(Vinsert
+p3118
+I42
+VSimpleName: invertGravityIfNecessary
+p3119
+tp3120
+I1
+s(Vinsert
+p3121
+I42
+VSimpleName: SimpleListVH
+p3122
+tp3123
+I1
+s(Vinsert
+p3124
+I42
+VSimpleName: getTag
+p3125
+tp3126
+I1
+s(Vinsert
+p3127
+I40
+VQualifiedName: R.id.mainFrame
+p3128
+tp3129
+I1
+s(Vinsert
+p3130
+I34
+VNumberLiteral: 0.80972296795f
+p3131
+tp3132
+I1
+s(Vinsert
+p3133
+I42
+VSimpleName: isShowing
+p3134
+tp3135
+I3
+s(Vinsert
+p3136
+I42
+VSimpleName: indeterminate
+p3137
+tp3138
+I1
+s(Vinsert
+p3139
+I65
+VTagElement: @code
+p3140
+tp3141
+I2
+s(Vinsert
+p3142
+I40
+VQualifiedName: dialog.neutralButton
+p3143
+tp3144
+I2
+s(Vinsert
+p3145
+I42
+VSimpleName: who
+p3146
+tp3147
+I6
+s(Vinsert
+p3148
+I42
+VSimpleName: title
+p3149
+tp3150
+I13
+s(Vinsert
+p3151
+I60
+VVariableDeclarationStatement
+p3152
+tp3153
+I90
+s(Vinsert
+p3154
+I42
+VSimpleName: size
+p3155
+tp3156
+I6
+s(Vinsert
+p3157
+I40
+VQualifiedName: R.string.selection_min_limit_reached
+p3158
+tp3159
+I1
+s(Vinsert
+p3160
+I42
+VSimpleName: getActionTextStateList
+p3161
+tp3162
+I3
+s(Vinsert
+p3163
+I40
+VQualifiedName: mBuilder.btnStackedGravity
+p3164
+tp3165
+I1
+s(Vinsert
+p3166
+I42
+VSimpleName: dividerColorRes
+p3167
+tp3168
+I1
+s(Vinsert
+p3169
+I42
+VSimpleName: formatArgs
+p3170
+tp3171
+I1
+s(Vinsert
+p3172
+I40
+VQualifiedName: VERSION.SDK_INT
+p3173
+tp3174
+I1
+s(Vinsert
+p3175
+I40
+VQualifiedName: ViewGroup.LayoutParams.WRAP_CONTENT
+p3176
+tp3177
+I1
+s(Vinsert
+p3178
+I42
+VSimpleName: fromHtml
+p3179
+tp3180
+I3
+s(Vinsert
+p3181
+I42
+VSimpleName: CheckBox
+p3182
+tp3183
+I1
+s(Vinsert
+p3184
+I21
+VExpressionStatement
+p3185
+tp3186
+I254
+s(Vinsert
+p3187
+I40
+VQualifiedName: builder.icon
+p3188
+tp3189
+I1
+s(Vinsert
+p3190
+I43
+VSimpleType: HashSet
+p3191
+tp3192
+I1
+s(Vinsert
+p3193
+I42
+VSimpleName: addTextChangedListener
+p3194
+tp3195
+I1
+s(Vinsert
+p3196
+I42
+VSimpleName: alpha
+p3197
+tp3198
+I1
+s(Vinsert
+p3199
+I26
+VImportDeclaration
+p3200
+tp3201
+I2
+s(Vinsert
+p3202
+I42
+VSimpleName: DialogUtils
+p3203
+tp3204
+I24
+s(Vinsert
+p3205
+I42
+VSimpleName: referenceX
+p3206
+tp3207
+I1
+s(Vinsert
+p3208
+I43
+VSimpleType: IBinder
+p3209
+tp3210
+I1
+s(Vinsert
+p3211
+I42
+VSimpleName: mode
+p3212
+tp3213
+I2
+s(Vinsert
+p3214
+I42
+VSimpleName: which
+p3215
+tp3216
+I8
+s(Vinsert
+p3217
+I43
+VSimpleType: MaterialDialog.Builder
+p3218
+tp3219
+I11
+s(Vinsert
+p3220
+I42
+VSimpleName: onScrollChangedListener
+p3221
+tp3222
+I2
+s(Vinsert
+p3223
+I40
+VQualifiedName: android.text.method.PasswordTransformationMethod
+p3224
+tp3225
+I1
+s(Vinsert
+p3226
+I42
+VSimpleName: setRepeatCount
+p3227
+tp3228
+I1
+s(Vinsert
+p3229
+I42
+VSimpleName: item
+p3230
+tp3231
+I4
+s(Vinsert
+p3232
+I42
+VSimpleName: bottomPadding
+p3233
+tp3234
+I1
+s(Vinsert
+p3235
+I42
+VSimpleName: mDrawable
+p3236
+tp3237
+I2
+s(Vinsert
+p3238
+I42
+VSimpleName: onPause
+p3239
+tp3240
+I2
+s(Vinsert
+p3241
+I42
+VSimpleName: lv
+p3242
+tp3243
+I2
+s.

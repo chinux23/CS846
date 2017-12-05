@@ -1,0 +1,13211 @@
+(dp0
+(Vinsert
+p1
+I43
+VSimpleType: FrameLayout
+p2
+tp3
+I3
+s(Vinsert
+p4
+I42
+VSimpleName: startActionMode
+p5
+tp6
+I12
+s(Vinsert
+p7
+I7
+VAssignment: |=
+p8
+tp9
+I1
+s(Vinsert
+p10
+I43
+VSimpleType: Canvas
+p11
+tp12
+I5
+s(Vinsert
+p13
+I42
+VSimpleName: MotionEvent
+p14
+tp15
+I2
+s(Vinsert
+p16
+I42
+VSimpleName: requestFeature
+p17
+tp18
+I7
+s(Vinsert
+p19
+I42
+VSimpleName: largestChildWidth
+p20
+tp21
+I1
+s(Vinsert
+p22
+I42
+VSimpleName: addAction
+p23
+tp24
+I1
+s(Vinsert
+p25
+I42
+VSimpleName: menuView
+p26
+tp27
+I4
+s(Vinsert
+p28
+I42
+VSimpleName: showCustom
+p29
+tp30
+I1
+s(Vinsert
+p31
+I42
+VSimpleName: COUNT
+p32
+tp33
+I2
+s(Vinsert
+p34
+I42
+VSimpleName: ss
+p35
+tp36
+I1
+s(Vinsert
+p37
+I43
+VSimpleType: OnNavigationListener
+p38
+tp39
+I1
+s(Vinsert
+p40
+I42
+VSimpleName: Cursor
+p41
+tp42
+I2
+s(Vinsert
+p43
+I42
+VSimpleName: mRadioButton
+p44
+tp45
+I1
+s(Vinsert
+p46
+I42
+VSimpleName: getChildrenSkipCount
+p47
+tp48
+I1
+s(Vinsert
+p49
+I42
+VSimpleName: ActionBarHandlerWatson
+p50
+tp51
+I1
+s(Vinsert
+p52
+I27
+VInfixExpression: +
+p53
+tp54
+I15
+s(Vinsert
+p55
+I42
+VSimpleName: mNativeItemMap
+p56
+tp57
+I3
+s(Vinsert
+p58
+I40
+VQualifiedName: ViewGroup.LayoutParams.MATCH_PARENT
+p59
+tp60
+I2
+s(Vinsert
+p61
+I42
+VSimpleName: PagerAdapter
+p62
+tp63
+I2
+s(Vinsert
+p64
+I40
+VQualifiedName: item.mIsEnabled
+p65
+tp66
+I1
+s(Vinsert
+p67
+I42
+VSimpleName: setScale
+p68
+tp69
+I1
+s(Vinsert
+p70
+I42
+VSimpleName: addCategory
+p71
+tp72
+I1
+s(Vinsert
+p73
+I43
+VSimpleType: LayoutInflater
+p74
+tp75
+I4
+s(Vinsert
+p76
+I42
+VSimpleName: mNativeMap
+p77
+tp78
+I3
+s(Vinsert
+p79
+I42
+VSimpleName: println
+p80
+tp81
+I1
+s(Vinsert
+p82
+I42
+VSimpleName: DisplayMetrics
+p83
+tp84
+I1
+s(Vinsert
+p85
+I42
+VSimpleName: config
+p86
+tp87
+I3
+s(Vinsert
+p88
+I42
+VSimpleName: makeMeasureSpec
+p89
+tp90
+I1
+s(Vinsert
+p91
+I83
+VModifier: protected
+p92
+tp93
+I7
+s(Vinsert
+p94
+I42
+VSimpleName: ActionMode
+p95
+tp96
+I8
+s(Vinsert
+p97
+I66
+VTextElement: </pre></blockquote>
+p98
+tp99
+I1
+s(Vinsert
+p100
+I74
+VParameterizedType: WeakHashMap<android.view.MenuItem,MenuItem>
+p101
+tp102
+I1
+s(Vinsert
+p103
+I43
+VSimpleType: RuntimeException
+p104
+tp105
+I1
+s(Vinsert
+p106
+I42
+VSimpleName: setExclusiveItemChecked
+p107
+tp108
+I1
+s(Vinsert
+p109
+I42
+VSimpleName: mBuilder
+p110
+tp111
+I1
+s(Vinsert
+p112
+I42
+VSimpleName: ViewPager
+p113
+tp114
+I1
+s(Vinsert
+p115
+I40
+VQualifiedName: R.string.actionbar_customnavigation_content
+p116
+tp117
+I1
+s(Vinsert
+p118
+I42
+VSimpleName: getTabCount
+p119
+tp120
+I2
+s(Vinsert
+p121
+I42
+VSimpleName: OnActionModeStartedListener
+p122
+tp123
+I2
+s(Vinsert
+p124
+I42
+VSimpleName: setContent
+p125
+tp126
+I1
+s(Vinsert
+p127
+I42
+VSimpleName: setOnItemClickListener
+p128
+tp129
+I2
+s(Vinsert
+p130
+I42
+VSimpleName: jumpDrawablesToCurrentState
+p131
+tp132
+I1
+s(Vinsert
+p133
+I42
+VSimpleName: OP_DETACH
+p134
+tp135
+I1
+s(Vinsert
+p136
+I42
+VSimpleName: onSaveInstanceState
+p137
+tp138
+I2
+s(Vinsert
+p139
+I42
+VSimpleName: setGroupCheckable
+p140
+tp141
+I2
+s(Vinsert
+p142
+I42
+VSimpleName: hasFeature
+p143
+tp144
+I5
+s(Vinsert
+p145
+I42
+VSimpleName: modifiers
+p146
+tp147
+I1
+s(Vinsert
+p148
+I42
+VSimpleName: mLoaders
+p149
+tp150
+I2
+s(Vinsert
+p151
+I42
+VSimpleName: print
+p152
+tp153
+I7
+s(Vinsert
+p154
+I42
+VSimpleName: getGroupId
+p155
+tp156
+I2
+s(Vinsert
+p157
+I42
+VSimpleName: mActionProviderConstructorArguments
+p158
+tp159
+I1
+s(Vinsert
+p160
+I42
+VSimpleName: mHasMenu
+p161
+tp162
+I3
+s(Vinsert
+p163
+I42
+VSimpleName: s
+p164
+tp165
+I1
+s(Vinsert
+p166
+I42
+VSimpleName: isOverflowReserved
+p167
+tp168
+I1
+s(Vinsert
+p169
+I42
+VSimpleName: hasMessages
+p170
+tp171
+I1
+s(Vinsert
+p172
+I40
+VQualifiedName: Build.VERSION_CODES.HONEYCOMB
+p173
+tp174
+I3
+s(Vinsert
+p175
+I42
+VSimpleName: set
+p176
+tp177
+I2
+s(Vinsert
+p178
+I43
+VSimpleType: ScrollView
+p179
+tp180
+I2
+s(Vinsert
+p181
+I42
+VSimpleName: offset
+p182
+tp183
+I1
+s(Vinsert
+p184
+I42
+VSimpleName: setItemChecked
+p185
+tp186
+I2
+s(Vinsert
+p187
+I42
+VSimpleName: loadersRunning
+p188
+tp189
+I1
+s(Vinsert
+p190
+I42
+VSimpleName: setIcon
+p191
+tp192
+I17
+s(Vinsert
+p193
+I42
+VSimpleName: cb
+p194
+tp195
+I1
+s(Vinsert
+p196
+I42
+VSimpleName: getChildAt
+p197
+tp198
+I14
+s(Vinsert
+p199
+I42
+VSimpleName: mNativeHandler
+p200
+tp201
+I1
+s(Vinsert
+p202
+I42
+VSimpleName: args
+p203
+tp204
+I7
+s(Vinsert
+p205
+I42
+VSimpleName: hasItemView
+p206
+tp207
+I2
+s(Vinsert
+p208
+I42
+VSimpleName: initActionBar
+p209
+tp210
+I1
+s(Vinsert
+p211
+I42
+VSimpleName: ApplicationInfo
+p212
+tp213
+I1
+s(Vinsert
+p214
+I42
+VSimpleName: INTERNAL_LIST_CONTAINER_ID
+p215
+tp216
+I1
+s(Vinsert
+p217
+I42
+VSimpleName: HelloNativeActionBarHandler
+p218
+tp219
+I1
+s(Vinsert
+p220
+I42
+VSimpleName: setVisibility
+p221
+tp222
+I6
+s(Vinsert
+p223
+I42
+VSimpleName: finalize
+p224
+tp225
+I1
+s(Vinsert
+p226
+I42
+VSimpleName: mSelectedTab
+p227
+tp228
+I3
+s(Vinsert
+p229
+I42
+VSimpleName: pager
+p230
+tp231
+I1
+s(Vinsert
+p232
+I42
+VSimpleName: Inject
+p233
+tp234
+I1
+s(Vinsert
+p235
+I42
+VSimpleName: getMeasuredStateInt
+p236
+tp237
+I1
+s(Vinsert
+p238
+I42
+VSimpleName: nvalues
+p239
+tp240
+I1
+s(Vinsert
+p241
+I42
+VSimpleName: removeAllTabs
+p242
+tp243
+I1
+s(Vinsert
+p244
+I42
+VSimpleName: prefix
+p245
+tp246
+I1
+s(Vinsert
+p247
+I42
+VSimpleName: keyframes
+p248
+tp249
+I1
+s(Vinsert
+p250
+I42
+VSimpleName: actionBarItems
+p251
+tp252
+I1
+s(Vinsert
+p253
+I42
+VSimpleName: value
+p254
+tp255
+I6
+s(Vinsert
+p256
+I42
+VSimpleName: isEqualTo
+p257
+tp258
+I1
+s(Vinsert
+p259
+I42
+VSimpleName: childCount
+p260
+tp261
+I1
+s(Vinsert
+p262
+I42
+VSimpleName: newFragment
+p263
+tp264
+I3
+s(Vinsert
+p265
+I42
+VSimpleName: setBackgroundColor
+p266
+tp267
+I1
+s(Vinsert
+p268
+I42
+VSimpleName: measure
+p269
+tp270
+I4
+s(Vinsert
+p271
+I66
+VTextElement: on the returned type.</p>
+p272
+tp273
+I1
+s(Vinsert
+p274
+I5
+VArrayType: android.view.MenuItem[]
+p275
+tp276
+I1
+s(Vinsert
+p277
+I42
+VSimpleName: mScaleY
+p278
+tp279
+I2
+s(Vinsert
+p280
+I42
+VSimpleName: tokenizer
+p281
+tp282
+I4
+s(Vinsert
+p283
+I42
+VSimpleName: getSubMenu
+p284
+tp285
+I1
+s(Vinsert
+p286
+I42
+VSimpleName: keySet
+p287
+tp288
+I1
+s(Vinsert
+p289
+I11
+VCastExpression
+p290
+tp291
+I73
+s(Vinsert
+p292
+I42
+VSimpleName: tabView
+p293
+tp294
+I1
+s(Vinsert
+p295
+I42
+VSimpleName: contentView
+p296
+tp297
+I1
+s(Vinsert
+p298
+I42
+VSimpleName: KeyEventCompatHoneycomb
+p299
+tp300
+I1
+s(Vinsert
+p301
+I45
+VStringLiteral: "Positive click!"
+p302
+tp303
+I2
+s(Vinsert
+p304
+I42
+VSimpleName: progress
+p305
+tp306
+I2
+s(Vinsert
+p307
+I42
+VSimpleName: mListener
+p308
+tp309
+I1
+s(Vinsert
+p310
+I42
+VSimpleName: mIsDisplayingActionItemText
+p311
+tp312
+I1
+s(Vinsert
+p313
+I42
+VSimpleName: View_OnAttachStateChangeListener
+p314
+tp315
+I2
+s(Vinsert
+p316
+I42
+VSimpleName: setPadding
+p317
+tp318
+I1
+s(Vinsert
+p319
+I42
+VSimpleName: window
+p320
+tp321
+I7
+s(Vinsert
+p322
+I42
+VSimpleName: doNegativeClick
+p323
+tp324
+I2
+s(Vinsert
+p325
+I42
+VSimpleName: edgeEffect
+p326
+tp327
+I4
+s(Vinsert
+p328
+I43
+VSimpleType: Cursor
+p329
+tp330
+I2
+s(Vinsert
+p331
+I42
+VSimpleName: unwrap
+p332
+tp333
+I6
+s(Vinsert
+p334
+I42
+VSimpleName: canScrollHorizontally
+p335
+tp336
+I2
+s(Vinsert
+p337
+I42
+VSimpleName: showOverflowMenu
+p338
+tp339
+I3
+s(Vinsert
+p340
+I18
+VContinueStatement
+p341
+tp342
+I1
+s(Vinsert
+p343
+I43
+VSimpleType: TypedValue
+p344
+tp345
+I4
+s(Vinsert
+p346
+I42
+VSimpleName: getHomeMenuItem
+p347
+tp348
+I3
+s(Vinsert
+p349
+I42
+VSimpleName: getRepeatCount
+p350
+tp351
+I1
+s(Vinsert
+p352
+I66
+VTextElement: Dispatch onLowMemory() to all fragments.
+p353
+tp354
+I1
+s(Vinsert
+p355
+I42
+VSimpleName: addItem
+p356
+tp357
+I6
+s(Vinsert
+p358
+I42
+VSimpleName: flushBuilder
+p359
+tp360
+I1
+s(Vinsert
+p361
+I42
+VSimpleName: Intent
+p362
+tp363
+I7
+s(Vinsert
+p364
+I40
+VQualifiedName: R.id.mapview
+p365
+tp366
+I1
+s(Vinsert
+p367
+I42
+VSimpleName: onItemsChanged
+p368
+tp369
+I1
+s(Vinsert
+p370
+I42
+VSimpleName: mLocalBroadcastManager
+p371
+tp372
+I1
+s(Vinsert
+p373
+I40
+VQualifiedName: GridView.LayoutParams
+p374
+tp375
+I1
+s(Vinsert
+p376
+I40
+VQualifiedName: Issue659SuggestionsProvider.AUTHORITY
+p377
+tp378
+I1
+s(Vinsert
+p379
+I42
+VSimpleName: nativeOutItems
+p380
+tp381
+I1
+s(Vinsert
+p382
+I42
+VSimpleName: getClass
+p383
+tp384
+I2
+s(Vinsert
+p385
+I42
+VSimpleName: mTabHost
+p386
+tp387
+I2
+s(Vinsert
+p388
+I40
+VQualifiedName: android.R.attr.layout_gravity
+p389
+tp390
+I1
+s(Vinsert
+p391
+I5
+VArrayType: Object[]
+p392
+tp393
+I2
+s(Vinsert
+p394
+I42
+VSimpleName: mProgressStyle
+p395
+tp396
+I2
+s(Vinsert
+p397
+I40
+VQualifiedName: R.drawable.ic_search
+p398
+tp399
+I2
+s(Vinsert
+p400
+I42
+VSimpleName: mFuture
+p401
+tp402
+I1
+s(Vinsert
+p403
+I42
+VSimpleName: bg
+p404
+tp405
+I1
+s(Vinsert
+p406
+I42
+VSimpleName: setScaleType
+p407
+tp408
+I1
+s(Vinsert
+p409
+I5
+VArrayType: ObjectKeyframe[]
+p410
+tp411
+I1
+s(Vinsert
+p412
+I42
+VSimpleName: expletiveText
+p413
+tp414
+I1
+s(Vinsert
+p415
+I42
+VSimpleName: MenuCompatHoneycomb
+p416
+tp417
+I1
+s(Vinsert
+p418
+I42
+VSimpleName: getImeOptions
+p419
+tp420
+I1
+s(Vinsert
+p421
+I45
+VStringLiteral: "Not implemented"
+p422
+tp423
+I1
+s(Vinsert
+p424
+I40
+VQualifiedName: KeyEvent.ACTION_DOWN
+p425
+tp426
+I1
+s(Vinsert
+p427
+I42
+VSimpleName: setTitle
+p428
+tp429
+I16
+s(Vinsert
+p430
+I42
+VSimpleName: a
+p431
+tp432
+I18
+s(Vinsert
+p433
+I40
+VQualifiedName: originalValues.length
+p434
+tp435
+I1
+s(Vinsert
+p436
+I43
+VSimpleType: ArrayList
+p437
+tp438
+I1
+s(Vinsert
+p439
+I45
+VStringLiteral: "Default"
+p440
+tp441
+I1
+s(Vinsert
+p442
+I42
+VSimpleName: tab3
+p443
+tp444
+I1
+s(Vinsert
+p445
+I42
+VSimpleName: getX
+p446
+tp447
+I1
+s(Vinsert
+p448
+I42
+VSimpleName: setTranslationX
+p449
+tp450
+I2
+s(Vinsert
+p451
+I42
+VSimpleName: ERROR_HANDLER_CUSTOM_NATIVE
+p452
+tp453
+I1
+s(Vinsert
+p454
+I42
+VSimpleName: filters
+p455
+tp456
+I2
+s(Vinsert
+p457
+I42
+VSimpleName: MyDialogFragment
+p458
+tp459
+I4
+s(Vinsert
+p460
+I39
+VPrimitiveType: long
+p461
+tp462
+I4
+s(Vinsert
+p463
+I42
+VSimpleName: onQueryTextSubmit
+p464
+tp465
+I2
+s(Vinsert
+p466
+I42
+VSimpleName: dispatchRestoreInstanceState
+p467
+tp468
+I4
+s(Vinsert
+p469
+I42
+VSimpleName: mSuperScrollListener
+p470
+tp471
+I1
+s(Vinsert
+p472
+I42
+VSimpleName: Tab
+p473
+tp474
+I1
+s(Vinsert
+p475
+I40
+VQualifiedName: KeyEvent.ACTION_UP
+p476
+tp477
+I1
+s(Vinsert
+p478
+I42
+VSimpleName: isEnabled
+p479
+tp480
+I1
+s(Vinsert
+p481
+I45
+VStringLiteral: "Tab 2"
+p482
+tp483
+I1
+s(Vinsert
+p484
+I43
+VSimpleType: ObjectKeyframe
+p485
+tp486
+I2
+s(Vinsert
+p487
+I42
+VSimpleName: ensureActionBarAttached
+p488
+tp489
+I2
+s(Vinsert
+p490
+I42
+VSimpleName: getBoolean
+p491
+tp492
+I1
+s(Vinsert
+p493
+I42
+VSimpleName: actualTitle
+p494
+tp495
+I1
+s(Vinsert
+p496
+I42
+VSimpleName: endValue
+p497
+tp498
+I1
+s(Vinsert
+p499
+I42
+VSimpleName: IntentFilter
+p500
+tp501
+I1
+s(Vinsert
+p502
+I43
+VSimpleType: ActionBarMenuItem
+p503
+tp504
+I4
+s(Vinsert
+p505
+I27
+VInfixExpression: <<
+p506
+tp507
+I1
+s(Vinsert
+p508
+I42
+VSimpleName: updateSelectedState
+p509
+tp510
+I2
+s(Vinsert
+p511
+I45
+VStringLiteral: "[requestFeature] returning "
+p512
+tp513
+I1
+s(Vinsert
+p514
+I57
+VTypeLiteral
+p515
+tp516
+I5
+s(Vinsert
+p517
+I40
+VQualifiedName: Fragment.STOPPED
+p518
+tp519
+I1
+s(Vinsert
+p520
+I42
+VSimpleName: brushTeeth
+p521
+tp522
+I1
+s(Vinsert
+p523
+I43
+VSimpleType: MenuItem
+p524
+tp525
+I16
+s(Vinsert
+p526
+I42
+VSimpleName: hintView
+p527
+tp528
+I2
+s(Vinsert
+p529
+I42
+VSimpleName: convertView
+p530
+tp531
+I3
+s(Vinsert
+p532
+I42
+VSimpleName: dispatchChange
+p533
+tp534
+I2
+s(Vinsert
+p535
+I42
+VSimpleName: layoutInflater
+p536
+tp537
+I1
+s(Vinsert
+p538
+I14
+VClassInstanceCreation
+p539
+tp540
+I61
+s(Vinsert
+p541
+I42
+VSimpleName: getVisibleItems
+p542
+tp543
+I2
+s(Vinsert
+p544
+I42
+VSimpleName: info
+p545
+tp546
+I8
+s(Vinsert
+p547
+I43
+VSimpleType: GridView.LayoutParams
+p548
+tp549
+I1
+s(Vinsert
+p550
+I42
+VSimpleName: GDActionBar
+p551
+tp552
+I1
+s(Vinsert
+p553
+I42
+VSimpleName: FragmentTransaction
+p554
+tp555
+I4
+s(Vinsert
+p556
+I42
+VSimpleName: cleanActivityName
+p557
+tp558
+I2
+s(Vinsert
+p559
+I42
+VSimpleName: AppEntry
+p560
+tp561
+I4
+s(Vinsert
+p562
+I42
+VSimpleName: setBackgroundDrawable
+p563
+tp564
+I5
+s(Vinsert
+p565
+I65
+VTagElement: @param
+p566
+tp567
+I7
+s(Vinsert
+p568
+I50
+VSwitchStatement
+p569
+tp570
+I3
+s(Vinsert
+p571
+I42
+VSimpleName: clicked
+p572
+tp573
+I2
+s(Vinsert
+p574
+I27
+VInfixExpression: >=
+p575
+tp576
+I11
+s(Vinsert
+p577
+I40
+VQualifiedName: R.drawable.ic_title_share_default
+p578
+tp579
+I2
+s(Vinsert
+p580
+I43
+VSimpleType: MotionEvent
+p581
+tp582
+I2
+s(Vinsert
+p583
+I42
+VSimpleName: mHomeAsUpEnabled
+p584
+tp585
+I1
+s(Vinsert
+p586
+I42
+VSimpleName: setMeasuredDimension
+p587
+tp588
+I1
+s(Vinsert
+p589
+I42
+VSimpleName: mIsEnabled
+p590
+tp591
+I1
+s(Vinsert
+p592
+I42
+VSimpleName: n
+p593
+tp594
+I1
+s(Vinsert
+p595
+I42
+VSimpleName: index
+p596
+tp597
+I10
+s(Vinsert
+p598
+I42
+VSimpleName: List
+p599
+tp600
+I5
+s(Vinsert
+p601
+I42
+VSimpleName: mProxy
+p602
+tp603
+I5
+s(Vinsert
+p604
+I40
+VQualifiedName: TypedValue.TYPE_STRING
+p605
+tp606
+I1
+s(Vinsert
+p607
+I43
+VSimpleType: OnScrollChangedListener
+p608
+tp609
+I1
+s(Vinsert
+p610
+I42
+VSimpleName: Context
+p611
+tp612
+I3
+s(Vinsert
+p613
+I42
+VSimpleName: getSuperState
+p614
+tp615
+I1
+s(Vinsert
+p616
+I42
+VSimpleName: MapView
+p617
+tp618
+I2
+s(Vinsert
+p619
+I42
+VSimpleName: getTitles
+p620
+tp621
+I1
+s(Vinsert
+p622
+I39
+VPrimitiveType: int
+p623
+tp624
+I133
+s(Vinsert
+p625
+I42
+VSimpleName: getMenuInflater
+p626
+tp627
+I8
+s(Vinsert
+p628
+I42
+VSimpleName: feedbackTypeFlag
+p629
+tp630
+I1
+s(Vinsert
+p631
+I43
+VSimpleType: PackageInfo
+p632
+tp633
+I1
+s(Vinsert
+p634
+I66
+VTextElement: .  See
+p635
+tp636
+I1
+s(Vinsert
+p637
+I42
+VSimpleName: newInstance
+p638
+tp639
+I15
+s(Vinsert
+p640
+I42
+VSimpleName: replace
+p641
+tp642
+I1
+s(Vinsert
+p643
+I42
+VSimpleName: itemTitle
+p644
+tp645
+I1
+s(Vinsert
+p646
+I42
+VSimpleName: goforit
+p647
+tp648
+I2
+s(Vinsert
+p649
+I42
+VSimpleName: getActivityInfo
+p650
+tp651
+I2
+s(Vinsert
+p652
+I40
+VQualifiedName: android.widget.Toast
+p653
+tp654
+I1
+s(Vinsert
+p655
+I42
+VSimpleName: Animation
+p656
+tp657
+I2
+s(Vinsert
+p658
+I42
+VSimpleName: mContentView
+p659
+tp660
+I1
+s(Vinsert
+p661
+I42
+VSimpleName: getPointerId
+p662
+tp663
+I2
+s(Vinsert
+p664
+I40
+VQualifiedName: R.layout.actionbar_styles
+p665
+tp666
+I1
+s(Vinsert
+p667
+I42
+VSimpleName: getInputType
+p668
+tp669
+I1
+s(Vinsert
+p670
+I42
+VSimpleName: v
+p671
+tp672
+I32
+s(Vinsert
+p673
+I42
+VSimpleName: mLayout
+p674
+tp675
+I1
+s(Vinsert
+p676
+I42
+VSimpleName: sub
+p677
+tp678
+I2
+s(Vinsert
+p679
+I45
+VStringLiteral: "Compose Clicked!"
+p680
+tp681
+I1
+s(Vinsert
+p682
+I42
+VSimpleName: dump
+p683
+tp684
+I3
+s(Vinsert
+p685
+I42
+VSimpleName: refresh
+p686
+tp687
+I1
+s(Vinsert
+p688
+I42
+VSimpleName: newAdapter
+p689
+tp690
+I1
+s(Vinsert
+p691
+I42
+VSimpleName: getListView
+p692
+tp693
+I2
+s(Vinsert
+p694
+I42
+VSimpleName: KeyEvent
+p695
+tp696
+I10
+s(Vinsert
+p697
+I42
+VSimpleName: which
+p698
+tp699
+I1
+s(Vinsert
+p700
+I42
+VSimpleName: interpolator
+p701
+tp702
+I6
+s(Vinsert
+p703
+I29
+VJavadoc
+p704
+tp705
+I3
+s(Vinsert
+p706
+I42
+VSimpleName: mTranslationX
+p707
+tp708
+I1
+s(Vinsert
+p709
+I42
+VSimpleName: menuItemClickListener
+p710
+tp711
+I1
+s(Vinsert
+p712
+I42
+VSimpleName: MenuWrapper
+p713
+tp714
+I3
+s(Vinsert
+p715
+I40
+VQualifiedName: R.id.violet
+p716
+tp717
+I2
+s(Vinsert
+p718
+I42
+VSimpleName: setEnabled
+p719
+tp720
+I3
+s(Vinsert
+p721
+I42
+VSimpleName: onOptionsMenuCreated
+p722
+tp723
+I2
+s(Vinsert
+p724
+I43
+VSimpleType: TextView
+p725
+tp726
+I9
+s(Vinsert
+p727
+I34
+VNumberLiteral: 1
+p728
+tp729
+I21
+s(Vinsert
+p730
+I42
+VSimpleName: onDataSetChanged
+p731
+tp732
+I1
+s(Vinsert
+p733
+I42
+VSimpleName: mOverrideNativeCreate
+p734
+tp735
+I1
+s(Vinsert
+p736
+I42
+VSimpleName: nativeMenu
+p737
+tp738
+I2
+s(Vinsert
+p739
+I42
+VSimpleName: loader
+p740
+tp741
+I2
+s(Vinsert
+p742
+I42
+VSimpleName: mIndeterminateProgressStyle
+p743
+tp744
+I1
+s(Vinsert
+p745
+I42
+VSimpleName: childLeft
+p746
+tp747
+I1
+s(Vinsert
+p748
+I42
+VSimpleName: defStyleAttr
+p749
+tp750
+I2
+s(Vinsert
+p751
+I42
+VSimpleName: mSupportedPreviewSizes
+p752
+tp753
+I2
+s(Vinsert
+p754
+I42
+VSimpleName: childIndex
+p755
+tp756
+I2
+s(Vinsert
+p757
+I42
+VSimpleName: notifyDataSetChanged
+p758
+tp759
+I1
+s(Vinsert
+p760
+I42
+VSimpleName: toHexString
+p761
+tp762
+I1
+s(Vinsert
+p763
+I42
+VSimpleName: where
+p764
+tp765
+I2
+s(Vinsert
+p766
+I42
+VSimpleName: invokeMenuActionSync
+p767
+tp768
+I1
+s(Vinsert
+p769
+I42
+VSimpleName: cancel
+p770
+tp771
+I3
+s(Vinsert
+p772
+I42
+VSimpleName: getPosition
+p773
+tp774
+I1
+s(Vinsert
+p775
+I42
+VSimpleName: makeText
+p776
+tp777
+I9
+s(Vinsert
+p778
+I42
+VSimpleName: dialog
+p779
+tp780
+I2
+s(Vinsert
+p781
+I42
+VSimpleName: nextLabel
+p782
+tp783
+I4
+s(Vinsert
+p784
+I42
+VSimpleName: getWritableDatabase
+p785
+tp786
+I2
+s(Vinsert
+p787
+I33
+VNullLiteral
+p788
+tp789
+I91
+s(Vinsert
+p790
+I42
+VSimpleName: mShow
+p791
+tp792
+I1
+s(Vinsert
+p793
+I42
+VSimpleName: children
+p794
+tp795
+I1
+s(Vinsert
+p796
+I42
+VSimpleName: mItemData
+p797
+tp798
+I1
+s(Vinsert
+p799
+I43
+VSimpleType: Exception
+p800
+tp801
+I2
+s(Vinsert
+p802
+I42
+VSimpleName: MAX_ACTION_BAR_ITEMS_LANDSCAPE
+p803
+tp804
+I1
+s(Vinsert
+p805
+I40
+VQualifiedName: Window.FEATURE_OPTIONS_PANEL
+p806
+tp807
+I3
+s(Vinsert
+p808
+I42
+VSimpleName: position
+p809
+tp810
+I17
+s(Vinsert
+p811
+I42
+VSimpleName: FragmentActivity
+p812
+tp813
+I1
+s(Vinsert
+p814
+I42
+VSimpleName: SpinnerAdapter
+p815
+tp816
+I1
+s(Vinsert
+p817
+I42
+VSimpleName: ft
+p818
+tp819
+I7
+s(Vinsert
+p820
+I42
+VSimpleName: mSupportMenu
+p821
+tp822
+I4
+s(Vinsert
+p823
+I43
+VSimpleType: Drawable
+p824
+tp825
+I8
+s(Vinsert
+p826
+I42
+VSimpleName: latch
+p827
+tp828
+I2
+s(Vinsert
+p829
+I27
+VInfixExpression: >
+p830
+tp831
+I5
+s(Vinsert
+p832
+I42
+VSimpleName: V
+p833
+tp834
+I1
+s(Vinsert
+p835
+I42
+VSimpleName: MenuItemCompatHoneycomb
+p836
+tp837
+I2
+s(Vinsert
+p838
+I42
+VSimpleName: expected
+p839
+tp840
+I2
+s(Vinsert
+p841
+I42
+VSimpleName: mTitleCondensed
+p842
+tp843
+I1
+s(Vinsert
+p844
+I42
+VSimpleName: overScrollMode
+p845
+tp846
+I2
+s(Vinsert
+p847
+I42
+VSimpleName: itemActionProvider
+p848
+tp849
+I1
+s(Vinsert
+p850
+I42
+VSimpleName: addMenuPresenter
+p851
+tp852
+I1
+s(Vinsert
+p853
+I40
+VQualifiedName: ViewGroup.LayoutParams.FILL_PARENT
+p854
+tp855
+I4
+s(Vinsert
+p856
+I42
+VSimpleName: nativeSub
+p857
+tp858
+I2
+s(Vinsert
+p859
+I42
+VSimpleName: addFlags
+p860
+tp861
+I1
+s(Vinsert
+p862
+I42
+VSimpleName: mAvailIndices
+p863
+tp864
+I2
+s(Vinsert
+p865
+I42
+VSimpleName: setAlpha
+p866
+tp867
+I1
+s(Vinsert
+p868
+I42
+VSimpleName: setTextColor
+p869
+tp870
+I1
+s(Vinsert
+p871
+I43
+VSimpleType: Method
+p872
+tp873
+I1
+s(Vinsert
+p874
+I42
+VSimpleName: createShareIntent
+p875
+tp876
+I1
+s(Vinsert
+p877
+I42
+VSimpleName: Menu
+p878
+tp879
+I18
+s(Vinsert
+p880
+I40
+VQualifiedName: outValue.resourceId
+p881
+tp882
+I1
+s(Vinsert
+p883
+I45
+VStringLiteral: "Simple2"
+p884
+tp885
+I1
+s(Vinsert
+p886
+I42
+VSimpleName: searchView
+p887
+tp888
+I2
+s(Vinsert
+p889
+I43
+VSimpleType: TypedArray
+p890
+tp891
+I8
+s(Vinsert
+p892
+I42
+VSimpleName: decor
+p893
+tp894
+I3
+s(Vinsert
+p895
+I42
+VSimpleName: unregisterReceiver
+p896
+tp897
+I1
+s(Vinsert
+p898
+I42
+VSimpleName: actual
+p899
+tp900
+I5
+s(Vinsert
+p901
+I42
+VSimpleName: from
+p902
+tp903
+I8
+s(Vinsert
+p904
+I43
+VSimpleType: android.view.MenuItem
+p905
+tp906
+I7
+s(Vinsert
+p907
+I42
+VSimpleName: mTask
+p908
+tp909
+I1
+s(Vinsert
+p910
+I42
+VSimpleName: getHandler
+p911
+tp912
+I2
+s(Vinsert
+p913
+I40
+VQualifiedName: MenuItem.SHOW_AS_ACTION_IF_ROOM
+p914
+tp915
+I3
+s(Vinsert
+p916
+I40
+VQualifiedName: LayoutParams.WRAP_CONTENT
+p917
+tp918
+I3
+s(Vinsert
+p919
+I43
+VSimpleType: ApplicationInfo
+p920
+tp921
+I1
+s(Vinsert
+p922
+I42
+VSimpleName: subItem
+p923
+tp924
+I6
+s(Vinsert
+p925
+I2
+VArrayAccess
+p926
+tp927
+I3
+s(Vinsert
+p928
+I42
+VSimpleName: asActivity
+p929
+tp930
+I7
+s(Vinsert
+p931
+I42
+VSimpleName: mCallback
+p932
+tp933
+I3
+s(Vinsert
+p934
+I42
+VSimpleName: dispatchContextItemSelected
+p935
+tp936
+I1
+s(Vinsert
+p937
+I42
+VSimpleName: FragmentManager
+p938
+tp939
+I4
+s(Vinsert
+p940
+I42
+VSimpleName: dispatchPostCreate
+p941
+tp942
+I1
+s(Vinsert
+p943
+I66
+VTextElement: <p>The <code>R.layout.fragment_pager</code> resource of the top-level fragment is:
+p944
+tp945
+I1
+s(Vinsert
+p946
+I42
+VSimpleName: mActionBarMenu
+p947
+tp948
+I4
+s(Vinsert
+p949
+I49
+VSwitchCase
+p950
+tp951
+I7
+s(Vinsert
+p952
+I42
+VSimpleName: testViewPagerOnlyCurrentMenu
+p953
+tp954
+I1
+s(Vinsert
+p955
+I42
+VSimpleName: widthSpec
+p956
+tp957
+I1
+s(Vinsert
+p958
+I42
+VSimpleName: MeasureSpec
+p959
+tp960
+I2
+s(Vinsert
+p961
+I42
+VSimpleName: itemData
+p962
+tp963
+I3
+s(Vinsert
+p964
+I42
+VSimpleName: d
+p965
+tp966
+I30
+s(Vinsert
+p967
+I43
+VSimpleType: ViewConfiguration
+p968
+tp969
+I2
+s(Vinsert
+p970
+I42
+VSimpleName: checkable
+p971
+tp972
+I1
+s(Vinsert
+p973
+I42
+VSimpleName: Math
+p974
+tp975
+I5
+s(Vinsert
+p976
+I42
+VSimpleName: itemActionViewClassName
+p977
+tp978
+I1
+s(Vinsert
+p979
+I42
+VSimpleName: getEditText
+p980
+tp981
+I1
+s(Vinsert
+p982
+I42
+VSimpleName: mTabsAdapter
+p983
+tp984
+I3
+s(Vinsert
+p985
+I42
+VSimpleName: isFloating
+p986
+tp987
+I1
+s(Vinsert
+p988
+I42
+VSimpleName: oldParent
+p989
+tp990
+I1
+s(Vinsert
+p991
+I42
+VSimpleName: R_styleable_TextAppearance_textAllCaps
+p992
+tp993
+I1
+s(Vinsert
+p994
+I42
+VSimpleName: getLogo
+p995
+tp996
+I1
+s(Vinsert
+p997
+I43
+VSimpleType: FragmentManager
+p998
+tp999
+I4
+s(Vinsert
+p1000
+I34
+VNumberLiteral: 800
+p1001
+tp1002
+I1
+s(Vinsert
+p1003
+I42
+VSimpleName: mNavigationMode
+p1004
+tp1005
+I2
+s(Vinsert
+p1006
+I42
+VSimpleName: invalidatePanelMenu
+p1007
+tp1008
+I1
+s(Vinsert
+p1009
+I42
+VSimpleName: getInteger
+p1010
+tp1011
+I1
+s(Vinsert
+p1012
+I42
+VSimpleName: getSubMenuSelected
+p1013
+tp1014
+I1
+s(Vinsert
+p1015
+I42
+VSimpleName: mActionMode
+p1016
+tp1017
+I7
+s(Vinsert
+p1018
+I40
+VQualifiedName: R.layout.screen_simple
+p1019
+tp1020
+I1
+s(Vinsert
+p1021
+I43
+VSimpleType: WatsonItemViewWrapper
+p1022
+tp1023
+I2
+s(Vinsert
+p1024
+I42
+VSimpleName: ActionViewWrapper
+p1025
+tp1026
+I1
+s(Vinsert
+p1027
+I43
+VSimpleType: TabHost
+p1028
+tp1029
+I2
+s(Vinsert
+p1030
+I42
+VSimpleName: arraycopy
+p1031
+tp1032
+I2
+s(Vinsert
+p1033
+I42
+VSimpleName: abs
+p1034
+tp1035
+I1
+s(Vinsert
+p1036
+I43
+VSimpleType: ActionBarSupportImpl
+p1037
+tp1038
+I1
+s(Vinsert
+p1039
+I42
+VSimpleName: DialogFragment
+p1040
+tp1041
+I2
+s(Vinsert
+p1042
+I42
+VSimpleName: OverridePendingTransition
+p1043
+tp1044
+I1
+s(Vinsert
+p1045
+I66
+VTextElement: Implementation of menu compatibility that can call Honeycomb APIs.
+p1046
+tp1047
+I1
+s(Vinsert
+p1048
+I43
+VSimpleType: Animation
+p1049
+tp1050
+I2
+s(Vinsert
+p1051
+I42
+VSimpleName: KeyEventVersionImpl
+p1052
+tp1053
+I1
+s(Vinsert
+p1054
+I45
+VStringLiteral: "[setProgressBarIndeterminate] indeterminate: "
+p1055
+tp1056
+I1
+s(Vinsert
+p1057
+I42
+VSimpleName: mInflater
+p1058
+tp1059
+I1
+s(Vinsert
+p1060
+I66
+VTextElement: to be called, you must have first called 
+p1061
+tp1062
+I1
+s(Vinsert
+p1063
+I42
+VSimpleName: dispatchDestroy
+p1064
+tp1065
+I5
+s(Vinsert
+p1066
+I42
+VSimpleName: mSplitActionBar
+p1067
+tp1068
+I1
+s(Vinsert
+p1069
+I42
+VSimpleName: getOverScrollMode
+p1070
+tp1071
+I2
+s(Vinsert
+p1072
+I5
+VArrayType: int[]
+p1073
+tp1074
+I1
+s(Vinsert
+p1075
+I43
+VSimpleType: LinearLayout.LayoutParams
+p1076
+tp1077
+I1
+s(Vinsert
+p1078
+I43
+VSimpleType: ActivityChooserModel
+p1079
+tp1080
+I1
+s(Vinsert
+p1081
+I42
+VSimpleName: transaction
+p1082
+tp1083
+I1
+s(Vinsert
+p1084
+I42
+VSimpleName: setProgressBarIndeterminate
+p1085
+tp1086
+I5
+s(Vinsert
+p1087
+I38
+VPrefixExpression: ~
+p1088
+tp1089
+I1
+s(Vinsert
+p1090
+I42
+VSimpleName: container
+p1091
+tp1092
+I9
+s(Vinsert
+p1093
+I42
+VSimpleName: setItems
+p1094
+tp1095
+I3
+s(Vinsert
+p1096
+I42
+VSimpleName: saveState
+p1097
+tp1098
+I1
+s(Vinsert
+p1099
+I42
+VSimpleName: TextView
+p1100
+tp1101
+I10
+s(Vinsert
+p1102
+I42
+VSimpleName: lastPos
+p1103
+tp1104
+I3
+s(Vinsert
+p1105
+I42
+VSimpleName: getYVelocity
+p1106
+tp1107
+I2
+s(Vinsert
+p1108
+I42
+VSimpleName: MenuItem
+p1109
+tp1110
+I20
+s(Vinsert
+p1111
+I42
+VSimpleName: getItemId
+p1112
+tp1113
+I14
+s(Vinsert
+p1114
+I42
+VSimpleName: DEFAULT_ITEM_ID
+p1115
+tp1116
+I3
+s(Vinsert
+p1117
+I42
+VSimpleName: dismiss
+p1118
+tp1119
+I2
+s(Vinsert
+p1120
+I42
+VSimpleName: getHomeIcon
+p1121
+tp1122
+I1
+s(Vinsert
+p1123
+I43
+VSimpleType: Resources
+p1124
+tp1125
+I2
+s(Vinsert
+p1126
+I66
+VTextElement: should place your menu items in to <var>menu</var>.  For this method
+p1127
+tp1128
+I1
+s(Vinsert
+p1129
+I42
+VSimpleName: resId
+p1130
+tp1131
+I7
+s(Vinsert
+p1132
+I42
+VSimpleName: pointerId
+p1133
+tp1134
+I2
+s(Vinsert
+p1135
+I42
+VSimpleName: setVisible
+p1136
+tp1137
+I2
+s(Vinsert
+p1138
+I42
+VSimpleName: addOnGlobalLayoutListener
+p1139
+tp1140
+I1
+s(Vinsert
+p1141
+I42
+VSimpleName: mLogoNavItem
+p1142
+tp1143
+I1
+s(Vinsert
+p1144
+I42
+VSimpleName: object
+p1145
+tp1146
+I3
+s(Vinsert
+p1147
+I42
+VSimpleName: ActionBarTabsPager
+p1148
+tp1149
+I1
+s(Vinsert
+p1150
+I66
+VTextElement: Gets the number of records contained in the event.
+p1151
+tp1152
+I1
+s(Vinsert
+p1153
+I42
+VSimpleName: getXVelocity
+p1154
+tp1155
+I2
+s(Vinsert
+p1156
+I45
+VStringLiteral: " did not create a view."
+p1157
+tp1158
+I1
+s(Vinsert
+p1159
+I42
+VSimpleName: icon
+p1160
+tp1161
+I4
+s(Vinsert
+p1162
+I43
+VSimpleType: Fragment
+p1163
+tp1164
+I10
+s(Vinsert
+p1165
+I66
+VTextElement: <p>The <code>R.layout.fragment_pager_list</code> resource containing each
+p1166
+tp1167
+I1
+s(Vinsert
+p1168
+I40
+VQualifiedName: mSpinnerPadding.top
+p1169
+tp1170
+I1
+s(Vinsert
+p1171
+I42
+VSimpleName: mCamera
+p1172
+tp1173
+I6
+s(Vinsert
+p1174
+I42
+VSimpleName: setRepeatMode
+p1175
+tp1176
+I1
+s(Vinsert
+p1177
+I40
+VQualifiedName: R.id.theme_dark
+p1178
+tp1179
+I1
+s(Vinsert
+p1180
+I42
+VSimpleName: openXmlResourceParser
+p1181
+tp1182
+I1
+s(Vinsert
+p1183
+I42
+VSimpleName: setProgressBarVisibility
+p1184
+tp1185
+I1
+s(Vinsert
+p1186
+I42
+VSimpleName: record
+p1187
+tp1188
+I5
+s(Vinsert
+p1189
+I42
+VSimpleName: isClosed
+p1190
+tp1191
+I1
+s(Vinsert
+p1192
+I43
+VSimpleType: AccessibilityManager
+p1193
+tp1194
+I2
+s(Vinsert
+p1195
+I42
+VSimpleName: name
+p1196
+tp1197
+I2
+s(Vinsert
+p1198
+I42
+VSimpleName: isAdded
+p1199
+tp1200
+I2
+s(Vinsert
+p1201
+I42
+VSimpleName: mOpenHelper
+p1202
+tp1203
+I2
+s(Vinsert
+p1204
+I43
+VSimpleType: AnimatorListener
+p1205
+tp1206
+I1
+s(Vinsert
+p1207
+I27
+VInfixExpression: %
+p1208
+tp1209
+I1
+s(Vinsert
+p1210
+I43
+VSimpleType: PrintWriter
+p1211
+tp1212
+I3
+s(Vinsert
+p1213
+I42
+VSimpleName: arg0
+p1214
+tp1215
+I1
+s(Vinsert
+p1216
+I32
+VMethodInvocation
+p1217
+tp1218
+I1179
+s(Vinsert
+p1219
+I42
+VSimpleName: STARTED
+p1220
+tp1221
+I2
+s(Vinsert
+p1222
+I42
+VSimpleName: LayoutInflater
+p1223
+tp1224
+I8
+s(Vinsert
+p1225
+I42
+VSimpleName: dispatchLowMemory
+p1226
+tp1227
+I1
+s(Vinsert
+p1228
+I42
+VSimpleName: sherlockItem
+p1229
+tp1230
+I3
+s(Vinsert
+p1231
+I40
+VQualifiedName: R.drawable.ic_compose
+p1232
+tp1233
+I4
+s(Vinsert
+p1234
+I42
+VSimpleName: GradientDrawable
+p1235
+tp1236
+I2
+s(Vinsert
+p1237
+I42
+VSimpleName: removeAllViews
+p1238
+tp1239
+I4
+s(Vinsert
+p1240
+I16
+VConditionalExpression
+p1241
+tp1242
+I16
+s(Vinsert
+p1243
+I42
+VSimpleName: mShowsDialog
+p1244
+tp1245
+I1
+s(Vinsert
+p1246
+I42
+VSimpleName: getConfiguration
+p1247
+tp1248
+I3
+s(Vinsert
+p1249
+I40
+VQualifiedName: R.layout.actionbar_iprogress
+p1250
+tp1251
+I1
+s(Vinsert
+p1252
+I42
+VSimpleName: mContainerView
+p1253
+tp1254
+I1
+s(Vinsert
+p1255
+I40
+VQualifiedName: android.view.Menu
+p1256
+tp1257
+I7
+s(Vinsert
+p1258
+I45
+VStringLiteral: "[setTitle] title: "
+p1259
+tp1260
+I1
+s(Vinsert
+p1261
+I43
+VSimpleType: GradientDrawable
+p1262
+tp1263
+I2
+s(Vinsert
+p1264
+I40
+VQualifiedName: op.popEnterAnim
+p1265
+tp1266
+I1
+s(Vinsert
+p1267
+I42
+VSimpleName: mMenuItemSubMenu
+p1268
+tp1269
+I1
+s(Vinsert
+p1270
+I3
+VArrayCreation
+p1271
+tp1272
+I6
+s(Vinsert
+p1273
+I42
+VSimpleName: mNativeTab
+p1274
+tp1275
+I3
+s(Vinsert
+p1276
+I42
+VSimpleName: endingAnims
+p1277
+tp1278
+I1
+s(Vinsert
+p1279
+I42
+VSimpleName: remove
+p1280
+tp1281
+I4
+s(Vinsert
+p1282
+I42
+VSimpleName: loadLabel
+p1283
+tp1284
+I1
+s(Vinsert
+p1285
+I42
+VSimpleName: setExclusiveCheckable
+p1286
+tp1287
+I1
+s(Vinsert
+p1288
+I42
+VSimpleName: OnActionModeFinishedListener
+p1289
+tp1290
+I7
+s(Vinsert
+p1291
+I42
+VSimpleName: logoResourceId
+p1292
+tp1293
+I1
+s(Vinsert
+p1294
+I42
+VSimpleName: mCurItem
+p1295
+tp1296
+I3
+s(Vinsert
+p1297
+I43
+VSimpleType: HashMap
+p1298
+tp1299
+I2
+s(Vinsert
+p1300
+I42
+VSimpleName: AccessibilityServiceInfo
+p1301
+tp1302
+I3
+s(Vinsert
+p1303
+I34
+VNumberLiteral: 0xFFDADADA
+p1304
+tp1305
+I1
+s(Vinsert
+p1306
+I17
+VConstructorInvocation
+p1307
+tp1308
+I1
+s(Vinsert
+p1309
+I42
+VSimpleName: displayShowHome
+p1310
+tp1311
+I1
+s(Vinsert
+p1312
+I43
+VSimpleType: CollapsibleActionViewWrapper
+p1313
+tp1314
+I2
+s(Vinsert
+p1315
+I42
+VSimpleName: getArguments
+p1316
+tp1317
+I2
+s(Vinsert
+p1318
+I42
+VSimpleName: ACTION_MASK
+p1319
+tp1320
+I1
+s(Vinsert
+p1321
+I40
+VQualifiedName: R.id.text
+p1322
+tp1323
+I4
+s(Vinsert
+p1324
+I42
+VSimpleName: state
+p1325
+tp1326
+I2
+s(Vinsert
+p1327
+I42
+VSimpleName: ex
+p1328
+tp1329
+I2
+s(Vinsert
+p1330
+I42
+VSimpleName: onOptionsItemSelected
+p1331
+tp1332
+I9
+s(Vinsert
+p1333
+I40
+VQualifiedName: Issue0002.NO
+p1334
+tp1335
+I1
+s(Vinsert
+p1336
+I43
+VSimpleType: ActionItem
+p1337
+tp1338
+I2
+s(Vinsert
+p1339
+I43
+VSimpleType: StringTokenizer
+p1340
+tp1341
+I4
+s(Vinsert
+p1342
+I40
+VQualifiedName: android.app.FragmentTransaction
+p1343
+tp1344
+I1
+s(Vinsert
+p1345
+I40
+VQualifiedName: GridView.LayoutParams.FILL_PARENT
+p1346
+tp1347
+I2
+s(Vinsert
+p1348
+I45
+VStringLiteral: "simple"
+p1349
+tp1350
+I1
+s(Vinsert
+p1351
+I42
+VSimpleName: CLEAR_ID
+p1352
+tp1353
+I1
+s(Vinsert
+p1354
+I40
+VQualifiedName: android.view.Window
+p1355
+tp1356
+I3
+s(Vinsert
+p1357
+I42
+VSimpleName: numKeyframes
+p1358
+tp1359
+I1
+s(Vinsert
+p1360
+I42
+VSimpleName: isCancelled
+p1361
+tp1362
+I2
+s(Vinsert
+p1363
+I42
+VSimpleName: addView
+p1364
+tp1365
+I7
+s(Vinsert
+p1366
+I42
+VSimpleName: setCustomViewLatch
+p1367
+tp1368
+I1
+s(Vinsert
+p1369
+I42
+VSimpleName: removeTab
+p1370
+tp1371
+I1
+s(Vinsert
+p1372
+I42
+VSimpleName: animations
+p1373
+tp1374
+I1
+s(Vinsert
+p1375
+I42
+VSimpleName: setSubtitle
+p1376
+tp1377
+I4
+s(Vinsert
+p1378
+I42
+VSimpleName: init
+p1379
+tp1380
+I1
+s(Vinsert
+p1381
+I42
+VSimpleName: getScaledPagingTouchSlop
+p1382
+tp1383
+I4
+s(Vinsert
+p1384
+I42
+VSimpleName: indeterminate
+p1385
+tp1386
+I6
+s(Vinsert
+p1387
+I42
+VSimpleName: dataModel
+p1388
+tp1389
+I1
+s(Vinsert
+p1390
+I42
+VSimpleName: transition
+p1391
+tp1392
+I1
+s(Vinsert
+p1393
+I42
+VSimpleName: title
+p1394
+tp1395
+I12
+s(Vinsert
+p1396
+I43
+VSimpleType: DialogFragment
+p1397
+tp1398
+I2
+s(Vinsert
+p1399
+I42
+VSimpleName: AnimationUtils
+p1400
+tp1401
+I1
+s(Vinsert
+p1402
+I42
+VSimpleName: ri
+p1403
+tp1404
+I2
+s(Vinsert
+p1405
+I43
+VSimpleType: ActionBarContainer
+p1406
+tp1407
+I2
+s(Vinsert
+p1408
+I42
+VSimpleName: removeMessages
+p1409
+tp1410
+I1
+s(Vinsert
+p1411
+I42
+VSimpleName: groupId
+p1412
+tp1413
+I4
+s(Vinsert
+p1414
+I42
+VSimpleName: item
+p1415
+tp1416
+I42
+s(Vinsert
+p1417
+I43
+VSimpleType: TitlesActivity
+p1418
+tp1419
+I1
+s(Vinsert
+p1420
+I42
+VSimpleName: mIsActionItemTextEnabled
+p1421
+tp1422
+I1
+s(Vinsert
+p1423
+I42
+VSimpleName: mNativeMenu
+p1424
+tp1425
+I2
+s(Vinsert
+p1426
+I42
+VSimpleName: setSuperContentView
+p1427
+tp1428
+I1
+s(Vinsert
+p1429
+I42
+VSimpleName: getContentDescription
+p1430
+tp1431
+I1
+s(Vinsert
+p1432
+I27
+VInfixExpression: ||
+p1433
+tp1434
+I10
+s(Vinsert
+p1435
+I40
+VQualifiedName: outSpecificItems.length
+p1436
+tp1437
+I1
+s(Vinsert
+p1438
+I42
+VSimpleName: setOnClickListener
+p1439
+tp1440
+I17
+s(Vinsert
+p1441
+I42
+VSimpleName: canvas
+p1442
+tp1443
+I1
+s(Vinsert
+p1444
+I42
+VSimpleName: onSuccess
+p1445
+tp1446
+I1
+s(Vinsert
+p1447
+I42
+VSimpleName: savedInstanceState
+p1448
+tp1449
+I45
+s(Vinsert
+p1450
+I40
+VQualifiedName: fragment.mView
+p1451
+tp1452
+I1
+s(Vinsert
+p1453
+I34
+VNumberLiteral: 5
+p1454
+tp1455
+I3
+s(Vinsert
+p1456
+I42
+VSimpleName: mResources
+p1457
+tp1458
+I2
+s(Vinsert
+p1459
+I42
+VSimpleName: nextKeyframe
+p1460
+tp1461
+I2
+s(Vinsert
+p1462
+I42
+VSimpleName: builder
+p1463
+tp1464
+I5
+s(Vinsert
+p1465
+I42
+VSimpleName: setTileModeXY
+p1466
+tp1467
+I1
+s(Vinsert
+p1468
+I42
+VSimpleName: emptyList
+p1469
+tp1470
+I3
+s(Vinsert
+p1471
+I43
+VSimpleType: TextAppearanceSpan
+p1472
+tp1473
+I1
+s(Vinsert
+p1474
+I42
+VSimpleName: ScrollView
+p1475
+tp1476
+I2
+s(Vinsert
+p1477
+I42
+VSimpleName: mList
+p1478
+tp1479
+I1
+s(Vinsert
+p1480
+I42
+VSimpleName: isEmpty
+p1481
+tp1482
+I4
+s(Vinsert
+p1483
+I42
+VSimpleName: outState
+p1484
+tp1485
+I3
+s(Vinsert
+p1486
+I42
+VSimpleName: View
+p1487
+tp1488
+I67
+s(Vinsert
+p1489
+I42
+VSimpleName: home
+p1490
+tp1491
+I1
+s(Vinsert
+p1492
+I42
+VSimpleName: MenuItemHoneycombWrapper
+p1493
+tp1494
+I1
+s(Vinsert
+p1495
+I42
+VSimpleName: mIconResId
+p1496
+tp1497
+I1
+s(Vinsert
+p1498
+I42
+VSimpleName: HAS_NATIVE_ACTION_BAR
+p1499
+tp1500
+I1
+s(Vinsert
+p1501
+I43
+VSimpleType: CheckBox
+p1502
+tp1503
+I3
+s(Vinsert
+p1504
+I43
+VSimpleType: ActionMenuView
+p1505
+tp1506
+I1
+s(Vinsert
+p1507
+I41
+VReturnStatement
+p1508
+tp1509
+I114
+s(Vinsert
+p1510
+I42
+VSimpleName: sendAccessibilityEvent
+p1511
+tp1512
+I2
+s(Vinsert
+p1513
+I42
+VSimpleName: Canvas
+p1514
+tp1515
+I5
+s(Vinsert
+p1516
+I42
+VSimpleName: bitmap
+p1517
+tp1518
+I2
+s(Vinsert
+p1519
+I42
+VSimpleName: direction
+p1520
+tp1521
+I1
+s(Vinsert
+p1522
+I43
+VSimpleType: FragmentStackSupport.CountingFragment
+p1523
+tp1524
+I2
+s(Vinsert
+p1525
+I66
+VTextElement: mSherlock.dispatchPause();
+p1526
+tp1527
+I1
+s(Vinsert
+p1528
+I42
+VSimpleName: menuItem
+p1529
+tp1530
+I4
+s(Vinsert
+p1531
+I42
+VSimpleName: onDetachedFromWindow
+p1532
+tp1533
+I2
+s(Vinsert
+p1534
+I42
+VSimpleName: valueOf
+p1535
+tp1536
+I2
+s(Vinsert
+p1537
+I42
+VSimpleName: mHomeLogo
+p1538
+tp1539
+I1
+s(Vinsert
+p1540
+I43
+VSimpleType: ViewGroup
+p1541
+tp1542
+I22
+s(Vinsert
+p1543
+I43
+VSimpleType: AccessibilityEvent
+p1544
+tp1545
+I5
+s(Vinsert
+p1546
+I42
+VSimpleName: parent
+p1547
+tp1548
+I3
+s(Vinsert
+p1549
+I42
+VSimpleName: nativeCodeHidden
+p1550
+tp1551
+I1
+s(Vinsert
+p1552
+I42
+VSimpleName: invoke
+p1553
+tp1554
+I13
+s(Vinsert
+p1555
+I42
+VSimpleName: overridePendingTransition
+p1556
+tp1557
+I2
+s(Vinsert
+p1558
+I42
+VSimpleName: actionView
+p1559
+tp1560
+I4
+s(Vinsert
+p1561
+I42
+VSimpleName: LinearLayout
+p1562
+tp1563
+I3
+s(Vinsert
+p1564
+I27
+VInfixExpression: ==
+p1565
+tp1566
+I50
+s(Vinsert
+p1567
+I42
+VSimpleName: mExpandedFormat
+p1568
+tp1569
+I1
+s(Vinsert
+p1570
+I9
+VBooleanLiteral: true
+p1571
+tp1572
+I12
+s(Vinsert
+p1573
+I43
+VSimpleType: ObjectAnimator
+p1574
+tp1575
+I3
+s(Vinsert
+p1576
+I42
+VSimpleName: stopDispatchingItemsChanged
+p1577
+tp1578
+I2
+s(Vinsert
+p1579
+I42
+VSimpleName: callback
+p1580
+tp1581
+I9
+s(Vinsert
+p1582
+I58
+VVariableDeclarationExpression
+p1583
+tp1584
+I6
+s(Vinsert
+p1585
+I42
+VSimpleName: count
+p1586
+tp1587
+I4
+s(Vinsert
+p1588
+I42
+VSimpleName: manager
+p1589
+tp1590
+I7
+s(Vinsert
+p1591
+I42
+VSimpleName: IcsListPopupWindow
+p1592
+tp1593
+I1
+s(Vinsert
+p1594
+I42
+VSimpleName: mUrlColor
+p1595
+tp1596
+I1
+s(Vinsert
+p1597
+I42
+VSimpleName: restoreState
+p1598
+tp1599
+I1
+s(Vinsert
+p1600
+I42
+VSimpleName: IllegalStateException
+p1601
+tp1602
+I4
+s(Vinsert
+p1603
+I42
+VSimpleName: MenuItemWrapper
+p1604
+tp1605
+I2
+s(Vinsert
+p1606
+I40
+VQualifiedName: fragment.mReallyHasMenu
+p1607
+tp1608
+I1
+s(Vinsert
+p1609
+I66
+VTextElement:  Either the title or condensed title based on what the ItemView
+p1610
+tp1611
+I1
+s(Vinsert
+p1612
+I42
+VSimpleName: startsWith
+p1613
+tp1614
+I1
+s(Vinsert
+p1615
+I40
+VQualifiedName: selectionArgs.length
+p1616
+tp1617
+I2
+s(Vinsert
+p1618
+I74
+VParameterizedType: List<ApplicationInfo>
+p1619
+tp1620
+I1
+s(Vinsert
+p1621
+I43
+VSimpleType: ActionBarSherlock
+p1622
+tp1623
+I1
+s(Vinsert
+p1624
+I42
+VSimpleName: mCurCheckPosition
+p1625
+tp1626
+I2
+s(Vinsert
+p1627
+I42
+VSimpleName: targetGroup
+p1628
+tp1629
+I2
+s(Vinsert
+p1630
+I45
+VStringLiteral: "[onPreparePanel] featureId: "
+p1631
+tp1632
+I1
+s(Vinsert
+p1633
+I42
+VSimpleName: hasActionProvider
+p1634
+tp1635
+I1
+s(Vinsert
+p1636
+I42
+VSimpleName: setMenuVisibility
+p1637
+tp1638
+I2
+s(Vinsert
+p1639
+I42
+VSimpleName: dismissPopupMenus
+p1640
+tp1641
+I1
+s(Vinsert
+p1642
+I42
+VSimpleName: floor
+p1643
+tp1644
+I1
+s(Vinsert
+p1645
+I45
+VStringLiteral: " menu: "
+p1646
+tp1647
+I1
+s(Vinsert
+p1648
+I42
+VSimpleName: mStackedBackground
+p1649
+tp1650
+I1
+s(Vinsert
+p1651
+I42
+VSimpleName: trans
+p1652
+tp1653
+I5
+s(Vinsert
+p1654
+I43
+VSimpleType: ContextMenu.ContextMenuInfo
+p1655
+tp1656
+I1
+s(Vinsert
+p1657
+I40
+VQualifiedName: KeyEvent.KEYCODE_BACK
+p1658
+tp1659
+I1
+s(Vinsert
+p1660
+I66
+VTextElement: Initialize the contents of the Activity's standard options menu.  You
+p1661
+tp1662
+I1
+s(Vinsert
+p1663
+I40
+VQualifiedName: R.styleable.SherlockMenuGroup_android_checkableBehavior
+p1664
+tp1665
+I1
+s(Vinsert
+p1666
+I42
+VSimpleName: onKeyUp
+p1667
+tp1668
+I6
+s(Vinsert
+p1669
+I43
+VSimpleType: HasMenu
+p1670
+tp1671
+I4
+s(Vinsert
+p1672
+I42
+VSimpleName: mNoTransactionsBecause
+p1673
+tp1674
+I2
+s(Vinsert
+p1675
+I42
+VSimpleName: proxy
+p1676
+tp1677
+I1
+s(Vinsert
+p1678
+I43
+VSimpleType: ActionBarTabsPager
+p1679
+tp1680
+I1
+s(Vinsert
+p1681
+I43
+VSimpleType: Constructor
+p1682
+tp1683
+I2
+s(Vinsert
+p1684
+I42
+VSimpleName: recycle
+p1685
+tp1686
+I5
+s(Vinsert
+p1687
+I42
+VSimpleName: testFragmentReceivesOnMenuItemSelectedCallback
+p1688
+tp1689
+I1
+s(Vinsert
+p1690
+I42
+VSimpleName: beginTransaction
+p1691
+tp1692
+I6
+s(Vinsert
+p1693
+I42
+VSimpleName: mOptionsMenuPotentiallyStale
+p1694
+tp1695
+I2
+s(Vinsert
+p1696
+I42
+VSimpleName: mShortcutsVisible
+p1697
+tp1698
+I2
+s(Vinsert
+p1699
+I40
+VQualifiedName: Gravity.RIGHT
+p1700
+tp1701
+I1
+s(Vinsert
+p1702
+I42
+VSimpleName: commit
+p1703
+tp1704
+I1
+s(Vinsert
+p1705
+I42
+VSimpleName: setTitleResource
+p1706
+tp1707
+I1
+s(Vinsert
+p1708
+I42
+VSimpleName: findItem
+p1709
+tp1710
+I4
+s(Vinsert
+p1711
+I45
+VStringLiteral: "com.jakewharton.test"
+p1712
+tp1713
+I1
+s(Vinsert
+p1714
+I42
+VSimpleName: menuInfo
+p1715
+tp1716
+I1
+s(Vinsert
+p1717
+I42
+VSimpleName: MenuMule
+p1718
+tp1719
+I6
+s(Vinsert
+p1720
+I42
+VSimpleName: mDecor
+p1721
+tp1722
+I5
+s(Vinsert
+p1723
+I43
+VSimpleType: AccessibilityServiceInfo
+p1724
+tp1725
+I3
+s(Vinsert
+p1726
+I42
+VSimpleName: tab2
+p1727
+tp1728
+I1
+s(Vinsert
+p1729
+I42
+VSimpleName: BoringFragment
+p1730
+tp1731
+I2
+s(Vinsert
+p1732
+I40
+VQualifiedName: fragment.mViewPagerSelected
+p1733
+tp1734
+I1
+s(Vinsert
+p1735
+I42
+VSimpleName: contentPath
+p1736
+tp1737
+I2
+s(Vinsert
+p1738
+I42
+VSimpleName: getWindowToken
+p1739
+tp1740
+I1
+s(Vinsert
+p1741
+I42
+VSimpleName: ctor
+p1742
+tp1743
+I1
+s(Vinsert
+p1744
+I42
+VSimpleName: getInstance
+p1745
+tp1746
+I2
+s(Vinsert
+p1747
+I42
+VSimpleName: mTabsView
+p1748
+tp1749
+I1
+s(Vinsert
+p1750
+I42
+VSimpleName: result
+p1751
+tp1752
+I18
+s(Vinsert
+p1753
+I9
+VBooleanLiteral: false
+p1754
+tp1755
+I24
+s(Vinsert
+p1756
+I42
+VSimpleName: mAdapter
+p1757
+tp1758
+I8
+s(Vinsert
+p1759
+I42
+VSimpleName: mValues
+p1760
+tp1761
+I1
+s(Vinsert
+p1762
+I42
+VSimpleName: ERROR
+p1763
+tp1764
+I1
+s(Vinsert
+p1765
+I42
+VSimpleName: ITEM_A_ID
+p1766
+tp1767
+I1
+s(Vinsert
+p1768
+I43
+VSimpleType: TestFragment
+p1769
+tp1770
+I4
+s(Vinsert
+p1771
+I66
+VTextElement: Called when the parser is pointing to a group tag.
+p1772
+tp1773
+I1
+s(Vinsert
+p1774
+I43
+VSimpleType: ActionBar.OnMenuVisibilityListener
+p1775
+tp1776
+I2
+s(Vinsert
+p1777
+I43
+VSimpleType: ActionBarView.ActionItem
+p1778
+tp1779
+I1
+s(Vinsert
+p1780
+I43
+VSimpleType: Class
+p1781
+tp1782
+I6
+s(Vinsert
+p1783
+I42
+VSimpleName: isLongPress
+p1784
+tp1785
+I1
+s(Vinsert
+p1786
+I65
+VTagElement
+p1787
+tp1788
+I6
+s(Vinsert
+p1789
+I40
+VQualifiedName: ContextMenu.ContextMenuInfo
+p1790
+tp1791
+I1
+s(Vinsert
+p1792
+I42
+VSimpleName: DebugUtils
+p1793
+tp1794
+I1
+s(Vinsert
+p1795
+I42
+VSimpleName: setBuiltInZoomControls
+p1796
+tp1797
+I1
+s(Vinsert
+p1798
+I42
+VSimpleName: AccessibilityManagerCompatIcs
+p1799
+tp1800
+I1
+s(Vinsert
+p1801
+I40
+VQualifiedName: Build.VERSION.SDK_INT
+p1802
+tp1803
+I5
+s(Vinsert
+p1804
+I42
+VSimpleName: getText
+p1805
+tp1806
+I2
+s(Vinsert
+p1807
+I40
+VQualifiedName: MenuItem.SHOW_AS_ACTION_ALWAYS
+p1808
+tp1809
+I6
+s(Vinsert
+p1810
+I43
+VSimpleType: ActionMode
+p1811
+tp1812
+I8
+s(Vinsert
+p1813
+I42
+VSimpleName: ensureActionBar
+p1814
+tp1815
+I5
+s(Vinsert
+p1816
+I42
+VSimpleName: isPassword
+p1817
+tp1818
+I2
+s(Vinsert
+p1819
+I42
+VSimpleName: invalidateOptionsMenu
+p1820
+tp1821
+I3
+s(Vinsert
+p1822
+I42
+VSimpleName: testActivitySetTitleWithResource
+p1823
+tp1824
+I1
+s(Vinsert
+p1825
+I42
+VSimpleName: onViewDetachedFromWindow
+p1826
+tp1827
+I1
+s(Vinsert
+p1828
+I42
+VSimpleName: attrs
+p1829
+tp1830
+I18
+s(Vinsert
+p1831
+I40
+VQualifiedName: op.exitAnim
+p1832
+tp1833
+I1
+s(Vinsert
+p1834
+I42
+VSimpleName: enabled
+p1835
+tp1836
+I2
+s(Vinsert
+p1837
+I42
+VSimpleName: LayoutParams
+p1838
+tp1839
+I10
+s(Vinsert
+p1840
+I42
+VSimpleName: mHandler
+p1841
+tp1842
+I6
+s(Vinsert
+p1843
+I42
+VSimpleName: getLoaderManager
+p1844
+tp1845
+I3
+s(Vinsert
+p1846
+I42
+VSimpleName: widget
+p1847
+tp1848
+I2
+s(Vinsert
+p1849
+I40
+VQualifiedName: AlertDialog.Builder
+p1850
+tp1851
+I1
+s(Vinsert
+p1852
+I42
+VSimpleName: getEventType
+p1853
+tp1854
+I1
+s(Vinsert
+p1855
+I42
+VSimpleName: propertyMapMap
+p1856
+tp1857
+I1
+s(Vinsert
+p1858
+I42
+VSimpleName: getActionView
+p1859
+tp1860
+I1
+s(Vinsert
+p1861
+I42
+VSimpleName: findActionBar
+p1862
+tp1863
+I1
+s(Vinsert
+p1864
+I42
+VSimpleName: getEnabledAccessibilityServiceList
+p1865
+tp1866
+I2
+s(Vinsert
+p1867
+I42
+VSimpleName: drawable
+p1868
+tp1869
+I3
+s(Vinsert
+p1870
+I45
+VStringLiteral: ": "
+p1871
+tp1872
+I1
+s(Vinsert
+p1873
+I42
+VSimpleName: widthMeasureSpec
+p1874
+tp1875
+I3
+s(Vinsert
+p1876
+I42
+VSimpleName: getDescendantFocusability
+p1877
+tp1878
+I1
+s(Vinsert
+p1879
+I42
+VSimpleName: Implementation
+p1880
+tp1881
+I1
+s(Vinsert
+p1882
+I42
+VSimpleName: removeListener
+p1883
+tp1884
+I1
+s(Vinsert
+p1885
+I40
+VQualifiedName: ActionBar.HANDLER_CUSTOM
+p1886
+tp1887
+I1
+s(Vinsert
+p1888
+I42
+VSimpleName: ActionItems
+p1889
+tp1890
+I1
+s(Vinsert
+p1891
+I42
+VSimpleName: addTab
+p1892
+tp1893
+I9
+s(Vinsert
+p1894
+I42
+VSimpleName: onWindowStartingActionMode
+p1895
+tp1896
+I1
+s(Vinsert
+p1897
+I42
+VSimpleName: hasDividerBeforeChildAt
+p1898
+tp1899
+I1
+s(Vinsert
+p1900
+I42
+VSimpleName: invalidate
+p1901
+tp1902
+I3
+s(Vinsert
+p1903
+I42
+VSimpleName: intent
+p1904
+tp1905
+I4
+s(Vinsert
+p1906
+I66
+VTextElement: for more information.
+p1907
+tp1908
+I1
+s(Vinsert
+p1909
+I42
+VSimpleName: createFromParcel
+p1910
+tp1911
+I4
+s(Vinsert
+p1912
+I42
+VSimpleName: CollapsibleActionViewWrapper
+p1913
+tp1914
+I2
+s(Vinsert
+p1915
+I42
+VSimpleName: mContainerId
+p1916
+tp1917
+I1
+s(Vinsert
+p1918
+I42
+VSimpleName: getTabAt
+p1919
+tp1920
+I1
+s(Vinsert
+p1921
+I42
+VSimpleName: getActivity
+p1922
+tp1923
+I28
+s(Vinsert
+p1924
+I42
+VSimpleName: menuRes
+p1925
+tp1926
+I3
+s(Vinsert
+p1927
+I42
+VSimpleName: setMinimumWidth
+p1928
+tp1929
+I5
+s(Vinsert
+p1930
+I42
+VSimpleName: CharSequence
+p1931
+tp1932
+I11
+s(Vinsert
+p1933
+I42
+VSimpleName: getAdapter
+p1934
+tp1935
+I1
+s(Vinsert
+p1936
+I42
+VSimpleName: oldItem
+p1937
+tp1938
+I1
+s(Vinsert
+p1939
+I42
+VSimpleName: assertNull
+p1940
+tp1941
+I1
+s(Vinsert
+p1942
+I34
+VNumberLiteral: 0
+p1943
+tp1944
+I58
+s(Vinsert
+p1945
+I42
+VSimpleName: layoutResId
+p1946
+tp1947
+I1
+s(Vinsert
+p1948
+I42
+VSimpleName: Log
+p1949
+tp1950
+I31
+s(Vinsert
+p1951
+I42
+VSimpleName: append
+p1952
+tp1953
+I3
+s(Vinsert
+p1954
+I40
+VQualifiedName: R.layout.issue0038
+p1955
+tp1956
+I1
+s(Vinsert
+p1957
+I66
+VTextElement: super.onPause();
+p1958
+tp1959
+I1
+s(Vinsert
+p1960
+I70
+VEnhancedForStatement
+p1961
+tp1962
+I6
+s(Vinsert
+p1963
+I42
+VSimpleName: expandedFormat
+p1964
+tp1965
+I2
+s(Vinsert
+p1966
+I42
+VSimpleName: setHomeLogo
+p1967
+tp1968
+I1
+s(Vinsert
+p1969
+I42
+VSimpleName: mState
+p1970
+tp1971
+I2
+s(Vinsert
+p1972
+I42
+VSimpleName: childParams
+p1973
+tp1974
+I1
+s(Vinsert
+p1975
+I42
+VSimpleName: ObjectAnimatorRotate
+p1976
+tp1977
+I1
+s(Vinsert
+p1978
+I42
+VSimpleName: getPackageName
+p1979
+tp1980
+I1
+s(Vinsert
+p1981
+I42
+VSimpleName: getSupportFragmentManager
+p1982
+tp1983
+I11
+s(Vinsert
+p1984
+I42
+VSimpleName: homeItem
+p1985
+tp1986
+I2
+s(Vinsert
+p1987
+I43
+VSimpleType: Number
+p1988
+tp1989
+I2
+s(Vinsert
+p1990
+I43
+VSimpleType: Context
+p1991
+tp1992
+I2
+s(Vinsert
+p1993
+I42
+VSimpleName: action
+p1994
+tp1995
+I1
+s(Vinsert
+p1996
+I68
+VMethodRef
+p1997
+tp1998
+I4
+s(Vinsert
+p1999
+I39
+VPrimitiveType: float
+p2000
+tp2001
+I7
+s(Vinsert
+p2002
+I42
+VSimpleName: getOrder
+p2003
+tp2004
+I2
+s(Vinsert
+p2005
+I42
+VSimpleName: mValueType
+p2006
+tp2007
+I1
+s(Vinsert
+p2008
+I42
+VSimpleName: getMode
+p2009
+tp2010
+I1
+s(Vinsert
+p2011
+I42
+VSimpleName: menuItemNativeXmlHidden
+p2012
+tp2013
+I1
+s(Vinsert
+p2014
+I42
+VSimpleName: getInterpolation
+p2015
+tp2016
+I2
+s(Vinsert
+p2017
+I42
+VSimpleName: inflate
+p2018
+tp2019
+I15
+s(Vinsert
+p2020
+I42
+VSimpleName: setStackedBackgroundDrawable
+p2021
+tp2022
+I2
+s(Vinsert
+p2023
+I40
+VQualifiedName: LayoutParams.FILL_PARENT
+p2024
+tp2025
+I1
+s(Vinsert
+p2026
+I43
+VSimpleType: VelocityTracker
+p2027
+tp2028
+I2
+s(Vinsert
+p2029
+I42
+VSimpleName: addSubMenu
+p2030
+tp2031
+I5
+s(Vinsert
+p2032
+I42
+VSimpleName: length
+p2033
+tp2034
+I4
+s(Vinsert
+p2035
+I42
+VSimpleName: dispatchCreateOptionsMenu
+p2036
+tp2037
+I10
+s(Vinsert
+p2038
+I42
+VSimpleName: setCallback
+p2039
+tp2040
+I4
+s(Vinsert
+p2041
+I42
+VSimpleName: newItem
+p2042
+tp2043
+I6
+s(Vinsert
+p2044
+I42
+VSimpleName: EdgeEffect
+p2045
+tp2046
+I1
+s(Vinsert
+p2047
+I42
+VSimpleName: setIndicator
+p2048
+tp2049
+I1
+s(Vinsert
+p2050
+I40
+VQualifiedName: R.id.abs__nav_tabs_layout
+p2051
+tp2052
+I1
+s(Vinsert
+p2053
+I42
+VSimpleName: addTo
+p2054
+tp2055
+I1
+s(Vinsert
+p2056
+I42
+VSimpleName: onPrepareOptionsMenu
+p2057
+tp2058
+I8
+s(Vinsert
+p2059
+I42
+VSimpleName: layoutParams
+p2060
+tp2061
+I1
+s(Vinsert
+p2062
+I42
+VSimpleName: currentParent
+p2063
+tp2064
+I2
+s(Vinsert
+p2065
+I42
+VSimpleName: getInterpolator
+p2066
+tp2067
+I2
+s(Vinsert
+p2068
+I42
+VSimpleName: setDisplayHomeAsUpEnabled
+p2069
+tp2070
+I1
+s(Vinsert
+p2071
+I40
+VQualifiedName: R.id.display_theme_light
+p2072
+tp2073
+I1
+s(Vinsert
+p2074
+I42
+VSimpleName: ActivityChooserModel
+p2075
+tp2076
+I2
+s(Vinsert
+p2077
+I65
+VTagElement: @link
+p2078
+tp2079
+I4
+s(Vinsert
+p2080
+I40
+VQualifiedName: item.mNumericalShortcut
+p2081
+tp2082
+I1
+s(Vinsert
+p2083
+I42
+VSimpleName: scaleY
+p2084
+tp2085
+I2
+s(Vinsert
+p2086
+I43
+VSimpleType: View_OnAttachStateChangeListener
+p2087
+tp2088
+I2
+s(Vinsert
+p2089
+I42
+VSimpleName: enableCustomView
+p2090
+tp2091
+I1
+s(Vinsert
+p2092
+I45
+VStringLiteral: ": f="
+p2093
+tp2094
+I1
+s(Vinsert
+p2095
+I42
+VSimpleName: DEBUG
+p2096
+tp2097
+I23
+s(Vinsert
+p2098
+I42
+VSimpleName: callAgain
+p2099
+tp2100
+I1
+s(Vinsert
+p2101
+I42
+VSimpleName: ArrayAdapter
+p2102
+tp2103
+I2
+s(Vinsert
+p2104
+I27
+VInfixExpression: >>>
+p2105
+tp2106
+I1
+s(Vinsert
+p2107
+I65
+VTagElement: @see
+p2108
+tp2109
+I1
+s(Vinsert
+p2110
+I42
+VSimpleName: Item
+p2111
+tp2112
+I1
+s(Vinsert
+p2113
+I42
+VSimpleName: getContext
+p2114
+tp2115
+I7
+s(Vinsert
+p2116
+I42
+VSimpleName: Exception
+p2117
+tp2118
+I2
+s(Vinsert
+p2119
+I42
+VSimpleName: nativeXmlHidden
+p2120
+tp2121
+I1
+s(Vinsert
+p2122
+I40
+VQualifiedName: R.styleable.AppTheme_listDragShadowBackground
+p2123
+tp2124
+I2
+s(Vinsert
+p2125
+I42
+VSimpleName: paint
+p2126
+tp2127
+I1
+s(Vinsert
+p2128
+I40
+VQualifiedName: TileMode.REPEAT
+p2129
+tp2130
+I2
+s(Vinsert
+p2131
+I42
+VSimpleName: mHome
+p2132
+tp2133
+I1
+s(Vinsert
+p2134
+I42
+VSimpleName: propertyMap
+p2135
+tp2136
+I2
+s(Vinsert
+p2137
+I66
+VTextElement: }
+p2138
+tp2139
+I1
+s(Vinsert
+p2140
+I43
+VSimpleType: AccessibilityRecord
+p2141
+tp2142
+I1
+s(Vinsert
+p2143
+I42
+VSimpleName: NUM_ITEMS
+p2144
+tp2145
+I4
+s(Vinsert
+p2146
+I42
+VSimpleName: findMenuItem
+p2147
+tp2148
+I1
+s(Vinsert
+p2149
+I42
+VSimpleName: VelocityTracker
+p2150
+tp2151
+I2
+s(Vinsert
+p2152
+I42
+VSimpleName: mIgnoreNativePrepare
+p2153
+tp2154
+I2
+s(Vinsert
+p2155
+I42
+VSimpleName: start
+p2156
+tp2157
+I1
+s(Vinsert
+p2158
+I42
+VSimpleName: notifyChanged
+p2159
+tp2160
+I1
+s(Vinsert
+p2161
+I42
+VSimpleName: hasQualfier
+p2162
+tp2163
+I1
+s(Vinsert
+p2164
+I42
+VSimpleName: dispatchResume
+p2165
+tp2166
+I1
+s(Vinsert
+p2167
+I42
+VSimpleName: keyCode
+p2168
+tp2169
+I8
+s(Vinsert
+p2170
+I43
+VSimpleType: InterruptedException
+p2171
+tp2172
+I8
+s(Vinsert
+p2173
+I42
+VSimpleName: contentParent
+p2174
+tp2175
+I1
+s(Vinsert
+p2176
+I42
+VSimpleName: ItemInfo
+p2177
+tp2178
+I1
+s(Vinsert
+p2179
+I42
+VSimpleName: subMenuMultiClick
+p2180
+tp2181
+I1
+s(Vinsert
+p2182
+I42
+VSimpleName: mHasValue
+p2183
+tp2184
+I2
+s(Vinsert
+p2185
+I42
+VSimpleName: readGroup
+p2186
+tp2187
+I1
+s(Vinsert
+p2188
+I42
+VSimpleName: handled
+p2189
+tp2190
+I3
+s(Vinsert
+p2191
+I42
+VSimpleName: selectionArgs
+p2192
+tp2193
+I1
+s(Vinsert
+p2194
+I40
+VQualifiedName: Menu.CATEGORY_SECONDARY
+p2195
+tp2196
+I1
+s(Vinsert
+p2197
+I66
+VTextElement: selected tab.
+p2198
+tp2199
+I1
+s(Vinsert
+p2200
+I45
+VStringLiteral: "titleCondensed"
+p2201
+tp2202
+I1
+s(Vinsert
+p2203
+I43
+VSimpleType: DialogInterface
+p2204
+tp2205
+I1
+s(Vinsert
+p2206
+I7
+VAssignment: &=
+p2207
+tp2208
+I1
+s(Vinsert
+p2209
+I42
+VSimpleName: onCreateActionView
+p2210
+tp2211
+I3
+s(Vinsert
+p2212
+I43
+VSimpleType: TabView
+p2213
+tp2214
+I1
+s(Vinsert
+p2215
+I42
+VSimpleName: XML_NS
+p2216
+tp2217
+I2
+s(Vinsert
+p2218
+I45
+VStringLiteral: "key == null"
+p2219
+tp2220
+I1
+s(Vinsert
+p2221
+I42
+VSimpleName: visible
+p2222
+tp2223
+I8
+s(Vinsert
+p2224
+I42
+VSimpleName: getStringArray
+p2225
+tp2226
+I1
+s(Vinsert
+p2227
+I42
+VSimpleName: sb
+p2228
+tp2229
+I1
+s(Vinsert
+p2230
+I42
+VSimpleName: IntentAction
+p2231
+tp2232
+I1
+s(Vinsert
+p2233
+I42
+VSimpleName: setDisplayOptions
+p2234
+tp2235
+I2
+s(Vinsert
+p2236
+I40
+VQualifiedName: OnActionBarListener.HOME_ITEM
+p2237
+tp2238
+I1
+s(Vinsert
+p2239
+I43
+VSimpleType: SpinnerAdapter
+p2240
+tp2241
+I1
+s(Vinsert
+p2242
+I42
+VSimpleName: showCustomView
+p2243
+tp2244
+I1
+s(Vinsert
+p2245
+I45
+VStringLiteral: "title"
+p2246
+tp2247
+I1
+s(Vinsert
+p2248
+I43
+VSimpleType: T
+p2249
+tp2250
+I9
+s(Vinsert
+p2251
+I45
+VStringLiteral: "com.actionbarsherlock.internal.view.ActionBarView"
+p2252
+tp2253
+I1
+s(Vinsert
+p2254
+I42
+VSimpleName: getAttributeResourceValue
+p2255
+tp2256
+I3
+s(Vinsert
+p2257
+I42
+VSimpleName: getItemData
+p2258
+tp2259
+I1
+s(Vinsert
+p2260
+I43
+VSimpleType: KeyEventVersionImpl
+p2261
+tp2262
+I1
+s(Vinsert
+p2263
+I45
+VStringLiteral: "AndroidManifest.xml"
+p2264
+tp2265
+I1
+s(Vinsert
+p2266
+I40
+VQualifiedName: lp.weight
+p2267
+tp2268
+I1
+s(Vinsert
+p2269
+I42
+VSimpleName: CountingFragment
+p2270
+tp2271
+I4
+s(Vinsert
+p2272
+I42
+VSimpleName: OnNavigationListener
+p2273
+tp2274
+I1
+s(Vinsert
+p2275
+I42
+VSimpleName: ap
+p2276
+tp2277
+I1
+s(Vinsert
+p2278
+I38
+VPrefixExpression: -
+p2279
+tp2280
+I3
+s(Vinsert
+p2281
+I42
+VSimpleName: onConfigurationChanged
+p2282
+tp2283
+I3
+s(Vinsert
+p2284
+I43
+VSimpleType: android.view.Window
+p2285
+tp2286
+I3
+s(Vinsert
+p2287
+I43
+VSimpleType: DisplayMetrics
+p2288
+tp2289
+I1
+s(Vinsert
+p2290
+I42
+VSimpleName: uriBuilder
+p2291
+tp2292
+I1
+s(Vinsert
+p2293
+I40
+VQualifiedName: NoSaveStateFrameLayout.LayoutParams
+p2294
+tp2295
+I2
+s(Vinsert
+p2296
+I42
+VSimpleName: themeLight
+p2297
+tp2298
+I1
+s(Vinsert
+p2299
+I42
+VSimpleName: mFragmentManager
+p2300
+tp2301
+I4
+s(Vinsert
+p2302
+I42
+VSimpleName: getView
+p2303
+tp2304
+I2
+s(Vinsert
+p2305
+I40
+VQualifiedName: LinearLayout.LayoutParams
+p2306
+tp2307
+I1
+s(Vinsert
+p2308
+I42
+VSimpleName: ActionBarHandler
+p2309
+tp2310
+I2
+s(Vinsert
+p2311
+I85
+VDimension
+p2312
+tp2313
+I17
+s(Vinsert
+p2314
+I74
+VParameterizedType: HashMap<android.view.MenuItem,MenuItemImpl>
+p2315
+tp2316
+I1
+s(Vinsert
+p2317
+I42
+VSimpleName: Activity
+p2318
+tp2319
+I7
+s(Vinsert
+p2320
+I42
+VSimpleName: suggestions
+p2321
+tp2322
+I2
+s(Vinsert
+p2323
+I42
+VSimpleName: child
+p2324
+tp2325
+I36
+s(Vinsert
+p2326
+I42
+VSimpleName: keep
+p2327
+tp2328
+I1
+s(Vinsert
+p2329
+I66
+VTextElement: complete
+p2330
+tp2331
+I3
+s(Vinsert
+p2332
+I42
+VSimpleName: setActivated
+p2333
+tp2334
+I1
+s(Vinsert
+p2335
+I42
+VSimpleName: setHeaderViewInt
+p2336
+tp2337
+I2
+s(Vinsert
+p2338
+I42
+VSimpleName: WeakReference
+p2339
+tp2340
+I1
+s(Vinsert
+p2341
+I42
+VSimpleName: mParentMenu
+p2342
+tp2343
+I2
+s(Vinsert
+p2344
+I42
+VSimpleName: TextUtils
+p2345
+tp2346
+I1
+s(Vinsert
+p2347
+I42
+VSimpleName: showTitle
+p2348
+tp2349
+I1
+s(Vinsert
+p2350
+I42
+VSimpleName: empty
+p2351
+tp2352
+I1
+s(Vinsert
+p2353
+I34
+VNumberLiteral: 20
+p2354
+tp2355
+I1
+s(Vinsert
+p2356
+I40
+VQualifiedName: R.layout.map_simple
+p2357
+tp2358
+I2
+s(Vinsert
+p2359
+I40
+VQualifiedName: Animation.REVERSE
+p2360
+tp2361
+I1
+s(Vinsert
+p2362
+I42
+VSimpleName: mSolo
+p2363
+tp2364
+I2
+s(Vinsert
+p2365
+I66
+VTextElement:  development/samples/Support4Demos/res/layout/fragment_pager.xml
+p2366
+tp2367
+I1
+s(Vinsert
+p2368
+I40
+VQualifiedName: IcsLinearLayout.LayoutParams
+p2369
+tp2370
+I2
+s(Vinsert
+p2371
+I42
+VSimpleName: SearchViewCompatHoneycomb
+p2372
+tp2373
+I1
+s(Vinsert
+p2374
+I42
+VSimpleName: getDescription
+p2375
+tp2376
+I1
+s(Vinsert
+p2377
+I34
+VNumberLiteral: 0f
+p2378
+tp2379
+I1
+s(Vinsert
+p2380
+I42
+VSimpleName: nativeMenuInflater
+p2381
+tp2382
+I2
+s(Vinsert
+p2383
+I42
+VSimpleName: autoRequery
+p2384
+tp2385
+I1
+s(Vinsert
+p2386
+I42
+VSimpleName: itemPosition
+p2387
+tp2388
+I1
+s(Vinsert
+p2389
+I43
+VSimpleType: Implementation
+p2390
+tp2391
+I1
+s(Vinsert
+p2392
+I42
+VSimpleName: bindNativeOverflow
+p2393
+tp2394
+I1
+s(Vinsert
+p2395
+I42
+VSimpleName: NullPointerException
+p2396
+tp2397
+I1
+s(Vinsert
+p2398
+I42
+VSimpleName: setOnItemSelectedListener
+p2399
+tp2400
+I1
+s(Vinsert
+p2401
+I42
+VSimpleName: hasRunningLoaders
+p2402
+tp2403
+I1
+s(Vinsert
+p2404
+I42
+VSimpleName: mSubMenu
+p2405
+tp2406
+I2
+s(Vinsert
+p2407
+I40
+VQualifiedName: R.id.actionbarwatson_iprogress
+p2408
+tp2409
+I1
+s(Vinsert
+p2410
+I83
+VModifier: public
+p2411
+tp2412
+I167
+s(Vinsert
+p2413
+I42
+VSimpleName: getShowAsAction
+p2414
+tp2415
+I2
+s(Vinsert
+p2416
+I42
+VSimpleName: removeView
+p2417
+tp2418
+I1
+s(Vinsert
+p2419
+I42
+VSimpleName: runQueryOnBackgroundThread
+p2420
+tp2421
+I1
+s(Vinsert
+p2422
+I42
+VSimpleName: mClient
+p2423
+tp2424
+I1
+s(Vinsert
+p2425
+I42
+VSimpleName: targetClass
+p2426
+tp2427
+I1
+s(Vinsert
+p2428
+I42
+VSimpleName: substring
+p2429
+tp2430
+I1
+s(Vinsert
+p2431
+I42
+VSimpleName: onCanceled
+p2432
+tp2433
+I1
+s(Vinsert
+p2434
+I42
+VSimpleName: mView
+p2435
+tp2436
+I3
+s(Vinsert
+p2437
+I45
+VStringLiteral: "translationY"
+p2438
+tp2439
+I1
+s(Vinsert
+p2440
+I42
+VSimpleName: clickable
+p2441
+tp2442
+I1
+s(Vinsert
+p2443
+I66
+VTextElement:  A ClassLoader that should be used to instantiate any restored objects
+p2444
+tp2445
+I1
+s(Vinsert
+p2446
+I42
+VSimpleName: activated
+p2447
+tp2448
+I1
+s(Vinsert
+p2449
+I42
+VSimpleName: application
+p2450
+tp2451
+I1
+s(Vinsert
+p2452
+I42
+VSimpleName: loadIcon
+p2453
+tp2454
+I1
+s(Vinsert
+p2455
+I42
+VSimpleName: setInputMethodMode
+p2456
+tp2457
+I1
+s(Vinsert
+p2458
+I42
+VSimpleName: mNum
+p2459
+tp2460
+I1
+s(Vinsert
+p2461
+I42
+VSimpleName: mDialog
+p2462
+tp2463
+I1
+s(Vinsert
+p2464
+I42
+VSimpleName: handler
+p2465
+tp2466
+I16
+s(Vinsert
+p2467
+I27
+VInfixExpression: -
+p2468
+tp2469
+I5
+s(Vinsert
+p2470
+I42
+VSimpleName: EdgeEffectCompatIcs
+p2471
+tp2472
+I1
+s(Vinsert
+p2473
+I43
+VSimpleType: ActionBar
+p2474
+tp2475
+I2
+s(Vinsert
+p2476
+I42
+VSimpleName: values
+p2477
+tp2478
+I1
+s(Vinsert
+p2479
+I42
+VSimpleName: eventManager
+p2480
+tp2481
+I1
+s(Vinsert
+p2482
+I42
+VSimpleName: getSuggestPath
+p2483
+tp2484
+I1
+s(Vinsert
+p2485
+I42
+VSimpleName: onHomeClicked
+p2486
+tp2487
+I1
+s(Vinsert
+p2488
+I42
+VSimpleName: show
+p2489
+tp2490
+I3
+s(Vinsert
+p2491
+I42
+VSimpleName: ContextThemeWrapper
+p2492
+tp2493
+I1
+s(Vinsert
+p2494
+I42
+VSimpleName: mItemId
+p2495
+tp2496
+I1
+s(Vinsert
+p2497
+I43
+VSimpleType: View
+p2498
+tp2499
+I63
+s(Vinsert
+p2500
+I42
+VSimpleName: Integer
+p2501
+tp2502
+I1
+s(Vinsert
+p2503
+I42
+VSimpleName: AnimatorListener
+p2504
+tp2505
+I1
+s(Vinsert
+p2506
+I42
+VSimpleName: getItems
+p2507
+tp2508
+I3
+s(Vinsert
+p2509
+I42
+VSimpleName: mCheckBox1
+p2510
+tp2511
+I3
+s(Vinsert
+p2512
+I45
+VStringLiteral: "Couldn't resolve menu item onClick handler "
+p2513
+tp2514
+I1
+s(Vinsert
+p2515
+I42
+VSimpleName: getTheme
+p2516
+tp2517
+I3
+s(Vinsert
+p2518
+I4
+VArrayInitializer
+p2519
+tp2520
+I1
+s(Vinsert
+p2521
+I42
+VSimpleName: mCorkyListener
+p2522
+tp2523
+I2
+s(Vinsert
+p2524
+I42
+VSimpleName: mMenuFrozenActionViewState
+p2525
+tp2526
+I1
+s(Vinsert
+p2527
+I42
+VSimpleName: getConstructor
+p2528
+tp2529
+I3
+s(Vinsert
+p2530
+I42
+VSimpleName: ab
+p2531
+tp2532
+I3
+s(Vinsert
+p2533
+I45
+VStringLiteral: "com.android.internal.view.ActionBarView"
+p2534
+tp2535
+I1
+s(Vinsert
+p2536
+I42
+VSimpleName: CollapsibleActionView
+p2537
+tp2538
+I1
+s(Vinsert
+p2539
+I42
+VSimpleName: union
+p2540
+tp2541
+I1
+s(Vinsert
+p2542
+I42
+VSimpleName: menu
+p2543
+tp2544
+I73
+s(Vinsert
+p2545
+I45
+VStringLiteral: "supportInvalidateOptionsMenu(): Invalidating menu."
+p2546
+tp2547
+I2
+s(Vinsert
+p2548
+I42
+VSimpleName: nativeSubItem
+p2549
+tp2550
+I4
+s(Vinsert
+p2551
+I42
+VSimpleName: ensureList
+p2552
+tp2553
+I1
+s(Vinsert
+p2554
+I42
+VSimpleName: mCursor
+p2555
+tp2556
+I1
+s(Vinsert
+p2557
+I45
+VStringLiteral: "Custom View!"
+p2558
+tp2559
+I1
+s(Vinsert
+p2560
+I42
+VSimpleName: System
+p2561
+tp2562
+I2
+s(Vinsert
+p2563
+I42
+VSimpleName: size
+p2564
+tp2565
+I21
+s(Vinsert
+p2566
+I42
+VSimpleName: getVisibility
+p2567
+tp2568
+I5
+s(Vinsert
+p2569
+I40
+VQualifiedName: android.R.drawable.ic_menu_search
+p2570
+tp2571
+I1
+s(Vinsert
+p2572
+I43
+VSimpleType: LayerDrawable
+p2573
+tp2574
+I2
+s(Vinsert
+p2575
+I42
+VSimpleName: getTitle
+p2576
+tp2577
+I10
+s(Vinsert
+p2578
+I42
+VSimpleName: getItem
+p2579
+tp2580
+I18
+s(Vinsert
+p2581
+I42
+VSimpleName: outValue
+p2582
+tp2583
+I1
+s(Vinsert
+p2584
+I40
+VQualifiedName: ObjectAnimator.REVERSE
+p2585
+tp2586
+I1
+s(Vinsert
+p2587
+I42
+VSimpleName: mPosition
+p2588
+tp2589
+I2
+s(Vinsert
+p2590
+I42
+VSimpleName: mActivity
+p2591
+tp2592
+I29
+s(Vinsert
+p2593
+I42
+VSimpleName: tracker
+p2594
+tp2595
+I3
+s(Vinsert
+p2596
+I42
+VSimpleName: onActionModeFinished
+p2597
+tp2598
+I1
+s(Vinsert
+p2599
+I24
+VForStatement
+p2600
+tp2601
+I6
+s(Vinsert
+p2602
+I42
+VSimpleName: setProgress
+p2603
+tp2604
+I1
+s(Vinsert
+p2605
+I42
+VSimpleName: mStyle
+p2606
+tp2607
+I1
+s(Vinsert
+p2608
+I42
+VSimpleName: mViewPagerSelected
+p2609
+tp2610
+I1
+s(Vinsert
+p2611
+I42
+VSimpleName: testCleanActivityName
+p2612
+tp2613
+I1
+s(Vinsert
+p2614
+I42
+VSimpleName: setCheckable
+p2615
+tp2616
+I2
+s(Vinsert
+p2617
+I42
+VSimpleName: isCheckable
+p2618
+tp2619
+I2
+s(Vinsert
+p2620
+I42
+VSimpleName: getDisplayMetrics
+p2621
+tp2622
+I1
+s(Vinsert
+p2623
+I42
+VSimpleName: expandItemActionView
+p2624
+tp2625
+I4
+s(Vinsert
+p2626
+I42
+VSimpleName: OnOptionsItemSelectedListener
+p2627
+tp2628
+I3
+s(Vinsert
+p2629
+I40
+VQualifiedName: Build.VERSION_CODES.HONEYCOMB_MR2
+p2630
+tp2631
+I1
+s(Vinsert
+p2632
+I42
+VSimpleName: getIcon
+p2633
+tp2634
+I3
+s(Vinsert
+p2635
+I66
+VTextElement: Get a special instance of 
+p2636
+tp2637
+I1
+s(Vinsert
+p2638
+I42
+VSimpleName: mSearchable
+p2639
+tp2640
+I4
+s(Vinsert
+p2641
+I42
+VSimpleName: Toast
+p2642
+tp2643
+I8
+s(Vinsert
+p2644
+I42
+VSimpleName: ViewGroup
+p2645
+tp2646
+I22
+s(Vinsert
+p2647
+I34
+VNumberLiteral: 4
+p2648
+tp2649
+I2
+s(Vinsert
+p2650
+I42
+VSimpleName: fname
+p2651
+tp2652
+I1
+s(Vinsert
+p2653
+I42
+VSimpleName: mContentParent
+p2654
+tp2655
+I4
+s(Vinsert
+p2656
+I43
+VSimpleType: ArrayListFragment
+p2657
+tp2658
+I4
+s(Vinsert
+p2659
+I42
+VSimpleName: showHomeAsUp
+p2660
+tp2661
+I2
+s(Vinsert
+p2662
+I42
+VSimpleName: mPopulatingTask
+p2663
+tp2664
+I3
+s(Vinsert
+p2665
+I42
+VSimpleName: ActionMenuView
+p2666
+tp2667
+I1
+s(Vinsert
+p2668
+I42
+VSimpleName: LinearLayout_baselineAlignedChildIndex
+p2669
+tp2670
+I2
+s(Vinsert
+p2671
+I42
+VSimpleName: mMenuItem
+p2672
+tp2673
+I4
+s(Vinsert
+p2674
+I42
+VSimpleName: eventType
+p2675
+tp2676
+I2
+s(Vinsert
+p2677
+I42
+VSimpleName: shortcutsVisible
+p2678
+tp2679
+I4
+s(Vinsert
+p2680
+I43
+VSimpleType: ItemInfo
+p2681
+tp2682
+I1
+s(Vinsert
+p2683
+I48
+VSuperMethodInvocation
+p2684
+tp2685
+I28
+s(Vinsert
+p2686
+I42
+VSimpleName: itemActionProviderClassName
+p2687
+tp2688
+I1
+s(Vinsert
+p2689
+I42
+VSimpleName: heightSpec
+p2690
+tp2691
+I1
+s(Vinsert
+p2692
+I43
+VSimpleType: ImageView
+p2693
+tp2694
+I4
+s(Vinsert
+p2695
+I43
+VSimpleType: MenuView.ItemView
+p2696
+tp2697
+I2
+s(Vinsert
+p2698
+I42
+VSimpleName: Number
+p2699
+tp2700
+I2
+s(Vinsert
+p2701
+I42
+VSimpleName: setActionView
+p2702
+tp2703
+I5
+s(Vinsert
+p2704
+I45
+VStringLiteral: "\u005c""
+p2705
+tp2706
+I1
+s(Vinsert
+p2707
+I66
+VTextElement: Return the activity context.
+p2708
+tp2709
+I1
+s(Vinsert
+p2710
+I43
+VSimpleType: RectF
+p2711
+tp2712
+I1
+s(Vinsert
+p2713
+I40
+VQualifiedName: R.id.issue0033_action
+p2714
+tp2715
+I1
+s(Vinsert
+p2716
+I42
+VSimpleName: testMenuCreatingOnActivityCreation
+p2717
+tp2718
+I1
+s(Vinsert
+p2719
+I42
+VSimpleName: mCurFilter
+p2720
+tp2721
+I1
+s(Vinsert
+p2722
+I43
+VSimpleType: NoSaveStateFrameLayout.LayoutParams
+p2723
+tp2724
+I2
+s(Vinsert
+p2725
+I42
+VSimpleName: impls
+p2726
+tp2727
+I1
+s(Vinsert
+p2728
+I42
+VSimpleName: layout
+p2729
+tp2730
+I2
+s(Vinsert
+p2731
+I42
+VSimpleName: choiceRecords
+p2732
+tp2733
+I2
+s(Vinsert
+p2734
+I42
+VSimpleName: HasTitle
+p2735
+tp2736
+I6
+s(Vinsert
+p2737
+I42
+VSimpleName: LayerDrawable
+p2738
+tp2739
+I2
+s(Vinsert
+p2740
+I43
+VSimpleType: ContextMenu
+p2741
+tp2742
+I2
+s(Vinsert
+p2743
+I42
+VSimpleName: query
+p2744
+tp2745
+I1
+s(Vinsert
+p2746
+I42
+VSimpleName: getAttributeName
+p2747
+tp2748
+I2
+s(Vinsert
+p2749
+I42
+VSimpleName: mCheckedForLoaderManager
+p2750
+tp2751
+I1
+s(Vinsert
+p2752
+I42
+VSimpleName: mActionBarContainer
+p2753
+tp2754
+I2
+s(Vinsert
+p2755
+I42
+VSimpleName: newTab
+p2756
+tp2757
+I5
+s(Vinsert
+p2758
+I60
+VVariableDeclarationStatement
+p2759
+tp2760
+I167
+s(Vinsert
+p2761
+I42
+VSimpleName: nonActionItems
+p2762
+tp2763
+I1
+s(Vinsert
+p2764
+I42
+VSimpleName: isOverflowMenuShowing
+p2765
+tp2766
+I2
+s(Vinsert
+p2767
+I42
+VSimpleName: appPackage
+p2768
+tp2769
+I1
+s(Vinsert
+p2770
+I42
+VSimpleName: nodeClone
+p2771
+tp2772
+I2
+s(Vinsert
+p2773
+I42
+VSimpleName: getIntent
+p2774
+tp2775
+I3
+s(Vinsert
+p2776
+I42
+VSimpleName: CheckBox
+p2777
+tp2778
+I3
+s(Vinsert
+p2779
+I42
+VSimpleName: mNativeSubMenu
+p2780
+tp2781
+I1
+s(Vinsert
+p2782
+I42
+VSimpleName: cancelled
+p2783
+tp2784
+I1
+s(Vinsert
+p2785
+I42
+VSimpleName: setRepeatCount
+p2786
+tp2787
+I2
+s(Vinsert
+p2788
+I45
+VStringLiteral: " in class "
+p2789
+tp2790
+I1
+s(Vinsert
+p2791
+I42
+VSimpleName: findDrawableByLayerId
+p2792
+tp2793
+I1
+s(Vinsert
+p2794
+I42
+VSimpleName: getAlpha
+p2795
+tp2796
+I2
+s(Vinsert
+p2797
+I42
+VSimpleName: ACTION_MAIN
+p2798
+tp2799
+I1
+s(Vinsert
+p2800
+I43
+VSimpleType: android.view.Menu
+p2801
+tp2802
+I7
+s(Vinsert
+p2803
+I42
+VSimpleName: setSelected
+p2804
+tp2805
+I2
+s(Vinsert
+p2806
+I22
+VFieldAccess
+p2807
+tp2808
+I43
+s(Vinsert
+p2809
+I66
+VTextElement:  Pending future API approval
+p2810
+tp2811
+I1
+s(Vinsert
+p2812
+I66
+VTextElement:  Menu item instance.
+p2813
+tp2814
+I1
+s(Vinsert
+p2815
+I40
+VQualifiedName: R.menu.hello
+p2816
+tp2817
+I1
+s(Vinsert
+p2818
+I42
+VSimpleName: mMenu
+p2819
+tp2820
+I20
+s(Vinsert
+p2821
+I42
+VSimpleName: myData
+p2822
+tp2823
+I4
+s(Vinsert
+p2824
+I42
+VSimpleName: NativeActionBarHandler
+p2825
+tp2826
+I1
+s(Vinsert
+p2827
+I40
+VQualifiedName: ViewGroup.LayoutParams
+p2828
+tp2829
+I3
+s(Vinsert
+p2830
+I42
+VSimpleName: PrintWriter
+p2831
+tp2832
+I3
+s(Vinsert
+p2833
+I43
+VSimpleType: Issue0030
+p2834
+tp2835
+I1
+s(Vinsert
+p2836
+I42
+VSimpleName: getActionBar
+p2837
+tp2838
+I25
+s(Vinsert
+p2839
+I40
+VQualifiedName: R.drawable.ic_refresh
+p2840
+tp2841
+I1
+s(Vinsert
+p2842
+I42
+VSimpleName: mCheckBox
+p2843
+tp2844
+I1
+s(Vinsert
+p2845
+I42
+VSimpleName: setItemView
+p2846
+tp2847
+I1
+s(Vinsert
+p2848
+I42
+VSimpleName: getParent
+p2849
+tp2850
+I4
+s(Vinsert
+p2851
+I66
+VTextElement:  The id.
+p2852
+tp2853
+I1
+s(Vinsert
+p2854
+I43
+VSimpleType: SubMenuBuilder
+p2855
+tp2856
+I1
+s(Vinsert
+p2857
+I42
+VSimpleName: mItem
+p2858
+tp2859
+I4
+s(Vinsert
+p2860
+I42
+VSimpleName: visibleItems
+p2861
+tp2862
+I2
+s(Vinsert
+p2863
+I42
+VSimpleName: WatsonItemViewWrapper
+p2864
+tp2865
+I2
+s(Vinsert
+p2866
+I42
+VSimpleName: String
+p2867
+tp2868
+I28
+s(Vinsert
+p2869
+I42
+VSimpleName: metaState
+p2870
+tp2871
+I2
+s(Vinsert
+p2872
+I65
+VTagElement: @deprecated
+p2873
+tp2874
+I1
+s(Vinsert
+p2875
+I45
+VStringLiteral: "ItemA"
+p2876
+tp2877
+I1
+s(Vinsert
+p2878
+I42
+VSimpleName: host
+p2879
+tp2880
+I2
+s(Vinsert
+p2881
+I40
+VQualifiedName: MeasureSpec.UNSPECIFIED
+p2882
+tp2883
+I1
+s(Vinsert
+p2884
+I42
+VSimpleName: mMenuResourceId
+p2885
+tp2886
+I1
+s(Vinsert
+p2887
+I42
+VSimpleName: c
+p2888
+tp2889
+I4
+s(Vinsert
+p2890
+I42
+VSimpleName: Method
+p2891
+tp2892
+I1
+s(Vinsert
+p2893
+I42
+VSimpleName: showDialog
+p2894
+tp2895
+I4
+s(Vinsert
+p2896
+I42
+VSimpleName: mMenuView
+p2897
+tp2898
+I2
+s(Vinsert
+p2899
+I42
+VSimpleName: paddingRight
+p2900
+tp2901
+I1
+s(Vinsert
+p2902
+I42
+VSimpleName: Parcel
+p2903
+tp2904
+I2
+s(Vinsert
+p2905
+I40
+VQualifiedName: VERSION_CODES.HONEYCOMB
+p2906
+tp2907
+I1
+s(Vinsert
+p2908
+I42
+VSimpleName: getFloat
+p2909
+tp2910
+I2
+s(Vinsert
+p2911
+I42
+VSimpleName: mStopListener
+p2912
+tp2913
+I1
+s(Vinsert
+p2914
+I42
+VSimpleName: ensureSupportActionBarAttached
+p2915
+tp2916
+I2
+s(Vinsert
+p2917
+I42
+VSimpleName: normalizeMetaState
+p2918
+tp2919
+I2
+s(Vinsert
+p2920
+I25
+VIfStatement
+p2921
+tp2922
+I177
+s(Vinsert
+p2923
+I42
+VSimpleName: getTitleForItemView
+p2924
+tp2925
+I1
+s(Vinsert
+p2926
+I42
+VSimpleName: themeId
+p2927
+tp2928
+I2
+s(Vinsert
+p2929
+I42
+VSimpleName: iconRes
+p2930
+tp2931
+I2
+s(Vinsert
+p2932
+I65
+VTagElement: @sample
+p2933
+tp2934
+I3
+s(Vinsert
+p2935
+I42
+VSimpleName: widthSizeAndState
+p2936
+tp2937
+I2
+s(Vinsert
+p2938
+I43
+VSimpleType: CountDownLatch
+p2939
+tp2940
+I2
+s(Vinsert
+p2941
+I43
+VSimpleType: View_HasStateListenerSupport
+p2942
+tp2943
+I2
+s(Vinsert
+p2944
+I42
+VSimpleName: VelocityTrackerCompatHoneycomb
+p2945
+tp2946
+I1
+s(Vinsert
+p2947
+I42
+VSimpleName: getMax
+p2948
+tp2949
+I2
+s(Vinsert
+p2950
+I42
+VSimpleName: loadInBackground
+p2951
+tp2952
+I1
+s(Vinsert
+p2953
+I42
+VSimpleName: mCallbacks
+p2954
+tp2955
+I3
+s(Vinsert
+p2956
+I42
+VSimpleName: actionMode
+p2957
+tp2958
+I5
+s(Vinsert
+p2959
+I42
+VSimpleName: ContextMenu
+p2960
+tp2961
+I2
+s(Vinsert
+p2962
+I43
+VSimpleType: Menu
+p2963
+tp2964
+I19
+s(Vinsert
+p2965
+I42
+VSimpleName: subMenuItemParent
+p2966
+tp2967
+I1
+s(Vinsert
+p2968
+I40
+VQualifiedName: R.layout.abs__screen_action_bar
+p2969
+tp2970
+I2
+s(Vinsert
+p2971
+I40
+VQualifiedName: Bitmap.Config.ARGB_8888
+p2972
+tp2973
+I2
+s(Vinsert
+p2974
+I40
+VQualifiedName: R.string.issue0042_title
+p2975
+tp2976
+I1
+s(Vinsert
+p2977
+I66
+VTextElement: individual fragment's layout is:
+p2978
+tp2979
+I1
+s(Vinsert
+p2980
+I38
+VPrefixExpression: !
+p2981
+tp2982
+I23
+s(Vinsert
+p2983
+I40
+VQualifiedName: Configuration.ORIENTATION_LANDSCAPE
+p2984
+tp2985
+I2
+s(Vinsert
+p2986
+I43
+VSimpleType: LinearLayout
+p2987
+tp2988
+I1
+s(Vinsert
+p2989
+I42
+VSimpleName: setId
+p2990
+tp2991
+I1
+s(Vinsert
+p2992
+I42
+VSimpleName: handleCustom
+p2993
+tp2994
+I1
+s(Vinsert
+p2995
+I42
+VSimpleName: in
+p2996
+tp2997
+I2
+s(Vinsert
+p2998
+I42
+VSimpleName: getMeasuredWidth
+p2999
+tp3000
+I4
+s(Vinsert
+p3001
+I42
+VSimpleName: mTabViewContainer
+p3002
+tp3003
+I3
+s(Vinsert
+p3004
+I42
+VSimpleName: methodName
+p3005
+tp3006
+I1
+s(Vinsert
+p3007
+I42
+VSimpleName: mainIntent
+p3008
+tp3009
+I1
+s(Vinsert
+p3010
+I40
+VQualifiedName: ViewCompat.OVER_SCROLL_ALWAYS
+p3011
+tp3012
+I1
+s(Vinsert
+p3013
+I42
+VSimpleName: implementation
+p3014
+tp3015
+I8
+s(Vinsert
+p3016
+I42
+VSimpleName: setShowDefaultActivity
+p3017
+tp3018
+I1
+s(Vinsert
+p3019
+I42
+VSimpleName: HoneycombInvalidateOptionsMenu
+p3020
+tp3021
+I2
+s(Vinsert
+p3022
+I42
+VSimpleName: Callback
+p3023
+tp3024
+I1
+s(Vinsert
+p3025
+I42
+VSimpleName: getMeasuredHeight
+p3026
+tp3027
+I3
+s(Vinsert
+p3028
+I42
+VSimpleName: lv
+p3029
+tp3030
+I1
+s(Vinsert
+p3031
+I42
+VSimpleName: getResourceMenuItem
+p3032
+tp3033
+I1
+s(Vinsert
+p3034
+I42
+VSimpleName: horizontalProgressBar
+p3035
+tp3036
+I1
+s(Vinsert
+p3037
+I42
+VSimpleName: setSpan
+p3038
+tp3039
+I1
+s(Vinsert
+p3040
+I42
+VSimpleName: url
+p3041
+tp3042
+I1
+s(Vinsert
+p3043
+I43
+VSimpleType: MyDialogFragment
+p3044
+tp3045
+I2
+s(Vinsert
+p3046
+I42
+VSimpleName: postDelayed
+p3047
+tp3048
+I1
+s(Vinsert
+p3049
+I42
+VSimpleName: getSelectedTab
+p3050
+tp3051
+I1
+s(Vinsert
+p3052
+I42
+VSimpleName: am
+p3053
+tp3054
+I1
+s(Vinsert
+p3055
+I42
+VSimpleName: mListeners
+p3056
+tp3057
+I4
+s(Vinsert
+p3058
+I42
+VSimpleName: ObjectKeyframe
+p3059
+tp3060
+I2
+s(Vinsert
+p3061
+I43
+VSimpleType: OnCreateOptionsMenuListener
+p3062
+tp3063
+I2
+s(Vinsert
+p3064
+I34
+VNumberLiteral: 24
+p3065
+tp3066
+I1
+s(Vinsert
+p3067
+I42
+VSimpleName: bindOverflowToNative
+p3068
+tp3069
+I1
+s(Vinsert
+p3070
+I42
+VSimpleName: MenuHoneycombWrapper
+p3071
+tp3072
+I1
+s(Vinsert
+p3073
+I42
+VSimpleName: endAnimation
+p3074
+tp3075
+I1
+s(Vinsert
+p3076
+I42
+VSimpleName: getSubMenuItemParent
+p3077
+tp3078
+I1
+s(Vinsert
+p3079
+I42
+VSimpleName: width
+p3080
+tp3081
+I5
+s(Vinsert
+p3082
+I42
+VSimpleName: lframe
+p3083
+tp3084
+I1
+s(Vinsert
+p3085
+I42
+VSimpleName: LinearLayout_showDividers
+p3086
+tp3087
+I2
+s(Vinsert
+p3088
+I42
+VSimpleName: fire
+p3089
+tp3090
+I1
+s(Vinsert
+p3091
+I42
+VSimpleName: actionBarMenu
+p3092
+tp3093
+I1
+s(Vinsert
+p3094
+I43
+VSimpleType: FrameLayout.LayoutParams
+p3095
+tp3096
+I1
+s(Vinsert
+p3097
+I43
+VSimpleType: SQLiteDatabase
+p3098
+tp3099
+I2
+s(Vinsert
+p3100
+I42
+VSimpleName: mLastFragment
+p3101
+tp3102
+I2
+s(Vinsert
+p3103
+I42
+VSimpleName: PropertyValuesHolder
+p3104
+tp3105
+I3
+s(Vinsert
+p3106
+I42
+VSimpleName: putInt
+p3107
+tp3108
+I3
+s(Vinsert
+p3109
+I42
+VSimpleName: mSplitView
+p3110
+tp3111
+I2
+s(Vinsert
+p3112
+I42
+VSimpleName: subUiVisibilityChanged
+p3113
+tp3114
+I1
+s(Vinsert
+p3115
+I42
+VSimpleName: StringBuilder
+p3116
+tp3117
+I2
+s(Vinsert
+p3118
+I43
+VSimpleType: OnOptionsItemSelectedListener
+p3119
+tp3120
+I3
+s(Vinsert
+p3121
+I42
+VSimpleName: setUiOptions
+p3122
+tp3123
+I1
+s(Vinsert
+p3124
+I45
+VStringLiteral: "Not implemented."
+p3125
+tp3126
+I1
+s(Vinsert
+p3127
+I43
+VSimpleType: List
+p3128
+tp3129
+I3
+s(Vinsert
+p3130
+I42
+VSimpleName: mIconDrawable
+p3131
+tp3132
+I1
+s(Vinsert
+p3133
+I42
+VSimpleName: ActionBar
+p3134
+tp3135
+I2
+s(Vinsert
+p3136
+I42
+VSimpleName: subMenu1
+p3137
+tp3138
+I1
+s(Vinsert
+p3139
+I34
+VNumberLiteral: 3
+p3140
+tp3141
+I2
+s(Vinsert
+p3142
+I42
+VSimpleName: setType
+p3143
+tp3144
+I1
+s(Vinsert
+p3145
+I42
+VSimpleName: defStyleRes
+p3146
+tp3147
+I1
+s(Vinsert
+p3148
+I42
+VSimpleName: testMenuFindItemDoesNotError
+p3149
+tp3150
+I3
+s(Vinsert
+p3151
+I45
+VStringLiteral: "[onCreatePanelMenu] returning "
+p3152
+tp3153
+I1
+s(Vinsert
+p3154
+I42
+VSimpleName: findViewById
+p3155
+tp3156
+I29
+s(Vinsert
+p3157
+I42
+VSimpleName: getMenu
+p3158
+tp3159
+I2
+s(Vinsert
+p3160
+I42
+VSimpleName: setActionItemTextEnabled
+p3161
+tp3162
+I1
+s(Vinsert
+p3163
+I43
+VSimpleType: ResolveInfo
+p3164
+tp3165
+I1
+s(Vinsert
+p3166
+I42
+VSimpleName: color
+p3167
+tp3168
+I1
+s(Vinsert
+p3169
+I42
+VSimpleName: isExclusiveCheckable
+p3170
+tp3171
+I1
+s(Vinsert
+p3172
+I42
+VSimpleName: onSubUiVisibilityChanged
+p3173
+tp3174
+I1
+s(Vinsert
+p3175
+I42
+VSimpleName: getInternalCallbacks
+p3176
+tp3177
+I5
+s(Vinsert
+p3178
+I42
+VSimpleName: subMenu1Item
+p3179
+tp3180
+I3
+s(Vinsert
+p3181
+I42
+VSimpleName: uiOptions
+p3182
+tp3183
+I1
+s(Vinsert
+p3184
+I42
+VSimpleName: DISPLAY_SHOW_HOME
+p3185
+tp3186
+I2
+s(Vinsert
+p3187
+I40
+VQualifiedName: mSpinnerPadding.bottom
+p3188
+tp3189
+I1
+s(Vinsert
+p3190
+I42
+VSimpleName: searchText
+p3191
+tp3192
+I1
+s(Vinsert
+p3193
+I42
+VSimpleName: testWait
+p3194
+tp3195
+I1
+s(Vinsert
+p3196
+I43
+VSimpleType: LayoutParams
+p3197
+tp3198
+I9
+s(Vinsert
+p3199
+I42
+VSimpleName: mListPopupWindow
+p3200
+tp3201
+I3
+s(Vinsert
+p3202
+I40
+VQualifiedName: android.os.Build.VERSION.SDK_INT
+p3203
+tp3204
+I1
+s(Vinsert
+p3205
+I42
+VSimpleName: getNonActionItems
+p3206
+tp3207
+I1
+s(Vinsert
+p3208
+I40
+VQualifiedName: f.text
+p3209
+tp3210
+I2
+s(Vinsert
+p3211
+I42
+VSimpleName: mQueryTextView
+p3212
+tp3213
+I1
+s(Vinsert
+p3214
+I40
+VQualifiedName: list.mListSelectionHidden
+p3215
+tp3216
+I1
+s(Vinsert
+p3217
+I42
+VSimpleName: AccessibilityNodeInfoCompatIcs
+p3218
+tp3219
+I1
+s(Vinsert
+p3220
+I42
+VSimpleName: getShowsActionItemText
+p3221
+tp3222
+I1
+s(Vinsert
+p3223
+I42
+VSimpleName: totalLength
+p3224
+tp3225
+I1
+s(Vinsert
+p3226
+I42
+VSimpleName: select
+p3227
+tp3228
+I2
+s(Vinsert
+p3229
+I78
+VMarkerAnnotation
+p3230
+tp3231
+I87
+s(Vinsert
+p3232
+I42
+VSimpleName: getAttributeValue
+p3233
+tp3234
+I3
+s(Vinsert
+p3235
+I54
+VTryStatement
+p3236
+tp3237
+I8
+s(Vinsert
+p3238
+I42
+VSimpleName: setInterpolator
+p3239
+tp3240
+I1
+s(Vinsert
+p3241
+I42
+VSimpleName: onRequestSendAccessibilityEvent
+p3242
+tp3243
+I2
+s(Vinsert
+p3244
+I66
+VTextElement:  development/samples/Support4Demos/res/layout/fragment_pager_list.xml
+p3245
+tp3246
+I1
+s(Vinsert
+p3247
+I42
+VSimpleName: getParameters
+p3248
+tp3249
+I2
+s(Vinsert
+p3250
+I42
+VSimpleName: group
+p3251
+tp3252
+I3
+s(Vinsert
+p3253
+I42
+VSimpleName: clear
+p3254
+tp3255
+I7
+s(Vinsert
+p3256
+I42
+VSimpleName: Object
+p3257
+tp3258
+I17
+s(Vinsert
+p3259
+I43
+VSimpleType: PagerAdapter
+p3260
+tp3261
+I1
+s(Vinsert
+p3262
+I43
+VSimpleType: IllegalStateException
+p3263
+tp3264
+I4
+s(Vinsert
+p3265
+I42
+VSimpleName: setTabListener
+p3266
+tp3267
+I1
+s(Vinsert
+p3268
+I42
+VSimpleName: mProgressBar
+p3269
+tp3270
+I2
+s(Vinsert
+p3271
+I42
+VSimpleName: getCallback
+p3272
+tp3273
+I3
+s(Vinsert
+p3274
+I40
+VQualifiedName: android.view.MenuItem
+p3275
+tp3276
+I8
+s(Vinsert
+p3277
+I42
+VSimpleName: FilterResults
+p3278
+tp3279
+I1
+s(Vinsert
+p3280
+I40
+VQualifiedName: Shakespeare.DIALOGUE
+p3281
+tp3282
+I1
+s(Vinsert
+p3283
+I42
+VSimpleName: oldFocusability
+p3284
+tp3285
+I1
+s(Vinsert
+p3286
+I42
+VSimpleName: customParent
+p3287
+tp3288
+I3
+s(Vinsert
+p3289
+I45
+VStringLiteral: "Text-only action-item could not be found."
+p3290
+tp3291
+I1
+s(Vinsert
+p3292
+I42
+VSimpleName: getDecorView
+p3293
+tp3294
+I1
+s(Vinsert
+p3295
+I40
+VQualifiedName: newValues.length
+p3296
+tp3297
+I1
+s(Vinsert
+p3298
+I40
+VQualifiedName: R.layout.text
+p3299
+tp3300
+I2
+s(Vinsert
+p3301
+I42
+VSimpleName: mMenuListener
+p3302
+tp3303
+I1
+s(Vinsert
+p3304
+I42
+VSimpleName: OnCreateOptionsMenuListener
+p3305
+tp3306
+I2
+s(Vinsert
+p3307
+I40
+VQualifiedName: ActionBar.Tab
+p3308
+tp3309
+I5
+s(Vinsert
+p3310
+I42
+VSimpleName: appendRecord
+p3311
+tp3312
+I2
+s(Vinsert
+p3313
+I42
+VSimpleName: actualSubtitle
+p3314
+tp3315
+I1
+s(Vinsert
+p3316
+I42
+VSimpleName: setActivity
+p3317
+tp3318
+I1
+s(Vinsert
+p3319
+I43
+VSimpleType: NativeActionBarHandler
+p3320
+tp3321
+I1
+s(Vinsert
+p3322
+I36
+VParenthesizedExpression
+p3323
+tp3324
+I70
+s(Vinsert
+p3325
+I42
+VSimpleName: iconResourceId
+p3326
+tp3327
+I1
+s(Vinsert
+p3328
+I42
+VSimpleName: onCreate
+p3329
+tp3330
+I17
+s(Vinsert
+p3331
+I43
+VSimpleType: OnActionModeFinishedListener
+p3332
+tp3333
+I7
+s(Vinsert
+p3334
+I52
+VThisExpression
+p3335
+tp3336
+I116
+s(Vinsert
+p3337
+I42
+VSimpleName: titleId
+p3338
+tp3339
+I1
+s(Vinsert
+p3340
+I42
+VSimpleName: superListenerField
+p3341
+tp3342
+I2
+s(Vinsert
+p3343
+I42
+VSimpleName: dispatchOpenOptionsMenu
+p3344
+tp3345
+I1
+s(Vinsert
+p3346
+I43
+VSimpleType: SubMenu
+p3347
+tp3348
+I6
+s(Vinsert
+p3349
+I42
+VSimpleName: cdesc
+p3350
+tp3351
+I1
+s(Vinsert
+p3352
+I42
+VSimpleName: IS_HONEYCOMB
+p3353
+tp3354
+I14
+s(Vinsert
+p3355
+I42
+VSimpleName: childExtra
+p3356
+tp3357
+I2
+s(Vinsert
+p3358
+I66
+VTextElement: and associated views should update.
+p3359
+tp3360
+I1
+s(Vinsert
+p3361
+I45
+VStringLiteral: "||"
+p3362
+tp3363
+I2
+s(Vinsert
+p3364
+I42
+VSimpleName: features
+p3365
+tp3366
+I1
+s(Vinsert
+p3367
+I42
+VSimpleName: showHome
+p3368
+tp3369
+I3
+s(Vinsert
+p3370
+I40
+VQualifiedName: R.styleable.SherlockMenuItem_android_actionViewClass
+p3371
+tp3372
+I1
+s(Vinsert
+p3373
+I42
+VSimpleName: filter
+p3374
+tp3375
+I1
+s(Vinsert
+p3376
+I42
+VSimpleName: ofFloat
+p3377
+tp3378
+I7
+s(Vinsert
+p3379
+I6
+VAssertStatement
+p3380
+tp3381
+I1
+s(Vinsert
+p3382
+I42
+VSimpleName: mTitleView
+p3383
+tp3384
+I2
+s(Vinsert
+p3385
+I42
+VSimpleName: f
+p3386
+tp3387
+I5
+s(Vinsert
+p3388
+I42
+VSimpleName: menuResourceId
+p3389
+tp3390
+I1
+s(Vinsert
+p3391
+I42
+VSimpleName: actionBarEnabled
+p3392
+tp3393
+I1
+s(Vinsert
+p3394
+I43
+VSimpleType: AppEntry
+p3395
+tp3396
+I4
+s(Vinsert
+p3397
+I42
+VSimpleName: ActionBarContainer
+p3398
+tp3399
+I2
+s(Vinsert
+p3400
+I42
+VSimpleName: mPopup
+p3401
+tp3402
+I2
+s(Vinsert
+p3403
+I42
+VSimpleName: newTabSpec
+p3404
+tp3405
+I1
+s(Vinsert
+p3406
+I42
+VSimpleName: getTabWidget
+p3407
+tp3408
+I1
+s(Vinsert
+p3409
+I42
+VSimpleName: after
+p3410
+tp3411
+I3
+s(Vinsert
+p3412
+I42
+VSimpleName: HashMap
+p3413
+tp3414
+I3
+s(Vinsert
+p3415
+I42
+VSimpleName: overridingErrorMessage
+p3416
+tp3417
+I1
+s(Vinsert
+p3418
+I43
+VSimpleType: IcsLinearLayout.LayoutParams
+p3419
+tp3420
+I2
+s(Vinsert
+p3421
+I42
+VSimpleName: delegate
+p3422
+tp3423
+I2
+s(Vinsert
+p3424
+I42
+VSimpleName: setLayoutParams
+p3425
+tp3426
+I8
+s(Vinsert
+p3427
+I83
+VModifier: final
+p3428
+tp3429
+I58
+s(Vinsert
+p3430
+I40
+VQualifiedName: R.id.menu2
+p3431
+tp3432
+I3
+s(Vinsert
+p3433
+I42
+VSimpleName: onMeasure
+p3434
+tp3435
+I1
+s(Vinsert
+p3436
+I42
+VSimpleName: progressDrawable
+p3437
+tp3438
+I1
+s(Vinsert
+p3439
+I42
+VSimpleName: Fragment
+p3440
+tp3441
+I12
+s(Vinsert
+p3442
+I83
+VModifier: static
+p3443
+tp3444
+I30
+s(Vinsert
+p3445
+I42
+VSimpleName: toString
+p3446
+tp3447
+I3
+s(Vinsert
+p3448
+I43
+VSimpleType: ViewGroup.LayoutParams
+p3449
+tp3450
+I3
+s(Vinsert
+p3451
+I42
+VSimpleName: mReallyHasMenu
+p3452
+tp3453
+I1
+s(Vinsert
+p3454
+I42
+VSimpleName: menuMapCopy
+p3455
+tp3456
+I1
+s(Vinsert
+p3457
+I74
+VParameterizedType: Class<T>
+p3458
+tp3459
+I6
+s(Vinsert
+p3460
+I40
+VQualifiedName: MenuView.ItemView
+p3461
+tp3462
+I2
+s(Vinsert
+p3463
+I42
+VSimpleName: alpha
+p3464
+tp3465
+I5
+s(Vinsert
+p3466
+I42
+VSimpleName: getProgress
+p3467
+tp3468
+I1
+s(Vinsert
+p3469
+I40
+VQualifiedName: View.VISIBLE
+p3470
+tp3471
+I1
+s(Vinsert
+p3472
+I42
+VSimpleName: tab
+p3473
+tp3474
+I8
+s(Vinsert
+p3475
+I42
+VSimpleName: Deprecated
+p3476
+tp3477
+I1
+s(Vinsert
+p3478
+I37
+VPostfixExpression: ++
+p3479
+tp3480
+I10
+s(Vinsert
+p3481
+I42
+VSimpleName: ii
+p3482
+tp3483
+I1
+s(Vinsert
+p3484
+I74
+VParameterizedType: List<AppEntry>
+p3485
+tp3486
+I1
+s(Vinsert
+p3487
+I66
+VTextElement:  Resource ID of drawable to use.
+p3488
+tp3489
+I1
+s(Vinsert
+p3490
+I42
+VSimpleName: getMenuItemSubMenu
+p3491
+tp3492
+I1
+s(Vinsert
+p3493
+I42
+VSimpleName: computeRect
+p3494
+tp3495
+I1
+s(Vinsert
+p3496
+I45
+VStringLiteral: "Adding item #"
+p3497
+tp3498
+I1
+s(Vinsert
+p3499
+I42
+VSimpleName: AlphaAnimation
+p3500
+tp3501
+I2
+s(Vinsert
+p3502
+I42
+VSimpleName: first
+p3503
+tp3504
+I1
+s(Vinsert
+p3505
+I42
+VSimpleName: ATTRS
+p3506
+tp3507
+I1
+s(Vinsert
+p3508
+I42
+VSimpleName: fd
+p3509
+tp3510
+I3
+s(Vinsert
+p3511
+I43
+VSimpleType: MapView
+p3512
+tp3513
+I2
+s(Vinsert
+p3514
+I43
+VSimpleType: FragmentTransaction
+p3515
+tp3516
+I4
+s(Vinsert
+p3517
+I40
+VQualifiedName: android.R.id.home
+p3518
+tp3519
+I5
+s(Vinsert
+p3520
+I42
+VSimpleName: isAssignableFrom
+p3521
+tp3522
+I1
+s(Vinsert
+p3523
+I42
+VSimpleName: entries
+p3524
+tp3525
+I5
+s(Vinsert
+p3526
+I42
+VSimpleName: getResources
+p3527
+tp3528
+I14
+s(Vinsert
+p3529
+I40
+VQualifiedName: value.string
+p3530
+tp3531
+I1
+s(Vinsert
+p3532
+I42
+VSimpleName: findItemIndex
+p3533
+tp3534
+I2
+s(Vinsert
+p3535
+I42
+VSimpleName: SearchRecentSuggestions
+p3536
+tp3537
+I2
+s(Vinsert
+p3538
+I42
+VSimpleName: getDrawable
+p3539
+tp3540
+I10
+s(Vinsert
+p3541
+I42
+VSimpleName: tabCount
+p3542
+tp3543
+I1
+s(Vinsert
+p3544
+I40
+VQualifiedName: Window.FEATURE_ACTION_BAR_ITEM_TEXT
+p3545
+tp3546
+I1
+s(Vinsert
+p3547
+I42
+VSimpleName: ViewConfiguration
+p3548
+tp3549
+I2
+s(Vinsert
+p3550
+I40
+VQualifiedName: ActionBarSherlock.HAS_NATIVE_ACTION_BAR
+p3551
+tp3552
+I2
+s(Vinsert
+p3553
+I42
+VSimpleName: itemId
+p3554
+tp3555
+I7
+s(Vinsert
+p3556
+I42
+VSimpleName: FragmentManagerImpl
+p3557
+tp3558
+I2
+s(Vinsert
+p3559
+I74
+VParameterizedType: Constructor<T>
+p3560
+tp3561
+I1
+s(Vinsert
+p3562
+I7
+VAssignment: =
+p3563
+tp3564
+I127
+s(Vinsert
+p3565
+I42
+VSimpleName: setMeasureWithLargestChildEnabled
+p3566
+tp3567
+I1
+s(Vinsert
+p3568
+I42
+VSimpleName: mIgnoreNativeCreate
+p3569
+tp3570
+I1
+s(Vinsert
+p3571
+I42
+VSimpleName: OnResumeEvent
+p3572
+tp3573
+I1
+s(Vinsert
+p3574
+I42
+VSimpleName: NEEDS_PROXY
+p3575
+tp3576
+I3
+s(Vinsert
+p3577
+I42
+VSimpleName: heightMeasureSpec
+p3578
+tp3579
+I3
+s(Vinsert
+p3580
+I43
+VSimpleType: ContextThemeWrapper
+p3581
+tp3582
+I1
+s(Vinsert
+p3583
+I42
+VSimpleName: CONTEXT_DISPLAY_SPLIT
+p3584
+tp3585
+I1
+s(Vinsert
+p3586
+I43
+VSimpleType: TabWidget
+p3587
+tp3588
+I1
+s(Vinsert
+p3589
+I42
+VSimpleName: titleRes
+p3590
+tp3591
+I1
+s(Vinsert
+p3592
+I42
+VSimpleName: setMultiChoiceItems
+p3593
+tp3594
+I1
+s(Vinsert
+p3595
+I42
+VSimpleName: performClick
+p3596
+tp3597
+I1
+s(Vinsert
+p3598
+I42
+VSimpleName: titleResourceId
+p3599
+tp3600
+I3
+s(Vinsert
+p3601
+I42
+VSimpleName: AsyncTaskCompatHoneycomb
+p3602
+tp3603
+I2
+s(Vinsert
+p3604
+I42
+VSimpleName: setViewImage
+p3605
+tp3606
+I1
+s(Vinsert
+p3607
+I42
+VSimpleName: ViewConfigurationVersionImpl
+p3608
+tp3609
+I1
+s(Vinsert
+p3610
+I42
+VSimpleName: homeWrapper
+p3611
+tp3612
+I1
+s(Vinsert
+p3613
+I42
+VSimpleName: getSubMenuChecked
+p3614
+tp3615
+I1
+s(Vinsert
+p3616
+I40
+VQualifiedName: Build.VERSION_CODES.ECLAIR
+p3617
+tp3618
+I1
+s(Vinsert
+p3619
+I66
+VTextElement: This method should be called by the application if the data backing this adapter has changed
+p3620
+tp3621
+I1
+s(Vinsert
+p3622
+I42
+VSimpleName: childBottom
+p3623
+tp3624
+I1
+s(Vinsert
+p3625
+I42
+VSimpleName: mTabLayout
+p3626
+tp3627
+I1
+s(Vinsert
+p3628
+I42
+VSimpleName: hintParams
+p3629
+tp3630
+I1
+s(Vinsert
+p3631
+I40
+VQualifiedName: Window.FEATURE_PROGRESS
+p3632
+tp3633
+I1
+s(Vinsert
+p3634
+I65
+VTagElement: @Override
+p3635
+tp3636
+I1
+s(Vinsert
+p3637
+I42
+VSimpleName: hideMenuItemNative
+p3638
+tp3639
+I1
+s(Vinsert
+p3640
+I42
+VSimpleName: setImageDrawable
+p3641
+tp3642
+I1
+s(Vinsert
+p3643
+I42
+VSimpleName: mDataValid
+p3644
+tp3645
+I1
+s(Vinsert
+p3646
+I42
+VSimpleName: mNativeItem
+p3647
+tp3648
+I2
+s(Vinsert
+p3649
+I65
+VTagElement: @inheritDoc
+p3650
+tp3651
+I1
+s(Vinsert
+p3652
+I42
+VSimpleName: mCurrentPrimaryItem
+p3653
+tp3654
+I5
+s(Vinsert
+p3655
+I43
+VSimpleType: MenuMule
+p3656
+tp3657
+I6
+s(Vinsert
+p3658
+I45
+VStringLiteral: "Search"
+p3659
+tp3660
+I2
+s(Vinsert
+p3661
+I27
+VInfixExpression: |
+p3662
+tp3663
+I4
+s(Vinsert
+p3664
+I42
+VSimpleName: addDetached
+p3665
+tp3666
+I1
+s(Vinsert
+p3667
+I42
+VSimpleName: menuItemActionXmlHidden
+p3668
+tp3669
+I1
+s(Vinsert
+p3670
+I40
+VQualifiedName: f.mIndex
+p3671
+tp3672
+I1
+s(Vinsert
+p3673
+I42
+VSimpleName: SearchViewCompat
+p3674
+tp3675
+I1
+s(Vinsert
+p3676
+I42
+VSimpleName: setTag
+p3677
+tp3678
+I1
+s(Vinsert
+p3679
+I42
+VSimpleName: constraint
+p3680
+tp3681
+I1
+s(Vinsert
+p3682
+I42
+VSimpleName: compoundButton
+p3683
+tp3684
+I2
+s(Vinsert
+p3685
+I42
+VSimpleName: isChecked
+p3686
+tp3687
+I3
+s(Vinsert
+p3688
+I40
+VQualifiedName: android.R.id.title
+p3689
+tp3690
+I1
+s(Vinsert
+p3691
+I42
+VSimpleName: MenuInflater
+p3692
+tp3693
+I3
+s(Vinsert
+p3694
+I42
+VSimpleName: getValue
+p3695
+tp3696
+I1
+s(Vinsert
+p3697
+I42
+VSimpleName: SQLiteDatabase
+p3698
+tp3699
+I2
+s(Vinsert
+p3700
+I42
+VSimpleName: getInt
+p3701
+tp3702
+I2
+s(Vinsert
+p3703
+I43
+VSimpleType: ActionBar.Tab
+p3704
+tp3705
+I5
+s(Vinsert
+p3706
+I42
+VSimpleName: deltaDistance
+p3707
+tp3708
+I1
+s(Vinsert
+p3709
+I42
+VSimpleName: mFlags
+p3710
+tp3711
+I2
+s(Vinsert
+p3712
+I66
+VTextElement:  development/samples/Support4Demos/src/com/example/android/supportv4/app/FragmentPagerSupport.java
+p3713
+tp3714
+I1
+s(Vinsert
+p3715
+I8
+VBlock
+p3716
+tp3717
+I556
+s(Vinsert
+p3718
+I42
+VSimpleName: startDispatchingItemsChanged
+p3719
+tp3720
+I1
+s(Vinsert
+p3721
+I42
+VSimpleName: mProvider
+p3722
+tp3723
+I2
+s(Vinsert
+p3724
+I40
+VQualifiedName: android.support.v4.app.FragmentActivity
+p3725
+tp3726
+I2
+s(Vinsert
+p3727
+I45
+VStringLiteral: "Text"
+p3728
+tp3729
+I1
+s(Vinsert
+p3730
+I40
+VQualifiedName: anim.mNodeMap
+p3731
+tp3732
+I1
+s(Vinsert
+p3733
+I42
+VSimpleName: useHomeAsUp
+p3734
+tp3735
+I1
+s(Vinsert
+p3736
+I34
+VNumberLiteral: 1000
+p3737
+tp3738
+I1
+s(Vinsert
+p3739
+I76
+VWildcardType: ?
+p3740
+tp3741
+I4
+s(Vinsert
+p3742
+I42
+VSimpleName: Ln
+p3743
+tp3744
+I1
+s(Vinsert
+p3745
+I42
+VSimpleName: mAfter
+p3746
+tp3747
+I1
+s(Vinsert
+p3748
+I42
+VSimpleName: mMenuInflater
+p3749
+tp3750
+I1
+s(Vinsert
+p3751
+I46
+VSuperConstructorInvocation
+p3752
+tp3753
+I9
+s(Vinsert
+p3754
+I42
+VSimpleName: key
+p3755
+tp3756
+I1
+s(Vinsert
+p3757
+I42
+VSimpleName: outSpecificItems
+p3758
+tp3759
+I1
+s(Vinsert
+p3760
+I42
+VSimpleName: floatValue
+p3761
+tp3762
+I1
+s(Vinsert
+p3763
+I42
+VSimpleName: ACTION_VIEW_CONSTRUCTOR_SIGNATURE
+p3764
+tp3765
+I1
+s(Vinsert
+p3766
+I42
+VSimpleName: DEFAULT_ORDER
+p3767
+tp3768
+I3
+s(Vinsert
+p3769
+I42
+VSimpleName: customNav
+p3770
+tp3771
+I1
+s(Vinsert
+p3772
+I42
+VSimpleName: Issue0030
+p3773
+tp3774
+I1
+s(Vinsert
+p3775
+I42
+VSimpleName: getActivityIcon
+p3776
+tp3777
+I1
+s(Vinsert
+p3778
+I42
+VSimpleName: mItemViews
+p3779
+tp3780
+I2
+s(Vinsert
+p3781
+I42
+VSimpleName: mActionView
+p3782
+tp3783
+I1
+s(Vinsert
+p3784
+I42
+VSimpleName: enableCustomViewLatch
+p3785
+tp3786
+I1
+s(Vinsert
+p3787
+I42
+VSimpleName: mLocations
+p3788
+tp3789
+I2
+s(Vinsert
+p3790
+I66
+VTextElement:  FrameLayout instance.
+p3791
+tp3792
+I1
+s(Vinsert
+p3793
+I43
+VSimpleType: Tab
+p3794
+tp3795
+I1
+s(Vinsert
+p3796
+I42
+VSimpleName: StringTokenizer
+p3797
+tp3798
+I4
+s(Vinsert
+p3799
+I42
+VSimpleName: removeOnAttachStateChangeListener
+p3800
+tp3801
+I1
+s(Vinsert
+p3802
+I42
+VSimpleName: order
+p3803
+tp3804
+I5
+s(Vinsert
+p3805
+I42
+VSimpleName: mOrder
+p3806
+tp3807
+I1
+s(Vinsert
+p3808
+I42
+VSimpleName: mActionBar
+p3809
+tp3810
+I15
+s(Vinsert
+p3811
+I42
+VSimpleName: findContent
+p3812
+tp3813
+I2
+s(Vinsert
+p3814
+I42
+VSimpleName: getSherlock
+p3815
+tp3816
+I13
+s(Vinsert
+p3817
+I42
+VSimpleName: OnMenuVisibilityListener
+p3818
+tp3819
+I1
+s(Vinsert
+p3820
+I40
+VQualifiedName: android.os.Build.VERSION_CODES
+p3821
+tp3822
+I1
+s(Vinsert
+p3823
+I42
+VSimpleName: getRecordCount
+p3824
+tp3825
+I2
+s(Vinsert
+p3826
+I43
+VSimpleType: ActionMode.Callback
+p3827
+tp3828
+I5
+s(Vinsert
+p3829
+I42
+VSimpleName: mDropDownLayout
+p3830
+tp3831
+I1
+s(Vinsert
+p3832
+I42
+VSimpleName: setClickable
+p3833
+tp3834
+I2
+s(Vinsert
+p3835
+I42
+VSimpleName: button
+p3836
+tp3837
+I6
+s(Vinsert
+p3838
+I42
+VSimpleName: forName
+p3839
+tp3840
+I2
+s(Vinsert
+p3841
+I42
+VSimpleName: actionViewClass
+p3842
+tp3843
+I2
+s(Vinsert
+p3844
+I40
+VQualifiedName: DisplayMetrics.DENSITY_TV
+p3845
+tp3846
+I1
+s(Vinsert
+p3847
+I40
+VQualifiedName: ActionBarWatson.Item
+p3848
+tp3849
+I1
+s(Vinsert
+p3850
+I66
+VTextElement: popupMenu.getMenuInflater().inflate(menuRes, popupMenu.getMenu()).
+p3851
+tp3852
+I1
+s(Vinsert
+p3853
+I42
+VSimpleName: sayText
+p3854
+tp3855
+I1
+s(Vinsert
+p3856
+I42
+VSimpleName: oldAdapter
+p3857
+tp3858
+I3
+s(Vinsert
+p3859
+I42
+VSimpleName: pruneCount
+p3860
+tp3861
+I1
+s(Vinsert
+p3862
+I42
+VSimpleName: mHomeListener
+p3863
+tp3864
+I2
+s(Vinsert
+p3865
+I43
+VSimpleType: SearchRecentSuggestions
+p3866
+tp3867
+I2
+s(Vinsert
+p3868
+I1
+VAnonymousClassDeclaration
+p3869
+tp3870
+I4
+s(Vinsert
+p3871
+I42
+VSimpleName: performAction
+p3872
+tp3873
+I1
+s(Vinsert
+p3874
+I42
+VSimpleName: mHomeLayout
+p3875
+tp3876
+I1
+s(Vinsert
+p3877
+I42
+VSimpleName: get
+p3878
+tp3879
+I22
+s(Vinsert
+p3880
+I42
+VSimpleName: mActionsView
+p3881
+tp3882
+I1
+s(Vinsert
+p3883
+I34
+VNumberLiteral: 64
+p3884
+tp3885
+I1
+s(Vinsert
+p3886
+I44
+VSingleVariableDeclaration
+p3887
+tp3888
+I291
+s(Vinsert
+p3889
+I42
+VSimpleName: setAdapter
+p3890
+tp3891
+I1
+s(Vinsert
+p3892
+I42
+VSimpleName: onPostCreate
+p3893
+tp3894
+I2
+s(Vinsert
+p3895
+I42
+VSimpleName: mNavigationListener
+p3896
+tp3897
+I1
+s(Vinsert
+p3898
+I42
+VSimpleName: setNavigationMode
+p3899
+tp3900
+I1
+s(Vinsert
+p3901
+I42
+VSimpleName: m
+p3902
+tp3903
+I1
+s(Vinsert
+p3904
+I42
+VSimpleName: onQueryTextChange
+p3905
+tp3906
+I1
+s(Vinsert
+p3907
+I42
+VSimpleName: DEFAULT_GROUP_ID
+p3908
+tp3909
+I3
+s(Vinsert
+p3910
+I43
+VSimpleType: ArrayAdapter
+p3911
+tp3912
+I1
+s(Vinsert
+p3913
+I42
+VSimpleName: saveFragmentInstanceState
+p3914
+tp3915
+I1
+s(Vinsert
+p3916
+I66
+VTextElement: Set the home logo.
+p3917
+tp3918
+I1
+s(Vinsert
+p3919
+I40
+VQualifiedName: R.styleable.SherlockTheme
+p3920
+tp3921
+I1
+s(Vinsert
+p3922
+I42
+VSimpleName: indProgressEnabled
+p3923
+tp3924
+I2
+s(Vinsert
+p3925
+I42
+VSimpleName: mOptionsMenuInvalidated
+p3926
+tp3927
+I1
+s(Vinsert
+p3928
+I42
+VSimpleName: mActive
+p3929
+tp3930
+I6
+s(Vinsert
+p3931
+I42
+VSimpleName: Bundle
+p3932
+tp3933
+I26
+s(Vinsert
+p3934
+I66
+VTextElement: protected void onPause() {
+p3935
+tp3936
+I1
+s(Vinsert
+p3937
+I42
+VSimpleName: getString
+p3938
+tp3939
+I1
+s(Vinsert
+p3940
+I40
+VQualifiedName: VERSION.SDK_INT
+p3941
+tp3942
+I1
+s(Vinsert
+p3943
+I42
+VSimpleName: mSherlock
+p3944
+tp3945
+I37
+s(Vinsert
+p3946
+I40
+VQualifiedName: ActionBar.NAVIGATION_MODE_LIST
+p3947
+tp3948
+I1
+s(Vinsert
+p3949
+I45
+VStringLiteral: "Astroboy says, \u005c""
+p3950
+tp3951
+I1
+s(Vinsert
+p3952
+I42
+VSimpleName: tv
+p3953
+tp3954
+I4
+s(Vinsert
+p3955
+I42
+VSimpleName: mProgress
+p3956
+tp3957
+I2
+s(Vinsert
+p3958
+I43
+VSimpleType: OnActionModeStartedListener
+p3959
+tp3960
+I2
+s(Vinsert
+p3961
+I42
+VSimpleName: ArrayList
+p3962
+tp3963
+I2
+s(Vinsert
+p3964
+I42
+VSimpleName: newSearchView
+p3965
+tp3966
+I1
+s(Vinsert
+p3967
+I42
+VSimpleName: itemsSize
+p3968
+tp3969
+I1
+s(Vinsert
+p3970
+I42
+VSimpleName: cls
+p3971
+tp3972
+I1
+s(Vinsert
+p3973
+I42
+VSimpleName: SubMenu
+p3974
+tp3975
+I4
+s(Vinsert
+p3976
+I42
+VSimpleName: View_HasStateListenerSupport
+p3977
+tp3978
+I2
+s(Vinsert
+p3979
+I42
+VSimpleName: TitlesActivity
+p3980
+tp3981
+I1
+s(Vinsert
+p3982
+I42
+VSimpleName: ViewConfigurationCompatFroyo
+p3983
+tp3984
+I2
+s(Vinsert
+p3985
+I5
+VArrayType: String[]
+p3986
+tp3987
+I8
+s(Vinsert
+p3988
+I42
+VSimpleName: buildShortClassTag
+p3989
+tp3990
+I1
+s(Vinsert
+p3991
+I42
+VSimpleName: performFiltering
+p3992
+tp3993
+I1
+s(Vinsert
+p3994
+I40
+VQualifiedName: AdapterView.OnItemClickListener
+p3995
+tp3996
+I1
+s(Vinsert
+p3997
+I43
+VSimpleType: Parcel
+p3998
+tp3999
+I2
+s(Vinsert
+p4000
+I42
+VSimpleName: root
+p4001
+tp4002
+I3
+s(Vinsert
+p4003
+I27
+VInfixExpression: <
+p4004
+tp4005
+I18
+s(Vinsert
+p4006
+I42
+VSimpleName: T
+p4007
+tp4008
+I9
+s(Vinsert
+p4009
+I42
+VSimpleName: AnimatorProxy
+p4010
+tp4011
+I5
+s(Vinsert
+p4012
+I45
+VStringLiteral: "logo"
+p4013
+tp4014
+I1
+s(Vinsert
+p4015
+I42
+VSimpleName: initialize
+p4016
+tp4017
+I6
+s(Vinsert
+p4018
+I42
+VSimpleName: xml
+p4019
+tp4020
+I7
+s(Vinsert
+p4021
+I42
+VSimpleName: mFadeInAnimation
+p4022
+tp4023
+I2
+s(Vinsert
+p4024
+I43
+VSimpleType: ProgressBar
+p4025
+tp4026
+I1
+s(Vinsert
+p4027
+I42
+VSimpleName: run
+p4028
+tp4029
+I2
+s(Vinsert
+p4030
+I42
+VSimpleName: getInstalledApplications
+p4031
+tp4032
+I1
+s(Vinsert
+p4033
+I42
+VSimpleName: saveActionViewStates
+p4034
+tp4035
+I1
+s(Vinsert
+p4036
+I42
+VSimpleName: id
+p4037
+tp4038
+I11
+s(Vinsert
+p4039
+I45
+VStringLiteral: "Custom handler must not extend from NativeActionBarHandler."
+p4040
+tp4041
+I1
+s(Vinsert
+p4042
+I42
+VSimpleName: TypedArray
+p4043
+tp4044
+I8
+s(Vinsert
+p4045
+I42
+VSimpleName: unregisterDataSetObserver
+p4046
+tp4047
+I1
+s(Vinsert
+p4048
+I42
+VSimpleName: draw
+p4049
+tp4050
+I2
+s(Vinsert
+p4051
+I42
+VSimpleName: view
+p4052
+tp4053
+I28
+s(Vinsert
+p4054
+I43
+VSimpleType: IntentFilter
+p4055
+tp4056
+I1
+s(Vinsert
+p4057
+I66
+VTextElement:  which denotes the home
+p4058
+tp4059
+I1
+s(Vinsert
+p4060
+I40
+VQualifiedName: Window.FEATURE_ACTION_MODE_OVERLAY
+p4061
+tp4062
+I1
+s(Vinsert
+p4063
+I40
+VQualifiedName: R.id.menu_refresh
+p4064
+tp4065
+I2
+s(Vinsert
+p4066
+I42
+VSimpleName: getAttributeCount
+p4067
+tp4068
+I2
+s(Vinsert
+p4069
+I42
+VSimpleName: mShadow
+p4070
+tp4071
+I4
+s(Vinsert
+p4072
+I42
+VSimpleName: PROXIES
+p4073
+tp4074
+I2
+s(Vinsert
+p4075
+I43
+VSimpleType: CollapsibleActionView
+p4076
+tp4077
+I1
+s(Vinsert
+p4078
+I42
+VSimpleName: hasVisibleItems
+p4079
+tp4080
+I3
+s(Vinsert
+p4081
+I42
+VSimpleName: isVisible
+p4082
+tp4083
+I8
+s(Vinsert
+p4084
+I42
+VSimpleName: onRestoreInstanceState
+p4085
+tp4086
+I9
+s(Vinsert
+p4087
+I40
+VQualifiedName: op.fragment
+p4088
+tp4089
+I1
+s(Vinsert
+p4090
+I43
+VSimpleType: MenuItemImpl
+p4091
+tp4092
+I11
+s(Vinsert
+p4093
+I42
+VSimpleName: getThemedContext
+p4094
+tp4095
+I4
+s(Vinsert
+p4096
+I42
+VSimpleName: getDisplayOptions
+p4097
+tp4098
+I1
+s(Vinsert
+p4099
+I42
+VSimpleName: MSG_RESUME_PENDING
+p4100
+tp4101
+I2
+s(Vinsert
+p4102
+I42
+VSimpleName: getTitleCondensed
+p4103
+tp4104
+I3
+s(Vinsert
+p4105
+I42
+VSimpleName: previous
+p4106
+tp4107
+I2
+s(Vinsert
+p4108
+I42
+VSimpleName: getSubMenuTitles
+p4109
+tp4110
+I1
+s(Vinsert
+p4111
+I10
+VBreakStatement
+p4112
+tp4113
+I1
+s(Vinsert
+p4114
+I40
+VQualifiedName: R.layout.actionbar_text
+p4115
+tp4116
+I1
+s(Vinsert
+p4117
+I42
+VSimpleName: setDropDownViewResource
+p4118
+tp4119
+I1
+s(Vinsert
+p4120
+I45
+VStringLiteral: " not attached to Activity"
+p4121
+tp4122
+I1
+s(Vinsert
+p4123
+I42
+VSimpleName: equals
+p4124
+tp4125
+I3
+s(Vinsert
+p4126
+I42
+VSimpleName: getSuggestThreshold
+p4127
+tp4128
+I1
+s(Vinsert
+p4129
+I12
+VCatchClause
+p4130
+tp4131
+I2
+s(Vinsert
+p4132
+I42
+VSimpleName: setSupportProgressBarIndeterminateVisibility
+p4133
+tp4134
+I5
+s(Vinsert
+p4135
+I40
+VQualifiedName: fragment.mTag
+p4136
+tp4137
+I1
+s(Vinsert
+p4138
+I42
+VSimpleName: getSupportActionBar
+p4139
+tp4140
+I10
+s(Vinsert
+p4141
+I42
+VSimpleName: mFragmentTransaction
+p4142
+tp4143
+I2
+s(Vinsert
+p4144
+I74
+VParameterizedType: ArrayList<AppEntry>
+p4145
+tp4146
+I1
+s(Vinsert
+p4147
+I42
+VSimpleName: mLoaderManager
+p4148
+tp4149
+I1
+s(Vinsert
+p4150
+I42
+VSimpleName: activityIntent
+p4151
+tp4152
+I4
+s(Vinsert
+p4153
+I42
+VSimpleName: PackageInfo
+p4154
+tp4155
+I1
+s(Vinsert
+p4156
+I42
+VSimpleName: visibility
+p4157
+tp4158
+I4
+s(Vinsert
+p4159
+I42
+VSimpleName: setOnEditorActionListener
+p4160
+tp4161
+I1
+s(Vinsert
+p4162
+I43
+VSimpleType: FilterResults
+p4163
+tp4164
+I1
+s(Vinsert
+p4165
+I40
+VQualifiedName: Issue659SuggestionsProvider.MODE
+p4166
+tp4167
+I1
+s(Vinsert
+p4168
+I45
+VStringLiteral: ""
+p4169
+tp4170
+I1
+s(Vinsert
+p4171
+I42
+VSimpleName: disallowAddToBackStack
+p4172
+tp4173
+I1
+s(Vinsert
+p4174
+I40
+VQualifiedName: android.R.id.tabhost
+p4175
+tp4176
+I1
+s(Vinsert
+p4177
+I45
+VStringLiteral: "Save"
+p4178
+tp4179
+I3
+s(Vinsert
+p4180
+I66
+VTextElement: . 
+p4181
+tp4182
+I1
+s(Vinsert
+p4183
+I42
+VSimpleName: actionModeOverlay
+p4184
+tp4185
+I1
+s(Vinsert
+p4186
+I42
+VSimpleName: max
+p4187
+tp4188
+I6
+s(Vinsert
+p4189
+I42
+VSimpleName: HasMenu
+p4190
+tp4191
+I4
+s(Vinsert
+p4192
+I42
+VSimpleName: mTotalLength
+p4193
+tp4194
+I2
+s(Vinsert
+p4195
+I42
+VSimpleName: getSubtitle
+p4196
+tp4197
+I1
+s(Vinsert
+p4198
+I42
+VSimpleName: attach
+p4199
+tp4200
+I1
+s(Vinsert
+p4201
+I42
+VSimpleName: ImageView
+p4202
+tp4203
+I4
+s(Vinsert
+p4204
+I42
+VSimpleName: isShowing
+p4205
+tp4206
+I2
+s(Vinsert
+p4207
+I42
+VSimpleName: ActionItem
+p4208
+tp4209
+I2
+s(Vinsert
+p4210
+I42
+VSimpleName: mObservable
+p4211
+tp4212
+I1
+s(Vinsert
+p4213
+I42
+VSimpleName: AccessibilityManager
+p4214
+tp4215
+I2
+s(Vinsert
+p4216
+I40
+VQualifiedName: Window.FEATURE_INDETERMINATE_PROGRESS
+p4217
+tp4218
+I1
+s(Vinsert
+p4219
+I42
+VSimpleName: mManager
+p4220
+tp4221
+I2
+s(Vinsert
+p4222
+I40
+VQualifiedName: fragment.mHasMenu
+p4223
+tp4224
+I1
+s(Vinsert
+p4225
+I42
+VSimpleName: mBacking
+p4226
+tp4227
+I1
+s(Vinsert
+p4228
+I43
+VSimpleType: Intent
+p4229
+tp4230
+I6
+s(Vinsert
+p4231
+I40
+VQualifiedName: android.os.Build.VERSION
+p4232
+tp4233
+I1
+s(Vinsert
+p4234
+I66
+VTextElement:  Use 
+p4235
+tp4236
+I1
+s(Vinsert
+p4237
+I42
+VSimpleName: clone
+p4238
+tp4239
+I1
+s(Vinsert
+p4240
+I42
+VSimpleName: onDestroy
+p4241
+tp4242
+I2
+s(Vinsert
+p4243
+I42
+VSimpleName: onActionModeStarted
+p4244
+tp4245
+I1
+s(Vinsert
+p4246
+I42
+VSimpleName: wrappedMenu
+p4247
+tp4248
+I2
+s(Vinsert
+p4249
+I42
+VSimpleName: subtitle
+p4250
+tp4251
+I2
+s(Vinsert
+p4252
+I42
+VSimpleName: fragResult
+p4253
+tp4254
+I1
+s(Vinsert
+p4255
+I43
+VSimpleType: Callback
+p4256
+tp4257
+I1
+s(Vinsert
+p4258
+I42
+VSimpleName: supportInvalidateOptionsMenu
+p4259
+tp4260
+I2
+s(Vinsert
+p4261
+I42
+VSimpleName: wrapped
+p4262
+tp4263
+I2
+s(Vinsert
+p4264
+I34
+VNumberLiteral: 100
+p4265
+tp4266
+I2
+s(Vinsert
+p4267
+I42
+VSimpleName: mode
+p4268
+tp4269
+I2
+s(Vinsert
+p4270
+I45
+VStringLiteral: " mDestroyed="
+p4271
+tp4272
+I1
+s(Vinsert
+p4273
+I45
+VStringLiteral: "com.other.package.SomeClass"
+p4274
+tp4275
+I1
+s(Vinsert
+p4276
+I42
+VSimpleName: TypedValue
+p4277
+tp4278
+I5
+s(Vinsert
+p4279
+I42
+VSimpleName: startFloat
+p4280
+tp4281
+I1
+s(Vinsert
+p4282
+I42
+VSimpleName: addIntentOptions
+p4283
+tp4284
+I2
+s(Vinsert
+p4285
+I42
+VSimpleName: setSelection
+p4286
+tp4287
+I3
+s(Vinsert
+p4288
+I42
+VSimpleName: dispatchOptionsItemSelected
+p4289
+tp4290
+I7
+s(Vinsert
+p4291
+I42
+VSimpleName: rightFrag
+p4292
+tp4293
+I1
+s(Vinsert
+p4294
+I40
+VQualifiedName: android.widget.TabWidget
+p4295
+tp4296
+I1
+s(Vinsert
+p4297
+I42
+VSimpleName: DISPLAY_SHOW_CUSTOM
+p4298
+tp4299
+I1
+s(Vinsert
+p4300
+I42
+VSimpleName: wActionBar
+p4301
+tp4302
+I1
+s(Vinsert
+p4303
+I42
+VSimpleName: mFadeOutAnimation
+p4304
+tp4305
+I1
+s(Vinsert
+p4306
+I43
+VSimpleType: IcsListPopupWindow
+p4307
+tp4308
+I1
+s(Vinsert
+p4309
+I42
+VSimpleName: appendEncodedPath
+p4310
+tp4311
+I1
+s(Vinsert
+p4312
+I42
+VSimpleName: height
+p4313
+tp4314
+I1
+s(Vinsert
+p4315
+I42
+VSimpleName: getCount
+p4316
+tp4317
+I2
+s(Vinsert
+p4318
+I42
+VSimpleName: HistoricalRecord
+p4319
+tp4320
+I1
+s(Vinsert
+p4321
+I42
+VSimpleName: setShowAsAction
+p4322
+tp4323
+I20
+s(Vinsert
+p4324
+I42
+VSimpleName: db
+p4325
+tp4326
+I2
+s(Vinsert
+p4327
+I42
+VSimpleName: mHistoricalRecords
+p4328
+tp4329
+I1
+s(Vinsert
+p4330
+I42
+VSimpleName: widthMode
+p4331
+tp4332
+I1
+s(Vinsert
+p4333
+I42
+VSimpleName: itemView
+p4334
+tp4335
+I7
+s(Vinsert
+p4336
+I40
+VQualifiedName: f.mNextAnim
+p4337
+tp4338
+I1
+s(Vinsert
+p4339
+I42
+VSimpleName: onContentChanged
+p4340
+tp4341
+I1
+s(Vinsert
+p4342
+I42
+VSimpleName: setImageResource
+p4343
+tp4344
+I2
+s(Vinsert
+p4345
+I40
+VQualifiedName: FragmentStackSupport.CountingFragment
+p4346
+tp4347
+I2
+s(Vinsert
+p4348
+I42
+VSimpleName: setFlags
+p4349
+tp4350
+I1
+s(Vinsert
+p4351
+I42
+VSimpleName: mWatsonItem
+p4352
+tp4353
+I2
+s(Vinsert
+p4354
+I42
+VSimpleName: FrameLayout
+p4355
+tp4356
+I3
+s(Vinsert
+p4357
+I42
+VSimpleName: source
+p4358
+tp4359
+I1
+s(Vinsert
+p4360
+I42
+VSimpleName: arg2
+p4361
+tp4362
+I1
+s(Vinsert
+p4363
+I42
+VSimpleName: transitionStyle
+p4364
+tp4365
+I1
+s(Vinsert
+p4366
+I42
+VSimpleName: seconds
+p4367
+tp4368
+I1
+s(Vinsert
+p4369
+I42
+VSimpleName: mPm
+p4370
+tp4371
+I1
+s(Vinsert
+p4372
+I42
+VSimpleName: actionCodeHidden
+p4373
+tp4374
+I2
+s(Vinsert
+p4375
+I42
+VSimpleName: newText
+p4376
+tp4377
+I1
+s(Vinsert
+p4378
+I42
+VSimpleName: setDropDown
+p4379
+tp4380
+I1
+s(Vinsert
+p4381
+I42
+VSimpleName: setImeOptions
+p4382
+tp4383
+I1
+s(Vinsert
+p4384
+I42
+VSimpleName: countTokens
+p4385
+tp4386
+I2
+s(Vinsert
+p4387
+I40
+VQualifiedName: anim.mNodes
+p4388
+tp4389
+I1
+s(Vinsert
+p4390
+I23
+VFieldDeclaration
+p4391
+tp4392
+I10
+s(Vinsert
+p4393
+I42
+VSimpleName: ProgressBar
+p4394
+tp4395
+I1
+s(Vinsert
+p4396
+I42
+VSimpleName: textData
+p4397
+tp4398
+I2
+s(Vinsert
+p4399
+I42
+VSimpleName: millis
+p4400
+tp4401
+I1
+s(Vinsert
+p4402
+I42
+VSimpleName: mFragments
+p4403
+tp4404
+I7
+s(Vinsert
+p4405
+I40
+VQualifiedName: R.style.Theme_Sherlock_Light
+p4406
+tp4407
+I1
+s(Vinsert
+p4408
+I43
+VSimpleType: IntentAction
+p4409
+tp4410
+I1
+s(Vinsert
+p4411
+I42
+VSimpleName: inflater
+p4412
+tp4413
+I10
+s(Vinsert
+p4414
+I42
+VSimpleName: removeAccessibilityStateChangeListener
+p4415
+tp4416
+I2
+s(Vinsert
+p4417
+I42
+VSimpleName: setHomeAsUpEnabled
+p4418
+tp4419
+I1
+s(Vinsert
+p4420
+I62
+VInstanceofExpression
+p4421
+tp4422
+I19
+s(Vinsert
+p4423
+I42
+VSimpleName: executeOnExecutor
+p4424
+tp4425
+I2
+s(Vinsert
+p4426
+I42
+VSimpleName: mHomeMenuItem
+p4427
+tp4428
+I2
+s(Vinsert
+p4429
+I42
+VSimpleName: initializePanelMenu
+p4430
+tp4431
+I1
+s(Vinsert
+p4432
+I66
+VTextElement: Action bar container. 
+p4433
+tp4434
+I1
+s(Vinsert
+p4435
+I40
+VQualifiedName: R.id.display_items_clear
+p4436
+tp4437
+I1
+s(Vinsert
+p4438
+I69
+VMethodRefParameter
+p4439
+tp4440
+I1
+s(Vinsert
+p4441
+I42
+VSimpleName: childTop
+p4442
+tp4443
+I1
+s(Vinsert
+p4444
+I42
+VSimpleName: setMenuResourceId
+p4445
+tp4446
+I3
+s(Vinsert
+p4447
+I34
+VNumberLiteral: 2
+p4448
+tp4449
+I3
+s(Vinsert
+p4450
+I42
+VSimpleName: assertThat
+p4451
+tp4452
+I2
+s(Vinsert
+p4453
+I42
+VSimpleName: onClick
+p4454
+tp4455
+I6
+s(Vinsert
+p4456
+I42
+VSimpleName: ActionBarSherlock
+p4457
+tp4458
+I10
+s(Vinsert
+p4459
+I42
+VSimpleName: fraction
+p4460
+tp4461
+I2
+s(Vinsert
+p4462
+I42
+VSimpleName: CHECKED
+p4463
+tp4464
+I2
+s(Vinsert
+p4465
+I42
+VSimpleName: ActionBarSupportImpl
+p4466
+tp4467
+I1
+s(Vinsert
+p4468
+I65
+VTagElement: @return
+p4469
+tp4470
+I6
+s(Vinsert
+p4471
+I42
+VSimpleName: isFinishing
+p4472
+tp4473
+I1
+s(Vinsert
+p4474
+I42
+VSimpleName: loadAnimation
+p4475
+tp4476
+I1
+s(Vinsert
+p4477
+I42
+VSimpleName: translationX
+p4478
+tp4479
+I1
+s(Vinsert
+p4480
+I42
+VSimpleName: data
+p4481
+tp4482
+I1
+s(Vinsert
+p4483
+I42
+VSimpleName: openOptionsMenu
+p4484
+tp4485
+I1
+s(Vinsert
+p4486
+I40
+VQualifiedName: ii.position
+p4487
+tp4488
+I1
+s(Vinsert
+p4489
+I42
+VSimpleName: background
+p4490
+tp4491
+I1
+s(Vinsert
+p4492
+I42
+VSimpleName: newSelectionArgs
+p4493
+tp4494
+I2
+s(Vinsert
+p4495
+I31
+VMethodDeclaration
+p4496
+tp4497
+I122
+s(Vinsert
+p4498
+I42
+VSimpleName: getWasMenuCreatedOnActivityCreation
+p4499
+tp4500
+I1
+s(Vinsert
+p4501
+I39
+VPrimitiveType: void
+p4502
+tp4503
+I101
+s(Vinsert
+p4504
+I42
+VSimpleName: removeItem
+p4505
+tp4506
+I1
+s(Vinsert
+p4507
+I42
+VSimpleName: callbacks
+p4508
+tp4509
+I1
+s(Vinsert
+p4510
+I42
+VSimpleName: packageManager
+p4511
+tp4512
+I1
+s(Vinsert
+p4513
+I40
+VQualifiedName: R.layout.activity_hello
+p4514
+tp4515
+I1
+s(Vinsert
+p4516
+I43
+VSimpleType: OnMenuVisibilityListener
+p4517
+tp4518
+I1
+s(Vinsert
+p4519
+I42
+VSimpleName: getInstrumentation
+p4520
+tp4521
+I1
+s(Vinsert
+p4522
+I42
+VSimpleName: mCheckBox2
+p4523
+tp4524
+I6
+s(Vinsert
+p4525
+I42
+VSimpleName: mActionBarView
+p4526
+tp4527
+I5
+s(Vinsert
+p4528
+I43
+VSimpleType: HistoricalRecord
+p4529
+tp4530
+I1
+s(Vinsert
+p4531
+I40
+VQualifiedName: ActionBarView.ActionItem
+p4532
+tp4533
+I1
+s(Vinsert
+p4534
+I42
+VSimpleName: setSupportProgress
+p4535
+tp4536
+I2
+s(Vinsert
+p4537
+I66
+VTextElement: portion.
+p4538
+tp4539
+I1
+s(Vinsert
+p4540
+I42
+VSimpleName: ResolveInfo
+p4541
+tp4542
+I1
+s(Vinsert
+p4543
+I42
+VSimpleName: end
+p4544
+tp4545
+I2
+s(Vinsert
+p4546
+I42
+VSimpleName: isScrollable
+p4547
+tp4548
+I1
+s(Vinsert
+p4549
+I27
+VInfixExpression: !=
+p4550
+tp4551
+I76
+s(Vinsert
+p4552
+I42
+VSimpleName: scroller
+p4553
+tp4554
+I1
+s(Vinsert
+p4555
+I42
+VSimpleName: RuntimeException
+p4556
+tp4557
+I1
+s(Vinsert
+p4558
+I43
+VSimpleType: AccessibilityNodeInfo
+p4559
+tp4560
+I1
+s(Vinsert
+p4561
+I40
+VQualifiedName: R.id.content
+p4562
+tp4563
+I1
+s(Vinsert
+p4564
+I43
+VSimpleType: AlertDialog.Builder
+p4565
+tp4566
+I1
+s(Vinsert
+p4567
+I42
+VSimpleName: mask
+p4568
+tp4569
+I2
+s(Vinsert
+p4570
+I39
+VPrimitiveType: boolean
+p4571
+tp4572
+I91
+s(Vinsert
+p4573
+I42
+VSimpleName: checked
+p4574
+tp4575
+I3
+s(Vinsert
+p4576
+I42
+VSimpleName: wrap
+p4577
+tp4578
+I13
+s(Vinsert
+p4579
+I42
+VSimpleName: setColor
+p4580
+tp4581
+I1
+s(Vinsert
+p4582
+I74
+VParameterizedType: HashMap<CharSequence,Intent>
+p4583
+tp4584
+I1
+s(Vinsert
+p4585
+I42
+VSimpleName: orientation
+p4586
+tp4587
+I2
+s(Vinsert
+p4588
+I42
+VSimpleName: OnScrollChangedListener
+p4589
+tp4590
+I1
+s(Vinsert
+p4591
+I42
+VSimpleName: TabWidget
+p4592
+tp4593
+I1
+s(Vinsert
+p4594
+I40
+VQualifiedName: ActionBarMenuItem.SHOW_AS_ACTION_IF_ROOM
+p4595
+tp4596
+I1
+s(Vinsert
+p4597
+I42
+VSimpleName: getSystemService
+p4598
+tp4599
+I2
+s(Vinsert
+p4600
+I42
+VSimpleName: setCustomView
+p4601
+tp4602
+I3
+s(Vinsert
+p4603
+I42
+VSimpleName: mTitle
+p4604
+tp4605
+I6
+s(Vinsert
+p4606
+I43
+VSimpleType: ActionBarView.HomeItem
+p4607
+tp4608
+I1
+s(Vinsert
+p4609
+I42
+VSimpleName: RectF
+p4610
+tp4611
+I1
+s(Vinsert
+p4612
+I40
+VQualifiedName: R.styleable.AppTheme
+p4613
+tp4614
+I2
+s(Vinsert
+p4615
+I42
+VSimpleName: anim
+p4616
+tp4617
+I6
+s(Vinsert
+p4618
+I42
+VSimpleName: resolveSize
+p4619
+tp4620
+I2
+s(Vinsert
+p4621
+I43
+VSimpleType: HasTitle
+p4622
+tp4623
+I6
+s(Vinsert
+p4624
+I59
+VVariableDeclarationFragment
+p4625
+tp4626
+I226
+s(Vinsert
+p4627
+I42
+VSimpleName: mFakeWindow
+p4628
+tp4629
+I2
+s(Vinsert
+p4630
+I45
+VStringLiteral: "alpha"
+p4631
+tp4632
+I4
+s(Vinsert
+p4633
+I42
+VSimpleName: TabView
+p4634
+tp4635
+I1
+s(Vinsert
+p4636
+I42
+VSimpleName: SherlockFragmentActivity
+p4637
+tp4638
+I3
+s(Vinsert
+p4639
+I42
+VSimpleName: isVisibleToUser
+p4640
+tp4641
+I4
+s(Vinsert
+p4642
+I42
+VSimpleName: PopupWindow
+p4643
+tp4644
+I1
+s(Vinsert
+p4645
+I42
+VSimpleName: AccessibilityEvent
+p4646
+tp4647
+I5
+s(Vinsert
+p4648
+I43
+VSimpleType: HelloNativeActionBarHandler
+p4649
+tp4650
+I1
+s(Vinsert
+p4651
+I43
+VSimpleType: SherlockActivity
+p4652
+tp4653
+I2
+s(Vinsert
+p4654
+I42
+VSimpleName: findViewByClassName
+p4655
+tp4656
+I1
+s(Vinsert
+p4657
+I42
+VSimpleName: subMenu
+p4658
+tp4659
+I6
+s(Vinsert
+p4660
+I42
+VSimpleName: getSolo
+p4661
+tp4662
+I1
+s(Vinsert
+p4663
+I42
+VSimpleName: ActionBarMenuItem
+p4664
+tp4665
+I4
+s(Vinsert
+p4666
+I42
+VSimpleName: setHomeButtonEnabled
+p4667
+tp4668
+I1
+s(Vinsert
+p4669
+I42
+VSimpleName: clickListener
+p4670
+tp4671
+I1
+s(Vinsert
+p4672
+I40
+VQualifiedName: ActionMode.Callback
+p4673
+tp4674
+I5
+s(Vinsert
+p4675
+I40
+VQualifiedName: ActionBar.NAVIGATION_MODE_TABS
+p4676
+tp4677
+I1
+s(Vinsert
+p4678
+I43
+VSimpleType: WeakHashMap
+p4679
+tp4680
+I2
+s(Vinsert
+p4681
+I42
+VSimpleName: setAccessibilityDelegate
+p4682
+tp4683
+I2
+s(Vinsert
+p4684
+I42
+VSimpleName: getChildCount
+p4685
+tp4686
+I4
+s(Vinsert
+p4687
+I42
+VSimpleName: dispatchPause
+p4688
+tp4689
+I7
+s(Vinsert
+p4690
+I42
+VSimpleName: node
+p4691
+tp4692
+I1
+s(Vinsert
+p4693
+I43
+VSimpleType: AdapterView.OnItemClickListener
+p4694
+tp4695
+I1
+s(Vinsert
+p4696
+I40
+VQualifiedName: info.activityInfo.name
+p4697
+tp4698
+I4
+s(Vinsert
+p4699
+I43
+VSimpleType: ActionBarAssert
+p4700
+tp4701
+I1
+s(Vinsert
+p4702
+I42
+VSimpleName: Runnable
+p4703
+tp4704
+I1
+s(Vinsert
+p4705
+I42
+VSimpleName: MenuItemImpl
+p4706
+tp4707
+I13
+s(Vinsert
+p4708
+I66
+VTextElement:  Activity.onCreateOptionsMenu
+p4709
+tp4710
+I1
+s(Vinsert
+p4711
+I51
+VSynchronizedStatement
+p4712
+tp4713
+I1
+s(Vinsert
+p4714
+I43
+VSimpleType: MenuWrapper
+p4715
+tp4716
+I3
+s(Vinsert
+p4717
+I40
+VQualifiedName: Toast.LENGTH_SHORT
+p4718
+tp4719
+I1
+s(Vinsert
+p4720
+I42
+VSimpleName: i
+p4721
+tp4722
+I67
+s(Vinsert
+p4723
+I40
+VQualifiedName: FrameLayout.LayoutParams
+p4724
+tp4725
+I1
+s(Vinsert
+p4726
+I42
+VSimpleName: listener
+p4727
+tp4728
+I15
+s(Vinsert
+p4729
+I40
+VQualifiedName: R.id.enable
+p4730
+tp4731
+I1
+s(Vinsert
+p4732
+I42
+VSimpleName: menuVisible
+p4733
+tp4734
+I2
+s(Vinsert
+p4735
+I42
+VSimpleName: onMenuItemClick
+p4736
+tp4737
+I4
+s(Vinsert
+p4738
+I42
+VSimpleName: titlesView
+p4739
+tp4740
+I2
+s(Vinsert
+p4741
+I42
+VSimpleName: event
+p4742
+tp4743
+I25
+s(Vinsert
+p4744
+I42
+VSimpleName: flags
+p4745
+tp4746
+I6
+s(Vinsert
+p4747
+I42
+VSimpleName: createFromResource
+p4748
+tp4749
+I1
+s(Vinsert
+p4750
+I42
+VSimpleName: setGravity
+p4751
+tp4752
+I1
+s(Vinsert
+p4753
+I42
+VSimpleName: mContextDisplayMode
+p4754
+tp4755
+I1
+s(Vinsert
+p4756
+I42
+VSimpleName: setProgressBarIndeterminateVisibility
+p4757
+tp4758
+I8
+s(Vinsert
+p4759
+I42
+VSimpleName: twentyDp
+p4760
+tp4761
+I2
+s(Vinsert
+p4762
+I42
+VSimpleName: tearDown
+p4763
+tp4764
+I1
+s(Vinsert
+p4765
+I42
+VSimpleName: XmlResourceParser
+p4766
+tp4767
+I1
+s(Vinsert
+p4768
+I42
+VSimpleName: mMenuVisible
+p4769
+tp4770
+I2
+s(Vinsert
+p4771
+I42
+VSimpleName: mItems
+p4772
+tp4773
+I7
+s(Vinsert
+p4774
+I42
+VSimpleName: pointerIndex
+p4775
+tp4776
+I1
+s(Vinsert
+p4777
+I42
+VSimpleName: performPendingDeferredStart
+p4778
+tp4779
+I2
+s(Vinsert
+p4780
+I66
+VTextElement: the actual activity's content.
+p4781
+tp4782
+I1
+s(Vinsert
+p4783
+I42
+VSimpleName: Constructor
+p4784
+tp4785
+I2
+s(Vinsert
+p4786
+I42
+VSimpleName: doReportNextStart
+p4787
+tp4788
+I1
+s(Vinsert
+p4789
+I43
+VSimpleType: V
+p4790
+tp4791
+I1
+s(Vinsert
+p4792
+I42
+VSimpleName: setOnQueryTextListener
+p4793
+tp4794
+I2
+s(Vinsert
+p4795
+I43
+VSimpleType: android.app.FragmentTransaction
+p4796
+tp4797
+I1
+s(Vinsert
+p4798
+I42
+VSimpleName: setValues
+p4799
+tp4800
+I1
+s(Vinsert
+p4801
+I42
+VSimpleName: DISPLAY_HOME_AS_UP
+p4802
+tp4803
+I2
+s(Vinsert
+p4804
+I43
+VSimpleType: AttributeSet
+p4805
+tp4806
+I3
+s(Vinsert
+p4807
+I42
+VSimpleName: detachFragment
+p4808
+tp4809
+I1
+s(Vinsert
+p4810
+I42
+VSimpleName: expletive
+p4811
+tp4812
+I1
+s(Vinsert
+p4813
+I42
+VSimpleName: mNativeMenuInflater
+p4814
+tp4815
+I2
+s(Vinsert
+p4816
+I42
+VSimpleName: ObjectAnimator
+p4817
+tp4818
+I7
+s(Vinsert
+p4819
+I42
+VSimpleName: startValue
+p4820
+tp4821
+I2
+s(Vinsert
+p4822
+I42
+VSimpleName: inputType
+p4823
+tp4824
+I1
+s(Vinsert
+p4825
+I43
+VSimpleType: MenuItemWrapper
+p4826
+tp4827
+I2
+s(Vinsert
+p4828
+I42
+VSimpleName: hasMenu
+p4829
+tp4830
+I1
+s(Vinsert
+p4831
+I42
+VSimpleName: options
+p4832
+tp4833
+I1
+s(Vinsert
+p4834
+I40
+VQualifiedName: op.popExitAnim
+p4835
+tp4836
+I1
+s(Vinsert
+p4837
+I42
+VSimpleName: mWindow
+p4838
+tp4839
+I3
+s(Vinsert
+p4840
+I42
+VSimpleName: mDestroyed
+p4841
+tp4842
+I1
+s(Vinsert
+p4843
+I42
+VSimpleName: writer
+p4844
+tp4845
+I10
+s(Vinsert
+p4846
+I34
+VNumberLiteral: 1f
+p4847
+tp4848
+I1
+s(Vinsert
+p4849
+I42
+VSimpleName: mCurTransaction
+p4850
+tp4851
+I2
+s(Vinsert
+p4852
+I66
+VTextElement: prefers
+p4853
+tp4854
+I1
+s(Vinsert
+p4855
+I42
+VSimpleName: TestFragment
+p4856
+tp4857
+I4
+s(Vinsert
+p4858
+I42
+VSimpleName: TAG
+p4859
+tp4860
+I8
+s(Vinsert
+p4861
+I40
+VQualifiedName: R.drawable.gd_action_bar_compose
+p4862
+tp4863
+I1
+s(Vinsert
+p4864
+I42
+VSimpleName: add
+p4865
+tp4866
+I32
+s(Vinsert
+p4867
+I42
+VSimpleName: assertEquals
+p4868
+tp4869
+I1
+s(Vinsert
+p4870
+I42
+VSimpleName: CountDownLatch
+p4871
+tp4872
+I2
+s(Vinsert
+p4873
+I42
+VSimpleName: D
+p4874
+tp4875
+I1
+s(Vinsert
+p4876
+I40
+VQualifiedName: MenuItem.SHOW_AS_ACTION_WITH_TEXT
+p4877
+tp4878
+I3
+s(Vinsert
+p4879
+I42
+VSimpleName: res
+p4880
+tp4881
+I5
+s(Vinsert
+p4882
+I42
+VSimpleName: actionEnum
+p4883
+tp4884
+I4
+s(Vinsert
+p4885
+I40
+VQualifiedName: ActionBar.OnMenuVisibilityListener
+p4886
+tp4887
+I2
+s(Vinsert
+p4888
+I66
+VTextElement:  The number of records.
+p4889
+tp4890
+I1
+s(Vinsert
+p4891
+I42
+VSimpleName: assertFalse
+p4892
+tp4893
+I4
+s(Vinsert
+p4894
+I42
+VSimpleName: recreate
+p4895
+tp4896
+I1
+s(Vinsert
+p4897
+I42
+VSimpleName: AttributeSet
+p4898
+tp4899
+I3
+s(Vinsert
+p4900
+I40
+VQualifiedName: fragment.mFragmentManager
+p4901
+tp4902
+I1
+s(Vinsert
+p4903
+I42
+VSimpleName: onLowMemory
+p4904
+tp4905
+I2
+s(Vinsert
+p4906
+I42
+VSimpleName: mRetainingStarted
+p4907
+tp4908
+I1
+s(Vinsert
+p4909
+I42
+VSimpleName: EXCLUSIVE
+p4910
+tp4911
+I2
+s(Vinsert
+p4912
+I42
+VSimpleName: hasSubMenu
+p4913
+tp4914
+I2
+s(Vinsert
+p4915
+I42
+VSimpleName: dispatchKeyUp
+p4916
+tp4917
+I7
+s(Vinsert
+p4918
+I42
+VSimpleName: WeakHashMap
+p4919
+tp4920
+I2
+s(Vinsert
+p4921
+I42
+VSimpleName: saveRecentQuery
+p4922
+tp4923
+I1
+s(Vinsert
+p4924
+I45
+VStringLiteral: ", view: "
+p4925
+tp4926
+I1
+s(Vinsert
+p4927
+I27
+VInfixExpression: &&
+p4928
+tp4929
+I36
+s(Vinsert
+p4930
+I42
+VSimpleName: reserveOverflow
+p4931
+tp4932
+I1
+s(Vinsert
+p4933
+I42
+VSimpleName: metaStateHasModifiers
+p4934
+tp4935
+I2
+s(Vinsert
+p4936
+I42
+VSimpleName: performFindItem
+p4937
+tp4938
+I1
+s(Vinsert
+p4939
+I42
+VSimpleName: cursor
+p4940
+tp4941
+I4
+s(Vinsert
+p4942
+I42
+VSimpleName: getLayoutParams
+p4943
+tp4944
+I9
+s(Vinsert
+p4945
+I42
+VSimpleName: obtainStyledAttributes
+p4946
+tp4947
+I10
+s(Vinsert
+p4948
+I42
+VSimpleName: getResourceId
+p4949
+tp4950
+I4
+s(Vinsert
+p4951
+I40
+VQualifiedName: Toast.LENGTH_LONG
+p4952
+tp4953
+I1
+s(Vinsert
+p4954
+I43
+VSimpleType: ViewPager
+p4955
+tp4956
+I1
+s(Vinsert
+p4957
+I40
+VQualifiedName: value.type
+p4958
+tp4959
+I1
+s(Vinsert
+p4960
+I42
+VSimpleName: onPrepareActionMode
+p4961
+tp4962
+I1
+s(Vinsert
+p4963
+I42
+VSimpleName: onPause
+p4964
+tp4965
+I2
+s(Vinsert
+p4966
+I43
+VSimpleType: SherlockFragmentActivity
+p4967
+tp4968
+I3
+s(Vinsert
+p4969
+I42
+VSimpleName: onInflate
+p4970
+tp4971
+I2
+s(Vinsert
+p4972
+I42
+VSimpleName: ArrayListFragment
+p4973
+tp4974
+I8
+s(Vinsert
+p4975
+I42
+VSimpleName: setNumericShortcut
+p4976
+tp4977
+I1
+s(Vinsert
+p4978
+I43
+VSimpleType: Activity
+p4979
+tp4980
+I6
+s(Vinsert
+p4981
+I27
+VInfixExpression: <=
+p4982
+tp4983
+I2
+s(Vinsert
+p4984
+I43
+VSimpleType: android.support.v4.app.FragmentActivity
+p4985
+tp4986
+I2
+s(Vinsert
+p4987
+I42
+VSimpleName: setHeaderIcon
+p4988
+tp4989
+I4
+s(Vinsert
+p4990
+I42
+VSimpleName: j
+p4991
+tp4992
+I5
+s(Vinsert
+p4993
+I42
+VSimpleName: assertTrue
+p4994
+tp4995
+I1
+s(Vinsert
+p4996
+I42
+VSimpleName: InterruptedException
+p4997
+tp4998
+I8
+s(Vinsert
+p4999
+I66
+VTextElement:  <tt>true</tt> if task was cancelled before it completed
+p5000
+tp5001
+I1
+s(Vinsert
+p5002
+I42
+VSimpleName: dispatchPrepareOptionsMenu
+p5003
+tp5004
+I10
+s(Vinsert
+p5005
+I42
+VSimpleName: setText
+p5006
+tp5007
+I17
+s(Vinsert
+p5008
+I42
+VSimpleName: whereArgs
+p5009
+tp5010
+I2
+s(Vinsert
+p5011
+I42
+VSimpleName: mContext
+p5012
+tp5013
+I15
+s(Vinsert
+p5014
+I43
+VSimpleType: AnimatorProxy
+p5015
+tp5016
+I2
+s(Vinsert
+p5017
+I42
+VSimpleName: SherlockActivity
+p5018
+tp5019
+I2
+s(Vinsert
+p5020
+I42
+VSimpleName: setScaleY
+p5021
+tp5022
+I1
+s(Vinsert
+p5023
+I40
+VQualifiedName: R.drawable.bg_striped
+p5024
+tp5025
+I1
+s(Vinsert
+p5026
+I42
+VSimpleName: recycleBin
+p5027
+tp5028
+I1
+s(Vinsert
+p5029
+I42
+VSimpleName: moveToPosition
+p5030
+tp5031
+I1
+s(Vinsert
+p5032
+I40
+VQualifiedName: R.id.display_iprogress_show
+p5033
+tp5034
+I1
+s(Vinsert
+p5035
+I43
+VSimpleType: MenuBuilder
+p5036
+tp5037
+I1
+s(Vinsert
+p5038
+I40
+VQualifiedName: Window.FEATURE_CONTEXT_MENU
+p5039
+tp5040
+I1
+s(Vinsert
+p5041
+I42
+VSimpleName: mClickListener
+p5042
+tp5043
+I3
+s(Vinsert
+p5044
+I74
+VParameterizedType: WeakHashMap<View,AnimatorProxy>
+p5045
+tp5046
+I1
+s(Vinsert
+p5047
+I66
+VTextElement: item and should be invoked when the custom home button is clicked.
+p5048
+tp5049
+I1
+s(Vinsert
+p5050
+I42
+VSimpleName: mSelected
+p5051
+tp5052
+I1
+s(Vinsert
+p5053
+I42
+VSimpleName: getNextLocationOffset
+p5054
+tp5055
+I1
+s(Vinsert
+p5056
+I42
+VSimpleName: createTabView
+p5057
+tp5058
+I1
+s(Vinsert
+p5059
+I42
+VSimpleName: itemTitleCondensed
+p5060
+tp5061
+I1
+s(Vinsert
+p5062
+I42
+VSimpleName: getSimpleName
+p5063
+tp5064
+I3
+s(Vinsert
+p5065
+I42
+VSimpleName: mCustomView
+p5066
+tp5067
+I3
+s(Vinsert
+p5068
+I42
+VSimpleName: mStackLevel
+p5069
+tp5070
+I4
+s(Vinsert
+p5071
+I42
+VSimpleName: isFinished
+p5072
+tp5073
+I2
+s(Vinsert
+p5074
+I42
+VSimpleName: onItemClicked
+p5075
+tp5076
+I1
+s(Vinsert
+p5077
+I45
+VStringLiteral: "Hello, ActionBar!"
+p5078
+tp5079
+I1
+s(Vinsert
+p5080
+I42
+VSimpleName: mObserver
+p5081
+tp5082
+I2
+s(Vinsert
+p5083
+I42
+VSimpleName: MenuBuilder
+p5084
+tp5085
+I1
+s(Vinsert
+p5086
+I42
+VSimpleName: testCustomViewDisplayedWhenEnabled
+p5087
+tp5088
+I1
+s(Vinsert
+p5089
+I42
+VSimpleName: mUserVisibleHint
+p5090
+tp5091
+I2
+s(Vinsert
+p5092
+I42
+VSimpleName: getLayoutInflater
+p5093
+tp5094
+I1
+s(Vinsert
+p5095
+I40
+VQualifiedName: R.styleable.SherlockMenuGroup_android_enabled
+p5096
+tp5097
+I1
+s(Vinsert
+p5098
+I42
+VSimpleName: TabHost
+p5099
+tp5100
+I2
+s(Vinsert
+p5101
+I42
+VSimpleName: inflateMenu
+p5102
+tp5103
+I2
+s(Vinsert
+p5104
+I42
+VSimpleName: getTranslationX
+p5105
+tp5106
+I1
+s(Vinsert
+p5107
+I42
+VSimpleName: wait
+p5108
+tp5109
+I2
+s(Vinsert
+p5110
+I42
+VSimpleName: feedbackTypeFlags
+p5111
+tp5112
+I1
+s(Vinsert
+p5113
+I42
+VSimpleName: AccessibilityRecordCompatIcs
+p5114
+tp5115
+I2
+s(Vinsert
+p5116
+I42
+VSimpleName: actionBar
+p5117
+tp5118
+I1
+s(Vinsert
+p5119
+I42
+VSimpleName: w
+p5120
+tp5121
+I2
+s(Vinsert
+p5122
+I42
+VSimpleName: IMPL
+p5123
+tp5124
+I3
+s(Vinsert
+p5125
+I43
+VSimpleType: Bundle
+p5126
+tp5127
+I24
+s(Vinsert
+p5128
+I43
+VSimpleType: AlphaAnimation
+p5129
+tp5130
+I2
+s(Vinsert
+p5131
+I43
+VSimpleType: Button
+p5132
+tp5133
+I3
+s(Vinsert
+p5134
+I42
+VSimpleName: itemTitleCondensedId
+p5135
+tp5136
+I2
+s(Vinsert
+p5137
+I42
+VSimpleName: bridge
+p5138
+tp5139
+I1
+s(Vinsert
+p5140
+I42
+VSimpleName: imageView
+p5141
+tp5142
+I3
+s(Vinsert
+p5143
+I42
+VSimpleName: ACTION_PROVIDER_CONSTRUCTOR_SIGNATURE
+p5144
+tp5145
+I1
+s(Vinsert
+p5146
+I42
+VSimpleName: maxItems
+p5147
+tp5148
+I2
+s(Vinsert
+p5149
+I66
+VTextElement:  Tab to add
+p5150
+tp5151
+I1
+s(Vinsert
+p5152
+I42
+VSimpleName: setDisplayShowTitleEnabled
+p5153
+tp5154
+I1
+s(Vinsert
+p5155
+I42
+VSimpleName: onPopulateAccessibilityEvent
+p5156
+tp5157
+I1
+s(Vinsert
+p5158
+I42
+VSimpleName: Resources
+p5159
+tp5160
+I2
+s(Vinsert
+p5161
+I40
+VQualifiedName: SearchManager.QUERY
+p5162
+tp5163
+I1
+s(Vinsert
+p5164
+I42
+VSimpleName: nodeCloneMap
+p5165
+tp5166
+I1
+s(Vinsert
+p5167
+I42
+VSimpleName: list
+p5168
+tp5169
+I6
+s(Vinsert
+p5170
+I42
+VSimpleName: getResourceTitle
+p5171
+tp5172
+I1
+s(Vinsert
+p5173
+I40
+VQualifiedName: R.layout.abs__screen_simple
+p5174
+tp5175
+I2
+s(Vinsert
+p5176
+I42
+VSimpleName: ActionBarAssert
+p5177
+tp5178
+I1
+s(Vinsert
+p5179
+I42
+VSimpleName: nativeItem
+p5180
+tp5181
+I6
+s(Vinsert
+p5182
+I42
+VSimpleName: displayShowCustomView
+p5183
+tp5184
+I1
+s(Vinsert
+p5185
+I42
+VSimpleName: l
+p5186
+tp5187
+I3
+s(Vinsert
+p5188
+I42
+VSimpleName: nonActionItem
+p5189
+tp5190
+I2
+s(Vinsert
+p5191
+I45
+VStringLiteral: "One"
+p5192
+tp5193
+I1
+s(Vinsert
+p5194
+I42
+VSimpleName: ViewCompatICS
+p5195
+tp5196
+I1
+s(Vinsert
+p5197
+I42
+VSimpleName: setCustomAnimations
+p5198
+tp5199
+I2
+s(Vinsert
+p5200
+I40
+VQualifiedName: values.length
+p5201
+tp5202
+I1
+s(Vinsert
+p5203
+I27
+VInfixExpression: &
+p5204
+tp5205
+I9
+s(Vinsert
+p5206
+I40
+VQualifiedName: ActionBar.NAVIGATION_MODE_STANDARD
+p5207
+tp5208
+I1
+s(Vinsert
+p5209
+I42
+VSimpleName: pm
+p5210
+tp5211
+I1
+s(Vinsert
+p5212
+I42
+VSimpleName: onCreateOptionsMenu
+p5213
+tp5214
+I18
+s(Vinsert
+p5215
+I42
+VSimpleName: mAnchorView
+p5216
+tp5217
+I1
+s(Vinsert
+p5218
+I42
+VSimpleName: featureId
+p5219
+tp5220
+I8
+s(Vinsert
+p5221
+I42
+VSimpleName: reloadDisplay
+p5222
+tp5223
+I2
+s(Vinsert
+p5224
+I43
+VSimpleType: ActionBarHandlerWatson
+p5225
+tp5226
+I1
+s(Vinsert
+p5227
+I42
+VSimpleName: newState
+p5228
+tp5229
+I1
+s(Vinsert
+p5230
+I42
+VSimpleName: customView
+p5231
+tp5232
+I1
+s(Vinsert
+p5233
+I42
+VSimpleName: items
+p5234
+tp5235
+I3
+s(Vinsert
+p5236
+I45
+VStringLiteral: "Light"
+p5237
+tp5238
+I1
+s(Vinsert
+p5239
+I42
+VSimpleName: divider
+p5240
+tp5241
+I2
+s(Vinsert
+p5242
+I43
+VSimpleType: PopupWindow
+p5243
+tp5244
+I1
+s(Vinsert
+p5245
+I42
+VSimpleName: Test
+p5246
+tp5247
+I1
+s(Vinsert
+p5248
+I42
+VSimpleName: setIntent
+p5249
+tp5250
+I3
+s(Vinsert
+p5251
+I42
+VSimpleName: context
+p5252
+tp5253
+I25
+s(Vinsert
+p5254
+I74
+VParameterizedType: Constructor<?>
+p5255
+tp5256
+I1
+s(Vinsert
+p5257
+I42
+VSimpleName: otherCompoundButton
+p5258
+tp5259
+I1
+s(Vinsert
+p5260
+I43
+VSimpleType: FragmentManagerImpl
+p5261
+tp5262
+I1
+s(Vinsert
+p5263
+I40
+VQualifiedName: ViewCompat.OVER_SCROLL_IF_CONTENT_SCROLLS
+p5264
+tp5265
+I1
+s(Vinsert
+p5266
+I45
+VStringLiteral: "FragmentAlertDialog"
+p5267
+tp5268
+I2
+s(Vinsert
+p5269
+I42
+VSimpleName: setShortcutsVisibleInner
+p5270
+tp5271
+I2
+s(Vinsert
+p5272
+I40
+VQualifiedName: Intent.ACTION_SEND
+p5273
+tp5274
+I1
+s(Vinsert
+p5275
+I42
+VSimpleName: isHidden
+p5276
+tp5277
+I2
+s(Vinsert
+p5278
+I43
+VSimpleType: XmlResourceParser
+p5279
+tp5280
+I1
+s(Vinsert
+p5281
+I42
+VSimpleName: setDisplayShowCustomEnabled
+p5282
+tp5283
+I5
+s(Vinsert
+p5284
+I42
+VSimpleName: mRealWindow
+p5285
+tp5286
+I1
+s(Vinsert
+p5287
+I42
+VSimpleName: activity
+p5288
+tp5289
+I18
+s(Vinsert
+p5290
+I42
+VSimpleName: getApplicationInfo
+p5291
+tp5292
+I1
+s(Vinsert
+p5293
+I40
+VQualifiedName: R.styleable.SherlockTheme_abDivider
+p5294
+tp5295
+I1
+s(Vinsert
+p5296
+I45
+VStringLiteral: "Refresh"
+p5297
+tp5298
+I1
+s(Vinsert
+p5299
+I66
+VTextElement:  Clicked MenuItem.
+p5300
+tp5301
+I1
+s(Vinsert
+p5302
+I42
+VSimpleName: mMenuPresenterCallback
+p5303
+tp5304
+I1
+s(Vinsert
+p5305
+I40
+VQualifiedName: AnimatorProxy.NEEDS_PROXY
+p5306
+tp5307
+I2
+s(Vinsert
+p5308
+I42
+VSimpleName: metrics
+p5309
+tp5310
+I1
+s(Vinsert
+p5311
+I42
+VSimpleName: mCreated
+p5312
+tp5313
+I1
+s(Vinsert
+p5314
+I40
+VQualifiedName: R.styleable.SherlockMenuGroup_android_visible
+p5315
+tp5316
+I1
+s(Vinsert
+p5317
+I42
+VSimpleName: len
+p5318
+tp5319
+I1
+s(Vinsert
+p5320
+I45
+VStringLiteral: "Test"
+p5321
+tp5322
+I1
+s(Vinsert
+p5323
+I42
+VSimpleName: apps
+p5324
+tp5325
+I4
+s(Vinsert
+p5326
+I42
+VSimpleName: getNumericShortcut
+p5327
+tp5328
+I1
+s(Vinsert
+p5329
+I42
+VSimpleName: setOnSystemUiVisibilityChangeListener
+p5330
+tp5331
+I1
+s(Vinsert
+p5332
+I40
+VQualifiedName: info.activityInfo.applicationInfo.packageName
+p5333
+tp5334
+I4
+s(Vinsert
+p5335
+I42
+VSimpleName: nativeListener
+p5336
+tp5337
+I1
+s(Vinsert
+p5338
+I42
+VSimpleName: anchor
+p5339
+tp5340
+I1
+s(Vinsert
+p5341
+I42
+VSimpleName: mDivider
+p5342
+tp5343
+I2
+s(Vinsert
+p5344
+I43
+VSimpleType: OnResumeEvent
+p5345
+tp5346
+I1
+s(Vinsert
+p5347
+I43
+VSimpleType: ActionMenuItem
+p5348
+tp5349
+I1
+s(Vinsert
+p5350
+I40
+VQualifiedName: ActionBarView.HomeItem
+p5351
+tp5352
+I1
+s(Vinsert
+p5353
+I42
+VSimpleName: hasCustomView
+p5354
+tp5355
+I1
+s(Vinsert
+p5356
+I42
+VSimpleName: className
+p5357
+tp5358
+I1
+s(Vinsert
+p5359
+I42
+VSimpleName: mSubUiVisibilityListener
+p5360
+tp5361
+I2
+s(Vinsert
+p5362
+I43
+VSimpleType: EdgeEffect
+p5363
+tp5364
+I1
+s(Vinsert
+p5365
+I40
+VQualifiedName: View.GONE
+p5366
+tp5367
+I1
+s(Vinsert
+p5368
+I42
+VSimpleName: SubMenuBuilder
+p5369
+tp5370
+I1
+s(Vinsert
+p5371
+I40
+VQualifiedName: mValues.length
+p5372
+tp5373
+I1
+s(Vinsert
+p5374
+I42
+VSimpleName: adapter
+p5375
+tp5376
+I4
+s(Vinsert
+p5377
+I42
+VSimpleName: getId
+p5378
+tp5379
+I4
+s(Vinsert
+p5380
+I43
+VSimpleType: String
+p5381
+tp5382
+I21
+s(Vinsert
+p5383
+I42
+VSimpleName: fragment
+p5384
+tp5385
+I7
+s(Vinsert
+p5386
+I42
+VSimpleName: getAction
+p5387
+tp5388
+I3
+s(Vinsert
+p5389
+I13
+VCharacterLiteral: '\u005cn'
+p5390
+tp5391
+I1
+s(Vinsert
+p5392
+I42
+VSimpleName: installDecor
+p5393
+tp5394
+I1
+s(Vinsert
+p5395
+I42
+VSimpleName: shouldShow
+p5396
+tp5397
+I2
+s(Vinsert
+p5398
+I42
+VSimpleName: setChecked
+p5399
+tp5400
+I4
+s(Vinsert
+p5401
+I40
+VQualifiedName: R.menu.issue0033
+p5402
+tp5403
+I1
+s(Vinsert
+p5404
+I42
+VSimpleName: mapView
+p5405
+tp5406
+I2
+s(Vinsert
+p5407
+I42
+VSimpleName: onActionItemClicked
+p5408
+tp5409
+I1
+s(Vinsert
+p5410
+I42
+VSimpleName: e
+p5411
+tp5412
+I3
+s(Vinsert
+p5413
+I42
+VSimpleName: duration
+p5414
+tp5415
+I1
+s(Vinsert
+p5416
+I43
+VSimpleType: Object
+p5417
+tp5418
+I17
+s(Vinsert
+p5419
+I43
+VSimpleType: CharSequence
+p5420
+tp5421
+I11
+s(Vinsert
+p5422
+I42
+VSimpleName: something
+p5423
+tp5424
+I2
+s(Vinsert
+p5425
+I42
+VSimpleName: tabHost
+p5426
+tp5427
+I2
+s(Vinsert
+p5428
+I42
+VSimpleName: mSuggestionsAdapter
+p5429
+tp5430
+I1
+s(Vinsert
+p5431
+I42
+VSimpleName: defStyle
+p5432
+tp5433
+I10
+s(Vinsert
+p5434
+I42
+VSimpleName: DialogInterface
+p5435
+tp5436
+I1
+s(Vinsert
+p5437
+I42
+VSimpleName: setUserVisibleHint
+p5438
+tp5439
+I1
+s(Vinsert
+p5440
+I42
+VSimpleName: layoutResource
+p5441
+tp5442
+I4
+s(Vinsert
+p5443
+I42
+VSimpleName: target
+p5444
+tp5445
+I1
+s(Vinsert
+p5446
+I43
+VSimpleType: GDActionBar
+p5447
+tp5448
+I1
+s(Vinsert
+p5449
+I42
+VSimpleName: assertNotNull
+p5450
+tp5451
+I3
+s(Vinsert
+p5452
+I42
+VSimpleName: TextAppearanceSpan
+p5453
+tp5454
+I1
+s(Vinsert
+p5455
+I42
+VSimpleName: countDown
+p5456
+tp5457
+I3
+s(Vinsert
+p5458
+I42
+VSimpleName: mIndeterminateProgress
+p5459
+tp5460
+I2
+s(Vinsert
+p5461
+I42
+VSimpleName: shareIntent
+p5462
+tp5463
+I2
+s(Vinsert
+p5464
+I42
+VSimpleName: Class
+p5465
+tp5466
+I7
+s(Vinsert
+p5467
+I42
+VSimpleName: hasSubtitle
+p5468
+tp5469
+I2
+s(Vinsert
+p5470
+I42
+VSimpleName: getFragments
+p5471
+tp5472
+I3
+s(Vinsert
+p5473
+I42
+VSimpleName: constructor
+p5474
+tp5475
+I3
+s(Vinsert
+p5476
+I42
+VSimpleName: Drawable
+p5477
+tp5478
+I8
+s(Vinsert
+p5479
+I42
+VSimpleName: getActionMasked
+p5480
+tp5481
+I1
+s(Vinsert
+p5482
+I42
+VSimpleName: mMethod
+p5483
+tp5484
+I1
+s(Vinsert
+p5485
+I66
+VTextElement:  State previously saved by a call to 
+p5486
+tp5487
+I1
+s(Vinsert
+p5488
+I40
+VQualifiedName: R.style.Theme_Sherlock
+p5489
+tp5490
+I1
+s(Vinsert
+p5491
+I42
+VSimpleName: feedbackType
+p5492
+tp5493
+I1
+s(Vinsert
+p5494
+I40
+VQualifiedName: Window.PROGRESS_START
+p5495
+tp5496
+I1
+s(Vinsert
+p5497
+I42
+VSimpleName: Override
+p5498
+tp5499
+I96
+s(Vinsert
+p5500
+I42
+VSimpleName: camera
+p5501
+tp5502
+I2
+s(Vinsert
+p5503
+I42
+VSimpleName: simpleName
+p5504
+tp5505
+I3
+s(Vinsert
+p5506
+I42
+VSimpleName: isNotNull
+p5507
+tp5508
+I3
+s(Vinsert
+p5509
+I42
+VSimpleName: mSpinner
+p5510
+tp5511
+I1
+s(Vinsert
+p5512
+I42
+VSimpleName: tag
+p5513
+tp5514
+I7
+s(Vinsert
+p5515
+I42
+VSimpleName: mMeasureParent
+p5516
+tp5517
+I1
+s(Vinsert
+p5518
+I42
+VSimpleName: with
+p5519
+tp5520
+I1
+s(Vinsert
+p5521
+I42
+VSimpleName: onCreateActionMode
+p5522
+tp5523
+I2
+s(Vinsert
+p5524
+I42
+VSimpleName: invalidateParent
+p5525
+tp5526
+I3
+s(Vinsert
+p5527
+I42
+VSimpleName: text
+p5528
+tp5529
+I1
+s(Vinsert
+p5530
+I83
+VModifier: private
+p5531
+tp5532
+I13
+s(Vinsert
+p5533
+I45
+VStringLiteral: "Fragment "
+p5534
+tp5535
+I2
+s(Vinsert
+p5536
+I42
+VSimpleName: lp
+p5537
+tp5538
+I7
+s(Vinsert
+p5539
+I42
+VSimpleName: AccessibilityNodeInfo
+p5540
+tp5541
+I1
+s(Vinsert
+p5542
+I42
+VSimpleName: put
+p5543
+tp5544
+I7
+s(Vinsert
+p5545
+I66
+VTextElement:  Menu resource to inflate
+p5546
+tp5547
+I1
+s(Vinsert
+p5548
+I42
+VSimpleName: Button
+p5549
+tp5550
+I3
+s(Vinsert
+p5551
+I42
+VSimpleName: selected
+p5552
+tp5553
+I2
+s(Vinsert
+p5554
+I42
+VSimpleName: densityDpi
+p5555
+tp5556
+I1
+s(Vinsert
+p5557
+I42
+VSimpleName: prefersCondensedTitle
+p5558
+tp5559
+I1
+s(Vinsert
+p5560
+I42
+VSimpleName: finish
+p5561
+tp5562
+I4
+s(Vinsert
+p5563
+I42
+VSimpleName: arg3
+p5564
+tp5565
+I1
+s(Vinsert
+p5566
+I42
+VSimpleName: getWindow
+p5567
+tp5568
+I4
+s(Vinsert
+p5569
+I42
+VSimpleName: setContentView
+p5570
+tp5571
+I9
+s(Vinsert
+p5572
+I42
+VSimpleName: setDuration
+p5573
+tp5574
+I4
+s(Vinsert
+p5575
+I42
+VSimpleName: mDualPane
+p5576
+tp5577
+I2
+s(Vinsert
+p5578
+I42
+VSimpleName: Smoke
+p5579
+tp5580
+I8
+s(Vinsert
+p5581
+I53
+VThrowStatement
+p5582
+tp5583
+I2
+s(Vinsert
+p5584
+I42
+VSimpleName: mActionMenuPresenter
+p5585
+tp5586
+I2
+s(Vinsert
+p5587
+I42
+VSimpleName: requestWindowFeature
+p5588
+tp5589
+I4
+s(Vinsert
+p5590
+I42
+VSimpleName: level
+p5591
+tp5592
+I1
+s(Vinsert
+p5593
+I40
+VQualifiedName: Window.FEATURE_NO_TITLE
+p5594
+tp5595
+I1
+s(Vinsert
+p5596
+I42
+VSimpleName: getPackageManager
+p5597
+tp5598
+I3
+s(Vinsert
+p5599
+I42
+VSimpleName: AccessibilityDelegateCompatIcs
+p5600
+tp5601
+I1
+s(Vinsert
+p5602
+I42
+VSimpleName: ActionMenuItem
+p5603
+tp5604
+I1
+s(Vinsert
+p5605
+I42
+VSimpleName: getTag
+p5606
+tp5607
+I1
+s(Vinsert
+p5608
+I42
+VSimpleName: setOnMenuItemClickListener
+p5609
+tp5610
+I1
+s(Vinsert
+p5611
+I40
+VQualifiedName: R.styleable.SherlockMenuGroup_android_orderInCategory
+p5612
+tp5613
+I1
+s(Vinsert
+p5614
+I40
+VQualifiedName: ii.object
+p5615
+tp5616
+I1
+s(Vinsert
+p5617
+I42
+VSimpleName: onNavigationItemSelected
+p5618
+tp5619
+I3
+s(Vinsert
+p5620
+I42
+VSimpleName: ViewCompatGingerbread
+p5621
+tp5622
+I1
+s(Vinsert
+p5623
+I74
+VParameterizedType: ArrayAdapter<CharSequence>
+p5624
+tp5625
+I1
+s(Vinsert
+p5626
+I37
+VPostfixExpression: --
+p5627
+tp5628
+I7
+s(Vinsert
+p5629
+I42
+VSimpleName: paddingLeft
+p5630
+tp5631
+I1
+s(Vinsert
+p5632
+I42
+VSimpleName: AccessibilityRecord
+p5633
+tp5634
+I1
+s(Vinsert
+p5635
+I42
+VSimpleName: map
+p5636
+tp5637
+I1
+s(Vinsert
+p5638
+I43
+VSimpleType: StringBuilder
+p5639
+tp5640
+I2
+s(Vinsert
+p5641
+I21
+VExpressionStatement
+p5642
+tp5643
+I587
+s(Vinsert
+p5644
+I26
+VImportDeclaration
+p5645
+tp5646
+I3
+s(Vinsert
+p5647
+I43
+VSimpleType: KeyEvent
+p5648
+tp5649
+I7
+s(Vinsert
+p5650
+I40
+VQualifiedName: f.mSavedViewState
+p5651
+tp5652
+I1
+s(Vinsert
+p5653
+I42
+VSimpleName: newSingleThreadExecutor
+p5654
+tp5655
+I1
+s(Vinsert
+p5656
+I43
+VSimpleType: MenuInflater
+p5657
+tp5658
+I3
+s(Vinsert
+p5659
+I42
+VSimpleName: onPull
+p5660
+tp5661
+I1
+s.
