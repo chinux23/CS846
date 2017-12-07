@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import Mining
 import os
 from collections import Counter
