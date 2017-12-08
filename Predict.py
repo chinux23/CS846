@@ -1,3 +1,5 @@
+#!/usr/bin/python -u
+
 import APIREC
 import Aggregator
 import Mining
@@ -83,7 +85,8 @@ def main():
 
     t1 = time.time()
 
-    size = 100
+    size = len(APIREC.target_context)
+    # size = 10000
     print("Processing " + str(size) + " items.")
     p = Pool()
 
@@ -93,7 +96,7 @@ def main():
     p.join()
 
     print("Took " + str(time.time() - t1) + " seconds.")
-
+    print("Total evaluation: " + str(len(result)))
     print("Accurracy is " + str(sum(result) * 1.0 / size))
 
 if __name__ == "__main__":
