@@ -92,7 +92,7 @@ def main():
     p.close()
     p.join()
 
-    print("Took " + str(time.time() - t1) " seconds.")
+    print("Took " + str(time.time() - t1) + " seconds.")
 
     print("Accurracy is " + str(sum(result) * 1.0 / size))
 
