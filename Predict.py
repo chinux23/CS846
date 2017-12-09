@@ -111,6 +111,7 @@ def main():
     print("Processing " + str(size) + " items.")
     p = Pool()
 
+    # weights = [ x / 10.0 for x in range(0, 11, 1)]
     weights = [0.2, 0.5, 0.9]
 
     result = p.map(partial(_predict, training=weights), range(size))
