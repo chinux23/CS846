@@ -8,6 +8,7 @@ from Queue import PriorityQueue, heapq
 from multiprocessing import Pool
 from functools import partial
 import time
+import os
 
 InTraining = False
 
@@ -141,6 +142,12 @@ def testRepo(repo, size=100):
         print("In-sample Accurracy for top{} is ".format(top[i]) + str(result[i] * 1.0 / num_in)) 
 
 def validate(repos):
+    repos = []
+    for folder in os.listdir("Community"):
+        repo_path = os.path.join("Community", folder)
+        if os.path.isdir(os.path.join("Community", folder)) and not folder.startswith("."):
+            repos.append("Community/{}".format(folder))
+
     for repo in repos:
         print("Loadiong repo {}".format(repo))
         _, _, _, _, _, _, _, _, _, target_context = Mining.load(repo)
@@ -151,24 +158,11 @@ def main():
     print("Loading database.")
     APIREC.load()
 
-    repos = ["Community/log4j",
-        "Community/bazel",
-        "Community/dubbo",
-        "Community/elasticsearch",
-        "Community/iosched",
-        "Community/kotlin",
-        "Community/netty",
-        "Community/presto",
-        "Community/jgit",
-        "Community/itextpdf",
-        "Community/druid",
-        "Community/fastjson",
-        "Community/libgdx",
-        "Community/mybatis-3",
-        "Community/PocketHub",
-        "Community/retrofit",
-        "Community/Signal-Android"
-    ]
+    repos = []
+    for folder in os.listdir("Community"):
+        repo_path = os.path.join("Community", folder)
+        if os.path.isdir(os.path.join("Community", folder)) and not folder.startswith("."):
+            repos.append("Community/{}".format(folder))
 
     for repo in repos:
         testRepo(repo)
