@@ -142,9 +142,6 @@ def testRepo(repo, size=100):
         print("In-sample Accurracy for top{} is ".format(top[i]) + str(result[i] * 1.0 / num_in)) 
 
 def validate():
-    print("Loading database.")
-    APIREC.load()
-
     repos = []
     for folder in os.listdir("Community"):
         repo_path = os.path.join("Community", folder)
