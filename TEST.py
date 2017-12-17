@@ -141,7 +141,7 @@ def testRepo(repo, size=100):
     for i in range(len(result)):
         print("In-sample Accurracy for top{} is ".format(top[i]) + str(result[i] * 1.0 / num_in)) 
 
-def validate(repos):
+def validate():
     print("Loading database.")
     APIREC.load()
 
