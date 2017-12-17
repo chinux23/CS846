@@ -152,6 +152,13 @@ def main():
     APIREC.load()
 
     repos = ["Community/log4j",
+        "Community/bazel",
+        "Community/dubbo",
+        "Community/elasticsearch",
+        "Community/iosched",
+        "Community/kotlin",
+        "Community/netty",
+        "Community/presto",
         "Community/jgit",
         "Community/itextpdf",
         "Community/druid",
