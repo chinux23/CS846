@@ -153,10 +153,26 @@ def validate():
         _, _, _, _, _, _, _, _, _, target_context = Mining.load(repo)
         print("There are {} items in repo {}.".format(len(target_context), repo))
 
+def filterOnJDK():
+    jdk_set = None
+    with open("JDKAPI.pkl", "r") as f:
+        jdk_set = pickle.load(f)
+
+    jdk_p_list = set()
+
+    for method in jdk_set:
+        jdk_p_list.add((u'insert', 42, u'SimpleName: {}'.format(method)))
+    
+    jdk_list = APIREC.P_list.intersection(jdk_p_list)
+    APIREC.P_list = jdk_list
+
 def main():
 
     print("Loading database.")
     APIREC.load()
+    filterOnJDK()
+
+    print("P_list length: " + str(len(APIREC.P_list)))
 
     repos = []
     for folder in os.listdir("Community"):
