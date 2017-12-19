@@ -159,13 +159,8 @@ def filterOnJDK():
     with open("jdk8_methods.pkl", "r") as f:
         jdk_set = pickle.load(f)
         print("JDK has {} methods.".format(len(jdk_set)))
-
-    jdk_p_list = set()
-
-    for method in jdk_set:
-        jdk_p_list.add((u'insert', 42, u'SimpleName: {}'.format(method)))
     
-    jdk_list = APIREC.P_list.intersection(jdk_p_list)
+    jdk_list = APIREC.P_list.intersection(jdk_set)
     APIREC.P_list = jdk_list
 
 def main():
