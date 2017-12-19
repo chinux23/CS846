@@ -156,8 +156,9 @@ def validate():
 
 def filterOnJDK():
     jdk_set = None
-    with open("JDKAPI.pkl", "r") as f:
+    with open("jdk8_methods.pkl", "r") as f:
         jdk_set = pickle.load(f)
+        print("JDK has {} methods.".format(len(jdk_set)))
 
     jdk_p_list = set()
 
