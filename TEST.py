@@ -9,6 +9,7 @@ from multiprocessing import Pool
 from functools import partial
 import time
 import os
+import pickle
 
 InTraining = False
 
